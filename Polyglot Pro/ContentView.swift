@@ -238,7 +238,7 @@ struct LearnView: View {
                 VStack(alignment: .leading, spacing: 10) {
                     Text("Examples:")
                         .font(.title)
-                        .padding(.top)
+                        .padding(.horizontal)
                     
                     ForEach(viewModel.questions[viewModel.currentIndex].examples, id: \ .swedish) { example in
                         HStack {
@@ -263,17 +263,19 @@ struct LearnView: View {
                             Text(example.ukrainian)
                                 .font(.title)
                                 .foregroundColor(.gray)
-                        }
+                        }.padding(.horizontal)
                     }
                 }
                 .padding(10)
                 .frame(width: 1000, height: 230)
+                .background(.white)
+                .cornerRadius(20)
                 .overlay(
                     RoundedRectangle(cornerRadius: 20)
                         .stroke(
                             LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing), lineWidth: 5) // Fun gradient border
                     
-                        .shadow(color: .purple.opacity(0.5), radius: 10) // Glow effect
+                        .shadow(color: .purple.opacity(0.5), radius: 10)
                 )
             }
             

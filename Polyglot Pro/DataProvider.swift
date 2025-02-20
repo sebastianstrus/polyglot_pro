@@ -485,7 +485,6 @@ struct DataProvider {
         .adjectives2: [],
         .months2: [],
         .verbs2: [],
-        .adjectives2: [],
         .nouns2: [],
         .bodyParts2: [],
         .colors2: [],
