@@ -66,7 +66,7 @@ struct LearnView: View {
     var columns: [GridItem] {
 
         let allCount = viewModel.questions.count
-        let count = (10...14).contains(allCount) ? 2 : max(1, Int(ceil(Double(allCount) / 14)))
+        let count = (10...16).contains(allCount) ? 2 : max(1, Int(ceil(Double(allCount) / 16)))
         
         return Array(repeating: GridItem(.flexible(), spacing: 10), count: count)
     }
@@ -96,15 +96,15 @@ struct LearnView: View {
                                 HStack(alignment: .center) {
                                     
                                     Text("\(question.translation)")
-                                        .font(.system(size: 30, weight: .bold, design: .rounded))
+                                        .font(.system(size: 22, weight: .bold, design: .rounded))
                                         .foregroundColor(.blue)
-                                    
-                                    Text("-")
-                                        .font(.system(size: 30, weight: .bold, design: .rounded))
-                                        .foregroundColor(.purple)
+
+                                    Text("–")
+                                        .font(.system(size: 22, weight: .bold, design: .rounded))
+                                        .foregroundColor(.gray)
                                     
                                     Text("\(question.expression)")
-                                        .font(.system(size: 30, weight: .bold, design: .rounded))
+                                        .font(.system(size: 22, weight: .bold, design: .rounded))
                                         .foregroundColor(.purple)
                                     
                                 }.padding(.horizontal)
@@ -290,7 +290,6 @@ struct LearnView: View {
                         viewModel.nextQuestion()
                     }
                 })
-                
                 .foregroundColor(viewModel.isCorrect == nil ? Color.gray : (viewModel.isCorrect! ? Color.green : Color.red))
                 .font(.system(size: 30, weight: .bold, design: .rounded))
                 .frame(width: 600, height: 70)
@@ -458,31 +457,45 @@ struct ContentView: View {
     var body: some View {
         
         if showMenu {
-            LazyVGrid(columns: columns, spacing: 50) {
-                ForEach(QuestionCategory.allCases, id: \ .self) { category in
-                    
-                    let number = DataProvider.questions(for: category).count
-                    Button(action: {
-                        selectedCategory = category
-                        showMenu = false
-                    }) {
-                        Text("\(category.rawValue) (\(number))")
-                            .font(.title)
-                            .frame(maxWidth: .infinity)
-                            .padding()
-                            .background(
-                                LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
-                            )
-                            .foregroundColor(.white)
-                            .cornerRadius(12)
-                            .shadow(color: Color.blue.opacity(0.4), radius: 10, x: 0, y: 5)
+            VStack {
+                
+                Text("Poliglot Pro")
+                    .font(.system(size: 58, weight: .bold, design: .rounded))
+                    .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                    .padding(.top, 46)
+                    .padding(.bottom, 6)
+                
+                Spacer()
+                
+                LazyVGrid(columns: columns, spacing: 50) {
+                    ForEach(QuestionCategory.allCases, id: \ .self) { category in
+                        
+                        let number = DataProvider.questions(for: category).count
+                        Button(action: {
+                            selectedCategory = category
+                            showMenu = false
+                        }) {
+                            Text("\(category.rawValue) (\(number))")
+                                .font(.title)
+                                .frame(maxWidth: .infinity)
+                                .padding()
+                                .background(
+                                    LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
+                                )
+                                .foregroundColor(.white)
+                                .cornerRadius(12)
+                                .shadow(color: Color.blue.opacity(0.4), radius: 10, x: 0, y: 5)
+                        }
+                        .frame(width: 300, height: 50)
+                        .buttonStyle(ScaleButtonStyle())
+                        
+                        
                     }
-                    .frame(width: 200, height: 50)
-                    .buttonStyle(ScaleButtonStyle())
-                    
                     
                 }
                 
+                Spacer()
+                Spacer()
             }
             .frame(minWidth:800, maxWidth: .infinity, minHeight: 600, maxHeight: .infinity)
             .background(
