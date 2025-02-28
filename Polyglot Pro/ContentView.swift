@@ -18,6 +18,7 @@ class LearnViewModel: ObservableObject {
     @Published private(set) var questions: [Question] = []
     
     @Published var currentIndex = 0
+    @Published var missCount = 0
     @Published var userInput = ""
     @Published var isCorrect: Bool? = nil
     @Published var showHint = false
@@ -35,6 +36,8 @@ class LearnViewModel: ObservableObject {
         isCorrect = userInput.lowercased() == questions[currentIndex].translation.lowercased()
         if isCorrect == true {
             speak(text: questions[currentIndex].translation)
+        } else {
+            missCount = missCount + 1
         }
     }
     
@@ -189,12 +192,13 @@ struct LearnView: View {
                     Spacer()
                     
                     HStack {
-                        Text("")
-                            .font(.system(size: 20, weight: .bold, design: .rounded))
-                            .foregroundColor(.purple)
-
-
                         Spacer()
+                        
+                        Text(viewModel.missCount > 0 ? "Fel: \(viewModel.missCount)" : "")
+                            .font(.system(size: 20, weight: .regular, design: .rounded))
+                            .foregroundColor(.red)
+                            .padding(.trailing, 16)
+
                         
                         Slider(value: $viewModel.speechRate, in: 0.1...0.6, step: 0.1)
                             .frame(width: 100, height: 2)
