@@ -144,8 +144,9 @@ struct DataProvider {
                     ("Vi firar jul i december", "Ми святкуємо Різдво у грудні"),
                     ("Det är kallt och mörkt i december", "У грудні холодно і темно"),
                     ("Nyårsafton är i december", "Новий рік святкується у грудні")
-                ])
+                ]),
             ],
+        
         
             .bodyParts: [
                 Question(expression: "тіло", translation: "kropp", examples: [
@@ -483,7 +484,224 @@ struct DataProvider {
                     ("Han skriver i sin dagbok", "Він пише у своєму щоденнику")
                 ])],
         .adjectives2: [],
-        .months2: [],
+        .months2: [
+            Question(expression: "січень", translation: "januari", examples: [
+                ("Januari är den första månaden på året", "Січень - це перший місяць року"),
+                ("Vi firar nyår i januari", "Ми святкуємо Новий рік у січні"),
+                ("Det är kallt i januari", "У січні холодно"),
+                ("Skolan börjar efter jul i januari", "Школа починається після Різдва у січні")
+            ]),
+            Question(expression: "лютий", translation: "februari", examples: [
+                ("Februari är den kortaste månaden", "Лютий - найкоротший місяць"),
+                ("Alla hjärtans dag är i februari", "День святого Валентина у лютому"),
+                ("I februari är det ofta snö", "У лютому часто лежить сніг"),
+                ("Vi åker skidor i februari", "Ми катаємося на лижах у лютому")
+            ]),
+            Question(expression: "березень", translation: "mars", examples: [
+                ("Mars är den första vårmånaden", "Березень - це перший весняний місяць"),
+                ("Dagarna blir längre i mars", "Дні стають довшими у березні"),
+                ("Vi firar kvinnodagen i mars", "Ми святкуємо День жінок у березні"),
+                ("Snön börjar smälta i mars", "Сніг починає танути у березні")
+            ]),
+            Question(expression: "квітень", translation: "april", examples: [
+                ("April har ofta mycket regn", "У квітні часто йдуть дощі"),
+                ("April är en vårmånad", "Квітень - це весняний місяць"),
+                ("Påsken firas ibland i april", "Великдень іноді святкується у квітні"),
+                ("Träden får nya blad i april", "Дерева отримують нове листя у квітні")
+            ]),
+            Question(expression: "травень", translation: "maj", examples: [
+                ("Maj är en vacker månad", "Травень - це гарний місяць"),
+                ("Blommorna blommar i maj", "Квіти цвітуть у травні"),
+                ("Vi firar första maj", "Ми святкуємо перше травня"),
+                ("Solen skiner ofta i maj", "Сонце часто світить у травні")
+            ]),
+            Question(expression: "червень", translation: "juni", examples: [
+                ("Juni är den första sommarmånaden", "Червень - це перший літній місяць"),
+                ("Vi har skolavslutning i juni", "У червні в нас закінчується навчальний рік"),
+                ("Midsommar firas i juni", "Свято середини літа відзначається у червні"),
+                ("Det är varmt i juni", "У червні тепло")
+            ]),
+            Question(expression: "липень", translation: "juli", examples: [
+                ("Juli är den varmaste månaden", "Липень - найтепліший місяць"),
+                ("Många har semester i juli", "Багато людей мають відпустку у липні"),
+                ("Vi badar i havet i juli", "Ми купаємося у морі в липні"),
+                ("Blåbären mognar i juli", "Чорниця дозріває у липні")
+            ]),
+            Question(expression: "серпень", translation: "augusti", examples: [
+                ("Augusti är den sista sommarmånaden", "Серпень - останній літній місяць"),
+                ("Skolan börjar i augusti", "Школа починається у серпні"),
+                ("Vi plockar svamp i augusti", "Ми збираємо гриби у серпні"),
+                ("Dagarna blir kortare i augusti", "Дні стають коротшими у серпні")
+            ]),
+            Question(expression: "вересень", translation: "september", examples: [
+                ("September är den första höstmånaden", "Вересень - це перший осінній місяць"),
+                ("Löven börjar falla i september", "Листя починає опадати у вересні"),
+                ("Vi börjar skolan i september", "Ми починаємо навчання у вересні"),
+                ("Äpplen mognar i september", "Яблука дозрівають у вересні")
+            ]),
+            Question(expression: "жовтень", translation: "oktober", examples: [
+                ("Oktober har vackra höstfärger", "У жовтні красиві осінні кольори"),
+                ("Halloween firas i oktober", "Гелловін святкується у жовтні"),
+                ("Det blir kallare i oktober", "У жовтні стає холодніше"),
+                ("Vi tänder ljus i oktober", "Ми запалюємо свічки у жовтні")
+            ]),
+            Question(expression: "листопад", translation: "november", examples: [
+                ("November är en mörk månad", "Листопад - це темний місяць"),
+                ("Det regnar ofta i november", "У листопаді часто йдуть дощі"),
+                ("Vi firar Alla helgons dag i november", "Ми святкуємо День усіх святих у листопаді"),
+                ("Snön kan komma i november", "Сніг може випасти у листопаді")
+            ]),
+            Question(expression: "грудень", translation: "december", examples: [
+                ("December är den sista månaden", "Грудень - це останній місяць"),
+                ("Vi firar jul i december", "Ми святкуємо Різдво у грудні"),
+                ("Det är kallt och mörkt i december", "У грудні холодно і темно"),
+                ("Nyårsafton är i december", "Новий рік святкується у грудні")
+            ]),
+            Question(expression: "січень1", translation: "januari", examples: [
+                ("Januari är den första månaden på året", "Січень - це перший місяць року"),
+                ("Vi firar nyår i januari", "Ми святкуємо Новий рік у січні"),
+                ("Det är kallt i januari", "У січні холодно"),
+                ("Skolan börjar efter jul i januari", "Школа починається після Різдва у січні")
+            ]),
+            Question(expression: "лютий1", translation: "februari", examples: [
+                ("Februari är den kortaste månaden", "Лютий - найкоротший місяць"),
+                ("Alla hjärtans dag är i februari", "День святого Валентина у лютому"),
+                ("I februari är det ofta snö", "У лютому часто лежить сніг"),
+                ("Vi åker skidor i februari", "Ми катаємося на лижах у лютому")
+            ]),
+            Question(expression: "березень1", translation: "mars", examples: [
+                ("Mars är den första vårmånaden", "Березень - це перший весняний місяць"),
+                ("Dagarna blir längre i mars", "Дні стають довшими у березні"),
+                ("Vi firar kvinnodagen i mars", "Ми святкуємо День жінок у березні"),
+                ("Snön börjar smälta i mars", "Сніг починає танути у березні")
+            ]),
+            Question(expression: "квітень1", translation: "april", examples: [
+                ("April har ofta mycket regn", "У квітні часто йдуть дощі"),
+                ("April är en vårmånad", "Квітень - це весняний місяць"),
+                ("Påsken firas ibland i april", "Великдень іноді святкується у квітні"),
+                ("Träden får nya blad i april", "Дерева отримують нове листя у квітні")
+            ]),
+            Question(expression: "травень1", translation: "maj", examples: [
+                ("Maj är en vacker månad", "Травень - це гарний місяць"),
+                ("Blommorna blommar i maj", "Квіти цвітуть у травні"),
+                ("Vi firar första maj", "Ми святкуємо перше травня"),
+                ("Solen skiner ofta i maj", "Сонце часто світить у травні")
+            ]),
+            Question(expression: "червень1", translation: "juni", examples: [
+                ("Juni är den första sommarmånaden", "Червень - це перший літній місяць"),
+                ("Vi har skolavslutning i juni", "У червні в нас закінчується навчальний рік"),
+                ("Midsommar firas i juni", "Свято середини літа відзначається у червні"),
+                ("Det är varmt i juni", "У червні тепло")
+            ]),
+            Question(expression: "липень1", translation: "juli", examples: [
+                ("Juli är den varmaste månaden", "Липень - найтепліший місяць"),
+                ("Många har semester i juli", "Багато людей мають відпустку у липні"),
+                ("Vi badar i havet i juli", "Ми купаємося у морі в липні"),
+                ("Blåbären mognar i juli", "Чорниця дозріває у липні")
+            ]),
+            Question(expression: "серпень1", translation: "augusti", examples: [
+                ("Augusti är den sista sommarmånaden", "Серпень - останній літній місяць"),
+                ("Skolan börjar i augusti", "Школа починається у серпні"),
+                ("Vi plockar svamp i augusti", "Ми збираємо гриби у серпні"),
+                ("Dagarna blir kortare i augusti", "Дні стають коротшими у серпні")
+            ]),
+            Question(expression: "вересень1", translation: "september", examples: [
+                ("September är den första höstmånaden", "Вересень - це перший осінній місяць"),
+                ("Löven börjar falla i september", "Листя починає опадати у вересні"),
+                ("Vi börjar skolan i september", "Ми починаємо навчання у вересні"),
+                ("Äpplen mognar i september", "Яблука дозрівають у вересні")
+            ]),
+            Question(expression: "жовтень1", translation: "oktober", examples: [
+                ("Oktober har vackra höstfärger", "У жовтні красиві осінні кольори"),
+                ("Halloween firas i oktober", "Гелловін святкується у жовтні"),
+                ("Det blir kallare i oktober", "У жовтні стає холодніше"),
+                ("Vi tänder ljus i oktober", "Ми запалюємо свічки у жовтні")
+            ]),
+            Question(expression: "листопад1", translation: "november", examples: [
+                ("November är en mörk månad", "Листопад - це темний місяць"),
+                ("Det regnar ofta i november", "У листопаді часто йдуть дощі"),
+                ("Vi firar Alla helgons dag i november", "Ми святкуємо День усіх святих у листопаді"),
+                ("Snön kan komma i november", "Сніг може випасти у листопаді")
+            ]),
+            Question(expression: "грудень1", translation: "december", examples: [
+                ("December är den sista månaden", "Грудень - це останній місяць"),
+                ("Vi firar jul i december", "Ми святкуємо Різдво у грудні"),
+                ("Det är kallt och mörkt i december", "У грудні холодно і темно"),
+                ("Nyårsafton är i december", "Новий рік святкується у грудні")
+            ]),
+            Question(expression: "січень2", translation: "januari", examples: [
+                ("Januari är den första månaden på året", "Січень - це перший місяць року"),
+                ("Vi firar nyår i januari", "Ми святкуємо Новий рік у січні"),
+                ("Det är kallt i januari", "У січні холодно"),
+                ("Skolan börjar efter jul i januari", "Школа починається після Різдва у січні")
+            ]),
+            Question(expression: "лютий2", translation: "februari", examples: [
+                ("Februari är den kortaste månaden", "Лютий - найкоротший місяць"),
+                ("Alla hjärtans dag är i februari", "День святого Валентина у лютому"),
+                ("I februari är det ofta snö", "У лютому часто лежить сніг"),
+                ("Vi åker skidor i februari", "Ми катаємося на лижах у лютому")
+            ]),
+            Question(expression: "березень2", translation: "mars", examples: [
+                ("Mars är den första vårmånaden", "Березень - це перший весняний місяць"),
+                ("Dagarna blir längre i mars", "Дні стають довшими у березні"),
+                ("Vi firar kvinnodagen i mars", "Ми святкуємо День жінок у березні"),
+                ("Snön börjar smälta i mars", "Сніг починає танути у березні")
+            ]),
+            Question(expression: "квітень2", translation: "april", examples: [
+                ("April har ofta mycket regn", "У квітні часто йдуть дощі"),
+                ("April är en vårmånad", "Квітень - це весняний місяць"),
+                ("Påsken firas ibland i april", "Великдень іноді святкується у квітні"),
+                ("Träden får nya blad i april", "Дерева отримують нове листя у квітні")
+            ]),
+            Question(expression: "травень2", translation: "maj", examples: [
+                ("Maj är en vacker månad", "Травень - це гарний місяць"),
+                ("Blommorna blommar i maj", "Квіти цвітуть у травні"),
+                ("Vi firar första maj", "Ми святкуємо перше травня"),
+                ("Solen skiner ofta i maj", "Сонце часто світить у травні")
+            ]),
+            Question(expression: "червень2", translation: "juni", examples: [
+                ("Juni är den första sommarmånaden", "Червень - це перший літній місяць"),
+                ("Vi har skolavslutning i juni", "У червні в нас закінчується навчальний рік"),
+                ("Midsommar firas i juni", "Свято середини літа відзначається у червні"),
+                ("Det är varmt i juni", "У червні тепло")
+            ]),
+            Question(expression: "липень2", translation: "juli", examples: [
+                ("Juli är den varmaste månaden", "Липень - найтепліший місяць"),
+                ("Många har semester i juli", "Багато людей мають відпустку у липні"),
+                ("Vi badar i havet i juli", "Ми купаємося у морі в липні"),
+                ("Blåbären mognar i juli", "Чорниця дозріває у липні")
+            ]),
+            Question(expression: "серпень2", translation: "augusti", examples: [
+                ("Augusti är den sista sommarmånaden", "Серпень - останній літній місяць"),
+                ("Skolan börjar i augusti", "Школа починається у серпні"),
+                ("Vi plockar svamp i augusti", "Ми збираємо гриби у серпні"),
+                ("Dagarna blir kortare i augusti", "Дні стають коротшими у серпні")
+            ]),
+            Question(expression: "вересень2", translation: "september", examples: [
+                ("September är den första höstmånaden", "Вересень - це перший осінній місяць"),
+                ("Löven börjar falla i september", "Листя починає опадати у вересні"),
+                ("Vi börjar skolan i september", "Ми починаємо навчання у вересні"),
+                ("Äpplen mognar i september", "Яблука дозрівають у вересні")
+            ]),
+            Question(expression: "жовтень2", translation: "oktober", examples: [
+                ("Oktober har vackra höstfärger", "У жовтні красиві осінні кольори"),
+                ("Halloween firas i oktober", "Гелловін святкується у жовтні"),
+                ("Det blir kallare i oktober", "У жовтні стає холодніше"),
+                ("Vi tänder ljus i oktober", "Ми запалюємо свічки у жовтні")
+            ]),
+            Question(expression: "листопад2", translation: "november", examples: [
+                ("November är en mörk månad", "Листопад - це темний місяць"),
+                ("Det regnar ofta i november", "У листопаді часто йдуть дощі"),
+                ("Vi firar Alla helgons dag i november", "Ми святкуємо День усіх святих у листопаді"),
+                ("Snön kan komma i november", "Сніг може випасти у листопаді")
+            ]),
+            Question(expression: "грудень2", translation: "december", examples: [
+                ("December är den sista månaden", "Грудень - це останній місяць"),
+                ("Vi firar jul i december", "Ми святкуємо Різдво у грудні"),
+                ("Det är kallt och mörkt i december", "У грудні холодно і темно"),
+                ("Nyårsafton är i december", "Новий рік святкується у грудні")
+            ])
+        ],
         .verbs2: [],
         .nouns2: [],
         .bodyParts2: [],
