@@ -15,6 +15,7 @@ struct Question {
 }
 
 class LearnViewModel: ObservableObject {
+    @Published private(set) var questionsBase: [Question] = []
     @Published private(set) var questions: [Question] = []
     
     @Published var currentIndex = 0
@@ -22,13 +23,22 @@ class LearnViewModel: ObservableObject {
     @Published var userInput = ""
     @Published var isCorrect: Bool? = nil
     @Published var showHint = false
-    @Published var speechRate: Float = 0.5
+    
+    @Published var speechRate: Float {
+            didSet {
+                UserDefaults.standard.set(speechRate, forKey: "speechRate")
+            }
+        }
+    
     var category: QuestionCategory
     private var speechSynthesizer = AVSpeechSynthesizer()
     
     init(category: QuestionCategory) {
         self.category = category
-        self.questions = DataProvider.questions(for: category)
+        self.questionsBase = DataProvider.questions(for: category)
+        self.questions = DataProvider.questions(for: category).shuffled()
+        self.speechRate = UserDefaults.standard.float(forKey: "speechRate") // Load saved value
+                if self.speechRate == 0 { self.speechRate = 0.5 }
     }
     
     func checkAnswer() {
@@ -78,11 +88,41 @@ struct LearnView: View {
         if showWords {
             
             VStack {
-                Text("\(viewModel.category.rawValue)")
-                    .font(.system(size: 36, weight: .bold, design: .rounded))
-                    .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
-                    .padding(.top, 40)
-                    .padding(.bottom, 6)
+                HStack {
+                    Button(action: {
+                        showWords = false
+                        showMenu = true
+                    }) {
+                        Text("Tillbaka")
+                            .font(.title)
+                            .frame(width: 100, height: 50)
+                            .background(
+                                LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
+                            )
+                            .foregroundColor(.white)
+                            .cornerRadius(12)
+                            .shadow(color: Color.blue.opacity(0.4), radius: 10, x: 0, y: 5)
+                            .padding()
+                    }
+                    
+                    .buttonStyle(ScaleButtonStyle())
+                    
+                    Spacer()
+                    
+                    Text("\(viewModel.category.rawValue)")
+                        .font(.system(size: 36, weight: .bold, design: .rounded))
+                        .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                        .padding(.top, 40)
+                        .padding(.bottom, 6)
+                    
+                    Spacer()
+                    
+                    Text("")
+                        .frame(width: 100)
+                        .padding()
+                }
+                
+                
                 
                 Text("Försök att komma ihåg uttrycken.")
                     .font(.system(size: 26, weight: .bold, design: .rounded))
@@ -95,7 +135,7 @@ struct LearnView: View {
                     VStack(alignment: .center) {
                         LazyVGrid(columns: columns, alignment: .center, spacing: 10) {
                             
-                            ForEach(viewModel.questions, id: \.expression) { question in
+                            ForEach(viewModel.questionsBase, id: \.expression) { question in
                                 HStack(alignment: .center) {
                                     
                                     Text("\(question.translation)")
@@ -198,6 +238,7 @@ struct LearnView: View {
                             .font(.system(size: 20, weight: .regular, design: .rounded))
                             .foregroundColor(.red)
                             .padding(.trailing, 16)
+                            .hidden()
 
                         
                         Slider(value: $viewModel.speechRate, in: 0.1...0.6, step: 0.1)
