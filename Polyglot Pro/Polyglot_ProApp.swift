@@ -19,6 +19,7 @@ struct Polyglot_ProApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .frame(minWidth:1200, maxWidth: .infinity, minHeight: 800, maxHeight: .infinity)
         }
     }
 }

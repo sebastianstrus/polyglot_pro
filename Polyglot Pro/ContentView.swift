@@ -15,6 +15,7 @@ struct Question {
 }
 
 class LearnViewModel: ObservableObject {
+    
     @Published private(set) var questionsBase: [Question] = []
     @Published private(set) var questions: [Question] = []
     
@@ -23,6 +24,11 @@ class LearnViewModel: ObservableObject {
     @Published var userInput = ""
     @Published var isCorrect: Bool? = nil
     @Published var showHint = false
+    @Published var isSoundOn = true {
+        didSet {
+            UserDefaults.standard.set(isSoundOn, forKey: "speechOn")
+        }
+    }
     
     @Published var speechRate: Float {
             didSet {
@@ -37,14 +43,17 @@ class LearnViewModel: ObservableObject {
         self.category = category
         self.questionsBase = DataProvider.questions(for: category)
         self.questions = DataProvider.questions(for: category).shuffled()
-        self.speechRate = UserDefaults.standard.float(forKey: "speechRate") // Load saved value
-                if self.speechRate == 0 { self.speechRate = 0.5 }
+        
+        self.speechRate = UserDefaults.standard.float(forKey: "speechRate")
+        self.isSoundOn = UserDefaults.standard.bool(forKey: "speechOn")
+        
+        if self.speechRate == 0 { self.speechRate = 0.5 }
     }
     
     func checkAnswer() {
         guard !userInput.isEmpty else { return }
         isCorrect = userInput.lowercased() == questions[currentIndex].translation.lowercased()
-        if isCorrect == true {
+        if isCorrect == true && isSoundOn {
             speak(text: questions[currentIndex].translation)
         } else {
             missCount = missCount + 1
@@ -62,11 +71,16 @@ class LearnViewModel: ObservableObject {
         }
     }
     
+    func toggleSound() {
+        isSoundOn.toggle()
+    }
+    
     func speak(text: String) {
         let utterance = AVSpeechUtterance(string: text)
         utterance.voice = AVSpeechSynthesisVoice(language: "sv-SE")
         utterance.rate = speechRate
         speechSynthesizer.speak(utterance)
+        
     }
 }
 
@@ -241,8 +255,26 @@ struct LearnView: View {
                             .hidden()
 
                         
+                        Button(action: {
+                            viewModel.toggleSound()
+                        }) {
+                            Image(systemName: viewModel.isSoundOn ? "speaker.wave.2.fill" : "speaker.slash.fill")
+                                .font(.title)
+                                .frame(width: 50, height: 50)
+                                .background(
+                                    LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
+                                )
+                                .foregroundColor(.white)
+                                .cornerRadius(12)
+                        }.buttonStyle(ScaleButtonStyle())
+                        
+                        
+
+                        
+                        
                         Slider(value: $viewModel.speechRate, in: 0.1...0.6, step: 0.1)
-                            .frame(width: 100, height: 2)
+                            .frame(width: 100, height: 50)
+                            .cornerRadius(12)
                         
                             .overlay(
                                 RoundedRectangle(cornerRadius: 5)
@@ -300,6 +332,8 @@ struct LearnView: View {
                             .padding()
                             .background(
                                 LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .leading, endPoint: .trailing)
+                                    .frame(height: 50)
+                                    .cornerRadius(12)
                             )
                             .cornerRadius(12)
                             .shadow(color: Color.blue.opacity(0.4), radius: 10, x: 0, y: 5)
