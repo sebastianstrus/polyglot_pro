@@ -24,6 +24,7 @@ class LearnViewModel: ObservableObject {
     @Published var userInput = ""
     @Published var isCorrect: Bool? = nil
     @Published var showHint = false
+    @Published var shake: Bool = false
     @Published var isSoundOn = true {
         didSet {
             UserDefaults.standard.set(isSoundOn, forKey: "speechOn")
@@ -57,8 +58,18 @@ class LearnViewModel: ObservableObject {
             speak(text: questions[currentIndex].translation)
         } else {
             missCount = missCount + 1
+            shakeTextField()
         }
     }
+    
+    func shakeTextField() {
+            withAnimation {
+                shake = true
+            }
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+                self.shake = false
+            }
+        }
     
     func nextQuestion() {
         if currentIndex < questions.count - 1 {
@@ -176,7 +187,9 @@ struct LearnView: View {
                 
                 HStack {
                     Button(action: {
+                        //printLinesFromRTFFile()
                         showWords = false
+                        
                     }) {
                         Text("Start")
                             .font(.title)
@@ -353,7 +366,6 @@ struct LearnView: View {
                     .font(.system(size: 60, weight: .bold, design: .rounded)) // Rounded, bold font
                     .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing)) // Fun gradient color
                     .padding()
-    //                .animation(.spring(response: 0.5, dampingFraction: 0.5), value: viewModel.currentIndex)
                 
                 Text("\(viewModel.questions[viewModel.currentIndex].translation)")
                     .font(.system(size: 24, weight: .regular, design: .rounded))
@@ -383,6 +395,7 @@ struct LearnView: View {
                 )
                 .multilineTextAlignment(.center)
                 .textFieldStyle(.plain)
+                .modifier(ShakeEffect(animatableData: CGFloat(viewModel.shake ? 1 : 0)))
                 
                 
                 HStack {
@@ -448,14 +461,7 @@ struct LearnView: View {
                     
                 }.frame(width: 60, alignment: .center)
                 
-                
-                
-                
-                
                 Spacer()
-                
-                
-                
                 
                 if viewModel.isCorrect == true {
                     VStack(alignment: .leading, spacing: 10) {
@@ -534,11 +540,10 @@ struct ContentView: View {
     ]
     
     var body: some View {
-        
         if showMenu {
             VStack {
                 
-                Text("Poliglot Pro")
+                Text("Polyglot Pro")
                     .font(.system(size: 58, weight: .bold, design: .rounded))
                     .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
                     .padding(.top, 46)
@@ -605,3 +610,11 @@ struct ScaleButtonStyle: ButtonStyle {
 }
 
 
+struct ShakeEffect: GeometryEffect {
+    var animatableData: CGFloat
+
+    func effectValue(size: CGSize) -> ProjectionTransform {
+        let translation = sin(animatableData * .pi * 6) * 8
+        return ProjectionTransform(CGAffineTransform(translationX: translation, y: 0))
+    }
+}
