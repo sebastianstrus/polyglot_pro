@@ -25,6 +25,7 @@ class LearnViewModel: ObservableObject {
     @Published var isCorrect: Bool? = nil
     @Published var showHint = false
     @Published var shake: Bool = false
+    @Published var missCountUpdated: Bool = false
     @Published var isSoundOn = true {
         didSet {
             UserDefaults.standard.set(isSoundOn, forKey: "speechOn")
@@ -57,7 +58,11 @@ class LearnViewModel: ObservableObject {
         if isCorrect == true && isSoundOn {
             speak(text: questions[currentIndex].translation)
         } else {
-            missCount = missCount + 1
+            if !missCountUpdated {
+                missCount = missCount + 1
+                missCountUpdated = true
+            }
+            
             shakeTextField()
         }
     }
@@ -78,6 +83,7 @@ class LearnViewModel: ObservableObject {
                 self.userInput = ""
                 self.isCorrect = nil
                 self.showHint = false
+                self.missCountUpdated = false
             }
         }
     }
@@ -265,7 +271,6 @@ struct LearnView: View {
                             .font(.system(size: 20, weight: .regular, design: .rounded))
                             .foregroundColor(.red)
                             .padding(.trailing, 16)
-                            .hidden()
 
                         
                         Button(action: {
@@ -402,6 +407,11 @@ struct LearnView: View {
                     
                     Button(action: {
                         viewModel.speak(text: viewModel.questions[viewModel.currentIndex].translation)
+                        if !viewModel.missCountUpdated {
+                            viewModel.missCount += 1
+                            viewModel.missCountUpdated = true
+                        }
+                        
                     }) {
                         Image(systemName: "speaker.wave.2.fill")
                             .font(.title)
@@ -442,6 +452,10 @@ struct LearnView: View {
                     
                     Button(action: {
                         viewModel.showHint = true
+                        if !viewModel.missCountUpdated {
+                            viewModel.missCount += 1
+                            viewModel.missCountUpdated = true
+                        }
                     }) {
                         Text("Hint")
                             .font(.title)
