@@ -352,23 +352,23 @@ struct DataProvider {
                     ("Jag har en katt.", "Я маю кота."),
                     ("Hon vill ha en bok.", "Вона хоче мати книгу."),
                     ("Vi måste ha tålamod.", "Ми повинні мати терпіння."),
-                    ("Kan jag ha en kopp kaffe?.", "Чи можу я мати чашку кави?.")
+                    ("Kan jag ha en kopp kaffe?", "Чи можу я мати чашку кави?")
                 ]),
                 Question(expression: "йти", translation: "gå", examples: [
                     ("Jag går till jobbet varje dag.", "Я ходжу на роботу щодня."),
                     ("Vi ska gå till parken.", "Ми підемо до парку."),
                     ("Hon gick hem tidigt.", "Вона пішла додому рано."),
-                    ("Vill du gå med mig?.", "Ти хочеш піти зі мною?.")
+                    ("Vill du gå med mig?", "Ти хочеш піти зі мною?")
                 ]),
                 Question(expression: "бачити", translation: "se", examples: [
                     ("Jag ser en fågel.", "Я бачу птаха."),
-                    ("Kan du se bilen?.", "Ти бачиш машину?."),
+                    ("Kan du se bilen?", "Ти бачиш машину?"),
                     ("Vi såg en film igår.", "Ми дивилися фільм вчора."),
                     ("Jag vill se havet.", "Я хочу побачити море.")
                 ]),
                 Question(expression: "говорити", translation: "tala", examples: [
                     ("Han talar svenska.", "Він говорить шведською."),
-                    ("Kan du tala långsammare?.", "Можеш говорити повільніше?."),
+                    ("Kan du tala långsammare?", "Можеш говорити повільніше?"),
                     ("Vi talar ofta i telefon.", "Ми часто розмовляємо по телефону."),
                     ("Hon talar tre språk.", "Вона говорить трьома мовами.")
                 ]),
@@ -379,7 +379,7 @@ struct DataProvider {
                     ("Jag älskar att arbeta.", "Я люблю працювати.")
                 ]),
                 Question(expression: "давати", translation: "ge", examples: [
-                    ("Kan du ge mig boken?.", "Можеш дати мені книгу?."),
+                    ("Kan du ge mig boken?", "Можеш дати мені книгу?"),
                     ("Hon gav honom en present.", "Вона дала йому подарунок."),
                     ("Jag ska ge dig ett råd.", "Я дам тобі пораду."),
                     ("Vi ger alltid vårt bästa.", "Ми завжди віддаємо найкраще.")
@@ -673,23 +673,23 @@ struct DataProvider {
                     ("Jag har en katt.", "Я маю кота."),
                     ("Hon vill ha en bok.", "Вона хоче мати книгу."),
                     ("Vi måste ha tålamod.", "Ми повинні мати терпіння."),
-                    ("Kan jag ha en kopp kaffe?.", "Чи можу я мати чашку кави?.")
+                    ("Kan jag ha en kopp kaffe?", "Чи можу я мати чашку кави?")
                 ]),
                 Question(expression: "йти", translation: "gå", examples: [
                     ("Jag går till jobbet varje dag.", "Я ходжу на роботу щодня."),
                     ("Vi ska gå till parken.", "Ми підемо до парку."),
                     ("Hon gick hem tidigt.", "Вона пішла додому рано."),
-                    ("Vill du gå med mig?.", "Ти хочеш піти зі мною?.")
+                    ("Vill du gå med mig?", "Ти хочеш піти зі мною?")
                 ]),
                 Question(expression: "бачити", translation: "se", examples: [
                     ("Jag ser en fågel.", "Я бачу птаха."),
-                    ("Kan du se bilen?.", "Ти бачиш машину?."),
+                    ("Kan du se bilen?", "Ти бачиш машину?"),
                     ("Vi såg en film igår.", "Ми дивилися фільм вчора."),
                     ("Jag vill se havet.", "Я хочу побачити море.")
                 ]),
                 Question(expression: "говорити", translation: "tala", examples: [
                     ("Han talar svenska.", "Він говорить шведською."),
-                    ("Kan du tala långsammare?.", "Можеш говорити повільніше?."),
+                    ("Kan du tala långsammare?", "Можеш говорити повільніше?"),
                     ("Vi talar ofta i telefon.", "Ми часто розмовляємо по телефону."),
                     ("Hon talar tre språk.", "Вона говорить трьома мовами.")
                 ]),
@@ -700,7 +700,7 @@ struct DataProvider {
                     ("Jag älskar att arbeta.", "Я люблю працювати.")
                 ]),
                 Question(expression: "давати", translation: "ge", examples: [
-                    ("Kan du ge mig boken?.", "Можеш дати мені книгу?."),
+                    ("Kan du ge mig boken?", "Можеш дати мені книгу?"),
                     ("Hon gav honom en present.", "Вона дала йому подарунок."),
                     ("Jag ska ge dig ett råd.", "Я дам тобі пораду."),
                     ("Vi ger alltid vårt bästa.", "Ми завжди віддаємо найкраще.")
@@ -830,7 +830,7 @@ struct DataProvider {
                 Question(expression: "сьогодні ввечері", translation: "ikväll", examples: [
                     ("Vi ska gå på bio ikväll.", "Ми підемо в кіно сьогодні ввечері."),
                     ("Ikväll ska vi laga middag tillsammans.", "Сьогодні ввечері ми будемо готувати вечерю разом."),
-                    ("Vad gör du ikväll?.", "Що ти робиш сьогодні ввечері?."),
+                    ("Vad gör du ikväll?", "Що ти робиш сьогодні ввечері?"),
                     ("Ikväll ska vi ha en fest.", "Сьогодні ввечері у нас буде вечірка.")
                 ]),
                 Question(expression: "вчора ввечері", translation: "i går kväll", examples: [
@@ -949,7 +949,7 @@ struct DataProvider {
                 Question(expression: "чеки", translation: "kvitto", examples: [
                     ("Kom ihåg att ta med kvittot.", "Не забудь взяти чек."),
                     ("Jag har tappat mitt kvitto.", "Я втратив свій чек."),
-                    ("Kan du ge mig ett kvitto på detta köp?.", "Чи можеш дати мені чек на цю покупку?."),
+                    ("Kan du ge mig ett kvitto på detta köp?", "Чи можеш дати мені чек на цю покупку?"),
                     ("Det står på kvittot att vi kan byta varan.", "На чеку написано, що ми можемо обміняти товар.")
                 ]),
                 Question(expression: "покупець", translation: "kund", examples: [
@@ -972,7 +972,7 @@ struct DataProvider {
                 ]),
                 Question(expression: "пакет", translation: "påse", examples: [
                     ("Jag köpte en påse bröd.", "Я купив пакет хліба."),
-                    ("Kan du ge mig en påse?.", "Можеш дати мені пакет?."),
+                    ("Kan du ge mig en påse?", "Можеш дати мені пакет?"),
                     ("Påsen var tung.", "Пакет був важким."),
                     ("Han lade varorna i påsen.", "Він поклав товари в пакет.")
                 ]),
@@ -1151,7 +1151,7 @@ struct DataProvider {
                     ("Jag tittar på tv varje kväll.", "Я дивлюсь телевізор кожного вечора."),
                     ("Vi har en ny tv i vardagsrummet.", "У нас є новий телевізор у вітальні."),
                     ("Tv:n är trasig.", "Телевізор зламався."),
-                    ("Kan du stänga av tv:n?.", "Можеш вимкнути телевізор?.")
+                    ("Kan du stänga av tv:n?", "Можеш вимкнути телевізор?")
                 ]),
                 Question(expression: "холодильник", translation: "kylskåp", examples: [
                     ("Det finns mycket mat i kylskåpet.", "У холодильнику багато їжі."),
@@ -1169,7 +1169,7 @@ struct DataProvider {
                     ("Jag satte tallrikarna i diskmaskinen.", "Я поставив тарілки в посудомийну машину."),
                     ("Diskmaskinen fungerar bra.", "Посудомийна машина працює добре."),
                     ("Vi har ingen diskmaskin hemma.", "У нас немає посудомийної машини вдома."),
-                    ("Kan du stänga diskmaskinen?.", "Можеш закрити посудомийну машину?.")
+                    ("Kan du stänga diskmaskinen?", "Можеш закрити посудомийну машину?")
                 ]),
                 Question(expression: "ковдра", translation: "täcke", examples: [
                     ("Jag sov under ett mjukt täcke.", "Я спав під м'якою ковдрою."),
@@ -2316,82 +2316,82 @@ struct DataProvider {
         
             .interrogativePronouns: [
                 Question(expression: "хто", translation: "vem", examples: [
-                    ("Vem är du?.", "Хто ти?."),
-                    ("Vem vann tävlingen?.", "Хто виграв змагання?."),
-                    ("Vem ringer du?.", "Кому ти телефонуєш?."),
-                    ("Vem bor i detta hus?.", "Хто живе в цьому будинку?.")
+                    ("Vem är du?", "Хто ти?"),
+                    ("Vem vann tävlingen?", "Хто виграв змагання?"),
+                    ("Vem ringer du?", "Кому ти телефонуєш?"),
+                    ("Vem bor i detta hus?", "Хто живе в цьому будинку?")
                 ]),
                 Question(expression: "що", translation: "vad", examples: [
-                    ("Vad heter du?.", "Як тебе звати?."),
-                    ("Vad gör du?.", "Що ти робиш?."),
-                    ("Vad är det där?.", "Що це таке?."),
-                    ("Vad vill du äta?.", "Що ти хочеш їсти?.")
+                    ("Vad heter du?", "Як тебе звати?"),
+                    ("Vad gör du?", "Що ти робиш?"),
+                    ("Vad är det där?", "Що це таке?"),
+                    ("Vad vill du äta?", "Що ти хочеш їсти?")
                 ]),
                 Question(expression: "де", translation: "var", examples: [
-                    ("Var är du?.", "Де ти?."),
-                    ("Var ligger banken?.", "Де знаходиться банк?."),
-                    ("Var bor du?.", "Де ти живеш?."),
-                    ("Var är min bok?.", "Де моя книга?.")
+                    ("Var är du?", "Де ти?"),
+                    ("Var ligger banken?", "Де знаходиться банк?"),
+                    ("Var bor du?", "Де ти живеш?"),
+                    ("Var är min bok?", "Де моя книга?")
                 ]),
                 Question(expression: "куди", translation: "vart", examples: [
-                    ("Vart ska du?.", "Куди ти йдеш?."),
-                    ("Vart reser ni i sommar?.", "Куди ви подорожуєте цього літа?."),
-                    ("Vart flyttade de?.", "Куди вони переїхали?."),
-                    ("Vart går den här bussen?.", "Куди їде цей автобус?.")
+                    ("Vart ska du?", "Куди ти йдеш?"),
+                    ("Vart reser ni i sommar?", "Куди ви подорожуєте цього літа?"),
+                    ("Vart flyttade de?", "Куди вони переїхали?"),
+                    ("Vart går den här bussen?", "Куди їде цей автобус?")
                 ]),
                 Question(expression: "звідки", translation: "varifrån", examples: [
-                    ("Varifrån kommer du?.", "Звідки ти?."),
-                    ("Varifrån fick du denna information?.", "Звідки ти отримав цю інформацію?."),
-                    ("Varifrån är den här bilen?.", "Звідки ця машина?."),
-                    ("Varifrån reser du?.", "Звідки ти подорожуєш?.")
+                    ("Varifrån kommer du?", "Звідки ти?"),
+                    ("Varifrån fick du denna information?", "Звідки ти отримав цю інформацію?"),
+                    ("Varifrån är den här bilen?", "Звідки ця машина?"),
+                    ("Varifrån reser du?", "Звідки ти подорожуєш?")
                 ]),
                 Question(expression: "коли", translation: "när", examples: [
-                    ("När börjar filmen?.", "Коли починається фільм?."),
-                    ("När är ditt födelsedatum?.", "Коли у тебе день народження?."),
-                    ("När träffades ni?.", "Коли ви зустрілися?."),
-                    ("När öppnar butiken?.", "Коли відкривається магазин?.")
+                    ("När börjar filmen?", "Коли починається фільм?"),
+                    ("När är ditt födelsedatum?", "Коли у тебе день народження?"),
+                    ("När träffades ni?", "Коли ви зустрілися?"),
+                    ("När öppnar butiken?", "Коли відкривається магазин?")
                 ]),
                 Question(expression: "чому", translation: "varför", examples: [
-                    ("Varför är du sen?.", "Чому ти запізнився?."),
-                    ("Varför studerar du svenska?.", "Чому ти вчиш шведську?."),
-                    ("Varför skrattar du?.", "Чому ти смієшся?."),
-                    ("Varför är han arg?.", "Чому він сердитий?.")
+                    ("Varför är du sen?", "Чому ти запізнився?"),
+                    ("Varför studerar du svenska?", "Чому ти вчиш шведську?"),
+                    ("Varför skrattar du?", "Чому ти смієшся?"),
+                    ("Varför är han arg?", "Чому він сердитий?")
                 ]),
                 Question(expression: "як", translation: "hur", examples: [
-                    ("Hur mår du?.", "Як ти себе почуваєш?."),
-                    ("Hur fungerar det?.", "Як це працює?."),
-                    ("Hur gammal är du?.", "Скільки тобі років?."),
-                    ("Hur långt är det till stationen?.", "Як далеко до станції?.")
+                    ("Hur mår du?", "Як ти себе почуваєш?"),
+                    ("Hur fungerar det?", "Як це працює?"),
+                    ("Hur gammal är du?", "Скільки тобі років?"),
+                    ("Hur långt är det till stationen?", "Як далеко до станції?")
                 ]),
                 Question(expression: "скільки", translation: "hur mycket", examples: [
-                    ("Hur mycket kostar det?.", "Скільки це коштує?."),
-                    ("Hur mycket tid har vi?.", "Скільки у нас часу?."),
-                    ("Hur mycket socker vill du ha?.", "Скільки цукру ти хочеш?."),
-                    ("Hur mycket vatten dricker du per dag?.", "Скільки води ти п'єш на день?.")
+                    ("Hur mycket kostar det?", "Скільки це коштує?"),
+                    ("Hur mycket tid har vi?", "Скільки у нас часу?"),
+                    ("Hur mycket socker vill du ha?", "Скільки цукру ти хочеш?"),
+                    ("Hur mycket vatten dricker du per dag?", "Скільки води ти п'єш на день?")
                 ]),
                 Question(expression: "скільки (лічильний)", translation: "hur många", examples: [
-                    ("Hur många syskon har du?.", "Скільки у тебе братів і сестер?."),
-                    ("Hur många böcker har du?.", "Скільки у тебе книг?."),
-                    ("Hur många timmar tar resan?.", "Скільки годин триває подорож?."),
-                    ("Hur många elever är i klassen?.", "Скільки учнів у класі?.")
+                    ("Hur många syskon har du?", "Скільки у тебе братів і сестер?"),
+                    ("Hur många böcker har du?", "Скільки у тебе книг?"),
+                    ("Hur många timmar tar resan?", "Скільки годин триває подорож?"),
+                    ("Hur många elever är i klassen?", "Скільки учнів у класі?")
                 ]),
                 Question(expression: "який", translation: "vilken", examples: [
-                    ("Vilken bok vill du läsa?.", "Яку книгу ти хочеш прочитати?."),
-                    ("Vilket språk talar du?.", "Якою мовою ти говориш?."),
-                    ("Vilka länder har du besökt?.", "Які країни ти відвідав?."),
-                    ("Vilken färg tycker du om?.", "Який колір тобі подобається?.")
+                    ("Vilken bok vill du läsa?", "Яку книгу ти хочеш прочитати?"),
+                    ("Vilket språk talar du?", "Якою мовою ти говориш?"),
+                    ("Vilka länder har du besökt?", "Які країни ти відвідав?"),
+                    ("Vilken färg tycker du om?", "Який колір тобі подобається?")
                 ]),
                 Question(expression: "чий", translation: "vems", examples: [
-                    ("Vems bil är det?.", "Чия це машина?."),
-                    ("Vems bok ligger här?.", "Чия книга тут лежить?."),
-                    ("Vems idé var det?.", "Чия це була ідея?."),
-                    ("Vems hund är det?.", "Чий це собака?.")
+                    ("Vems bil är det?", "Чия це машина?"),
+                    ("Vems bok ligger här?", "Чия книга тут лежить?"),
+                    ("Vems idé var det?", "Чия це була ідея?"),
+                    ("Vems hund är det?", "Чий це собака?")
                 ]),
                 Question(expression: "який", translation: "hurdan", examples: [
-                    ("Hurdan är din nya lägenhet?.", "Яка твоя нова квартира?."),
-                    ("Hurdant väder är det idag?.", "Яка сьогодні погода?."),
-                    ("Hurdana är dina vänner?.", "Які твої друзі?."),
-                    ("Hurdan är din bil?.", "Яка твоя машина?.")
+                    ("Hurdan är din nya lägenhet?", "Яка твоя нова квартира?"),
+                    ("Hurdant väder är det idag?", "Яка сьогодні погода?"),
+                    ("Hurdana är dina vänner?", "Які твої друзі?"),
+                    ("Hurdan är din bil?", "Яка твоя машина?")
                 ])
             ],
         

@@ -11,7 +11,7 @@ import SwiftUI
 struct Polyglot_ProApp: App {
     init() {
         Task {
-            NSApp.appearance = NSAppearance(named: .lightContent)
+            NSApp.appearance = NSAppearance(named: .aqua)
         }
         
     }
