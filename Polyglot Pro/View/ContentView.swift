@@ -14,6 +14,7 @@ struct ContentView: View {
     let columns = [
         GridItem(.flexible(), spacing: 10),
         GridItem(.flexible(), spacing: 10),
+        GridItem(.flexible(), spacing: 10),
         GridItem(.flexible(), spacing: 10)
     ]
     
@@ -50,10 +51,7 @@ struct ContentView: View {
                         }
                         .frame(width: 300, height: 50)
                         .buttonStyle(ScaleButtonStyle())
-                        
-                        
                     }
-                    
                 }
                 
                 Spacer()
