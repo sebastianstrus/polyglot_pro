@@ -6,11 +6,11 @@
 //
 
 enum QuestionCategory: String, CaseIterable {
-    case homework1 = "Lexor 1"
-    case homework2 = "Lexor 2"
-    case homework3 = "Lexor 3"
-    case homework4 = "Lexor 4"
-    case homework5 = "Lexor 5"
+    case homework1 = "1. Lexa"
+    case homework2 = "2. Lexa"
+    case homework3 = "3. Lexa"
+    case homework4 = "4. Lexa"
+    case homework5 = "5. Lexa"
     case weekdays = "Veckodagar"
     case months = "Månader"
     case modalVerbs = "Modala verb"
@@ -2649,7 +2649,7 @@ struct DataProvider {
                     ("Hon läste tio sidor av boken.", "Вона прочитала десять сторінок книги."),
                     ("Vi har tio uppgifter att göra.", "У нас є десять завдань, які потрібно виконати.")
                 ]),
-                Question(expression: "сто", translation: "hundra", examples: [
+                Question(expression: "сто", translation: "ett hundra", examples: [
                     ("Det finns hundra sidor i boken.", "У книзі сто сторінок."),
                     ("Jag har hundra kronor.", "У мене є сто крон."),
                     ("Rummet är hundra kvadratmeter.", "Кімната має сто квадратних метрів."),
@@ -2673,7 +2673,7 @@ struct DataProvider {
                     ("Bilen körde femhundra kilometer.", "Автомобіль проїхав п’ятсот кілометрів."),
                     ("Hon har femhundra följare.", "У неї п’ятсот підписників.")
                 ]),
-                Question(expression: "тисяча", translation: "tusen", examples: [
+                Question(expression: "тисяча", translation: "ett tusen", examples: [
                     ("Jag har tusen kronor.", "У мене є тисяча крон."),
                     ("Det bor tusen personer i byn.", "У селі живе тисяча людей."),
                     ("Hon har tusen idéer.", "У неї тисяча ідей."),
@@ -2736,92 +2736,115 @@ struct DataProvider {
             ],
         
             .ordinalNumbers: [
-                Question(expression: "pierwszy", translation: "första", examples: [
+                Question(expression: "перший", translation: "första", examples: [
                     ("Han kom på första plats.", "Він зайняв перше місце."),
                     ("Det är första gången jag är här.", "Це перший раз, коли я тут."),
                     ("Hon bor på första våningen.", "Вона живе на першому поверсі."),
                     ("Första intrycket är viktigt.", "Перше враження важливе.")
                 ]),
-                Question(expression: "drugi", translation: "andra", examples: [
+                Question(expression: "другий", translation: "andra", examples: [
                     ("Hon blev tvåa i tävlingen.", "Вона стала другою у змаганнях."),
                     ("Andra världskriget började 1939.", "Друга світова війна почалася у 1939 році."),
                     ("Vi bor på andra våningen.", "Ми живемо на другому поверсі."),
                     ("Andra dagen på jobbet var lättare.", "Другий день на роботі був легшим.")
                 ]),
-                Question(expression: "trzeci", translation: "tredje", examples: [
+                Question(expression: "третій", translation: "tredje", examples: [
                     ("Han slutade på tredje plats.", "Він фінішував третім."),
                     ("Vi bor på tredje våningen.", "Ми живемо на третьому поверсі."),
                     ("Detta är tredje gången vi träffas.", "Це третій раз, коли ми зустрічаємось."),
                     ("Han har en tredje bror.", "У нього є третій брат.")
                 ]),
-                Question(expression: "czwarty", translation: "fjärde", examples: [
+                Question(expression: "четвертий", translation: "fjärde", examples: [
                     ("Detta är mitt fjärde år på universitetet.", "Це мій четвертий рік в університеті."),
                     ("Hon bor på fjärde våningen.", "Вона живе на четвертому поверсі."),
                     ("Han blev fjärde i tävlingen.", "Він став четвертим у змаганні."),
                     ("Fjärde kapitlet handlar om historia.", "Четвертий розділ про історію.")
                 ]),
-                Question(expression: "piąty", translation: "femte", examples: [
+                Question(expression: "п’ятий", translation: "femte", examples: [
                     ("Det är den femte dagen på resan.", "Це п’ятий день подорожі."),
                     ("Vi träffades på femte gatan.", "Ми зустрілися на п’ятій вулиці."),
                     ("Hon kom femte i loppet.", "Вона фінішувала п’ятою у забігу."),
                     ("Femte våningen har en fantastisk utsikt.", "П’ятий поверх має фантастичний вид.")
                 ]),
-                Question(expression: "szósty", translation: "sjätte", examples: [
+                Question(expression: "шостий", translation: "sjätte", examples: [
                     ("Detta är den sjätte gången vi ses.", "Це шостий раз, коли ми бачимося."),
                     ("Han bor på sjätte våningen.", "Він живе на шостому поверсі."),
                     ("Sjätte kapitlet handlar om vetenskap.", "Шостий розділ про науку."),
                     ("Sjätte sinnet är intuition.", "Шосте відчуття – це інтуїція.")
                 ]),
-                Question(expression: "siódmy", translation: "sjunde", examples: [
+                Question(expression: "сьомий", translation: "sjunde", examples: [
                     ("Han föddes den sjunde juli.", "Він народився сьомого липня."),
                     ("Vi kom sjunde i turneringen.", "Ми зайняли сьоме місце у турнірі."),
                     ("Detta är sjunde gången han försöker.", "Це сьомий раз, коли він пробує."),
                     ("Hon bor på sjunde våningen.", "Вона живе на сьомому поверсі.")
                 ]),
-                Question(expression: "ósmy", translation: "åttonde", examples: [
+                Question(expression: "восьмий", translation: "åttonde", examples: [
                     ("Vi träffas den åttonde mars.", "Ми зустрінемося восьмого березня."),
                     ("Det är den åttonde filmen i serien.", "Це восьмий фільм у серії."),
                     ("Han bor på åttonde våningen.", "Він живе на восьмому поверсі."),
                     ("Detta är mitt åttonde år i skolan.", "Це мій восьмий рік у школі.")
                 ]),
-                Question(expression: "dziewiąty", translation: "nionde", examples: [
+                Question(expression: "дев’ятий", translation: "nionde", examples: [
                     ("Han föddes den nionde oktober.", "Він народився дев’ятого жовтня."),
                     ("Nionde kapitlet är det svåraste.", "Дев’ятий розділ найскладніший."),
                     ("Det är hans nionde bok.", "Це його дев’ята книга."),
                     ("Hon bor på nionde våningen.", "Вона живе на дев’ятому поверсі.")
                 ]),
-                Question(expression: "dziesiąty", translation: "tionde", examples: [
+                Question(expression: "десятий", translation: "tionde", examples: [
                     ("Vi kommer tionde i tävlingen.", "Ми зайняли десяте місце у змаганні."),
                     ("Tionde kapitlet handlar om fysik.", "Десятий розділ про фізику."),
                     ("Han bor på tionde våningen.", "Він живе на десятому поверсі."),
                     ("Det är tionde gången han försöker.", "Це десятий раз, коли він пробує.")
                 ]),
-                Question(expression: "jedenasty", translation: "elfte", examples: [
+                Question(expression: "одинадцятий", translation: "elfte", examples: [
                     ("Han är född den elfte november.", "Він народився одинадцятого листопада."),
                     ("Det är mitt elfte år i Sverige.", "Це мій одинадцятий рік у Швеції."),
                     ("Hon bor på elfte våningen.", "Вона живе на одинадцятому поверсі."),
                     ("Detta är hans elfte bok.", "Це його одинадцята книга.")
                 ]),
-                Question(expression: "dwunasty", translation: "tolfte", examples: [
+                Question(expression: "дванадцятий", translation: "tolfte", examples: [
                     ("Det är den tolfte dagen på semestern.", "Це дванадцятий день відпустки."),
                     ("Vi firar tolfte bröllopsdagen.", "Ми святкуємо дванадцяту річницю весілля."),
                     ("Han bor på tolfte våningen.", "Він живе на дванадцятому поверсі."),
                     ("Detta är hans tolfte projekt.", "Це його дванадцятий проект.")
                 ]),
-                Question(expression: "dwudziesty", translation: "tjugonde", examples: [
+                Question(expression: "двадцятий", translation: "tjugonde", examples: [
                     ("Vi ses den tjugonde juni.", "Ми зустрінемося двадцятого червня."),
                     ("Han bor på tjugonde våningen.", "Він живе на двадцятому поверсі."),
                     ("Det är den tjugonde sidan i boken.", "Це двадцята сторінка книги."),
                     ("Hon firar sin tjugonde födelsedag.", "Вона святкує свій двадцятий день народження.")
                 ]),
-                Question(expression: "trzydziesty", translation: "trettionde", examples: [
+                Question(expression: "тридцятий", translation: "trettionde", examples: [
                     ("Han kom trettionde i loppet.", "Він фінішував тридцятим у забігу."),
                     ("Det är den trettionde dagen på resan.", "Це тридцятий день подорожі."),
                     ("Hon bor på trettionde våningen.", "Вона живе на тридцятому поверсі."),
                     ("Vi firar den trettionde årsdag.", "Ми святкуємо тридцяту річницю.")
+                ]),
+                Question(expression: "сотий", translation: "hundrade", examples: [
+                    ("Det är hans hundrade dag på jobbet.", "Це його сотий день на роботі."),
+                    ("Vi firar företagets hundrade årsdag.", "Ми святкуємо соту річницю компанії."),
+                    ("Han fick sin hundrade kund i år.", "Він отримав свого сотого клієнта цього року."),
+                    ("Det här är min hundrade bok jag läser.", "Це моя сота книга, яку я читаю.")
+                ]),
+                Question(expression: "двохсотий", translation: "tvåhundrade", examples: [
+                    ("Det är hans tvåhundrade match i karriären.", "Це його двохсотий матч у кар'єрі."),
+                    ("Vi bor i den tvåhundrade lägenheten.", "Ми живемо у двохсотій квартирі."),
+                    ("Han skrev sitt tvåhundrade blogginlägg idag.", "Він написав сьогодні свій двохсотий блог."),
+                    ("Det är den tvåhundrade sidan i boken.", "Це двохсота сторінка книги.")
+                ]),
+                Question(expression: "тисячний", translation: "tusende", examples: [
+                    ("Han blev butikens tusende kund.", "Він став тисячним клієнтом магазину."),
+                    ("Det här är mitt tusende inlägg på sociala medier.", "Це моя тисячна публікація у соцмережах."),
+                    ("Staden firar sitt tusende år.", "Місто святкує своє тисячоліття."),
+                    ("Det är den tusende gången vi pratar om detta.", "Це тисячний раз, коли ми про це говоримо.")
+                ]),
+                Question(expression: "мільйонний", translation: "miljonte", examples: [
+                    ("Hon var den miljonte besökaren på museet.", "Вона була мільйонним відвідувачем музею."),
+                    ("Företaget sålde sin miljonte produkt i år.", "Компанія продала свій мільйонний товар цього року."),
+                    ("Det är den miljonte gången han berättar samma historia.", "Це мільйонний раз, коли він розповідає ту саму історію."),
+                    ("Han skrev sitt miljonte ord i romanen.", "Він написав своє мільйонне слово в романі.")
                 ])
             ],
-        
             .interrogativePronouns: [
                 Question(expression: "хто", translation: "vem", examples: [
                     ("Vem är du?", "Хто ти?"),
@@ -2904,37 +2927,37 @@ struct DataProvider {
             ],
         
             .law: [
-                Question(expression: "закон", translation: "lag", examples: [
+                Question(expression: "закон", translation: "en lag", examples: [
                     ("Det är en viktig lag i Sverige.", "Це важливий закон у Швеції."),
                     ("Vi måste följa lagen.", "Ми повинні дотримуватись закону."),
                     ("Lagen gäller för alla.", "Закон стосується всіх."),
                     ("Han bryter mot lagen.", "Він порушує закон.")
                 ]),
-                Question(expression: "суд", translation: "domstol", examples: [
+                Question(expression: "суд", translation: "en domstol", examples: [
                     ("Han gick till domstolen.", "Він пішов до суду."),
                     ("Domstolen beslutade att han var oskyldig.", "Суд вирішив, що він невинний."),
                     ("Domstolen kommer att avgöra fallet.", "Суд ухвалить рішення по справі."),
                     ("Vi ska ha en domstolsförhandling imorgon.", "Завтра ми будемо мати судове засідання.")
                 ]),
-                Question(expression: "адвокат", translation: "advokat", examples: [
+                Question(expression: "адвокат", translation: "en advokat", examples: [
                     ("Jag har en advokat.", "У мене є адвокат."),
                     ("Hon arbetar som advokat.", "Вона працює адвокатом."),
                     ("Han anlitade en advokat.", "Він найняв адвоката."),
                     ("Advokaten gav mig bra råd.", "Адвокат дав мені хорошу пораду.")
                 ]),
-                Question(expression: "позов", translation: "ansökan", examples: [
+                Question(expression: "позов", translation: "en ansökan", examples: [
                     ("Han lämnade in en ansökan till domstolen.", "Він подав позов до суду."),
                     ("Det är en stor ansökan.", "Це великий позов."),
                     ("Han har inte fått svar på sin ansökan.", "Він не отримав відповіді на свій позов."),
                     ("Ansökan godkändes av domstolen.", "Позов був схвалений судом.")
                 ]),
-                Question(expression: "суддя", translation: "domare", examples: [
+                Question(expression: "суддя", translation: "en domare", examples: [
                     ("Domaren var mycket rättvis.", "Суддя був дуже справедливий."),
                     ("Domaren avslog överklagandet.", "Суддя відхилив апеляцію."),
                     ("Domaren dömde honom till fängelse.", "Суддя засудив його до в'язниці."),
                     ("Domaren leder rättegången.", "Суддя веде судове засідання.")
                 ]),
-                Question(expression: "покарання", translation: "straff", examples: [
+                Question(expression: "покарання", translation: "ett straff", examples: [
                     ("Straffet var mycket strängt.", "Покарання було дуже суворим."),
                     ("Han fick ett lindrigare straff.", "Він отримав більш м'яке покарання."),
                     ("Straffet för brottet är fängelse.", "Покарання за злочин — це в'язниця."),
@@ -2946,19 +2969,19 @@ struct DataProvider {
                     ("Han kämpade för sina rättigheter.", "Він боровся за свої права."),
                     ("Rättigheterna skyddas av lagen.", "Права захищені законом.")
                 ]),
-                Question(expression: "обвинувачення", translation: "anklagelse", examples: [
+                Question(expression: "обвинувачення", translation: "en anklagelse", examples: [
                     ("Anklagelsen var allvarlig.", "Обвинувачення було серйозним."),
                     ("Han förnekade anklagelsen.", "Він заперечував обвинувачення."),
                     ("Anklagelsen mot honom var falsk.", "Обвинувачення проти нього було неправдивим."),
                     ("Rättegången handlade om en allvarlig anklagelse.", "Судовий процес стосувався серйозного обвинувачення.")
                 ]),
-                Question(expression: "свідок", translation: "vittne", examples: [
+                Question(expression: "свідок", translation: "ett vittne", examples: [
                     ("Vittnet gav sitt vittnesmål.", "Свідок дав своє свідчення."),
                     ("Han var ett vittne till olyckan.", "Він був свідком аварії."),
                     ("Vittnet blev kallat till domstolen.", "Свідка викликали до суду."),
                     ("Vittnet berättade vad de hade sett.", "Свідок розповів, що вони бачили.")
                 ]),
-                Question(expression: "договір", translation: "avtal", examples: [
+                Question(expression: "договір", translation: "ett avtal", examples: [
                     ("De undertecknade ett avtal.", "Вони підписали договір."),
                     ("Avtalet gäller i fem år.", "Договір діє протягом п'яти років."),
                     ("De bröt avtalet.", "Вони порушили договір."),
@@ -2970,103 +2993,103 @@ struct DataProvider {
                     ("Föreläsningen handlade om mänskliga rättigheter.", "Лекція була про права людини."),
                     ("Mänskliga rättigheter är universella.", "Права людини є універсальними.")
                 ]),
-                Question(expression: "підозра", translation: "misstanke", examples: [
+                Question(expression: "підозра", translation: "en misstanke", examples: [
                     ("Han var under misstanke för brott.", "Він був під підозрою в злочині."),
                     ("Misstanken mot honom var stark.", "Підозра проти нього була сильна."),
                     ("Det finns en misstanke om bedrägeri.", "Є підозра на шахрайство."),
                     ("Polisen hade ingen misstanke om honom.", "Поліція не мала підозри на нього.")
                 ]),
-                Question(expression: "винувачення", translation: "åtal", examples: [
+                Question(expression: "винувачення", translation: "ett åtal", examples: [
                     ("Åtalet var allvarligt.", "Винувачення було серйозним."),
                     ("Han frikändes från åtalet.", "Його виправдали за звинуваченням."),
                     ("Åtalet väcktes av åklagaren.", "Винувачення було висунуте прокурором."),
                     ("Domstolen behandlade åtalet.", "Суд розглядав звинувачення.")
                 ]),
-                Question(expression: "відшкодування", translation: "skadestånd", examples: [
+                Question(expression: "відшкодування", translation: "ett skadestånd", examples: [
                     ("Han kräver skadestånd för skadorna.", "Він вимагає відшкодування за збитки."),
                     ("Skadeståndet blev fastställt av domstolen.", "Відшкодування було встановлено судом."),
                     ("Företaget betalade skadestånd.", "Компанія виплатила відшкодування."),
                     ("Hon begärde skadestånd för förlorad inkomst.", "Вона вимагала відшкодування за втрачені доходи.")
                 ]),
-                Question(expression: "виконання", translation: "fullföljande", examples: [
+                Question(expression: "виконання", translation: "ett fullföljande", examples: [
                     ("Fullföljandet av domen är viktigt.", "Виконання вироку є важливим."),
                     ("De fullföljde avtalet utan problem.", "Вони виконали договір без проблем."),
                     ("Fullföljandet av rättsprocessen tog lång tid.", "Виконання судового процесу зайняло багато часу."),
                     ("Fullföljande av alla regler är nödvändigt.", "Виконання всіх правил є необхідним.")
                 ]),
-                Question(expression: "права власності", translation: "egendomrätt", examples: [
+                Question(expression: "права власності", translation: "en egendomrätt", examples: [
                     ("Egendomrätten skyddas av lagen.", "Право власності захищається законом."),
                     ("Han har rätt till sin egendom.", "Він має право на свою власність."),
                     ("Domstolen avgjorde tvisten om egendomrätten.", "Суд вирішив спір про право власності."),
                     ("Egendomrätt innebär kontroll över din fastighet.", "Право власності означає контроль над твоєю нерухомістю.")
                 ]),
-                Question(expression: "порушення", translation: "brott", examples: [
-                    ("Det var ett allvarligt brott.", "Це було серйозне порушення."),
-                    ("Han erkände sitt brott.", "Він визнав своє порушення."),
-                    ("Brottet var mycket välplanerat.", "Порушення було дуже добре сплановане."),
-                    ("Domstolen dömde honom för brottet.", "Суд засудив його за порушення.")
+                Question(expression: "порушення", translation: "en Överträdelse", examples: [
+                    ("Föraren fick böter för överträdelse av trafikreglerna.", "Водій отримав штраф за порушення правил дорожнього руху."),
+                    ("Brott mot tystnadsregler efter 22:00 bestraffas med böter.", "Порушення тиші після 22:00 карається штрафом."),
+                    ("Denna avtalsöverträdelse kan leda till uppsägning.", "Це порушення договору може призвести до його анулювання."),
+                    ("Domstolen behandlar ett fall av upphovsrättsintrång.", "Суд розглядає справу про порушення авторських прав.")
                 ]),
-                Question(expression: "відповідальність", translation: "ansvar", examples: [
+                Question(expression: "відповідальність", translation: "ett ansvar", examples: [
                     ("Han har ett stort ansvar.", "Він має велике відповідальність."),
                     ("Det är mitt ansvar att följa lagen.", "Це моя відповідальність — дотримуватись закону."),
                     ("Företaget har ansvar för sina anställda.", "Компанія несе відповідальність за своїх працівників."),
                     ("Domstolen fastställde hans ansvar för skadorna.", "Суд визначив його відповідальність за збитки.")
                 ]),
-                Question(expression: "слідчий", translation: "utredare", examples: [
+                Question(expression: "слідчий", translation: "en utredare", examples: [
                     ("Utredaren undersöker fallet.", "Слідчий розслідує справу."),
                     ("Han pratade med utredaren igår.", "Він говорив з слідчим вчора."),
                     ("Utredaren samlade bevis.", "Слідчий зібрав докази."),
                     ("Utredaren arbetade lång tid på fallet.", "Слідчий працював над справою довгий час.")
                 ]),
-                Question(expression: "злочин", translation: "brott", examples: [
+                Question(expression: "злочин", translation: "ett brott", examples: [
                     ("Han åtalades för ett brott.", "Його звинуватили у злочині."),
                     ("Brottet begicks på natten.", "Злочин був скоєний вночі."),
                     ("Det är ett allvarligt brott.", "Це серйозний злочин."),
                     ("Polisen utreder brottet.", "Поліція розслідує злочин.")
                 ]),
-                Question(expression: "свідчення", translation: "vittnesmål", examples: [
+                Question(expression: "свідчення", translation: "ett vittnesmål", examples: [
                     ("Vittnesmålet var avgörande för fallet.", "Свідчення були вирішальними для справи."),
                     ("Hans vittnesmål var trovärdigt.", "Його свідчення були правдоподібними."),
                     ("Vittnesmålet presenterades i domstolen.", "Свідчення були представлені в суді."),
                     ("Domaren lyssnade på vittnesmålet.", "Суддя вислухав свідчення.")
                 ]),
-                Question(expression: "обвинувач", translation: "åklagare", examples: [
+                Question(expression: "обвинувач", translation: "en åklagare", examples: [
                     ("Åklagaren lade fram bevisen.", "Прокурор надав докази."),
                     ("Åklagaren ville att han skulle dömas.", "Прокурор хотів, щоб його засудили."),
                     ("Åklagaren representerade staten i rättegången.", "Прокурор представляв державу в суді."),
                     ("Han hade en diskussion med åklagaren.", "Він мав розмову з прокурором.")
                 ]),
-                Question(expression: "справа", translation: "mål", examples: [
+                Question(expression: "справа", translation: "ett mål", examples: [
                     ("Rättegången handlar om ett stort mål.", "Судова справа стосується великої справи."),
                     ("Domstolen beslutade i målet.", "Суд ухвалив рішення по справі."),
                     ("Det är ett komplicerat mål.", "Це складна справа."),
                     ("Vi har en rättsprocess på gång.", "У нас є поточна судова справа.")
                 ]),
-                Question(expression: "ухвала", translation: "dom", examples: [
+                Question(expression: "ухвала", translation: "en dom", examples: [
                     ("Domaren lämnade en dom.", "Суддя виніс вирок."),
                     ("Domen var mycket tydlig.", "Вирок був дуже чітким."),
                     ("De överklagade domen.", "Вони подали апеляцію на вирок."),
                     ("Domen ska verkställas nästa vecka.", "Вирок буде виконано наступного тижня.")
                 ]),
-                Question(expression: "співучасть", translation: "medverkan", examples: [
+                Question(expression: "співучасть", translation: "en medverkan", examples: [
                     ("Hans medverkan i brottet var avgörande.", "Його участь у злочині була вирішальною."),
                     ("De misstänker hans medverkan.", "Вони підозрюють його участь."),
                     ("Medverkan i brott kan leda till straff.", "Участь у злочині може призвести до покарання."),
                     ("Han nekade till sin medverkan.", "Він заперечував свою участь.")
                 ]),
-                Question(expression: "захист", translation: "försvar", examples: [
+                Question(expression: "захист", translation: "ett försvar", examples: [
                     ("Han hade ett starkt försvar.", "Він мав сильний захист."),
                     ("Försvaret hävdade att han var oskyldig.", "Захист стверджував, що він невинний."),
                     ("Advokaten talade för hans försvar.", "Адвокат говорив на його захист."),
                     ("Försvaret presenterade sina bevis.", "Захист представив свої докази.")
                 ]),
-                Question(expression: "порушення прав", translation: "rättighetsbrott", examples: [
+                Question(expression: "порушення прав", translation: "ett rättighetsbrott", examples: [
                     ("Det var ett allvarligt rättighetsbrott.", "Це було серйозне порушення прав."),
                     ("De anmälde rättighetsbrottet till domstolen.", "Вони подали заяву про порушення прав до суду."),
                     ("Rättighetsbrott kan leda till straff.", "Порушення прав може призвести до покарання."),
                     ("Vi måste skydda våra rättighetsbrott.", "Ми повинні захищати наші порушення прав.")
                 ]),
-                Question(expression: "слідство", translation: "utredning", examples: [
+                Question(expression: "слідство", translation: "en utredning", examples: [
                     ("Utredningen pågår fortfarande.", "Розслідування все ще триває."),
                     ("Polisen inledde en utredning.", "Поліція розпочала розслідування."),
                     ("Utredningen ledde till ett gripande.", "Розслідування призвело до арешту."),
@@ -3075,97 +3098,91 @@ struct DataProvider {
             ],
         
             .marketing: [
-                Question(expression: "маркетинг", translation: "marknadsföring", examples: [
+                Question(expression: "маркетинг", translation: "en marknadsföring", examples: [
                     ("Marknadsföring är viktig för företaget.", "Маркетинг є важливим для компанії."),
                     ("De arbetar med digital marknadsföring.", "Вони працюють з цифровим маркетингом."),
                     ("Marknadsföring handlar om att förstå kunden.", "Маркетинг полягає у розумінні клієнта."),
                     ("Effektiv marknadsföring kan öka försäljningen.", "Ефективний маркетинг може збільшити продажі.")
                 ]),
-                Question(expression: "реклама", translation: "reklam", examples: [
+                Question(expression: "реклама", translation: "en reklam", examples: [
                     ("Reklamen nådde många människor.", "Реклама досягла багатьох людей."),
                     ("Vi såg en reklam på tv.", "Ми побачили рекламу по телевізору."),
                     ("Reklamen var mycket kreativ.", "Реклама була дуже креативною."),
                     ("De satsar mycket på online reklam.", "Вони багато інвестують в онлайн-рекламу.")
                 ]),
-                Question(expression: "цільова аудиторія", translation: "målgrupp", examples: [
+                Question(expression: "цільова аудиторія", translation: "en målgrupp", examples: [
                     ("Målgruppen för denna produkt är unga människor.", "Цільова аудиторія для цього продукту — молоді люди."),
                     ("För att lyckas måste du känna din målgrupp.", "Щоб досягти успіху, потрібно знати свою цільову аудиторію."),
                     ("Målgruppen för vår kampanj är professionella.", "Цільова аудиторія нашої кампанії — професіонали."),
                     ("Marknadsföring bör anpassas till målgruppen.", "Маркетинг має бути адаптований до цільової аудиторії.")
                 ]),
-                Question(expression: "бренд", translation: "varumärke", examples: [
+                Question(expression: "бренд", translation: "ett varumärke", examples: [
                     ("Apple är ett välkänt varumärke.", "Apple — це відоме брендові."),
                     ("Bilden av varumärket är väldigt viktig.", "Образ бренду дуже важливий."),
                     ("Vi måste bygga ett starkt varumärke.", "Ми повинні побудувати сильний бренд."),
                     ("Varumärket representerar företagets värderingar.", "Бренд представляє цінності компанії.")
                 ]),
-                Question(expression: "стратегія", translation: "strategi", examples: [
+                Question(expression: "стратегія", translation: "en strategi", examples: [
                     ("Vår marknadsföringsstrategi fokuserar på digitala kanaler.", "Наша маркетингова стратегія орієнтована на цифрові канали."),
                     ("Strategin syftar till att öka marknadsandelen.", "Стратегія спрямована на збільшення частки на ринку."),
                     ("Vi utvecklar en ny strategi för att attrahera kunder.", "Ми розробляємо нову стратегію для залучення клієнтів."),
                     ("Strategin innebär att vi ska öka vår synlighet online.", "Стратегія полягає в тому, щоб збільшити нашу видимість в Інтернеті.")
                 ]),
-                Question(expression: "аналітика", translation: "analys", examples: [
-                    ("Vi använder analys för att förbättra vår marknadsföring.", "Ми використовуємо аналітику для покращення нашого маркетингу."),
-                    ("Analys av kunddata är viktigt för beslut.", "Аналіз даних клієнтів є важливим для прийняття рішень."),
-                    ("Vi gör en analys av våra kampanjer.", "Ми робимо аналіз наших кампаній."),
-                    ("Med hjälp av analys kan vi förstå trenderna.", "За допомогою аналітики ми можемо зрозуміти тенденції.")
-                ]),
-                Question(expression: "кампанія", translation: "kampanj", examples: [
+                Question(expression: "кампанія", translation: "en kampanj", examples: [
                     ("Vi lanserade en ny kampanj för produkten.", "Ми запустили нову кампанію для продукту."),
                     ("Kampanjen var mycket framgångsrik.", "Кампанія була дуже успішною."),
                     ("Vi planerar en kampanj för att öka försäljningen.", "Ми плануємо кампанію для збільшення продажів."),
                     ("Kampanjen nådde många människor på sociala medier.", "Кампанія досягла багатьох людей у соціальних мережах.")
                 ]),
-                Question(expression: "підприємство", translation: "företag", examples: [
+                Question(expression: "підприємство", translation: "ett företag", examples: [
                     ("Företaget har vuxit snabbt.", "Компанія швидко зростає."),
                     ("Vi har ett framgångsrikt företag.", "Ми маємо успішну компанію."),
                     ("Företaget investerar mycket i marknadsföring.", "Компанія багато інвестує в маркетинг."),
                     ("Företaget fokuserar på hållbarhet.", "Компанія орієнтована на стійкість.")
                 ]),
-                Question(expression: "ціна", translation: "pris", examples: [
+                Question(expression: "ціна", translation: "ett pris", examples: [
                     ("Priset på produkten är konkurrensmässigt.", "Ціна продукту є конкурентною."),
                     ("Vi behöver justera vårt pris för att bli mer konkurrensdugliga.", "Нам потрібно відкоригувати ціну, щоб стати більш конкурентоспроможними."),
                     ("Högt pris kan påverka försäljningen negativt.", "Висока ціна може негативно вплинути на продажі."),
                     ("De erbjöd ett rabatterat pris på produkten.", "Вони запропонували знижку на продукт.")
                 ]),
-                Question(expression: "переконання", translation: "övertygelse", examples: [
+                Question(expression: "переконання", translation: "en övertygelse", examples: [
                     ("Vår övertygelse är att kvalitet är viktigast.", "Наша переконаність полягає в тому, що якість найважливіша."),
                     ("Marknadsföringen bygger på övertygelse om produktens värde.", "Маркетинг ґрунтується на переконанні в цінності продукту."),
                     ("Övertygelse är avgörande för att påverka kunden.", "Переконання є вирішальним для впливу на клієнта."),
                     ("För att lyckas måste du ha en stark övertygelse.", "Щоб досягти успіху, потрібно мати сильну переконаність.")
                 ]),
-                Question(expression: "публікація", translation: "publicering", examples: [
+                Question(expression: "публікація", translation: "en publicering", examples: [
                     ("Publiceringen av artikeln var en stor framgång.", "Публікація статті була великим успіхом."),
                     ("Vi planerar en publicering av vår nya rapport.", "Ми плануємо публікацію нашого нового звіту."),
                     ("Publicering på sociala medier är en viktig del av marknadsföring.", "Публікація в соціальних мережах є важливою частиною маркетингу."),
                     ("De förbereder en publicering för att lansera produkten.", "Вони готують публікацію для запуску продукту.")
                 ]),
-                Question(expression: "клієнт", translation: "kund", examples: [
+                Question(expression: "клієнт", translation: "en kund", examples: [
                     ("Vår kundservice är tillgänglig dygnet runt.", "Наша служба підтримки клієнтів доступна цілодобово."),
                     ("Kundernas behov är i centrum för vår marknadsföring.", "Потреби клієнтів знаходяться в центрі нашого маркетингу."),
                     ("Vi erbjuder rabatter för våra lojala kunder.", "Ми пропонуємо знижки для наших лояльних клієнтів."),
                     ("Kundfeedback är viktig för att förbättra produkten.", "Зворотній зв'язок від клієнтів важливий для покращення продукту.")
                 ]),
-                Question(expression: "продаж", translation: "försäljning", examples: [
+                Question(expression: "продаж", translation: "en försäljning", examples: [
                     ("Försäljningen har ökat med 20%.", "Продажі зросли на 20%."),
                     ("Vår försäljningsstrategi är att erbjuda rabatter.", "Наша стратегія продажів полягає в тому, щоб пропонувати знижки."),
                     ("Försäljningen sker både online och i butik.", "Продажі здійснюються як онлайн, так і в магазині."),
                     ("De förutspår en ökning av försäljningen under nästa kvartal.", "Прогнозується збільшення продажів наступного кварталу.")
                 ]),
-                Question(expression: "ціль", translation: "mål", examples: [
+                Question(expression: "ціль", translation: "ett mål", examples: [
                     ("Vårt mål är att öka marknadsandelen.", "Наша мета — збільшити частку на ринку."),
                     ("Vi satte upp tydliga mål för kampanjen.", "Ми визначили чіткі цілі для кампанії."),
                     ("Målet är att förbättra kundnöjdheten.", "Метою є покращення задоволеності клієнтів."),
                     ("Vi arbetar mot våra långsiktiga mål.", "Ми працюємо над досягненням наших довгострокових цілей.")
                 ]),
-                Question(expression: "аналіз", translation: "analys", examples: [
+                Question(expression: "аналіз", translation: "en analys", examples: [
                     ("Vi gör en analys av kundbeteendet.", "Ми робимо аналіз поведінки клієнтів."),
                     ("Analysen visar att vi behöver ändra vår strategi.", "Аналіз показує, що нам потрібно змінити стратегію."),
                     ("Analys av marknaden är viktigt för att fatta beslut.", "Аналіз ринку важливий для прийняття рішень."),
                     ("Vi använder analys för att förbättra våra kampanjer.", "Ми використовуємо аналіз для покращення наших кампаній.")
                 ]),
-                Question(expression: "інтернет-маркетинг", translation: "internetmarknadsföring", examples: [
+                Question(expression: "інтернет-маркетинг", translation: "en internetmarknadsföring", examples: [
                     ("Інтернет-маркетинг став ключовим елементом сучасних стратегій.", "Internetmarknadsföring har blivit en nyckelfaktor i moderna strategier."),
                     ("Ми інвестуємо в інтернет-маркетинг для залучення нових клієнтів.", "Vi investerar i internetmarknadsföring för att attrahera nya kunder."),
                     ("Інтернет-маркетинг включає SEO, рекламу та соціальні мережі.", "Internetmarknadsföring omfattar SEO, annonsering och sociala medier."),
@@ -3177,61 +3194,61 @@ struct DataProvider {
                     ("Інфлюенсери використовують соціальні мережі для просування товарів.", "Influencers använder sociala medier för att marknadsföra produkter."),
                     ("Соціальні мережі дозволяють здійснювати прямий контакт з клієнтами.", "Sociala medier möjliggör direkt kontakt med kunder.")
                 ]),
-                Question(expression: "бюджет", translation: "budget", examples: [
+                Question(expression: "бюджет", translation: "en budget", examples: [
                     ("Ми плануємо розподілити бюджет на маркетинг.", "Vi planerar att fördela budgeten på marknadsföring."),
                     ("Бюджет кампанії обмежений, тому потрібно бути креативними.", "Kampanjens budget är begränsad, så vi måste vara kreativa."),
                     ("Нам потрібно скоротити бюджет на рекламу.", "Vi behöver minska reklamens budget."),
                     ("Бюджет на маркетинг збільшиться наступного року.", "Marknadsföringsbudgeten kommer att öka nästa år.")
                 ]),
-                Question(expression: "пошукова оптимізація", translation: "sökmotoroptimering", examples: [
+                Question(expression: "пошукова оптимізація", translation: "en sökmotoroptimering", examples: [
                     ("Пошукова оптимізація є важливою для залучення органічного трафіку.", "Sökmotoroptimering är viktigt för att locka organisk trafik."),
                     ("Ми найняли фахівця для покращення пошукової оптимізації.", "Vi har anställt en specialist för att förbättra sökmotoroptimeringen."),
                     ("Пошукова оптимізація допомагає підвищити рейтинг сайту.", "Sökmotoroptimering hjälper till att förbättra webbplatsens rankning."),
                     ("Ми регулярно оновлюємо наш сайт для покращення пошукової оптимізації.", "Vi uppdaterar regelbundet vår webbplats för att förbättra sökmotoroptimeringen.")
                 ]),
-                Question(expression: "контент-маркетинг", translation: "innehållsmarknadsföring", examples: [
+                Question(expression: "контент-маркетинг", translation: "en innehållsmarknadsföring", examples: [
                     ("Контент-маркетинг допомагає залучити клієнтів через корисний контент.", "Innehållsmarknadsföring hjälper till att attrahera kunder genom nyttigt innehåll."),
                     ("Ми запускаємо нову стратегію контент-маркетингу.", "Vi lanserar en ny innehållsmarknadsföringsstrategi."),
                     ("Контент-маркетинг фокусується на створенні цінного контенту.", "Innehållsmarknadsföring fokuserar på att skapa värdefullt innehåll."),
                     ("Добре виконаний контент-маркетинг збільшує впізнаваність бренду.", "Väl utförd innehållsmarknadsföring ökar varumärkets kännedom.")
                 ]),
-                Question(expression: "підписка", translation: "prenumeration", examples: [
+                Question(expression: "підписка", translation: "en prenumeration", examples: [
                     ("Вони пропонують підписку на свій сервіс.", "De erbjuder prenumeration på sin tjänst."),
                     ("Ми хочемо збільшити кількість підписок на наші послуги.", "Vi vill öka antalet prenumerationer på våra tjänster."),
                     ("Підписка на наші оновлення допоможе залишатися в курсі.", "Prenumeration på våra uppdateringar hjälper till att hålla sig uppdaterad."),
                     ("Ми знижуємо ціну на першу підписку.", "Vi sänker priset på första prenumerationen.")
                 ]),
-                Question(expression: "конверсія", translation: "konvertering", examples: [
+                Question(expression: "конверсія", translation: "en konvertering", examples: [
                     ("Покращення конверсії є важливим для бізнесу.", "Att förbättra konverteringen är viktigt för företaget."),
                     ("Ми спостерігаємо високий рівень конверсії після оновлення сайту.", "Vi ser en hög konverteringsgrad efter webbplatsens uppdatering."),
                     ("Ми працюємо над підвищенням конверсії на нашій посадковій сторінці.", "Vi arbetar med att öka konverteringen på vår landningssida."),
                     ("Конверсія з рекламної кампанії виявилася вищою, ніж очікувалося.", "Konverteringen från reklamkampanjen var högre än förväntat.")
                 ]),
-                Question(expression: "знижка", translation: "rabatt", examples: [
+                Question(expression: "знижка", translation: "en rabatt", examples: [
                     ("Ми пропонуємо знижки для нових клієнтів.", "Vi erbjuder rabatter för nya kunder."),
                     ("Знижка на цей товар діє тільки до кінця тижня.", "Rabatten på denna produkt gäller endast fram till slutet av veckan."),
                     ("Ми надаємо знижку за попереднє замовлення.", "Vi erbjuder rabatt för förbeställningar."),
                     ("Знижки доступні при покупці більше ніж на 500 грн.", "Rabatter är tillgängliga vid köp över 500 SEK.")
                 ]),
-                Question(expression: "бренд-амбасадор", translation: "varumärkesambassadör", examples: [
+                Question(expression: "бренд-амбасадор", translation: "en varumärkesambassadör", examples: [
                     ("Вони найняли відомого спортсмена як бренд-амбасадора.", "De anställde en känd idrottare som varumärkesambassadör."),
                     ("Бренд-амбасадори допомагають зміцнити імідж бренду.", "Varumärkesambassadörer hjälper till att stärka varumärkets image."),
                     ("Ми шукаємо бренд-амбасадора для нашої нової кампанії.", "Vi söker en varumärkesambassadör för vår nya kampanj."),
                     ("Бренд-амбасадор може значно підвищити впізнаваність бренду.", "En varumärkesambassadör kan avsevärt öka varumärkets kännedom.")
                 ]),
-                Question(expression: "реклама в пошукових системах", translation: "sökmotorannonsering", examples: [
+                Question(expression: "реклама в пошукових системах", translation: "en sökmotorannonsering", examples: [
                     ("Реклама в пошукових системах допомагає залучити клієнтів.", "Sökmotorannonsering hjälper till att attrahera kunder."),
                     ("Ми плануємо запустити рекламу в пошукових системах для нашого нового продукту.", "Vi planerar att starta sökmotorannonsering för vår nya produkt."),
                     ("Реклама в пошукових системах дозволяє націлюватися на конкретну аудиторію.", "Sökmotorannonsering gör det möjligt att rikta sig till en specifik publik."),
                     ("Ми збільшили витрати на рекламу в пошукових системах для покращення результатів.", "Vi har ökat vår budget för sökmotorannonsering för att förbättra resultaten.")
                 ]),
-                Question(expression: "інфлюенсер", translation: "influencer", examples: [
+                Question(expression: "інфлюенсер", translation: "en influencer", examples: [
                     ("Інфлюенсери можуть значно вплинути на рішення покупців.", "Influencers kan ha stor påverkan på köparbeslut."),
                     ("Вони співпрацюють з інфлюенсерами для просування своїх продуктів.", "De samarbetar med influencers för att marknadsföra sina produkter."),
                     ("Інфлюенсери стали важливою частиною сучасних маркетингових стратегій.", "Influencers har blivit en viktig del av moderna marknadsföringsstrategier."),
                     ("Ми підписали угоду з інфлюенсером для нашої нової рекламної кампанії.", "Vi har ingått ett avtal med en influencer för vår nya reklamkampanj.")
                 ]),
-                Question(expression: "повідомлення", translation: "meddelande", examples: [
+                Question(expression: "повідомлення", translation: "ett meddelande", examples: [
                     ("Повідомлення повинно бути чітким і зрозумілим для клієнта.", "Meddelandet bör vara klart och tydligt för kunden."),
                     ("Ми надіслали повідомлення всім підписникам.", "Vi skickade meddelanden till alla prenumeranter."),
                     ("Повідомлення має бути персоналізованим для кращої взаємодії.", "Meddelandet bör vara personligt för bättre interaktion."),
