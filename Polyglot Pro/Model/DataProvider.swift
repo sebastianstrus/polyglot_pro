@@ -115,11 +115,11 @@ struct DataProvider {
                 ("Sonen hjälper sin pappa.", "Син допомагає своєму татові."),
                 ("Sonen gillar att läsa böcker.", "Сину подобається читати книги.")
             ]),
-            Question(expression: "батько", translation: "en förälder", examples: [
-                ("Föräldrar är viktiga för barn.", "Батьки важливі для дітей."),
-                ("Varje förälder vill det bästa för sitt barn.", "Кожен батько хоче найкращого для своєї дитини."),
-                ("Föräldrar arbetar hårt.", "Батьки багато працюють."),
-                ("Föräldrar är stolta över sina barn.", "Батьки пишаються своїми дітьми.")
+            Question(expression: "батько/мати", translation: "en förälder", examples: [
+                ("Min förälder hjälper mig med läxan.", "Мій батько/мати допомагає мені з домашнім завданням."),
+                ("Som förälder har man mycket ansvar.", "Як батько/мати, маєш багато відповідальності."),
+                ("Mina föräldrar jobbar på sjukhuset.", "Мої батьки працюють у лікарні."),
+                ("En förälder älskar alltid sitt barn.", "Батько/мати завжди любить свою дитину.")
             ]),
             Question(expression: "тато", translation: "en pappa", examples: [
                 ("Pappan lagar mat.", "Тато готує їжу."),
