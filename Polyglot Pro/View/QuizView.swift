@@ -11,10 +11,28 @@ struct QuizView: View {
     @ObservedObject var viewModel: LearnViewModel
     @Binding var showMenu: Bool
     
+    let hintFontSize: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 24
+        default: return 20
+        }
+    }()
+    
+    let lineWidth: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 5
+        default: return 3
+        }
+    }()
+    
     var body: some View {
         VStack(spacing: 20) {
-            HStack {
-                HStack {
+            
+            ZStack {
+                
+                
+                
+                HStack() {
                     Button(action: {
                         showMenu = true
                     }) {
@@ -22,58 +40,56 @@ struct QuizView: View {
                             .styledButton()
                     }.buttonStyle(ScaleButtonStyle())
                     
-                    Text("\(viewModel.currentIndex + 1)/\(viewModel.questions.count)")
-                        .font(.system(size: 30, weight: .bold, design: .rounded))
-                        .foregroundColor(.purple)
-                        .padding()
+                    if Platform.current == .macOS {
+                        Text("\(viewModel.currentIndex + 1)/\(viewModel.questions.count)")
+                            .font(.system(size: 30, weight: .bold, design: .rounded))
+                            .foregroundColor(.purple)
+                            .padding()
+                    }
+                    
+                    
+                    
                     
                     Spacer()
-                }
-                .frame(width: 400)
-                
-                Spacer()
-                
-                Text(viewModel.category.rawValue)
-                    .font(.system(size: 36, weight: .bold, design: .rounded))
-                    .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
-                
-                Spacer()
-                
-                HStack {
-                    Spacer()
+                    
                     
                     Text(viewModel.missCount > 0 ? "Fel: \(viewModel.missCount)" : "")
                         .font(.system(size: 20, weight: .regular, design: .rounded))
                         .foregroundColor(.red)
                         .padding(.trailing, 16)
                     
-                    Button(action: {
-                        viewModel.toggleSound()
-                    }) {
-                        Image(systemName: viewModel.isSoundOn ? "speaker.wave.2.fill" : "speaker.slash.fill")
-                            .styledButton()
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    Slider(value: $viewModel.speechRate, in: 0.1...0.6, step: 0.1)
-                        .styledSlider()
+                    if Platform.current == .macOS {
+                        
+                        
+                        Button(action: {
+                            viewModel.toggleSound()
+                        }) {
+                            Image(systemName: viewModel.isSoundOn ? "speaker.wave.2.fill" : "speaker.slash.fill")
+                                .styledButton()
+                        }.buttonStyle(ScaleButtonStyle())
+                        
+                        Slider(value: $viewModel.speechRate, in: 0.1...0.6, step: 0.1)
+                            .styledSlider()
+                    }
                 }
-                .frame(width: 400)
+                
+                Text(viewModel.category.rawValue)
+                    .styledTitel()
             }
             .padding()
             .padding(.top, 4)
             
             Text(viewModel.questions[viewModel.currentIndex].expression)
-                .font(.system(size: 60, weight: .bold, design: .rounded))
-                .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                .styledTitel()
                 .padding()
             
             Text(viewModel.questions[viewModel.currentIndex].translation)
-                .font(.system(size: 24, weight: .regular, design: .rounded))
+                .font(.system(size: hintFontSize, weight: .regular, design: .rounded))
                 .foregroundColor(.red)
                 .padding()
                 .opacity(viewModel.showHint ? 1 : 0)
             
-            TextField("Ange översättning", text: $viewModel.userInput, onCommit: {
+            CustomTextField("Ange översättning", text: $viewModel.userInput, isCorrect: $viewModel.isCorrect, onCommit: {
                 if viewModel.isCorrect == nil || viewModel.isCorrect == false {
                     viewModel.checkAnswer()
                 } else {
@@ -81,6 +97,9 @@ struct QuizView: View {
                 }
             })
             .styledTextField(isCorrect: viewModel.isCorrect, shake: viewModel.shake)
+
+            
+            
             
             HStack {
                 Button(action: {
@@ -103,9 +122,9 @@ struct QuizView: View {
                     }
                 }) {
                     Text(viewModel.isCorrect == true ? "Next" : "Check")
-                        .styledButton()
+                        .styledButton(.secondary)
                 }.buttonStyle(ScaleButtonStyle())
-                .frame(width: 350, height: 50)
+//                .frame(width: 350, height: 50)
                 
                 Button(action: {
                     viewModel.showHint = true
@@ -129,6 +148,6 @@ struct QuizView: View {
             
             Spacer()
         }
-        .frame(minWidth: 1100, maxWidth: .infinity, minHeight: 800, maxHeight: .infinity)
+        //.frame(minWidth: 1100, maxWidth: .infinity, minHeight: 800, maxHeight: .infinity)
     }
 }

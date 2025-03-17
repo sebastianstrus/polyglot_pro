@@ -31,6 +31,32 @@ enum QuestionCategory: String, CaseIterable {
     case interrogativePronouns = "Frågande pronomen"
     case law = "Lag"
     case marketing = "Marknadsföring"
+    
+    /*case homework12 = "1. Lexa2"
+    case homework22 = "2. Lexa2"
+    case homework32 = "3. Lexa2"
+    case homework42 = "4. Lexa2"
+    case homework52 = "5. Lexa2"
+    case weekdays2 = "Veckodagar2"
+    case months2 = "Månader2"
+    case modalVerbs2 = "Modala verb2"
+    case verbs2 = "Verb2"
+    case time2 = "Tidsuttryck2"
+    case vegetables2 = "Grönsaker2"
+    case fruits2 = "Frukter2"
+    case bodyParts2 = "Kroppsdelar2"
+    case colors2 = "Färger2"
+    case shoppingNouns2 = "Shopping2"
+    case home2 = "Hem2"
+    case family2 = "Familj2"
+    case professions2 = "Yrken2"
+    case animals2 = "Djur2"
+    case transport2 = "Transport2"
+    case numbers2 = "Tal2"
+    case ordinalNumbers2 = "Ordningstal2"
+    case interrogativePronouns2 = "Frågande pronomen2"
+    case law2 = "Lag2"
+    case marketing2 = "Marknadsföring2"*/
 }
 
 // röd, blå, gul, grön, orange, lila, svart, bit, brun, rosa, ung, ny, gammal, lång, randig, rutig, prickig, blommig, stor, liten, kort, glad, ledsen
@@ -3254,7 +3280,103 @@ struct DataProvider {
                     ("Повідомлення має бути персоналізованим для кращої взаємодії.", "Meddelandet bör vara personligt för bättre interaktion."),
                     ("Ми отримали багато позитивних повідомлень від наших клієнтів.", "Vi har fått många positiva meddelanden från våra kunder.")
                 ])
-            ]
+            ],
+        /*.homework12: [
+            
+        ],
+        .homework22: [
+            
+        ],
+        .homework32: [
+            
+        ],
+        .homework42: [
+            
+        ],
+        .homework52: [
+            
+        ],
+        .weekdays2: [
+            
+        ],
+        
+            .months2: [
+                
+            ],
+        
+            .modalVerbs2: [
+                
+            ],
+        
+            .bodyParts2: [
+                
+            ],
+        
+            .colors2: [
+                
+            ],
+        
+            .verbs2: [
+                
+            ],
+        
+            .vegetables2: [
+                
+            ],
+        
+            .fruits2: [
+                
+            ],
+            .time2: [
+                
+                
+                
+                
+            ],
+        
+        
+        
+            .shoppingNouns2: [
+                
+                
+                
+                
+            ],
+        
+            .home2: [
+                
+            ],
+        
+            .family2: [
+                
+            ],
+        
+            .professions2: [
+                
+            ],
+        
+            .animals2: [
+                
+            ],
+        
+            .transport2: [
+                
+            ],
+        
+            .numbers2: [
+                
+            ],
+        
+            .ordinalNumbers2: [
+                
+            ],
+        
+            .law2: [
+                
+                
+            ],
+        
+            .marketing2: []*/
         
     ]
     

@@ -9,17 +9,35 @@ import SwiftUI
 
 @main
 struct Polyglot_ProApp: App {
+    
+    let minWidth: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 1350
+        default: return 100
+        }
+    }()
+    
+    let minHeight: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 800
+        default: return 100
+        }
+    }()
+    
+    
     init() {
+#if os(macOS)
         Task {
             NSApp.appearance = NSAppearance(named: .aqua)
         }
-        
+#endif
     }
     
     var body: some Scene {
         WindowGroup {
-            ContentView()
-                .frame(minWidth:1200, maxWidth: .infinity, minHeight: 800, maxHeight: .infinity)
+            MainMenuView()
+                .frame(minWidth: minWidth, maxWidth: .infinity, minHeight: minHeight, maxHeight: .infinity)
+                .preferredColorScheme(.light)
         }
     }
 }

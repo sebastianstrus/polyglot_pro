@@ -43,7 +43,7 @@ class LearnViewModel: ObservableObject {
         self.speechRate = UserDefaults.standard.float(forKey: "speechRate")
         self.isSoundOn = UserDefaults.standard.bool(forKey: "speechOn")
         
-        if self.speechRate == 0 { self.speechRate = 0.5 }
+        if self.speechRate == 0 { self.speechRate = 0.3 }
     }
     
     func checkAnswer() {
