@@ -46,9 +46,10 @@ class LearnViewModel: ObservableObject {
         if self.speechRate == 0 { self.speechRate = 0.3 }
     }
     
-    func checkAnswer() {
-        guard !userInput.isEmpty else { return }
+    func checkAnswer() -> Bool? {
+        guard !userInput.isEmpty else { return nil }
         isCorrect = userInput.lowercased() == questions[currentIndex].translation.lowercased()
+        
         if isCorrect == true {
             if isSoundOn {
                 speak(text: questions[currentIndex].translation)
@@ -61,6 +62,7 @@ class LearnViewModel: ObservableObject {
             
             shakeTextField()
         }
+        return isCorrect
     }
     
     func shakeTextField() {

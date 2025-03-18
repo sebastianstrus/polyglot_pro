@@ -155,8 +155,7 @@ extension View {
             .frame(width: width, height: height)
             .background(Color.white)
             .cornerRadius(radius)
-        
-        
+            .allowsHitTesting(!(isCorrect ?? false))
             .disableAutocorrection(true)
             .overlay(
                 RoundedRectangle(cornerRadius: radius)

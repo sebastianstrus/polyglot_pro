@@ -10,6 +10,9 @@ import SwiftUI
 struct QuizView: View {
     @ObservedObject var viewModel: LearnViewModel
     @Binding var showMenu: Bool
+    @FocusState private var isTextFieldFocused: Bool
+    
+
     
     let hintFontSize: CGFloat = {
         switch Platform.current {
@@ -89,14 +92,26 @@ struct QuizView: View {
                 .padding()
                 .opacity(viewModel.showHint ? 1 : 0)
             
+
             CustomTextField("Ange översättning", text: $viewModel.userInput, isCorrect: $viewModel.isCorrect, onCommit: {
-                if viewModel.isCorrect == nil || viewModel.isCorrect == false {
-                    viewModel.checkAnswer()
-                } else {
+                print("TEST100 onCommit")
+                if viewModel.isCorrect == true {
                     viewModel.nextQuestion()
+                    isTextFieldFocused = true
+                    
+                } else {
+                    if let isCorrect = viewModel.checkAnswer() {
+                        print("TEST100 isCorrect: \(isCorrect)")
+                        if Platform.current != Platform.macOS {
+                            isTextFieldFocused = !isCorrect
+                        }
+                        
+                    }
+                    
                 }
             })
             .styledTextField(isCorrect: viewModel.isCorrect, shake: viewModel.shake)
+            .focused($isTextFieldFocused)// prevents hiding keyboard on iPhone when incorrect
 
             
             
@@ -115,10 +130,20 @@ struct QuizView: View {
                 .padding(10)
                 
                 Button(action: {
+                    print("TEST100 buttonClicked")
                     if viewModel.isCorrect == true {
                         viewModel.nextQuestion()
+                        isTextFieldFocused = true
+                        
                     } else {
-                        viewModel.checkAnswer()
+                        if let isCorrect = viewModel.checkAnswer() {
+                            print("TEST100 isCorrect: \(isCorrect)")
+                            if Platform.current != Platform.macOS {
+                                isTextFieldFocused = !isCorrect
+                            }
+                            
+                        }
+                        
                     }
                 }) {
                     Text(viewModel.isCorrect == true ? "Next" : "Check")
