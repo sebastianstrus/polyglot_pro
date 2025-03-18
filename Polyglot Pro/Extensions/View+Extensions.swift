@@ -169,27 +169,59 @@ extension View {
     }
     
     func styledSlider() -> some View {
+        
         return self
             .frame(width: 100, height: 50)
             .cornerRadius(12)
+        
             .overlay(
                 RoundedRectangle(cornerRadius: 5)
                     .fill(Color(.white))
                     .frame(width: 100, height: 4)
                     .allowsHitTesting(false)
+                
             )
+        
             .overlay(
                 HStack(spacing: 0) {
-                    ForEach(0..<6, id: \.self) { _ in
-                        Rectangle()
-                            .fill(Color.white)
-                            .frame(width: 2, height: 8)
-                        Spacer()
-                    }
-                }
-                .allowsHitTesting(false)
-                .frame(width: 94)
+                    Rectangle()
+                        .fill(Color.white)
+                        .frame(width: 2, height: 8)
+                    
+                    Spacer()
+                    
+                    Rectangle()
+                        .fill(Color.white)
+                        .frame(width: 2, height: 8)
+                    
+                    Spacer()
+                    
+                    Rectangle()
+                        .fill(Color(.white))
+                        .frame(width: 2, height: 8)
+                    
+                    Spacer()
+                    
+                    Rectangle()
+                        .fill(Color(.white))
+                        .frame(width: 2, height: 8)
+                    
+                    Spacer()
+                    
+                    Rectangle()
+                        .fill(Color(.white))
+                        .frame(width: 2, height: 8)
+                    
+                    Spacer()
+                    
+                    Rectangle()
+                        .fill(Color(.white))
+                        .frame(width: 2, height: 8)
+                    
+                }.allowsHitTesting(false)
+                    .frame(width: 94)
             )
+        
             .padding()
             .background(
                 LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .leading, endPoint: .trailing)

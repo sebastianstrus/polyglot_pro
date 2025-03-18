@@ -30,9 +30,6 @@ struct CustomTextField: View {
     }
 }
 
-
-
-
 #if os(macOS)
 struct MacOSTextField: NSViewRepresentable {
     var placeholder: String
@@ -46,7 +43,7 @@ struct MacOSTextField: NSViewRepresentable {
         self._isCorrect = isCorrect
         self.onCommit = onCommit
     }
-
+    
     func makeNSView(context: Context) -> NSTextField {
         let textField = NsCustomTextField(string: text)
         textField.delegate = context.coordinator
@@ -59,7 +56,7 @@ struct MacOSTextField: NSViewRepresentable {
         textField.alignment = .center
         return textField
     }
-
+    
     func updateNSView(_ nsView: NSTextField, context: Context) {
         guard let textField = nsView as? NsCustomTextField else { return }
         
@@ -73,26 +70,25 @@ struct MacOSTextField: NSViewRepresentable {
             textField.textColor = .gray
         }
         textField.isEditable = !(isCorrect ?? false)
-//        textField.needsDisplay = true // Force redraw to apply the padding
     }
-
+    
     func makeCoordinator() -> Coordinator {
         Coordinator(self)
     }
-
+    
     class Coordinator: NSObject, NSTextFieldDelegate {
         var parent: MacOSTextField
-
+        
         init(_ parent: MacOSTextField) {
             self.parent = parent
         }
-
+        
         func controlTextDidChange(_ obj: Notification) {
             if let textField = obj.object as? NSTextField {
                 parent.text = textField.stringValue
             }
         }
-
+        
         func control(_ control: NSControl, textView: NSTextView, doCommandBy commandSelector: Selector) -> Bool {
             if commandSelector == #selector(NSResponder.insertNewline(_:)) {
                 parent.onCommit?()
@@ -104,12 +100,12 @@ struct MacOSTextField: NSViewRepresentable {
 }
 
 class NsCustomTextField: NSTextField {
-
+    
     override func drawFocusRingMask() {
     }
     
     override var focusRingType: NSFocusRingType {
-        get { return .none } // Ensure no focus ring is shown
+        get { return .none }
         set { }
     }
 }
@@ -127,7 +123,7 @@ struct UIKitTextField: UIViewRepresentable {
         self._isCorrect = isCorrect
         self.onCommit = onCommit
     }
-
+    
     func makeUIView(context: Context) -> UITextField {
         let textField = UITextField()
         textField.placeholder = placeholder
@@ -141,7 +137,7 @@ struct UIKitTextField: UIViewRepresentable {
         
         return textField
     }
-
+    
     func updateUIView(_ uiView: UITextField, context: Context) {
         uiView.text = text
         if let isCorrect = isCorrect {
@@ -150,14 +146,14 @@ struct UIKitTextField: UIViewRepresentable {
             uiView.textColor = .gray
         }
     }
-
+    
     func makeCoordinator() -> Coordinator {
         Coordinator(self)
     }
-
+    
     class Coordinator: NSObject, UITextFieldDelegate {
         var parent: UIKitTextField
-
+        
         init(_ parent: UIKitTextField) {
             self.parent = parent
         }
@@ -167,7 +163,7 @@ struct UIKitTextField: UIViewRepresentable {
                 self.parent.text = textField.text ?? ""
             }
         }
-
+        
         func textFieldShouldReturn(_ textField: UITextField) -> Bool {
             parent.onCommit?()
             textField.resignFirstResponder()

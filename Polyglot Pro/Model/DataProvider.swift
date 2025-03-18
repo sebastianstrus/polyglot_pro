@@ -31,35 +31,8 @@ enum QuestionCategory: String, CaseIterable {
     case interrogativePronouns = "Frågande pronomen"
     case law = "Lag"
     case marketing = "Marknadsföring"
-    
-    /*case homework12 = "1. Lexa2"
-    case homework22 = "2. Lexa2"
-    case homework32 = "3. Lexa2"
-    case homework42 = "4. Lexa2"
-    case homework52 = "5. Lexa2"
-    case weekdays2 = "Veckodagar2"
-    case months2 = "Månader2"
-    case modalVerbs2 = "Modala verb2"
-    case verbs2 = "Verb2"
-    case time2 = "Tidsuttryck2"
-    case vegetables2 = "Grönsaker2"
-    case fruits2 = "Frukter2"
-    case bodyParts2 = "Kroppsdelar2"
-    case colors2 = "Färger2"
-    case shoppingNouns2 = "Shopping2"
-    case home2 = "Hem2"
-    case family2 = "Familj2"
-    case professions2 = "Yrken2"
-    case animals2 = "Djur2"
-    case transport2 = "Transport2"
-    case numbers2 = "Tal2"
-    case ordinalNumbers2 = "Ordningstal2"
-    case interrogativePronouns2 = "Frågande pronomen2"
-    case law2 = "Lag2"
-    case marketing2 = "Marknadsföring2"*/
 }
 
-// röd, blå, gul, grön, orange, lila, svart, bit, brun, rosa, ung, ny, gammal, lång, randig, rutig, prickig, blommig, stor, liten, kort, glad, ledsen
 struct DataProvider {
     static let data: [QuestionCategory: [Question]] = [
         .homework1: [
@@ -1258,182 +1231,182 @@ struct DataProvider {
                     ("Vi gjorde hjortronmarmelad.", "Ми зробили варення з морошки.")
                 ]),
             ],
-            .time: [
-                Question(expression: "сьогодні", translation: "idag", examples: [
-                    ("Jag har ett möte idag.", "У мене сьогодні зустріч."),
-                    ("Idag är det soligt.", "Сьогодні сонячно."),
-                    ("Vi ska träffas idag.", "Ми зустрінемося сьогодні."),
-                    ("Idag är en viktig dag.", "Сьогодні важливий день.")
-                ]),
-                Question(expression: "вчора", translation: "igår", examples: [
-                    ("Jag såg honom igår.", "Я бачив його вчора."),
-                    ("Igår var det kallt.", "Вчора було холодно."),
-                    ("Vi pratade igår kväll.", "Ми говорили вчора ввечері."),
-                    ("Igår hade vi en fest.", "Вчора у нас була вечірка.")
-                ]),
-                Question(expression: "завтра", translation: "imorgon", examples: [
-                    ("Vi åker till Stockholm imorgon.", "Ми їдемо до Стокгольма завтра."),
-                    ("Imorgon börjar skolan.", "Завтра починається школа."),
-                    ("Jag har en tenta imorgon.", "У мене завтра іспит."),
-                    ("Vi ses imorgon.", "Побачимося завтра.")
-                ]),
-                Question(expression: "післязавтра", translation: "i övermorgon", examples: [
-                    ("Vi har en konferens i övermorgon.", "У нас конференція післязавтра."),
-                    ("I övermorgon reser vi bort.", "Післязавтра ми вирушаємо в подорож."),
-                    ("Mötet är i övermorgon.", "Зустріч післязавтра."),
-                    ("Han kommer hem i övermorgon.", "Він повернеться додому післязавтра.")
-                ]),
-                Question(expression: "минулого тижня", translation: "förra veckan", examples: [
-                    ("Jag var sjuk förra veckan.", "Я хворів минулого тижня."),
-                    ("Förra veckan hade vi prov.", "Минулого тижня у нас був тест."),
-                    ("Förra veckan var mycket stressig.", "Минулого тижня було багато стресу."),
-                    ("Vi reste till Göteborg förra veckan.", "Ми їздили в Гетеборг минулого тижня.")
-                ]),
-                Question(expression: "наступного тижня", translation: "nästa vecka", examples: [
-                    ("Vi börjar en ny kurs nästa vecka.", "Ми починаємо новий курс наступного тижня."),
-                    ("Nästa vecka blir hektisk.", "Наступний тиждень буде насиченим."),
-                    ("Jag ska resa bort nästa vecka.", "Я поїду у відрядження наступного тижня."),
-                    ("Nästa vecka ska vi ha ett möte.", "Наступного тижня у нас буде зустріч.")
-                ]),
-                Question(expression: "цього тижня", translation: "den här veckan", examples: [
-                    ("Den här veckan har varit stressig.", "Цей тиждень був стресовим."),
-                    ("Jag har mycket att göra den här veckan.", "У мене багато справ цього тижня."),
-                    ("Vi har ett prov den här veckan.", "У нас іспит цього тижня."),
-                    ("Den här veckan är viktig för projektet.", "Цей тиждень важливий для проєкту.")
-                ]),
-                Question(expression: "минулого місяця", translation: "förra månaden", examples: [
-                    ("Jag flyttade hit förra månaden.", "Я переїхав сюди минулого місяця."),
-                    ("Förra månaden var kall.", "Минулого місяця було холодно."),
-                    ("Han började sitt jobb förra månaden.", "Він почав працювати минулого місяця."),
-                    ("Jag reste till Spanien förra månaden.", "Я їздив до Іспанії минулого місяця.")
-                ]),
-                Question(expression: "наступного місяця", translation: "nästa månad", examples: [
-                    ("Nästa månad börjar kursen.", "Наступного місяця починається курс."),
-                    ("Vi ska flytta nästa månad.", "Ми переїжджаємо наступного місяця."),
-                    ("Jag får min lön nästa månad.", "Я отримаю зарплату наступного місяця."),
-                    ("Nästa månad åker vi till fjällen.", "Наступного місяця ми їдемо в гори.")
-                ]),
-                Question(expression: "минулого року", translation: "förra året", examples: [
-                    ("Jag besökte Sverige förra året.", "Я відвідав Швецію минулого року."),
-                    ("Förra året var svårt.", "Минулого року було важко."),
-                    ("Hon började studera förra året.", "Вона почала навчання минулого року."),
-                    ("Förra året reste vi mycket.", "Минулого року ми багато подорожували.")
-                ]),
-                Question(expression: "наступного року", translation: "nästa år", examples: [
-                    ("Jag ska ta examen nästa år.", "Я закінчу навчання наступного року."),
-                    ("Nästa år planerar vi en resa.", "Наступного року ми плануємо подорож."),
-                    ("Hon börjar sitt nya jobb nästa år.", "Вона починає нову роботу наступного року."),
-                    ("Nästa år vill jag köpa en bil.", "Наступного року я хочу купити машину.")
-                ]),
-                Question(expression: "через годину", translation: "om en timme", examples: [
-                    ("Jag kommer tillbaka om en timme.", "Я повернуся через годину."),
-                    ("Mötet börjar om en timme.", "Зустріч починається через годину."),
-                    ("Han ringer dig om en timme.", "Він зателефонує тобі через годину."),
-                    ("Om en timme ska vi äta middag.", "Через годину ми будемо вечеряти.")
-                ]),
-                Question(expression: "дві години тому", translation: "för två timmar sedan", examples: [
-                    ("Jag såg honom för två timmar sedan.", "Я бачив його дві години тому."),
-                    ("Mötet slutade för två timmar sedan.", "Зустріч закінчилася дві години тому."),
-                    ("För två timmar sedan var det soligt.", "Дві години тому було сонячно."),
-                    ("Han kom hem för två timmar sedan.", "Він прийшов додому дві години тому.")
-                ]),
-                Question(expression: "недавно", translation: "nyligen", examples: [
-                    ("Jag har nyligen börjat träna.", "Я нещодавно почав тренуватися."),
-                    ("Hon flyttade nyligen hit.", "Вона нещодавно переїхала сюди."),
-                    ("Nyligen hade vi en stor fest.", "Нещодавно у нас була велика вечірка."),
-                    ("Jag såg den filmen nyligen.", "Я нещодавно бачив цей фільм.")
-                ]),
-                Question(expression: "скоро", translation: "snart", examples: [
-                    ("Vi ses snart.", "Скоро побачимося."),
-                    ("Snart börjar semestern.", "Скоро почнуться канікули."),
-                    ("Hon kommer snart hem.", "Вона скоро прийде додому."),
-                    ("Snart är det sommar.", "Скоро літо.")
-                ]),
-                Question(expression: "вранці", translation: "på morgonen", examples: [
-                    ("Jag tränade på morgonen.", "Я тренувався вранці."),
-                    ("På morgonen dricker jag kaffe.", "Вранці я п'ю каву."),
-                    ("Vi ska träffas på morgonen.", "Ми зустрінемося вранці."),
-                    ("Det var kallt på morgonen.", "Вранці було холодно.")
-                ]),
-                Question(expression: "вночі", translation: "på natten", examples: [
-                    ("Jag jobbar på natten.", "Я працюю вночі."),
-                    ("Det var väldigt tyst på natten.", "Вночі було дуже тихо."),
-                    ("Vi såg filmen på natten.", "Ми дивилися фільм вночі."),
-                    ("Han sover på natten.", "Він спить вночі.")
-                ]),
-                Question(expression: "сьогодні ввечері", translation: "ikväll", examples: [
-                    ("Vi ska gå på bio ikväll.", "Ми підемо в кіно сьогодні ввечері."),
-                    ("Ikväll ska vi laga middag tillsammans.", "Сьогодні ввечері ми будемо готувати вечерю разом."),
-                    ("Vad gör du ikväll?", "Що ти робиш сьогодні ввечері?"),
-                    ("Ikväll ska vi ha en fest.", "Сьогодні ввечері у нас буде вечірка.")
-                ]),
-                Question(expression: "вчора ввечері", translation: "i går kväll", examples: [
-                    ("I går kväll såg jag en bra film.", "Вчора ввечері я подивився хороший фільм."),
-                    ("Vi träffades i går kväll.", "Ми зустрілися вчора ввечері."),
-                    ("I går kväll var vi ute på restaurang.", "Вчора ввечері ми були в ресторані."),
-                    ("I går kväll var det kallt.", "Вчора ввечері було холодно.")
-                ]),
-                Question(expression: "завтра ввечері", translation: "i morgon kväll", examples: [
-                    ("I morgon kväll ska vi gå på konsert.", "Завтра ввечері ми підемо на концерт."),
-                    ("Vi ses i morgon kväll.", "Побачимося завтра ввечері."),
-                    ("Jag har inga planer i morgon kväll.", "У мене немає планів на завтра ввечері."),
-                    ("I morgon kväll kommer han hem.", "Завтра ввечері він повернеться додому.")
-                ]),
-                Question(expression: "після обіду", translation: "på eftermiddagen", examples: [
-                    ("Jag ska träna på eftermiddagen.", "Я буду тренуватися після обіду."),
-                    ("På eftermiddagen jobbar jag.", "Я працюю після обіду."),
-                    ("Vi träffas på eftermiddagen.", "Ми зустрінемося після обіду."),
-                    ("Det var väldigt varmt på eftermiddagen.", "Після обіду було дуже тепло.")
-                ]),
-                Question(expression: "після вечері", translation: "efter middagen", examples: [
-                    ("Vi ska ta en promenad efter middagen.", "Ми підемо на прогулянку після вечері."),
-                    ("Jag brukar läsa efter middagen.", "Я зазвичай читаю після вечері."),
-                    ("Efter middagen ska vi titta på TV.", "Після вечері ми будемо дивитися телевізор."),
-                    ("Vi ska spela kort efter middagen.", "Ми будемо грати в карти після вечері.")
-                ]),
-                Question(expression: "у неділю", translation: "på söndag", examples: [
-                    ("Vi ska åka till landet på söndag.", "Ми поїдемо на дачу в неділю."),
-                    ("På söndag är det soligt.", "В неділю буде сонячно."),
-                    ("Vi ses på söndag.", "Побачимося в неділю."),
-                    ("På söndag har vi en match.", "В неділю у нас матч.")
-                ]),
-                Question(expression: "у понеділок", translation: "på måndag", examples: [
-                    ("På måndag börjar skolan.", "У понеділок починається школа."),
-                    ("Jag ska på möte på måndag.", "Я йду на зустріч в понеділок."),
-                    ("Vi ses på måndag.", "Побачимося в понеділок."),
-                    ("På måndag ska vi träna.", "У понеділок ми будемо тренуватися.")
-                ]),
-                Question(expression: "через хвилину", translation: "om en minut", examples: [
-                    ("Jag kommer om en minut.", "Я прийду через хвилину."),
-                    ("Om en minut ska vi gå.", "Через хвилину ми підемо."),
-                    ("Det kommer om en minut.", "Він прийде через хвилину."),
-                    ("Om en minut börjar filmen.", "Через хвилину почнеться фільм.")
-                ]),
-                Question(expression: "через день", translation: "om en dag", examples: [
-                    ("Jag ska träffa honom om en dag.", "Я зустріну його через день."),
-                    ("Vi ska resa om en dag.", "Ми поїдемо через день."),
-                    ("Om en dag kommer vi att ha en fest.", "Через день у нас буде вечірка."),
-                    ("Jag ska börja jobba om en dag.", "Я почну працювати через день.")
-                ]),
-                Question(expression: "через тиждень", translation: "om en vecka", examples: [
-                    ("Vi åker till Paris om en vecka.", "Ми поїдемо до Парижа через тиждень."),
-                    ("Om en vecka börjar min semester.", "Через тиждень почнеться моя відпустка."),
-                    ("Vi ska ses om en vecka.", "Ми побачимося через тиждень."),
-                    ("Om en vecka ska vi ha ett möte.", "Через тиждень у нас буде зустріч.")
-                ]),
-                Question(expression: "через місяць", translation: "om en månad", examples: [
-                    ("Jag kommer om en månad.", "Я приїду через місяць."),
-                    ("Vi ska åka till Spanien om en månad.", "Ми поїдемо до Іспанії через місяць."),
-                    ("Om en månad har jag examen.", "Через місяць у мене буде випускний."),
-                    ("Jag har semester om en månad.", "У мене буде відпустка через місяць.")
-                ]),
-                Question(expression: "через рік", translation: "om ett år", examples: [
-                    ("Vi ska köpa hus om ett år.", "Ми купимо будинок через рік."),
-                    ("Om ett år kommer vi att vara i Australien.", "Через рік ми будемо в Австралії."),
-                    ("Jag ska ta körkort om ett år.", "Я отримаю водійське посвідчення через рік."),
-                    ("Om ett år kommer vi att vara färdiga.", "Через рік ми закінчимо.")
-                ])
-            ],
+        .time: [
+            Question(expression: "сьогодні", translation: "idag", examples: [
+                ("Jag har ett möte idag.", "У мене сьогодні зустріч."),
+                ("Idag är det soligt.", "Сьогодні сонячно."),
+                ("Vi ska träffas idag.", "Ми зустрінемося сьогодні."),
+                ("Idag är en viktig dag.", "Сьогодні важливий день.")
+            ]),
+            Question(expression: "вчора", translation: "igår", examples: [
+                ("Jag såg honom igår.", "Я бачив його вчора."),
+                ("Igår var det kallt.", "Вчора було холодно."),
+                ("Vi pratade igår kväll.", "Ми говорили вчора ввечері."),
+                ("Igår hade vi en fest.", "Вчора у нас була вечірка.")
+            ]),
+            Question(expression: "завтра", translation: "imorgon", examples: [
+                ("Vi åker till Stockholm imorgon.", "Ми їдемо до Стокгольма завтра."),
+                ("Imorgon börjar skolan.", "Завтра починається школа."),
+                ("Jag har en tenta imorgon.", "У мене завтра іспит."),
+                ("Vi ses imorgon.", "Побачимося завтра.")
+            ]),
+            Question(expression: "післязавтра", translation: "i övermorgon", examples: [
+                ("Vi har en konferens i övermorgon.", "У нас конференція післязавтра."),
+                ("I övermorgon reser vi bort.", "Післязавтра ми вирушаємо в подорож."),
+                ("Mötet är i övermorgon.", "Зустріч післязавтра."),
+                ("Han kommer hem i övermorgon.", "Він повернеться додому післязавтра.")
+            ]),
+            Question(expression: "минулого тижня", translation: "förra veckan", examples: [
+                ("Jag var sjuk förra veckan.", "Я хворів минулого тижня."),
+                ("Förra veckan hade vi prov.", "Минулого тижня у нас був тест."),
+                ("Förra veckan var mycket stressig.", "Минулого тижня було багато стресу."),
+                ("Vi reste till Göteborg förra veckan.", "Ми їздили в Гетеборг минулого тижня.")
+            ]),
+            Question(expression: "наступного тижня", translation: "nästa vecka", examples: [
+                ("Vi börjar en ny kurs nästa vecka.", "Ми починаємо новий курс наступного тижня."),
+                ("Nästa vecka blir hektisk.", "Наступний тиждень буде насиченим."),
+                ("Jag ska resa bort nästa vecka.", "Я поїду у відрядження наступного тижня."),
+                ("Nästa vecka ska vi ha ett möte.", "Наступного тижня у нас буде зустріч.")
+            ]),
+            Question(expression: "цього тижня", translation: "den här veckan", examples: [
+                ("Den här veckan har varit stressig.", "Цей тиждень був стресовим."),
+                ("Jag har mycket att göra den här veckan.", "У мене багато справ цього тижня."),
+                ("Vi har ett prov den här veckan.", "У нас іспит цього тижня."),
+                ("Den här veckan är viktig för projektet.", "Цей тиждень важливий для проєкту.")
+            ]),
+            Question(expression: "минулого місяця", translation: "förra månaden", examples: [
+                ("Jag flyttade hit förra månaden.", "Я переїхав сюди минулого місяця."),
+                ("Förra månaden var kall.", "Минулого місяця було холодно."),
+                ("Han började sitt jobb förra månaden.", "Він почав працювати минулого місяця."),
+                ("Jag reste till Spanien förra månaden.", "Я їздив до Іспанії минулого місяця.")
+            ]),
+            Question(expression: "наступного місяця", translation: "nästa månad", examples: [
+                ("Nästa månad börjar kursen.", "Наступного місяця починається курс."),
+                ("Vi ska flytta nästa månad.", "Ми переїжджаємо наступного місяця."),
+                ("Jag får min lön nästa månad.", "Я отримаю зарплату наступного місяця."),
+                ("Nästa månad åker vi till fjällen.", "Наступного місяця ми їдемо в гори.")
+            ]),
+            Question(expression: "минулого року", translation: "förra året", examples: [
+                ("Jag besökte Sverige förra året.", "Я відвідав Швецію минулого року."),
+                ("Förra året var svårt.", "Минулого року було важко."),
+                ("Hon började studera förra året.", "Вона почала навчання минулого року."),
+                ("Förra året reste vi mycket.", "Минулого року ми багато подорожували.")
+            ]),
+            Question(expression: "наступного року", translation: "nästa år", examples: [
+                ("Jag ska ta examen nästa år.", "Я закінчу навчання наступного року."),
+                ("Nästa år planerar vi en resa.", "Наступного року ми плануємо подорож."),
+                ("Hon börjar sitt nya jobb nästa år.", "Вона починає нову роботу наступного року."),
+                ("Nästa år vill jag köpa en bil.", "Наступного року я хочу купити машину.")
+            ]),
+            Question(expression: "через годину", translation: "om en timme", examples: [
+                ("Jag kommer tillbaka om en timme.", "Я повернуся через годину."),
+                ("Mötet börjar om en timme.", "Зустріч починається через годину."),
+                ("Han ringer dig om en timme.", "Він зателефонує тобі через годину."),
+                ("Om en timme ska vi äta middag.", "Через годину ми будемо вечеряти.")
+            ]),
+            Question(expression: "дві години тому", translation: "för två timmar sedan", examples: [
+                ("Jag såg honom för två timmar sedan.", "Я бачив його дві години тому."),
+                ("Mötet slutade för två timmar sedan.", "Зустріч закінчилася дві години тому."),
+                ("För två timmar sedan var det soligt.", "Дві години тому було сонячно."),
+                ("Han kom hem för två timmar sedan.", "Він прийшов додому дві години тому.")
+            ]),
+            Question(expression: "недавно", translation: "nyligen", examples: [
+                ("Jag har nyligen börjat träna.", "Я нещодавно почав тренуватися."),
+                ("Hon flyttade nyligen hit.", "Вона нещодавно переїхала сюди."),
+                ("Nyligen hade vi en stor fest.", "Нещодавно у нас була велика вечірка."),
+                ("Jag såg den filmen nyligen.", "Я нещодавно бачив цей фільм.")
+            ]),
+            Question(expression: "скоро", translation: "snart", examples: [
+                ("Vi ses snart.", "Скоро побачимося."),
+                ("Snart börjar semestern.", "Скоро почнуться канікули."),
+                ("Hon kommer snart hem.", "Вона скоро прийде додому."),
+                ("Snart är det sommar.", "Скоро літо.")
+            ]),
+            Question(expression: "вранці", translation: "på morgonen", examples: [
+                ("Jag tränade på morgonen.", "Я тренувався вранці."),
+                ("På morgonen dricker jag kaffe.", "Вранці я п'ю каву."),
+                ("Vi ska träffas på morgonen.", "Ми зустрінемося вранці."),
+                ("Det var kallt på morgonen.", "Вранці було холодно.")
+            ]),
+            Question(expression: "вночі", translation: "på natten", examples: [
+                ("Jag jobbar på natten.", "Я працюю вночі."),
+                ("Det var väldigt tyst på natten.", "Вночі було дуже тихо."),
+                ("Vi såg filmen på natten.", "Ми дивилися фільм вночі."),
+                ("Han sover på natten.", "Він спить вночі.")
+            ]),
+            Question(expression: "сьогодні ввечері", translation: "ikväll", examples: [
+                ("Vi ska gå på bio ikväll.", "Ми підемо в кіно сьогодні ввечері."),
+                ("Ikväll ska vi laga middag tillsammans.", "Сьогодні ввечері ми будемо готувати вечерю разом."),
+                ("Vad gör du ikväll?", "Що ти робиш сьогодні ввечері?"),
+                ("Ikväll ska vi ha en fest.", "Сьогодні ввечері у нас буде вечірка.")
+            ]),
+            Question(expression: "вчора ввечері", translation: "i går kväll", examples: [
+                ("I går kväll såg jag en bra film.", "Вчора ввечері я подивився хороший фільм."),
+                ("Vi träffades i går kväll.", "Ми зустрілися вчора ввечері."),
+                ("I går kväll var vi ute på restaurang.", "Вчора ввечері ми були в ресторані."),
+                ("I går kväll var det kallt.", "Вчора ввечері було холодно.")
+            ]),
+            Question(expression: "завтра ввечері", translation: "i morgon kväll", examples: [
+                ("I morgon kväll ska vi gå på konsert.", "Завтра ввечері ми підемо на концерт."),
+                ("Vi ses i morgon kväll.", "Побачимося завтра ввечері."),
+                ("Jag har inga planer i morgon kväll.", "У мене немає планів на завтра ввечері."),
+                ("I morgon kväll kommer han hem.", "Завтра ввечері він повернеться додому.")
+            ]),
+            Question(expression: "після обіду", translation: "på eftermiddagen", examples: [
+                ("Jag ska träna på eftermiddagen.", "Я буду тренуватися після обіду."),
+                ("På eftermiddagen jobbar jag.", "Я працюю після обіду."),
+                ("Vi träffas på eftermiddagen.", "Ми зустрінемося після обіду."),
+                ("Det var väldigt varmt på eftermiddagen.", "Після обіду було дуже тепло.")
+            ]),
+            Question(expression: "після вечері", translation: "efter middagen", examples: [
+                ("Vi ska ta en promenad efter middagen.", "Ми підемо на прогулянку після вечері."),
+                ("Jag brukar läsa efter middagen.", "Я зазвичай читаю після вечері."),
+                ("Efter middagen ska vi titta på TV.", "Після вечері ми будемо дивитися телевізор."),
+                ("Vi ska spela kort efter middagen.", "Ми будемо грати в карти після вечері.")
+            ]),
+            Question(expression: "у неділю", translation: "på söndag", examples: [
+                ("Vi ska åka till landet på söndag.", "Ми поїдемо на дачу в неділю."),
+                ("På söndag är det soligt.", "В неділю буде сонячно."),
+                ("Vi ses på söndag.", "Побачимося в неділю."),
+                ("På söndag har vi en match.", "В неділю у нас матч.")
+            ]),
+            Question(expression: "у понеділок", translation: "på måndag", examples: [
+                ("På måndag börjar skolan.", "У понеділок починається школа."),
+                ("Jag ska på möte på måndag.", "Я йду на зустріч в понеділок."),
+                ("Vi ses på måndag.", "Побачимося в понеділок."),
+                ("På måndag ska vi träna.", "У понеділок ми будемо тренуватися.")
+            ]),
+            Question(expression: "через хвилину", translation: "om en minut", examples: [
+                ("Jag kommer om en minut.", "Я прийду через хвилину."),
+                ("Om en minut ska vi gå.", "Через хвилину ми підемо."),
+                ("Det kommer om en minut.", "Він прийде через хвилину."),
+                ("Om en minut börjar filmen.", "Через хвилину почнеться фільм.")
+            ]),
+            Question(expression: "через день", translation: "om en dag", examples: [
+                ("Jag ska träffa honom om en dag.", "Я зустріну його через день."),
+                ("Vi ska resa om en dag.", "Ми поїдемо через день."),
+                ("Om en dag kommer vi att ha en fest.", "Через день у нас буде вечірка."),
+                ("Jag ska börja jobba om en dag.", "Я почну працювати через день.")
+            ]),
+            Question(expression: "через тиждень", translation: "om en vecka", examples: [
+                ("Vi åker till Paris om en vecka.", "Ми поїдемо до Парижа через тиждень."),
+                ("Om en vecka börjar min semester.", "Через тиждень почнеться моя відпустка."),
+                ("Vi ska ses om en vecka.", "Ми побачимося через тиждень."),
+                ("Om en vecka ska vi ha ett möte.", "Через тиждень у нас буде зустріч.")
+            ]),
+            Question(expression: "через місяць", translation: "om en månad", examples: [
+                ("Jag kommer om en månad.", "Я приїду через місяць."),
+                ("Vi ska åka till Spanien om en månad.", "Ми поїдемо до Іспанії через місяць."),
+                ("Om en månad har jag examen.", "Через місяць у мене буде випускний."),
+                ("Jag har semester om en månad.", "У мене буде відпустка через місяць.")
+            ]),
+            Question(expression: "через рік", translation: "om ett år", examples: [
+                ("Vi ska köpa hus om ett år.", "Ми купимо будинок через рік."),
+                ("Om ett år kommer vi att vara i Australien.", "Через рік ми будемо в Австралії."),
+                ("Jag ska ta körkort om ett år.", "Я отримаю водійське посвідчення через рік."),
+                ("Om ett år kommer vi att vara färdiga.", "Через рік ми закінчимо.")
+            ])
+        ],
         
         
         
@@ -2871,86 +2844,86 @@ struct DataProvider {
                     ("Han skrev sitt miljonte ord i romanen.", "Він написав своє мільйонне слово в романі.")
                 ])
             ],
-            .interrogativePronouns: [
-                Question(expression: "хто", translation: "vem", examples: [
-                    ("Vem är du?", "Хто ти?"),
-                    ("Vem vann tävlingen?", "Хто виграв змагання?"),
-                    ("Vem ringer du?", "Кому ти телефонуєш?"),
-                    ("Vem bor i detta hus?", "Хто живе в цьому будинку?")
-                ]),
-                Question(expression: "що", translation: "vad", examples: [
-                    ("Vad heter du?", "Як тебе звати?"),
-                    ("Vad gör du?", "Що ти робиш?"),
-                    ("Vad är det där?", "Що це таке?"),
-                    ("Vad vill du äta?", "Що ти хочеш їсти?")
-                ]),
-                Question(expression: "де", translation: "var", examples: [
-                    ("Var är du?", "Де ти?"),
-                    ("Var ligger banken?", "Де знаходиться банк?"),
-                    ("Var bor du?", "Де ти живеш?"),
-                    ("Var är min bok?", "Де моя книга?")
-                ]),
-                Question(expression: "куди", translation: "vart", examples: [
-                    ("Vart ska du?", "Куди ти йдеш?"),
-                    ("Vart reser ni i sommar?", "Куди ви подорожуєте цього літа?"),
-                    ("Vart flyttade de?", "Куди вони переїхали?"),
-                    ("Vart går den här bussen?", "Куди їде цей автобус?")
-                ]),
-                Question(expression: "звідки", translation: "varifrån", examples: [
-                    ("Varifrån kommer du?", "Звідки ти?"),
-                    ("Varifrån fick du denna information?", "Звідки ти отримав цю інформацію?"),
-                    ("Varifrån är den här bilen?", "Звідки ця машина?"),
-                    ("Varifrån reser du?", "Звідки ти подорожуєш?")
-                ]),
-                Question(expression: "коли", translation: "när", examples: [
-                    ("När börjar filmen?", "Коли починається фільм?"),
-                    ("När är ditt födelsedatum?", "Коли у тебе день народження?"),
-                    ("När träffades ni?", "Коли ви зустрілися?"),
-                    ("När öppnar butiken?", "Коли відкривається магазин?")
-                ]),
-                Question(expression: "чому", translation: "varför", examples: [
-                    ("Varför är du sen?", "Чому ти запізнився?"),
-                    ("Varför studerar du svenska?", "Чому ти вчиш шведську?"),
-                    ("Varför skrattar du?", "Чому ти смієшся?"),
-                    ("Varför är han arg?", "Чому він сердитий?")
-                ]),
-                Question(expression: "як", translation: "hur", examples: [
-                    ("Hur mår du?", "Як ти себе почуваєш?"),
-                    ("Hur fungerar det?", "Як це працює?"),
-                    ("Hur gammal är du?", "Скільки тобі років?"),
-                    ("Hur långt är det till stationen?", "Як далеко до станції?")
-                ]),
-                Question(expression: "скільки", translation: "hur mycket", examples: [
-                    ("Hur mycket kostar det?", "Скільки це коштує?"),
-                    ("Hur mycket tid har vi?", "Скільки у нас часу?"),
-                    ("Hur mycket socker vill du ha?", "Скільки цукру ти хочеш?"),
-                    ("Hur mycket vatten dricker du per dag?", "Скільки води ти п'єш на день?")
-                ]),
-                Question(expression: "скільки (лічильний)", translation: "hur många", examples: [
-                    ("Hur många syskon har du?", "Скільки у тебе братів і сестер?"),
-                    ("Hur många böcker har du?", "Скільки у тебе книг?"),
-                    ("Hur många timmar tar resan?", "Скільки годин триває подорож?"),
-                    ("Hur många elever är i klassen?", "Скільки учнів у класі?")
-                ]),
-                Question(expression: "який", translation: "vilken", examples: [
-                    ("Vilken bok vill du läsa?", "Яку книгу ти хочеш прочитати?"),
-                    ("Vilket språk talar du?", "Якою мовою ти говориш?"),
-                    ("Vilka länder har du besökt?", "Які країни ти відвідав?"),
-                    ("Vilken färg tycker du om?", "Який колір тобі подобається?")
-                ]),
-                Question(expression: "чий", translation: "vems", examples: [
-                    ("Vems bil är det?", "Чия це машина?"),
-                    ("Vems bok ligger här?", "Чия книга тут лежить?"),
-                    ("Vems idé var det?", "Чия це була ідея?"),
-                    ("Vems hund är det?", "Чий це собака?")
-                ]),
-                Question(expression: "який", translation: "hurdan", examples: [
-                    ("Hurdan är din nya lägenhet?", "Яка твоя нова квартира?"),
-                    ("Hurdant väder är det idag?", "Яка сьогодні погода?"),
-                    ("Hurdana är dina vänner?", "Які твої друзі?"),
-                    ("Hurdan är din bil?", "Яка твоя машина?")
-                ])
-            ],
+        .interrogativePronouns: [
+            Question(expression: "хто", translation: "vem", examples: [
+                ("Vem är du?", "Хто ти?"),
+                ("Vem vann tävlingen?", "Хто виграв змагання?"),
+                ("Vem ringer du?", "Кому ти телефонуєш?"),
+                ("Vem bor i detta hus?", "Хто живе в цьому будинку?")
+            ]),
+            Question(expression: "що", translation: "vad", examples: [
+                ("Vad heter du?", "Як тебе звати?"),
+                ("Vad gör du?", "Що ти робиш?"),
+                ("Vad är det där?", "Що це таке?"),
+                ("Vad vill du äta?", "Що ти хочеш їсти?")
+            ]),
+            Question(expression: "де", translation: "var", examples: [
+                ("Var är du?", "Де ти?"),
+                ("Var ligger banken?", "Де знаходиться банк?"),
+                ("Var bor du?", "Де ти живеш?"),
+                ("Var är min bok?", "Де моя книга?")
+            ]),
+            Question(expression: "куди", translation: "vart", examples: [
+                ("Vart ska du?", "Куди ти йдеш?"),
+                ("Vart reser ni i sommar?", "Куди ви подорожуєте цього літа?"),
+                ("Vart flyttade de?", "Куди вони переїхали?"),
+                ("Vart går den här bussen?", "Куди їде цей автобус?")
+            ]),
+            Question(expression: "звідки", translation: "varifrån", examples: [
+                ("Varifrån kommer du?", "Звідки ти?"),
+                ("Varifrån fick du denna information?", "Звідки ти отримав цю інформацію?"),
+                ("Varifrån är den här bilen?", "Звідки ця машина?"),
+                ("Varifrån reser du?", "Звідки ти подорожуєш?")
+            ]),
+            Question(expression: "коли", translation: "när", examples: [
+                ("När börjar filmen?", "Коли починається фільм?"),
+                ("När är ditt födelsedatum?", "Коли у тебе день народження?"),
+                ("När träffades ni?", "Коли ви зустрілися?"),
+                ("När öppnar butiken?", "Коли відкривається магазин?")
+            ]),
+            Question(expression: "чому", translation: "varför", examples: [
+                ("Varför är du sen?", "Чому ти запізнився?"),
+                ("Varför studerar du svenska?", "Чому ти вчиш шведську?"),
+                ("Varför skrattar du?", "Чому ти смієшся?"),
+                ("Varför är han arg?", "Чому він сердитий?")
+            ]),
+            Question(expression: "як", translation: "hur", examples: [
+                ("Hur mår du?", "Як ти себе почуваєш?"),
+                ("Hur fungerar det?", "Як це працює?"),
+                ("Hur gammal är du?", "Скільки тобі років?"),
+                ("Hur långt är det till stationen?", "Як далеко до станції?")
+            ]),
+            Question(expression: "скільки", translation: "hur mycket", examples: [
+                ("Hur mycket kostar det?", "Скільки це коштує?"),
+                ("Hur mycket tid har vi?", "Скільки у нас часу?"),
+                ("Hur mycket socker vill du ha?", "Скільки цукру ти хочеш?"),
+                ("Hur mycket vatten dricker du per dag?", "Скільки води ти п'єш на день?")
+            ]),
+            Question(expression: "скільки (лічильний)", translation: "hur många", examples: [
+                ("Hur många syskon har du?", "Скільки у тебе братів і сестер?"),
+                ("Hur många böcker har du?", "Скільки у тебе книг?"),
+                ("Hur många timmar tar resan?", "Скільки годин триває подорож?"),
+                ("Hur många elever är i klassen?", "Скільки учнів у класі?")
+            ]),
+            Question(expression: "який", translation: "vilken", examples: [
+                ("Vilken bok vill du läsa?", "Яку книгу ти хочеш прочитати?"),
+                ("Vilket språk talar du?", "Якою мовою ти говориш?"),
+                ("Vilka länder har du besökt?", "Які країни ти відвідав?"),
+                ("Vilken färg tycker du om?", "Який колір тобі подобається?")
+            ]),
+            Question(expression: "чий", translation: "vems", examples: [
+                ("Vems bil är det?", "Чия це машина?"),
+                ("Vems bok ligger här?", "Чия книга тут лежить?"),
+                ("Vems idé var det?", "Чия це була ідея?"),
+                ("Vems hund är det?", "Чий це собака?")
+            ]),
+            Question(expression: "який", translation: "hurdan", examples: [
+                ("Hurdan är din nya lägenhet?", "Яка твоя нова квартира?"),
+                ("Hurdant väder är det idag?", "Яка сьогодні погода?"),
+                ("Hurdana är dina vänner?", "Які твої друзі?"),
+                ("Hurdan är din bil?", "Яка твоя машина?")
+            ])
+        ],
         
             .law: [
                 Question(expression: "закон", translation: "en lag", examples: [
@@ -3281,107 +3254,8 @@ struct DataProvider {
                     ("Ми отримали багато позитивних повідомлень від наших клієнтів.", "Vi har fått många positiva meddelanden från våra kunder.")
                 ])
             ],
-        /*.homework12: [
-            
-        ],
-        .homework22: [
-            
-        ],
-        .homework32: [
-            
-        ],
-        .homework42: [
-            
-        ],
-        .homework52: [
-            
-        ],
-        .weekdays2: [
-            
-        ],
-        
-            .months2: [
-                
-            ],
-        
-            .modalVerbs2: [
-                
-            ],
-        
-            .bodyParts2: [
-                
-            ],
-        
-            .colors2: [
-                
-            ],
-        
-            .verbs2: [
-                
-            ],
-        
-            .vegetables2: [
-                
-            ],
-        
-            .fruits2: [
-                
-            ],
-            .time2: [
-                
-                
-                
-                
-            ],
-        
-        
-        
-            .shoppingNouns2: [
-                
-                
-                
-                
-            ],
-        
-            .home2: [
-                
-            ],
-        
-            .family2: [
-                
-            ],
-        
-            .professions2: [
-                
-            ],
-        
-            .animals2: [
-                
-            ],
-        
-            .transport2: [
-                
-            ],
-        
-            .numbers2: [
-                
-            ],
-        
-            .ordinalNumbers2: [
-                
-            ],
-        
-            .law2: [
-                
-                
-            ],
-        
-            .marketing2: []*/
-        
     ]
     
-    
-    /// Get questions by category
     static func questions(for category: QuestionCategory) -> [Question] {
         return data[category] ?? []
     }

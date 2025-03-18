@@ -12,8 +12,6 @@ struct QuizView: View {
     @Binding var showMenu: Bool
     @FocusState private var isTextFieldFocused: Bool
     
-
-    
     let hintFontSize: CGFloat = {
         switch Platform.current {
         case .macOS: return 24
@@ -30,11 +28,7 @@ struct QuizView: View {
     
     var body: some View {
         VStack(spacing: 20) {
-            
             ZStack {
-                
-                
-                
                 HStack() {
                     Button(action: {
                         showMenu = true
@@ -50,11 +44,7 @@ struct QuizView: View {
                             .padding()
                     }
                     
-                    
-                    
-                    
                     Spacer()
-                    
                     
                     Text(viewModel.missCount > 0 ? "Fel: \(viewModel.missCount)" : "")
                         .font(.system(size: 20, weight: .regular, design: .rounded))
@@ -62,7 +52,6 @@ struct QuizView: View {
                         .padding(.trailing, 16)
                     
                     if Platform.current == .macOS {
-                        
                         
                         Button(action: {
                             viewModel.toggleSound()
@@ -91,31 +80,24 @@ struct QuizView: View {
                 .foregroundColor(.red)
                 .padding()
                 .opacity(viewModel.showHint ? 1 : 0)
-            
 
             CustomTextField("Ange översättning", text: $viewModel.userInput, isCorrect: $viewModel.isCorrect, onCommit: {
                 print("TEST100 onCommit")
                 if viewModel.isCorrect == true {
                     viewModel.nextQuestion()
                     isTextFieldFocused = true
-                    
                 } else {
                     if let isCorrect = viewModel.checkAnswer() {
                         print("TEST100 isCorrect: \(isCorrect)")
                         if Platform.current != Platform.macOS {
                             isTextFieldFocused = !isCorrect
                         }
-                        
                     }
-                    
                 }
             })
             .styledTextField(isCorrect: viewModel.isCorrect, shake: viewModel.shake)
-            .focused($isTextFieldFocused)// prevents hiding keyboard on iPhone when incorrect
+            .focused($isTextFieldFocused)
 
-            
-            
-            
             HStack {
                 Button(action: {
                     viewModel.speak(text: viewModel.questions[viewModel.currentIndex].translation)
@@ -134,22 +116,18 @@ struct QuizView: View {
                     if viewModel.isCorrect == true {
                         viewModel.nextQuestion()
                         isTextFieldFocused = true
-                        
                     } else {
                         if let isCorrect = viewModel.checkAnswer() {
                             print("TEST100 isCorrect: \(isCorrect)")
                             if Platform.current != Platform.macOS {
                                 isTextFieldFocused = !isCorrect
                             }
-                            
                         }
-                        
                     }
                 }) {
                     Text(viewModel.isCorrect == true ? "Next" : "Check")
                         .styledButton(.secondary)
                 }.buttonStyle(ScaleButtonStyle())
-//                .frame(width: 350, height: 50)
                 
                 Button(action: {
                     viewModel.showHint = true
@@ -173,6 +151,5 @@ struct QuizView: View {
             
             Spacer()
         }
-        //.frame(minWidth: 1100, maxWidth: .infinity, minHeight: 800, maxHeight: .infinity)
     }
 }

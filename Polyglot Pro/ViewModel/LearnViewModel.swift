@@ -27,10 +27,10 @@ class LearnViewModel: ObservableObject {
     }
     
     @Published var speechRate: Float {
-            didSet {
-                UserDefaults.standard.set(speechRate, forKey: "speechRate")
-            }
+        didSet {
+            UserDefaults.standard.set(speechRate, forKey: "speechRate")
         }
+    }
     
     var category: QuestionCategory
     private var speechSynthesizer = AVSpeechSynthesizer()
@@ -66,13 +66,13 @@ class LearnViewModel: ObservableObject {
     }
     
     func shakeTextField() {
-            withAnimation {
-                shake = true
-            }
-            DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
-                self.shake = false
-            }
+        withAnimation {
+            shake = true
         }
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+            self.shake = false
+        }
+    }
     
     func nextQuestion() {
         if currentIndex < questions.count - 1 {

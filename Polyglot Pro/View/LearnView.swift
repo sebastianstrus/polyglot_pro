@@ -21,46 +21,45 @@ struct LearnView: View {
         default:
             return [GridItem(.flexible())]
         }
-     
     }
-
+    
     var body: some View {
-            ZStack {
-                gradientBackground
-                    .ignoresSafeArea()
-                
-                if showWords {
-                    VStack {
-                        ZStack {
-                            HStack {
-                                backButton
-                                Spacer()
-                            }
-                            
-                            categoryTitle
-                        }
-                        
-                        
-                        Text("Försök att komma ihåg \(viewModel.questions.count) uttrycken.")
-                            .styledSubtitel()
-                        
-                        Spacer()
-                        
-                        wordGrid
-                        
-                        Spacer()
-                        
+        ZStack {
+            gradientBackground
+                .ignoresSafeArea()
+            
+            if showWords {
+                VStack {
+                    ZStack {
                         HStack {
-                            startButton
+                            backButton
+                            Spacer()
                         }
-                        .padding(.bottom, Platform.current == .macOS ? 80 : 30)
-                        .padding(.top, Platform.current == .macOS ? 0 : 8)
+                        
+                        categoryTitle
                     }
-                } else {
-                    QuizView(viewModel: viewModel, showMenu: $showMenu)
+                    
+                    
+                    Text("Försök att komma ihåg \(viewModel.questions.count) uttrycken.")
+                        .styledSubtitel()
+                    
+                    Spacer()
+                    
+                    wordGrid
+                    
+                    Spacer()
+                    
+                    HStack {
+                        startButton
+                    }
+                    .padding(.bottom, Platform.current == .macOS ? 80 : 30)
+                    .padding(.top, Platform.current == .macOS ? 0 : 8)
                 }
+            } else {
+                QuizView(viewModel: viewModel, showMenu: $showMenu)
             }
         }
+    }
     
     private var gradientBackground: some View {
         LinearGradient(
@@ -127,9 +126,3 @@ struct LearnView: View {
         .frame(maxWidth: .infinity)
     }
 }
-
-
-
-
-
-

@@ -48,7 +48,7 @@ struct ExamplesView: View {
     
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
-
+            
             ForEach(viewModel.questions[viewModel.currentIndex].examples, id: \ .swedish) { example in
                 HStack {
                     Button(action: {
@@ -61,7 +61,7 @@ struct ExamplesView: View {
                             )
                             .foregroundColor(.white)
                             .cornerRadius(6)
-                            
+                        
                     }.buttonStyle(ScaleButtonStyle())
                     
                     if Platform.current == .macOS {

@@ -12,7 +12,7 @@ struct MainMenuView: View {
     @State private var selectedCategory: QuestionCategory? = nil
     
     let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .macOS ? 4 : 2)
-        
+    
     let size: CGFloat = {
         switch Platform.current {
         case .macOS: return 50.0
@@ -43,7 +43,6 @@ struct MainMenuView: View {
     
     var body: some View {
         
-        
         if showMenu {
             VStack {
                 
@@ -73,7 +72,6 @@ struct MainMenuView: View {
                         }
                         .padding(.top, Platform.current == .macOS ? 40 : 20)
                         .padding(.bottom, 20)
-
                     }
                     
                     VStack {
@@ -99,17 +97,13 @@ struct MainMenuView: View {
                 Spacer(minLength: 0)
                 Spacer(minLength: 0)
             }
-//            .frame(minWidth:800, maxWidth: .infinity, minHeight: 600, maxHeight: .infinity)
             .background(
                 
                 LinearGradient(
                     gradient: Gradient(colors: [Color.cyan.opacity(0.2), Color.blue.opacity(0.5)]),
                     startPoint: .top,
                     endPoint: .bottom)
-                
-                
             )
-            //.ignoresSafeArea()
         } else {
             if let category = selectedCategory {
                 LearnView(viewModel: LearnViewModel(category: category), showMenu: $showMenu)
@@ -117,7 +111,6 @@ struct MainMenuView: View {
         }
     }
 }
-
 
 struct ScaleButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
@@ -130,7 +123,7 @@ struct ScaleButtonStyle: ButtonStyle {
 
 struct ShakeEffect: GeometryEffect {
     var animatableData: CGFloat
-
+    
     func effectValue(size: CGSize) -> ProjectionTransform {
         let translation = sin(animatableData * .pi * 6) * 8
         return ProjectionTransform(CGAffineTransform(translationX: translation, y: 0))
