@@ -35,7 +35,7 @@ struct Polyglot_ProApp: App {
     
     var body: some Scene {
         WindowGroup {
-            MainMenuView()
+            VocabularyView()
                 .frame(minWidth: minWidth, maxWidth: .infinity, minHeight: minHeight, maxHeight: .infinity)
                 .preferredColorScheme(.light)
         }

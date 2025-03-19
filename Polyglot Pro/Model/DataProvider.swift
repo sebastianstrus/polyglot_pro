@@ -6,6 +6,10 @@
 //
 
 enum QuestionCategory: String, CaseIterable {
+    case personalPronouns = "Personliga pronomen"
+    case possessivePronouns = "Possessiva pronomen"
+    case reflexivePronouns = "Reflexiva pronomen"
+    case interrogativePronouns = "Frågande pronomen"
     case homework1 = "1. Lexa"
     case homework2 = "2. Lexa"
     case homework3 = "3. Lexa"
@@ -28,579 +32,246 @@ enum QuestionCategory: String, CaseIterable {
     case transport = "Transport"
     case numbers = "Tal"
     case ordinalNumbers = "Ordningstal"
-    case interrogativePronouns = "Frågande pronomen"
     case law = "Lag"
     case marketing = "Marknadsföring"
 }
 
 struct DataProvider {
     static let data: [QuestionCategory: [Question]] = [
-        .homework1: [
-            Question(expression: "ім'я", translation: "ett namn", examples: [
-                ("Vad är ditt namn?", "Як тебе звати?"),
-                ("Mitt namn är Anna.", "Мене звати Анна."),
-                ("Han glömde sitt namn.", "Він забув своє ім'я."),
-                ("Namnet på staden är Kyiv.", "Назва міста - Київ.")
+        .personalPronouns: [
+            Question(expression: "я", translation: "jag", examples: [
+                ("Jag heter Anna.", "Мене звуть Анна."),
+                ("Jag älskar att läsa böcker.", "Я люблю читати книги."),
+                ("Jag bor i Stockholm.", "Я живу в Стокгольмі."),
+                ("Jag ska till affären.", "Я йду до магазину.")
             ]),
-            Question(expression: "мова", translation: "ett språk", examples: [
-                ("Svenska är ett vackert språk.", "Шведська - гарна мова."),
-                ("Jag lär mig ett nytt språk.", "Я вивчаю нову мову."),
-                ("Vilket språk talar du?", "Якою мовою ти розмовляєш?"),
-                ("Språk är viktigt för kommunikation.", "Мова важлива для спілкування.")
+            Question(expression: "ти", translation: "du", examples: [
+                ("Du är snäll.", "Ти добрий."),
+                ("Vad heter du?", "Як тебе звати?"),
+                ("Du bor i Kiev.", "Ти живеш у Києві."),
+                ("Du ska till skolan.", "Ти йдеш до школи.")
             ]),
-            Question(expression: "країна", translation: "ett land", examples: [
-                ("Sverige är ett vackert land.", "Швеція - гарна країна."),
-                ("Jag vill besöka ett nytt land.", "Я хочу відвідати нову країну."),
-                ("Vilket land kommer du från?", "З якої країни ти родом?"),
-                ("Landet har många berg.", "У цій країні багато гір.")
+            Question(expression: "він", translation: "han", examples: [
+                ("Han är lärare.", "Він вчитель."),
+                ("Han älskar fotboll.", "Він любить футбол."),
+                ("Han bor i Göteborg.", "Він живе в Гетеборзі."),
+                ("Han ska till jobbet.", "Він йде на роботу.")
             ]),
-            Question(expression: "місто", translation: "en stad", examples: [
-                ("Stockholm är en stor stad.", "Стокгольм - велике місто."),
-                ("Jag bor i en liten stad.", "Я живу в маленькому місті."),
-                ("Vilken stad vill du besöka?", "Яке місто ти хочеш відвідати?"),
-                ("Staden är känd för sin arkitektur.", "Місто відоме своєю архітектурою.")
+            Question(expression: "вона", translation: "hon", examples: [
+                ("Hon är läkare.", "Вона лікар."),
+                ("Hon älskar att dansa.", "Вона любить танцювати."),
+                ("Hon bor i Malmö.", "Вона живе в Мальме."),
+                ("Hon ska till gymmet.", "Вона йде до спортзалу.")
             ]),
-            Question(expression: "район", translation: "en stadsdel", examples: [
-                ("Jag bor i en lugn stadsdel.", "Я живу в спокійному районі."),
-                ("Denna stadsdel är mycket populär.", "Цей район дуже популярний."),
-                ("Vilken stadsdel gillar du mest?", "Який район тобі найбільше подобається?"),
-                ("Stadsdelen har många parker.", "У цьому районі багато парків.")
+            Question(expression: "воно", translation: "den/det", examples: [
+                ("Det är en bok.", "Це книга."),
+                ("Den är stor.", "Вона велика."),
+                ("Det är en hund.", "Це собака."),
+                ("Den är liten.", "Він маленький.")
             ]),
-            Question(expression: "вулиця", translation: "en gata", examples: [
-                ("Gatan är mycket bred.", "Вулиця дуже широка."),
-                ("Jag går längs gatan.", "Я йду по вулиці."),
-                ("Vilken gata bor du på?", "На якій вулиці ти живеш?"),
-                ("Gatan är full av butiker.", "Вулиця повна магазинів.")
+            Question(expression: "ми", translation: "vi", examples: [
+                ("Vi är vänner.", "Ми друзі."),
+                ("Vi älskar att resa.", "Ми любимо подорожувати."),
+                ("Vi bor i Sverige.", "Ми живемо у Швеції."),
+                ("Vi ska till parken.", "Ми йдемо до парку.")
             ]),
-            Question(expression: "дитина", translation: "ett barn", examples: [
-                ("Barnet leker i parken.", "Дитина грається в парку."),
-                ("Varje barn är unikt.", "Кожна дитина унікальна."),
-                ("Hur många barn har du?", "Скільки у тебе дітей?"),
-                ("Barnet läser en bok.", "Дитина читає книгу.")
+            Question(expression: "ви", translation: "ni", examples: [
+                ("Ni är snälla.", "Ви добрі."),
+                ("Var bor ni?", "Де ви живете?"),
+                ("Ni ska till stan.", "Ви йдете до міста."),
+                ("Ni älskar musik.", "Ви любите музику.")
             ]),
-            Question(expression: "дівчинка", translation: "en flicka", examples: [
-                ("Flickan dansar balett.", "Дівчинка танцює балет."),
-                ("Hon är en snäll flicka.", "Вона добра дівчинка."),
-                ("Flickan läser en saga.", "Дівчинка читає казку."),
-                ("Flickan har blå ögon.", "У дівчинки блакитні очі.")
-            ]),
-            Question(expression: "хлопчик", translation: "en pojke", examples: [
-                ("Pojken springer snabbt.", "Хлопчик бігає швидко."),
-                ("Han är en stark pojke.", "Він сильний хлопчик."),
-                ("Pojken leker med bollen.", "Хлопчик грається з м'ячем."),
-                ("Pojken gillar att rita.", "Хлопчику подобається малювати.")
-            ]),
-            Question(expression: "жінка", translation: "en kvinna", examples: [
-                ("Kvinnan läser en tidning.", "Жінка читає газету."),
-                ("Hon är en smart kvinna.", "Вона розумна жінка."),
-                ("Kvinnan arbetar på ett kontor.", "Жінка працює в офісі."),
-                ("Kvinnan har långt hår.", "У жінки довге волосся.")
-            ]),
-            Question(expression: "чоловік", translation: "en man", examples: [
-                ("Mannen går till jobbet.", "Чоловік йде на роботу."),
-                ("Han är en vänlig man.", "Він добрий чоловік."),
-                ("Mannen äter frukost.", "Чоловік снідає."),
-                ("Mannen har ett stort leende.", "У чоловіка широка посмішка.")
-            ]),
-            Question(expression: "дочка", translation: "en dotter", examples: [
-                ("Dottern hjälper sin mamma.", "Дочка допомагає своїй мамі."),
-                ("Hon är deras enda dotter.", "Вона їх єдина дочка."),
-                ("Dottern gillar att sjunga.", "Дочці подобається співати."),
-                ("Dottern är mycket duktig i skolan.", "Дочка дуже добре вчиться в школі.")
-            ]),
-            Question(expression: "син", translation: "en son", examples: [
-                ("Sonen spelar fotboll.", "Син грає у футбол."),
-                ("Han är deras äldsta son.", "Він їхній старший син."),
-                ("Sonen hjälper sin pappa.", "Син допомагає своєму татові."),
-                ("Sonen gillar att läsa böcker.", "Сину подобається читати книги.")
-            ]),
-            Question(expression: "батько/мати", translation: "en förälder", examples: [
-                ("Min förälder hjälper mig med läxan.", "Мій батько/мати допомагає мені з домашнім завданням."),
-                ("Som förälder har man mycket ansvar.", "Як батько/мати, маєш багато відповідальності."),
-                ("Mina föräldrar jobbar på sjukhuset.", "Мої батьки працюють у лікарні."),
-                ("En förälder älskar alltid sitt barn.", "Батько/мати завжди любить свою дитину.")
-            ]),
-            Question(expression: "тато", translation: "en pappa", examples: [
-                ("Pappan lagar mat.", "Тато готує їжу."),
-                ("Han är en bra pappa.", "Він хороший тато."),
-                ("Pappan leker med barnen.", "Тато грається з дітьми."),
-                ("Pappan berättar en saga.", "Тато розповідає казку.")
-            ]),
-            Question(expression: "мама", translation: "en mamma", examples: [
-                ("Mamman läser en bok.", "Мама читає книгу."),
-                ("Hon är en omtänksam mamma.", "Вона турботлива мама."),
-                ("Mamman bakar kakor.", "Мама пече печиво."),
-                ("Mamman hjälper barnet med läxorna.", "Мама допомагає дитині з уроками.")
-            ]),
-            Question(expression: "брат чи сестра", translation: "ett syskon", examples: [
-                ("Jag har två syskon.", "У мене двоє братів і сестер."),
-                ("Syskonen leker tillsammans.", "Брати і сестри граються разом."),
-                ("Syskon är viktiga i livet.", "Брати і сестри важливі в житті."),
-                ("Syskonen delar på rummet.", "Брати і сестри ділять кімнату.")
-            ]),
-            Question(expression: "сестра", translation: "en syster", examples: [
-                ("Systern är mycket snäll.", "Сестра дуже добра."),
-                ("Hon är min äldsta syster.", "Вона моя старша сестра."),
-                ("Systern gillar att måla.", "Сестрі подобається малювати."),
-                ("Systern hjälper mig med läxorna.", "Сестра допомагає мені з уроками.")
-            ]),
-            Question(expression: "брат", translation: "en bror", examples: [
-                ("Broren är mycket stark.", "Брат дуже сильний."),
-                ("Han är min yngre bror.", "Він мій молодший брат."),
-                ("Broren gillar att spela fotboll.", "Братові подобається грати у футбол."),
-                ("Broren hjälper mig med bilen.", "Брат допомагає мені з машиною.")
-            ]),
-            Question(expression: "двоюрідний брат чи сестра", translation: "en kusin", examples: [
-                ("Kusinen bor i ett annat land.", "Двоюрідний брат/сестра живе в іншій країні."),
-                ("Jag träffar min kusin på sommaren.", "Я зустрічаюся зі своїм двоюрідним братом/сестрою влітку."),
-                ("Kusinen är mycket rolig.", "Двоюрідний брат/сестра дуже веселий/весела."),
-                ("Kusinen och jag är bra vänner.", "Ми з двоюрідним братом/сестрою хороші друзі.")
+            Question(expression: "вони", translation: "de", examples: [
+                ("De är läkare.", "Вони лікарі."),
+                ("De älskar att läsa.", "Вони люблять читати."),
+                ("De bor i Ukraina.", "Вони живуть в Україні."),
+                ("De ska till skolan.", "Вони йдуть до школи.")
             ])
         ],
-        .homework2: [
-            Question(expression: "день", translation: "en dag", examples: [
-                ("Idag är en vacker dag.", "Сьогодні чудовий день."),
-                ("Jag har en ledig dag imorgon.", "Завтра у мене вихідний день."),
-                ("Varje dag är en ny möjlighet.", "Кожен день - це нова можливість."),
-                ("Dagen börjar med solsken.", "День починається з сонячної погоди.")
+        .possessivePronouns: [
+            Question(expression: "мій", translation: "min", examples: [
+                ("Det här är min bok.", "Це моя книга."),
+                ("Min bil är ny.", "Моя машина нова."),
+                ("Jag älskar min familj.", "Я люблю свою сім'ю."),
+                ("Min vän bor i Sverige.", "Мій друг живе у Швеції.")
             ]),
-            Question(expression: "ранок", translation: "en morgon", examples: [
-                ("På morgonen dricker jag kaffe.", "Вранці я п'ю каву."),
-                ("Morgonen är min favorittid på dagen.", "Ранок - моя улюблена пора дня."),
-                ("Vi går en promenad på morgonen.", "Ми гуляємо вранці."),
-                ("Morgonen är lugn och fridfull.", "Ранок спокійний і мирний.")
+            Question(expression: "твій", translation: "din", examples: [
+                ("Är det din väska?", "Це твоя сумка?"),
+                ("Din hund är söt.", "Твій пес милий."),
+                ("Jag gillar din klänning.", "Мені подобається твоя сукня."),
+                ("Din lärare är snäll.", "Твій вчитель добрий.")
             ]),
-            Question(expression: "передобіддя", translation: "en förmiddag", examples: [
-                ("På förmiddagen har jag möten.", "У передобіддя у мене зустрічі."),
-                ("Jag brukar träna på förmiddagen.", "Я зазвичай тренуюся в передобіддя."),
-                ("Förmiddagen är produktiv.", "Передобіддя продуктивне."),
-                ("Vi äter frukost på förmiddagen.", "Ми снідаємо в передобіддя.")
+            Question(expression: "його", translation: "hans", examples: [
+                ("Det är hans hus.", "Це його будинок."),
+                ("Hans bil är röd.", "Його машина червона."),
+                ("Jag träffade hans vän.", "Я зустрів його друга."),
+                ("Hans bok är intressant.", "Його книга цікава.")
             ]),
-            Question(expression: "післяобіддя", translation: "en eftermiddag", examples: [
-                ("På eftermiddagen går jag en promenad.", "У післяобідню пору я гуляю."),
-                ("Eftermiddagen är perfekt för att läsa.", "Післяобіддя ідеально підходить для читання."),
-                ("Vi träffas på eftermiddagen.", "Ми зустрічаємось у післяобідню пору."),
-                ("Eftermiddagen är varm och solig.", "Післяобіддя тепле і сонячне.")
+            Question(expression: "її", translation: "hennes", examples: [
+                ("Det är hennes katt.", "Це її кіт."),
+                ("Hennes klänning är vacker.", "Її сукня гарна."),
+                ("Jag gillar hennes stil.", "Мені подобається її стиль."),
+                ("Hennes hus är stort.", "Її будинок великий.")
             ]),
-            Question(expression: "вечір", translation: "en kväll", examples: [
-                ("På kvällen tittar jag på TV.", "Ввечері я дивлюся телевізор."),
-                ("Kvällen är lugn och skön.", "Вечір спокійний і приємний."),
-                ("Vi äter middag på kvällen.", "Ми вечеряємо ввечері."),
-                ("Kvällen är perfekt för att slappna av.", "Вечір ідеально підходить для відпочинку.")
+            Question(expression: "його/її (для речей)", translation: "dess", examples: [
+                ("Dess färg är blå.", "Його/її колір синій."),
+                ("Jag gillar dess smak.", "Мені подобається його/її смак."),
+                ("Dess storlek är perfekt.", "Його/її розмір ідеальний."),
+                ("Dess namn är okänt.", "Його/її назва невідома.")
             ]),
-            Question(expression: "ніч", translation: "en natt", examples: [
-                ("På natten sover jag.", "Вночі я сплю."),
-                ("Natten är mörk och tyst.", "Ніч темна і тиха."),
-                ("Vi ser stjärnorna på natten.", "Ми бачимо зірки вночі."),
-                ("Natten är lång på vintern.", "Ніч довга взимку.")
+            Question(expression: "наш", translation: "vår", examples: [
+                ("Det är vår bil.", "Це наша машина."),
+                ("Vår lärare är snäll.", "Наш вчитель добрий."),
+                ("Vi älskar vår stad.", "Ми любимо наше місто."),
+                ("Vår hund är stor.", "Наш пес великий.")
             ]),
-            Question(expression: "тиждень", translation: "en vecka", examples: [
-                ("En vecka har sju dagar.", "Тиждень має сім днів."),
-                ("Jag åker på semester nästa vecka.", "Я їду у відпустку наступного тижня."),
-                ("Veckan börjar på måndag.", "Тиждень починається в понеділок."),
-                ("Den här veckan är mycket upptagen.", "Цей тиждень дуже завантажений.")
+            Question(expression: "ваш", translation: "er", examples: [
+                ("Är det er hund?", "Це ваш пес?"),
+                ("Er lägenhet är stor.", "Ваша квартира велика."),
+                ("Jag gillar er bil.", "Мені подобається ваша машина."),
+                ("Er trädgård är vacker.", "Ваш сад гарний.")
             ]),
-            Question(expression: "місяць", translation: "en månad", examples: [
-                ("En månad har 30 eller 31 dagar.", "Місяць має 30 або 31 день."),
-                ("Juni är min favoritmånad.", "Червень - мій улюблений місяць."),
-                ("Vi reser nästa månad.", "Ми їдемо у подорож наступного місяця."),
-                ("Månaden är snart slut.", "Місяць скоро закінчиться.")
+            Question(expression: "їхній", translation: "deras", examples: [
+                ("Det är deras hus.", "Це їхній будинок."),
+                ("Deras barn är snälla.", "Їхні діти добрі."),
+                ("Jag gillar deras bil.", "Мені подобається їхня машина."),
+                ("Deras trädgård är stor.", "Їхній сад великий.")
             ]),
-            Question(expression: "рік", translation: "ett år", examples: [
-                ("Ett år har tolv månader.", "Рік має дванадцять місяців."),
-                ("Nästa år ska jag resa till Sverige.", "Наступного року я поїду до Швеції."),
-                ("Året har gått fort.", "Рік пройшов швидко."),
-                ("Varje år firar vi jul.", "Щороку ми святкуємо Різдво.")
+            Question(expression: "свій", translation: "sin", examples: [
+                ("Han läser sin bok.", "Він читає свою книгу."),
+                ("Hon tar sin väska.", "Вона бере свою сумку."),
+                ("Han älskar sin hund.", "Він любить свого пса."),
+                ("Hon skriver sin läxa.", "Вона пише своє домашнє завдання.")
             ]),
-            Question(expression: "сніданок", translation: "en frukost", examples: [
-                ("Frukost är den viktigaste måltiden.", "Сніданок - найважливіший прийом їжі."),
-                ("Jag äter frukost varje morgon.", "Я снідаю кожного ранку."),
-                ("Frukosten består av bröd och ägg.", "Сніданок складається з хліба та яєць."),
-                ("Vi äter frukost tillsammans.", "Ми снідаємо разом.")
+            Question(expression: "свій", translation: "sitt", examples: [
+                ("Han äter sitt äpple.", "Він їсть своє яблуко."),
+                ("Hon läser sitt brev.", "Вона читає свого листа."),
+                ("Barnet leker med sitt leksak.", "Дитина грається зі своєю іграшкою."),
+                ("Hunden skakar sitt huvud.", "Собака трясе своєю головою.")
             ]),
-            Question(expression: "обід", translation: "en lunch", examples: [
-                ("Lunchen serveras klockan tolv.", "Обід подають о дванадцятій."),
-                ("Jag äter lunch med kollegorna.", "Я обідаю з колегами."),
-                ("Lunchen är enkel men god.", "Обід простий, але смачний."),
-                ("Vi tar en paus för lunch.", "Ми робимо перерву на обід.")
-            ]),
-            Question(expression: "вечеря", translation: "en middag", examples: [
-                ("Middagen är klar klockan sju.", "Вечеря буде готова о сьомій."),
-                ("Vi bjuder på middag ikväll.", "Ми запрошуємо на вечерю сьогодні ввечері."),
-                ("Middagen består av fisk och potatis.", "Вечеря складається з риби та картоплі."),
-                ("Efter middagen dricker vi kaffe.", "Після вечері ми п'ємо каву.")
+            Question(expression: "свої", translation: "sina", examples: [
+                ("Han tvättar sina händer.", "Він миє свої руки."),
+                ("Hon packar sina saker.", "Вона пакує свої речі."),
+                ("De älskar sina barn.", "Вони люблять своїх дітей."),
+                ("Barnen leker med sina leksaker.", "Діти граються зі своїми іграшками.")
             ])
         ],
-        .homework3: [
-            Question(expression: "слово", translation: "ett ord", examples: [
-                ("Ett ord kan betyda mycket.", "Одне слово може багато значити."),
-                ("Kan du stava det här ordet?", "Ти можеш продиктувати це слово по літерах?"),
-                ("Jag lär mig ett nytt ord varje dag.", "Я вивчаю нове слово кожного дня."),
-                ("Det här ordet är svårt att uttala.", "Це слово важко вимовити.")
+        .reflexivePronouns: [
+            Question(expression: "себе", translation: "mig", examples: [
+                ("Jag ser mig i spegeln.", "Я бачу себе в дзеркалі."),
+                ("Jag köpte en present till mig.", "Я купив собі подарунок."),
+                ("Jag tar med mig en bok.", "Я беру з собою книгу."),
+                ("Jag ska tvätta mig.", "Я збираюся помитися.")
             ]),
-            Question(expression: "речення", translation: "en mening", examples: [
-                ("En mening består av flera ord.", "Речення складається з кількох слів."),
-                ("Kan du skriva en mening på svenska?", "Ти можеш написати речення шведською?"),
-                ("Den här meningen är för lång.", "Це речення занадто довге."),
-                ("Jag förstår inte den här meningen.", "Я не розумію цього речення.")
+            Question(expression: "себе", translation: "dig", examples: [
+                ("Ser du dig i spegeln?", "Ти бачиш себе в дзеркалі?"),
+                ("Du måste ta hand om dig.", "Ти повинен піклуватися про себе."),
+                ("Du köpte en present till dig.", "Ти купив собі подарунок."),
+                ("Du ska tvätta dig.", "Ти збираєшся помитися.")
             ]),
-            Question(expression: "картинка", translation: "en bild", examples: [
-                ("Bilden är mycket vacker.", "Картинка дуже гарна."),
-                ("Jag ritar en bild till min vän.", "Я малюю картинку для свого друга."),
-                ("Bilden hänger på väggen.", "Картинка висить на стіні."),
-                ("Kan du ta en bild av oss?", "Ти можеш зробити фото нас?")
+            Question(expression: "себе", translation: "sig", examples: [
+                ("Han ser sig i spegeln.", "Він бачить себе в дзеркалі."),
+                ("Hon köpte en present till sig.", "Вона купила собі подарунок."),
+                ("De måste ta hand om sig.", "Вони повинні піклуватися про себе."),
+                ("Hunden skakar sig.", "Собака трясе себе.")
             ]),
-            Question(expression: "ручка", translation: "en penna", examples: [
-                ("Jag behöver en penna för att skriva.", "Мені потрібна ручка, щоб писати."),
-                ("Pennan är blå.", "Ручка синя."),
-                ("Kan jag låna din penna?", "Можу я позичити твою ручку?"),
-                ("Pennan är slut, jag behöver en ny.", "Ручка закінчилася, мені потрібна нова.")
+            Question(expression: "себе", translation: "oss", examples: [
+                ("Vi ser oss i spegeln.", "Ми бачимо себе в дзеркалі."),
+                ("Vi måste ta hand om oss.", "Ми повинні піклуватися про себе."),
+                ("Vi köpte presenter till oss.", "Ми купили собі подарунки."),
+                ("Vi ska tvätta oss.", "Ми збираємося помитися.")
             ]),
-            Question(expression: "книга", translation: "en bok", examples: [
-                ("Boken är mycket intressant.", "Книга дуже цікава."),
-                ("Jag läser en bok varje kväll.", "Я читаю книгу кожного вечора."),
-                ("Kan du rekommendera en bra bok?", "Ти можеш порекомендувати хорошу книгу?"),
-                ("Boken ligger på bordet.", "Книга лежить на столі.")
+            Question(expression: "себе", translation: "er", examples: [
+                ("Ni ser er i spegeln.", "Ви бачите себе в дзеркалі."),
+                ("Ni måste ta hand om er.", "Ви повинні піклуватися про себе."),
+                ("Ni köpte presenter till er.", "Ви купили собі подарунки."),
+                ("Ni ska tvätta er.", "Ви збираєтеся помитися.")
             ]),
-            Question(expression: "сторінка", translation: "en sida", examples: [
-                ("Varje sida i boken är numrerad.", "Кожна сторінка в книзі пронумерована."),
-                ("Jag läser en sida i taget.", "Я читаю по одній сторінці."),
-                ("Sidan är full av text.", "Сторінка повна тексту."),
-                ("Vänd sidan, tack.", "Перегорніть сторінку, будь ласка.")
-            ]),
-            Question(expression: "лінійка", translation: "en linjal", examples: [
-                ("Jag behöver en linjal för att rita.", "Мені потрібна лінійка, щоб малювати."),
-                ("Linjalen är 30 centimeter lång.", "Лінійка завдовжки 30 сантиметрів."),
-                ("Kan du låna mig din linjal?", "Ти можеш позичити мені свою лінійку?"),
-                ("Linjalen är trasig.", "Лінійка зламана.")
-            ]),
-            Question(expression: "розклад", translation: "ett schema", examples: [
-                ("Schemat visar alla lektioner.", "Розклад показує всі уроки."),
-                ("Jag följer ett strikt schema.", "Я дотримуюся строгого розкладу."),
-                ("Schemat är uppdaterat.", "Розклад оновлений."),
-                ("Kan du skicka mig schemat?", "Ти можеш надіслати мені розклад?")
-            ]),
-            Question(expression: "точилка", translation: "en pennvässare", examples: [
-                ("Jag behöver en pennvässare för min penna.", "Мені потрібна точилка для олівця."),
-                ("Pennvässaren är liten och praktisk.", "Точилка маленька і зручна."),
-                ("Kan jag använda din pennvässare?", "Можу я скористатися твоєю точилкою?"),
-                ("Pennvässaren är trasig.", "Точилка зламана.")
-            ]),
-            Question(expression: "комп'ютер", translation: "en dator", examples: [
-                ("Datorn är mycket snabb.", "Комп'ютер дуже швидкий."),
-                ("Jag använder datorn varje dag.", "Я використовую комп'ютер щодня."),
-                ("Kan du reparera min dator?", "Ти можеш полагодити мій комп'ютер?"),
-                ("Datorn är ny.", "Комп'ютер новий.")
-            ]),
-            Question(expression: "учень", translation: "en elev", examples: [
-                ("Eleven läser en bok.", "Учень читає книгу."),
-                ("Varje elev har ett eget skåp.", "Кожен учень має свою шафку."),
-                ("Eleven är mycket flitig.", "Учень дуже старанний."),
-                ("Eleverna skriver ett prov.", "Учні пишуть контрольну.")
-            ]),
-            Question(expression: "рюкзак", translation: "en väska", examples: [
-                ("Väskan är full av böcker.", "Рюкзак повний книжок."),
-                ("Jag glömde min väska i skolan.", "Я забув свій рюкзак у школі."),
-                ("Kan du bära min väska?", "Ти можеш понести мій рюкзак?"),
-                ("Väskan är för tung.", "Рюкзак занадто важкий.")
-            ]),
-            Question(expression: "гумка", translation: "ett suddgummi", examples: [
-                ("Jag behöver ett suddgummi för att radera.", "Мені потрібна гумка, щоб стерти."),
-                ("Suddgummit är litet och rosa.", "Гумка маленька і рожева."),
-                ("Kan jag låna ditt suddgummi?", "Можу я позичити твою гумку?"),
-                ("Suddgummit är slut.", "Гумка закінчилася.")
-            ]),
-            Question(expression: "зошит", translation: "ett häfte", examples: [
-                ("Häftet är fullt av anteckningar.", "Зошит повний записів."),
-                ("Jag köpte ett nytt häfte.", "Я купив новий зошит."),
-                ("Kan du ge mig ditt häfte?", "Ти можеш дати мені свій зошит?"),
-                ("Häftet ligger i väskan.", "Зошит лежить у рюкзаку.")
-            ]),
-            Question(expression: "годинник", translation: "en klocka", examples: [
-                ("Klockan visar tio över två.", "Годинник показує десять хвилин на третю."),
-                ("Jag har en ny klocka.", "У мене новий годинник."),
-                ("Klockan är trasig.", "Годинник зламаний."),
-                ("Kan du kolla vad klockan är?", "Ти можеш подивитися, котра година?")
-            ]),
-            Question(expression: "словник", translation: "ett lexikon", examples: [
-                ("Lexikonet hjälper mig att lära nya ord.", "Словник допомагає мені вивчати нові слова."),
-                ("Jag använder lexikonet varje dag.", "Я використовую словник щодня."),
-                ("Lexikonet är tungt.", "Словник важкий."),
-                ("Kan jag låna ditt lexikon?", "Можу я позичити твій словник?")
+            Question(expression: "себе", translation: "sig", examples: [
+                ("De ser sig i spegeln.", "Вони бачать себе в дзеркалі."),
+                ("De måste ta hand om sig.", "Вони повинні піклуватися про себе."),
+                ("De köpte presenter till sig.", "Вони купили собі подарунки."),
+                ("De ska tvätta sig.", "Вони збираються помитися.")
             ])
         ],
-        .homework4: [
-            Question(expression: "їжа", translation: "en mat", examples: [
-                ("Maten är mycket god.", "Їжа дуже смачна."),
-                ("Jag lagar mat varje dag.", "Я готую їжу щодня."),
-                ("Vilken mat gillar du mest?", "Яка їжа тобі найбільше подобається?"),
-                ("Maten är klar att serveras.", "Їжа готова до подачі.")
+        .interrogativePronouns: [
+            Question(expression: "хто", translation: "vem", examples: [
+                ("Vem är du?", "Хто ти?"),
+                ("Vem vann tävlingen?", "Хто виграв змагання?"),
+                ("Vem ringer du?", "Кому ти телефонуєш?"),
+                ("Vem bor i detta hus?", "Хто живе в цьому будинку?")
             ]),
-            Question(expression: "рис", translation: "ett ris", examples: [
-                ("Riset kokar i tio minuter.", "Рис вариться десять хвилин."),
-                ("Jag äter ris till middag.", "Я їм рис на вечерю."),
-                ("Riset är en viktig basvara.", "Рис - це важливий основний продукт."),
-                ("Kan du koka riset?", "Ти можеш зварити рис?")
+            Question(expression: "що", translation: "vad", examples: [
+                ("Vad heter du?", "Як тебе звати?"),
+                ("Vad gör du?", "Що ти робиш?"),
+                ("Vad är det där?", "Що це таке?"),
+                ("Vad vill du äta?", "Що ти хочеш їсти?")
             ]),
-            Question(expression: "картопля", translation: "en potatis", examples: [
-                ("Potatisen är kokt.", "Картопля варена."),
-                ("Jag ska laga potatismos.", "Я збираюся приготувати картопляне пюре."),
-                ("Potatis är nyttigt.", "Картопля корисна."),
-                ("Kan du skära potatisen?", "Ти можеш нарізати картоплю?")
+            Question(expression: "де", translation: "var", examples: [
+                ("Var är du?", "Де ти?"),
+                ("Var ligger banken?", "Де знаходиться банк?"),
+                ("Var bor du?", "Де ти живеш?"),
+                ("Var är min bok?", "Де моя книга?")
             ]),
-            Question(expression: "м'ясо", translation: "ett kött", examples: [
-                ("Köttet är färskt.", "М'ясо свіже."),
-                ("Jag äter inte kött.", "Я не їм м'ясо."),
-                ("Köttet behöver stekas.", "М'ясо потрібно підсмажити."),
-                ("Vilket kött föredrar du?", "Яке м'ясо ти віддаєш перевагу?")
+            Question(expression: "куди", translation: "vart", examples: [
+                ("Vart ska du?", "Куди ти йдеш?"),
+                ("Vart reser ni i sommar?", "Куди ви подорожуєте цього літа?"),
+                ("Vart flyttade de?", "Куди вони переїхали?"),
+                ("Vart går den här bussen?", "Куди їде цей автобус?")
             ]),
-            Question(expression: "ковбаса", translation: "en korv", examples: [
-                ("Korven är grillad.", "Ковбаса грильована."),
-                ("Jag äter korv till lunch.", "Я їм ковбасу на обід."),
-                ("Korv är populärt i Sverige.", "Ковбаса популярна у Швеції."),
-                ("Kan du köpa korv till mig?", "Ти можеш купити мені ковбасу?")
+            Question(expression: "звідки", translation: "varifrån", examples: [
+                ("Varifrån kommer du?", "Звідки ти?"),
+                ("Varifrån fick du denna information?", "Звідки ти отримав цю інформацію?"),
+                ("Varifrån är den här bilen?", "Звідки ця машина?"),
+                ("Varifrån reser du?", "Звідки ти подорожуєш?")
             ]),
-            Question(expression: "риба", translation: "en fisk", examples: [
-                ("Fisken är fångad i havet.", "Риба виловлена в морі."),
-                ("Jag lagar fisk till middag.", "Я готую рибу на вечерю."),
-                ("Fisk är nyttigt för hälsan.", "Риба корисна для здоров'я."),
-                ("Kan du rengöra fisken?", "Ти можеш почистити рибу?")
+            Question(expression: "коли", translation: "när", examples: [
+                ("När börjar filmen?", "Коли починається фільм?"),
+                ("När är ditt födelsedatum?", "Коли у тебе день народження?"),
+                ("När träffades ni?", "Коли ви зустрілися?"),
+                ("När öppnar butiken?", "Коли відкривається магазин?")
             ]),
-            Question(expression: "курка", translation: "en kyckling", examples: [
-                ("Kycklingen är grillad.", "Курка грильована."),
-                ("Jag äter kyckling till middag.", "Я їм курку на вечерю."),
-                ("Kyckling är lätt att laga.", "Курку легко готувати."),
-                ("Kan du skära kycklingen?", "Ти можеш нарізати курку?")
+            Question(expression: "чому", translation: "varför", examples: [
+                ("Varför är du sen?", "Чому ти запізнився?"),
+                ("Varför studerar du svenska?", "Чому ти вчиш шведську?"),
+                ("Varför skrattar du?", "Чому ти смієшся?"),
+                ("Varför är han arg?", "Чому він сердитий?")
             ]),
-            Question(expression: "фрикаделька", translation: "en köttbulle", examples: [
-                ("Köttbullarna är hemlagade.", "Фрикадельки домашні."),
-                ("Jag äter köttbullar med potatis.", "Я їм фрикадельки з картоплею."),
-                ("Köttbullar är en svensk klassiker.", "Фрикадельки - це шведська класика."),
-                ("Kan du laga köttbullar?", "Ти можеш приготувати фрикадельки?")
+            Question(expression: "як", translation: "hur", examples: [
+                ("Hur mår du?", "Як ти себе почуваєш?"),
+                ("Hur fungerar det?", "Як це працює?"),
+                ("Hur gammal är du?", "Скільки тобі років?"),
+                ("Hur långt är det till stationen?", "Як далеко до станції?")
             ]),
-            Question(expression: "помідор", translation: "en tomat", examples: [
-                ("Tomaten är röd och saftig.", "Помідор червоний і соковитий."),
-                ("Jag lägger tomat på smörgåsen.", "Я кладу помідор на бутерброд."),
-                ("Tomater är nyttiga.", "Помідори корисні."),
-                ("Kan du skära tomaten?", "Ти можеш нарізати помідор?")
+            Question(expression: "скільки", translation: "hur mycket", examples: [
+                ("Hur mycket kostar det?", "Скільки це коштує?"),
+                ("Hur mycket tid har vi?", "Скільки у нас часу?"),
+                ("Hur mycket socker vill du ha?", "Скільки цукру ти хочеш?"),
+                ("Hur mycket vatten dricker du per dag?", "Скільки води ти п'єш на день?")
             ]),
-            Question(expression: "салат", translation: "en sallad", examples: [
-                ("Salladen är färsk och god.", "Салат свіжий і смачний."),
-                ("Jag äter sallad till lunch.", "Я їм салат на обід."),
-                ("Sallad är nyttigt för hälsan.", "Салат корисний для здоров'я."),
-                ("Kan du göra en sallad?", "Ти можеш зробити салат?")
+            Question(expression: "скільки (лічильний)", translation: "hur många", examples: [
+                ("Hur många syskon har du?", "Скільки у тебе братів і сестер?"),
+                ("Hur många böcker har du?", "Скільки у тебе книг?"),
+                ("Hur många timmar tar resan?", "Скільки годин триває подорож?"),
+                ("Hur många elever är i klassen?", "Скільки учнів у класі?")
             ]),
-            Question(expression: "овоч", translation: "en grönsak", examples: [
-                ("Grönsaker är nyttiga.", "Овочі корисні."),
-                ("Jag äter många grönsaker.", "Я їм багато овочів."),
-                ("Grönsaker är viktiga i kosten.", "Овочі важливі в раціоні."),
-                ("Kan du köpa grönsaker?", "Ти можеш купити овочі?")
+            Question(expression: "який", translation: "vilken", examples: [
+                ("Vilken bok vill du läsa?", "Яку книгу ти хочеш прочитати?"),
+                ("Vilket språk talar du?", "Якою мовою ти говориш?"),
+                ("Vilka länder har du besökt?", "Які країни ти відвідав?"),
+                ("Vilken färg tycker du om?", "Який колір тобі подобається?")
             ]),
-            Question(expression: "суп", translation: "en soppa", examples: [
-                ("Soppan är varm och god.", "Суп гарячий і смачний."),
-                ("Jag lagar soppa till middag.", "Я готую суп на вечерю."),
-                ("Soppa är perfekt på vintern.", "Суп ідеально підходить взимку."),
-                ("Kan du smaka på soppan?", "Ти можеш спробувати суп?")
+            Question(expression: "чий", translation: "vems", examples: [
+                ("Vems bil är det?", "Чия це машина?"),
+                ("Vems bok ligger här?", "Чия книга тут лежить?"),
+                ("Vems idé var det?", "Чия це була ідея?"),
+                ("Vems hund är det?", "Чий це собака?")
             ]),
-            Question(expression: "бутерброд", translation: "en smörgås", examples: [
-                ("Smörgåsen är enkel men god.", "Бутерброд простий, але смачний."),
-                ("Jag äter en smörgås till frukost.", "Я їм бутерброд на сніданок."),
-                ("Smörgåsar är populära i Sverige.", "Бутерброди популярні у Швеції."),
-                ("Kan du göra en smörgås till mig?", "Ти можеш зробити мені бутерброд?")
-            ]),
-            Question(expression: "яблуко", translation: "ett äpple", examples: [
-                ("Äpplet är sött och saftigt.", "Яблуко солодке і соковите."),
-                ("Jag äter ett äpple varje dag.", "Я їм яблуко щодня."),
-                ("Äpplen är nyttiga.", "Яблука корисні."),
-                ("Kan du skära äpplet?", "Ти можеш нарізати яблуко?")
-            ]),
-            Question(expression: "апельсин", translation: "en apelsin", examples: [
-                ("Apelsinen är färsk och saftig.", "Апельсин свіжий і соковитий."),
-                ("Jag äter en apelsin till frukost.", "Я їм апельсин на сніданок."),
-                ("Apelsiner är rika på C-vitamin.", "Апельсини багаті на вітамін С."),
-                ("Kan du skala apelsinen?", "Ти можеш почистити апельсин?")
-            ]),
-            Question(expression: "банан", translation: "en banan", examples: [
-                ("Bananen är mogen och god.", "Банан стиглий і смачний."),
-                ("Jag äter en banan till mellanmål.", "Я їм банан на перекус."),
-                ("Bananer är enkel att äta.", "Банани легко їсти."),
-                ("Kan du köpa bananer?", "Ти можеш купити банани?")
-            ]),
-            Question(expression: "огірок", translation: "en gurka", examples: [
-                ("Gurkan är färsk och krispig.", "Огірок свіжий і хрусткий."),
-                ("Jag lägger gurka i salladen.", "Я кладу огірок у салат."),
-                ("Gurka är nyttigt.", "Огірок корисний."),
-                ("Kan du skära gurkan?", "Ти можеш нарізати огірок?")
-            ]),
-            Question(expression: "цибуля", translation: "en lök", examples: [
-                ("Löken är stark och smakrik.", "Цибуля гостря і смачна."),
-                ("Jag använder lök i matlagningen.", "Я використовую цибулю при приготуванні їжі."),
-                ("Lök är viktigt i många rätter.", "Цибуля важлива у багатьох стравах."),
-                ("Kan du hacka löken?", "Ти можеш нарізати цибулю?")
-            ]),
-            Question(expression: "молоко", translation: "en mjölk", examples: [
-                ("Mjölken är färsk.", "Молоко свіже."),
-                ("Jag dricker mjölk till frukost.", "Я п'ю молоко на сніданок."),
-                ("Mjölk är nyttigt för benen.", "Молоко корисне для кісток."),
-                ("Kan du köpa mjölk?", "Ти можеш купити молоко?")
-            ]),
-            Question(expression: "пиво", translation: "en/ett öl", examples: [
-                ("Ölet är kallt och uppfriskande.", "Пиво холодне і освіжаюче."),
-                ("Jag tar en öl efter jobbet.", "Я беру пиво після роботи."),  // Zmienione zdanie
-                ("Öl är populärt på sommaren.", "Пиво популярне влітку."),
-                ("Kan du köpa öl?", "Ти можеш купити пиво?")
-            ]),
-            Question(expression: "чай", translation: "ett te", examples: [
-                ("Teet är varmt och skönt.", "Чай гарячий і затишний."),
-                ("Jag dricker te varje morgon.", "Я п'ю чай кожного ранку."),
-                ("Te är perfekt på vintern.", "Чай ідеально підходить взимку."),
-                ("Kan du koka te?", "Ти можеш заварити чай?")
-            ]),
-            Question(expression: "кава", translation: "en kaffe", examples: [
-                ("Kaffet är starkt och gott.", "Кава міцна і смачна."),
-                ("Jag dricker kaffe varje dag.", "Я п'ю каву щодня."),
-                ("Kaffe hjälper mig att vakna.", "Кава допомагає мені прокинутися."),
-                ("Kan du göra kaffe?", "Ти можеш зробити каву?")
-            ])
-        ],
-        .homework5: [
-            Question(expression: "червоний", translation: "röd", examples: [
-                ("Den röda bilen är snabb.", "Червона машина швидка."),
-                ("Jag har en röd tröja.", "У мене червона светр."),
-                ("Röda rosor är vackra.", "Червоні троянди красиві."),
-                ("Kan du ge mig den röda boken?", "Ти можеш дати мені червону книгу?")
-            ]),
-            Question(expression: "синій", translation: "blå", examples: [
-                ("Himlen är blå idag.", "Небо сьогодні синє."),
-                ("Jag har blå ögon.", "У мене сині очі."),
-                ("Den blå väskan är min.", "Синій рюкзак мій."),
-                ("Blå är min favoritfärg.", "Синій - мій улюблений колір.")
-            ]),
-            Question(expression: "жовтий", translation: "gul", examples: [
-                ("Solen är gul.", "Сонце жовте."),
-                ("Jag har en gul penna.", "У мене жовта ручка."),
-                ("Gula bananer är söta.", "Жовті банани солодкі."),
-                ("Kan du köpa den gula lampan?", "Ти можеш купити ту жовту лампу?")
-            ]),
-            Question(expression: "зелений", translation: "grön", examples: [
-                ("Gräset är grönt.", "Трава зелена."),
-                ("Jag har en grön jacka.", "У мене зелена куртка."),
-                ("Gröna äpplen är sura.", "Зелені яблука кислі."),
-                ("Grön är färgen på naturen.", "Зелений - це колір природи.")
-            ]),
-            Question(expression: "помаранчевий", translation: "orange", examples: [
-                ("Den orange frukten är saftig.", "Помаранчевий фрукт соковитий."),
-                ("Jag har en orange tröja.", "У мене помаранчева светр."),
-                ("Orange är en varm färg.", "Помаранчевий - це теплий колір."),
-                ("Kan du se den orange bilen?", "Ти бачиш ту помаранчеву машину?")
-            ]),
-            Question(expression: "фіолетовий", translation: "lila", examples: [
-                ("Lila blommor är vackra.", "Фіолетові квіти красиві."),
-                ("Jag har en lila klänning.", "У мене фіолетова сукня."),
-                ("Lila är en rolig färg.", "Фіолетовий - це веселий колір."),
-                ("Kan du köpa det lila täcket?", "Ти можеш купити те фіолетове покривало?")
-            ]),
-            Question(expression: "чорний", translation: "svart", examples: [
-                ("Katten är svart.", "Кіт чорний."),
-                ("Jag har svarta skor.", "У мене чорні черевики."),
-                ("Svart är en elegant färg.", "Чорний - це елегантний колір."),
-                ("Kan du se den svarta bilen?", "Ти бачиш ту чорну машину?")
-            ]),
-            Question(expression: "білий", translation: "vit", examples: [
-                ("Snön är vit.", "Сніг білий."),
-                ("Jag har en vit skjorta.", "У мене біла сорочка."),
-                ("Vita rosor är vackra.", "Білі троянди красиві."),
-                ("Kan du köpa det vita ljuset?", "Ти можеш купити ту білу свічку?")
-            ]),
-            Question(expression: "коричневий", translation: "brun", examples: [
-                ("Trädet är brunt.", "Дерево коричневе."),
-                ("Jag har en brun väska.", "У мене коричневий рюкзак."),
-                ("Brunt bröd är nyttigt.", "Коричневий хліб корисний."),
-                ("Kan du se den bruna stolen?", "Ти бачиш той коричневий стілець?")
-            ]),
-            Question(expression: "рожевий", translation: "rosa", examples: [
-                ("Rosa blommor är vackra.", "Рожеві квіти красиві."),
-                ("Jag har en rosa tröja.", "У мене рожева светр."),
-                ("Rosa är en glad färg.", "Рожевий - це веселий колір."),
-                ("Kan du köpa den rosa lampan?", "Ти можеш купити ту рожеву лампу?")
-            ]),
-            Question(expression: "молодий", translation: "ung", examples: [
-                ("Han är en ung man.", "Він молодий чоловік."),
-                ("De unga barnen leker.", "Молоді діти граються."),
-                ("Ung är motsatsen till gammal.", "Молодий - це протилежність до старого."),
-                ("Kan du se den unga hunden?", "Ти бачиш того молодого собаку?")
-            ]),
-            Question(expression: "новий", translation: "ny", examples: [
-                ("Det är en ny bil.", "Це нова машина."),
-                ("Jag har en ny telefon.", "У мене новий телефон."),
-                ("Ny är motsatsen till gammal.", "Новий - це протилежність до старого."),
-                ("Kan du köpa den nya boken?", "Ти можеш купити ту нову книгу?")
-            ]),
-            Question(expression: "старий", translation: "gammal", examples: [
-                ("Det är en gammal bil.", "Це стара машина."),
-                ("Jag har en gammal bok.", "У мене стара книга."),
-                ("Gammal är motsatsen till ny.", "Старий - це протилежність до нового."),
-                ("Kan du se det gamla huset?", "Ти бачиш той старий будинок?")
-            ]),
-            Question(expression: "довгий", translation: "lång", examples: [
-                ("Det är en lång väg.", "Це довга дорога."),
-                ("Jag har långt hår.", "У мене довге волосся."),
-                ("Lång är motsatsen till kort.", "Довгий - це протилежність до короткого."),
-                ("Kan du se den långa bron?", "Ти бачиш той довгий міст?")
-            ]),
-            Question(expression: "смугастий", translation: "randig", examples: [
-                ("Den randiga tröjan är snygg.", "Смугаста светр стильна."),
-                ("Jag har en randig skjorta.", "У мене смугаста сорочка."),
-                ("Randigt är populärt i år.", "Смугастий візерунок популярний цього року."),
-                ("Kan du köpa den randiga väskan?", "Ти можеш купити той смугастий рюкзак?")
-            ]),
-            Question(expression: "клітинчастий", translation: "rutig", examples: [
-                ("Den rutiga skjortan är klassisk.", "Клітинчаста сорочка класична."),
-                ("Jag har en rutig filt.", "У мене клітинчаста ковдра."),
-                ("Rutigt är en tidlös stil.", "Клітинчастий візерунок - це безчасний стиль."),
-                ("Kan du se den rutiga väskan?", "Ти бачиш той клітинчастий рюкзак?")
-            ]),
-            Question(expression: "крапчастий", translation: "prickig", examples: [
-                ("Den prickiga hunden är söt.", "Крапчастий собака милий."),
-                ("Jag har en prickig klänning.", "У мене крапчаста сукня."),
-                ("Prickigt är roligt att titta på.", "Крапчастий візерунок весело розглядати."),
-                ("Kan du köpa den prickiga tröjan?", "Ти можеш купити ту крапчасту светр?")
-            ]),
-            Question(expression: "квітчастий", translation: "blommig", examples: [
-                ("Den blommiga klänningen är vacker.", "Квітчаста сукня красива."),
-                ("Jag har en blommig skjorta.", "У мене квітчаста сорочка."),
-                ("Blommigt är perfekt på sommaren.", "Квітчастий візерунок ідеально підходить для літа."),
-                ("Kan du se den blommiga väskan?", "Ти бачиш той квітчастий рюкзак?")
-            ]),
-            Question(expression: "великий", translation: "stor", examples: [
-                ("Det är en stor bil.", "Це велика машина."),
-                ("Jag har en stor familj.", "У мене велика сім'я."),
-                ("Stor är motsatsen till liten.", "Великий - це протилежність до маленького."),
-                ("Kan du se det stora huset?", "Ти бачиш той великий будинок?")
-            ]),
-            Question(expression: "маленький", translation: "liten", examples: [
-                ("Det är en liten bil.", "Це маленька машина."),
-                ("Jag har en liten hund.", "У мене маленький собака."),
-                ("Liten är motsatsen till stor.", "Маленький - це протилежність до великого."),
-                ("Kan du se den lilla fågeln?", "Ти бачиш ту маленьку пташку?")
-            ]),
-            Question(expression: "короткий", translation: "kort", examples: [
-                ("Det är en kort film.", "Це короткий фільм."),
-                ("Jag har kort hår.", "У мене коротке волосся."),
-                ("Kort är motsatsen till lång.", "Короткий - це протилежність до довгого."),
-                ("Kan du se den korta vägen?", "Ти бачиш ту коротку дорогу?")
-            ]),
-            Question(expression: "щасливий", translation: "glad", examples: [
-                ("Jag är glad idag.", "Я щасливий сьогодні."),
-                ("Hon har ett glatt leende.", "У неї щаслива посмішка."),
-                ("Glad är motsatsen till ledsen.", "Щасливий - це протилежність до сумного."),
-                ("Kan du se den glada hunden?", "Ти бачиш того щасливого собаку?")
-            ]),
-            Question(expression: "сумний", translation: "ledsen", examples: [
-                ("Jag är ledsen idag.", "Я сумний сьогодні."),
-                ("Han ser ledsen ut.", "Він виглядає сумним."),
-                ("Ledsen är motsatsen till glad.", "Сумний - це протилежність до щасливого."),
-                ("Kan du trösta den ledsna flickan?", "Ти можеш потішити ту сумну дівчинку?")
+            Question(expression: "який", translation: "hurdan", examples: [
+                ("Hurdan är din nya lägenhet?", "Яка твоя нова квартира?"),
+                ("Hurdant väder är det idag?", "Яка сьогодні погода?"),
+                ("Hurdana är dina vänner?", "Які твої друзі?"),
+                ("Hurdan är din bil?", "Яка твоя машина?")
             ])
         ],
         .weekdays: [
@@ -2844,87 +2515,6 @@ struct DataProvider {
                     ("Han skrev sitt miljonte ord i romanen.", "Він написав своє мільйонне слово в романі.")
                 ])
             ],
-        .interrogativePronouns: [
-            Question(expression: "хто", translation: "vem", examples: [
-                ("Vem är du?", "Хто ти?"),
-                ("Vem vann tävlingen?", "Хто виграв змагання?"),
-                ("Vem ringer du?", "Кому ти телефонуєш?"),
-                ("Vem bor i detta hus?", "Хто живе в цьому будинку?")
-            ]),
-            Question(expression: "що", translation: "vad", examples: [
-                ("Vad heter du?", "Як тебе звати?"),
-                ("Vad gör du?", "Що ти робиш?"),
-                ("Vad är det där?", "Що це таке?"),
-                ("Vad vill du äta?", "Що ти хочеш їсти?")
-            ]),
-            Question(expression: "де", translation: "var", examples: [
-                ("Var är du?", "Де ти?"),
-                ("Var ligger banken?", "Де знаходиться банк?"),
-                ("Var bor du?", "Де ти живеш?"),
-                ("Var är min bok?", "Де моя книга?")
-            ]),
-            Question(expression: "куди", translation: "vart", examples: [
-                ("Vart ska du?", "Куди ти йдеш?"),
-                ("Vart reser ni i sommar?", "Куди ви подорожуєте цього літа?"),
-                ("Vart flyttade de?", "Куди вони переїхали?"),
-                ("Vart går den här bussen?", "Куди їде цей автобус?")
-            ]),
-            Question(expression: "звідки", translation: "varifrån", examples: [
-                ("Varifrån kommer du?", "Звідки ти?"),
-                ("Varifrån fick du denna information?", "Звідки ти отримав цю інформацію?"),
-                ("Varifrån är den här bilen?", "Звідки ця машина?"),
-                ("Varifrån reser du?", "Звідки ти подорожуєш?")
-            ]),
-            Question(expression: "коли", translation: "när", examples: [
-                ("När börjar filmen?", "Коли починається фільм?"),
-                ("När är ditt födelsedatum?", "Коли у тебе день народження?"),
-                ("När träffades ni?", "Коли ви зустрілися?"),
-                ("När öppnar butiken?", "Коли відкривається магазин?")
-            ]),
-            Question(expression: "чому", translation: "varför", examples: [
-                ("Varför är du sen?", "Чому ти запізнився?"),
-                ("Varför studerar du svenska?", "Чому ти вчиш шведську?"),
-                ("Varför skrattar du?", "Чому ти смієшся?"),
-                ("Varför är han arg?", "Чому він сердитий?")
-            ]),
-            Question(expression: "як", translation: "hur", examples: [
-                ("Hur mår du?", "Як ти себе почуваєш?"),
-                ("Hur fungerar det?", "Як це працює?"),
-                ("Hur gammal är du?", "Скільки тобі років?"),
-                ("Hur långt är det till stationen?", "Як далеко до станції?")
-            ]),
-            Question(expression: "скільки", translation: "hur mycket", examples: [
-                ("Hur mycket kostar det?", "Скільки це коштує?"),
-                ("Hur mycket tid har vi?", "Скільки у нас часу?"),
-                ("Hur mycket socker vill du ha?", "Скільки цукру ти хочеш?"),
-                ("Hur mycket vatten dricker du per dag?", "Скільки води ти п'єш на день?")
-            ]),
-            Question(expression: "скільки (лічильний)", translation: "hur många", examples: [
-                ("Hur många syskon har du?", "Скільки у тебе братів і сестер?"),
-                ("Hur många böcker har du?", "Скільки у тебе книг?"),
-                ("Hur många timmar tar resan?", "Скільки годин триває подорож?"),
-                ("Hur många elever är i klassen?", "Скільки учнів у класі?")
-            ]),
-            Question(expression: "який", translation: "vilken", examples: [
-                ("Vilken bok vill du läsa?", "Яку книгу ти хочеш прочитати?"),
-                ("Vilket språk talar du?", "Якою мовою ти говориш?"),
-                ("Vilka länder har du besökt?", "Які країни ти відвідав?"),
-                ("Vilken färg tycker du om?", "Який колір тобі подобається?")
-            ]),
-            Question(expression: "чий", translation: "vems", examples: [
-                ("Vems bil är det?", "Чия це машина?"),
-                ("Vems bok ligger här?", "Чия книга тут лежить?"),
-                ("Vems idé var det?", "Чия це була ідея?"),
-                ("Vems hund är det?", "Чий це собака?")
-            ]),
-            Question(expression: "який", translation: "hurdan", examples: [
-                ("Hurdan är din nya lägenhet?", "Яка твоя нова квартира?"),
-                ("Hurdant väder är det idag?", "Яка сьогодні погода?"),
-                ("Hurdana är dina vänner?", "Які твої друзі?"),
-                ("Hurdan är din bil?", "Яка твоя машина?")
-            ])
-        ],
-        
             .law: [
                 Question(expression: "закон", translation: "en lag", examples: [
                     ("Det är en viktig lag i Sverige.", "Це важливий закон у Швеції."),
@@ -3254,6 +2844,574 @@ struct DataProvider {
                     ("Ми отримали багато позитивних повідомлень від наших клієнтів.", "Vi har fått många positiva meddelanden från våra kunder.")
                 ])
             ],
+        .homework1: [
+            Question(expression: "ім'я", translation: "ett namn", examples: [
+                ("Vad är ditt namn?", "Як тебе звати?"),
+                ("Mitt namn är Anna.", "Мене звати Анна."),
+                ("Han glömde sitt namn.", "Він забув своє ім'я."),
+                ("Namnet på staden är Kyiv.", "Назва міста - Київ.")
+            ]),
+            Question(expression: "мова", translation: "ett språk", examples: [
+                ("Svenska är ett vackert språk.", "Шведська - гарна мова."),
+                ("Jag lär mig ett nytt språk.", "Я вивчаю нову мову."),
+                ("Vilket språk talar du?", "Якою мовою ти розмовляєш?"),
+                ("Språk är viktigt för kommunikation.", "Мова важлива для спілкування.")
+            ]),
+            Question(expression: "країна", translation: "ett land", examples: [
+                ("Sverige är ett vackert land.", "Швеція - гарна країна."),
+                ("Jag vill besöka ett nytt land.", "Я хочу відвідати нову країну."),
+                ("Vilket land kommer du från?", "З якої країни ти родом?"),
+                ("Landet har många berg.", "У цій країні багато гір.")
+            ]),
+            Question(expression: "місто", translation: "en stad", examples: [
+                ("Stockholm är en stor stad.", "Стокгольм - велике місто."),
+                ("Jag bor i en liten stad.", "Я живу в маленькому місті."),
+                ("Vilken stad vill du besöka?", "Яке місто ти хочеш відвідати?"),
+                ("Staden är känd för sin arkitektur.", "Місто відоме своєю архітектурою.")
+            ]),
+            Question(expression: "район", translation: "en stadsdel", examples: [
+                ("Jag bor i en lugn stadsdel.", "Я живу в спокійному районі."),
+                ("Denna stadsdel är mycket populär.", "Цей район дуже популярний."),
+                ("Vilken stadsdel gillar du mest?", "Який район тобі найбільше подобається?"),
+                ("Stadsdelen har många parker.", "У цьому районі багато парків.")
+            ]),
+            Question(expression: "вулиця", translation: "en gata", examples: [
+                ("Gatan är mycket bred.", "Вулиця дуже широка."),
+                ("Jag går längs gatan.", "Я йду по вулиці."),
+                ("Vilken gata bor du på?", "На якій вулиці ти живеш?"),
+                ("Gatan är full av butiker.", "Вулиця повна магазинів.")
+            ]),
+            Question(expression: "дитина", translation: "ett barn", examples: [
+                ("Barnet leker i parken.", "Дитина грається в парку."),
+                ("Varje barn är unikt.", "Кожна дитина унікальна."),
+                ("Hur många barn har du?", "Скільки у тебе дітей?"),
+                ("Barnet läser en bok.", "Дитина читає книгу.")
+            ]),
+            Question(expression: "дівчинка", translation: "en flicka", examples: [
+                ("Flickan dansar balett.", "Дівчинка танцює балет."),
+                ("Hon är en snäll flicka.", "Вона добра дівчинка."),
+                ("Flickan läser en saga.", "Дівчинка читає казку."),
+                ("Flickan har blå ögon.", "У дівчинки блакитні очі.")
+            ]),
+            Question(expression: "хлопчик", translation: "en pojke", examples: [
+                ("Pojken springer snabbt.", "Хлопчик бігає швидко."),
+                ("Han är en stark pojke.", "Він сильний хлопчик."),
+                ("Pojken leker med bollen.", "Хлопчик грається з м'ячем."),
+                ("Pojken gillar att rita.", "Хлопчику подобається малювати.")
+            ]),
+            Question(expression: "жінка", translation: "en kvinna", examples: [
+                ("Kvinnan läser en tidning.", "Жінка читає газету."),
+                ("Hon är en smart kvinna.", "Вона розумна жінка."),
+                ("Kvinnan arbetar på ett kontor.", "Жінка працює в офісі."),
+                ("Kvinnan har långt hår.", "У жінки довге волосся.")
+            ]),
+            Question(expression: "чоловік", translation: "en man", examples: [
+                ("Mannen går till jobbet.", "Чоловік йде на роботу."),
+                ("Han är en vänlig man.", "Він добрий чоловік."),
+                ("Mannen äter frukost.", "Чоловік снідає."),
+                ("Mannen har ett stort leende.", "У чоловіка широка посмішка.")
+            ]),
+            Question(expression: "дочка", translation: "en dotter", examples: [
+                ("Dottern hjälper sin mamma.", "Дочка допомагає своїй мамі."),
+                ("Hon är deras enda dotter.", "Вона їх єдина дочка."),
+                ("Dottern gillar att sjunga.", "Дочці подобається співати."),
+                ("Dottern är mycket duktig i skolan.", "Дочка дуже добре вчиться в школі.")
+            ]),
+            Question(expression: "син", translation: "en son", examples: [
+                ("Sonen spelar fotboll.", "Син грає у футбол."),
+                ("Han är deras äldsta son.", "Він їхній старший син."),
+                ("Sonen hjälper sin pappa.", "Син допомагає своєму татові."),
+                ("Sonen gillar att läsa böcker.", "Сину подобається читати книги.")
+            ]),
+            Question(expression: "батько/мати", translation: "en förälder", examples: [
+                ("Min förälder hjälper mig med läxan.", "Мій батько/мати допомагає мені з домашнім завданням."),
+                ("Som förälder har man mycket ansvar.", "Як батько/мати, маєш багато відповідальності."),
+                ("Mina föräldrar jobbar på sjukhuset.", "Мої батьки працюють у лікарні."),
+                ("En förälder älskar alltid sitt barn.", "Батько/мати завжди любить свою дитину.")
+            ]),
+            Question(expression: "тато", translation: "en pappa", examples: [
+                ("Pappan lagar mat.", "Тато готує їжу."),
+                ("Han är en bra pappa.", "Він хороший тато."),
+                ("Pappan leker med barnen.", "Тато грається з дітьми."),
+                ("Pappan berättar en saga.", "Тато розповідає казку.")
+            ]),
+            Question(expression: "мама", translation: "en mamma", examples: [
+                ("Mamman läser en bok.", "Мама читає книгу."),
+                ("Hon är en omtänksam mamma.", "Вона турботлива мама."),
+                ("Mamman bakar kakor.", "Мама пече печиво."),
+                ("Mamman hjälper barnet med läxorna.", "Мама допомагає дитині з уроками.")
+            ]),
+            Question(expression: "брат чи сестра", translation: "ett syskon", examples: [
+                ("Jag har två syskon.", "У мене двоє братів і сестер."),
+                ("Syskonen leker tillsammans.", "Брати і сестри граються разом."),
+                ("Syskon är viktiga i livet.", "Брати і сестри важливі в житті."),
+                ("Syskonen delar på rummet.", "Брати і сестри ділять кімнату.")
+            ]),
+            Question(expression: "сестра", translation: "en syster", examples: [
+                ("Systern är mycket snäll.", "Сестра дуже добра."),
+                ("Hon är min äldsta syster.", "Вона моя старша сестра."),
+                ("Systern gillar att måla.", "Сестрі подобається малювати."),
+                ("Systern hjälper mig med läxorna.", "Сестра допомагає мені з уроками.")
+            ]),
+            Question(expression: "брат", translation: "en bror", examples: [
+                ("Broren är mycket stark.", "Брат дуже сильний."),
+                ("Han är min yngre bror.", "Він мій молодший брат."),
+                ("Broren gillar att spela fotboll.", "Братові подобається грати у футбол."),
+                ("Broren hjälper mig med bilen.", "Брат допомагає мені з машиною.")
+            ]),
+            Question(expression: "двоюрідний брат чи сестра", translation: "en kusin", examples: [
+                ("Kusinen bor i ett annat land.", "Двоюрідний брат/сестра живе в іншій країні."),
+                ("Jag träffar min kusin på sommaren.", "Я зустрічаюся зі своїм двоюрідним братом/сестрою влітку."),
+                ("Kusinen är mycket rolig.", "Двоюрідний брат/сестра дуже веселий/весела."),
+                ("Kusinen och jag är bra vänner.", "Ми з двоюрідним братом/сестрою хороші друзі.")
+            ])
+        ],
+        .homework2: [
+            Question(expression: "день", translation: "en dag", examples: [
+                ("Idag är en vacker dag.", "Сьогодні чудовий день."),
+                ("Jag har en ledig dag imorgon.", "Завтра у мене вихідний день."),
+                ("Varje dag är en ny möjlighet.", "Кожен день - це нова можливість."),
+                ("Dagen börjar med solsken.", "День починається з сонячної погоди.")
+            ]),
+            Question(expression: "ранок", translation: "en morgon", examples: [
+                ("På morgonen dricker jag kaffe.", "Вранці я п'ю каву."),
+                ("Morgonen är min favorittid på dagen.", "Ранок - моя улюблена пора дня."),
+                ("Vi går en promenad på morgonen.", "Ми гуляємо вранці."),
+                ("Morgonen är lugn och fridfull.", "Ранок спокійний і мирний.")
+            ]),
+            Question(expression: "передобіддя", translation: "en förmiddag", examples: [
+                ("På förmiddagen har jag möten.", "У передобіддя у мене зустрічі."),
+                ("Jag brukar träna på förmiddagen.", "Я зазвичай тренуюся в передобіддя."),
+                ("Förmiddagen är produktiv.", "Передобіддя продуктивне."),
+                ("Vi äter frukost på förmiddagen.", "Ми снідаємо в передобіддя.")
+            ]),
+            Question(expression: "післяобіддя", translation: "en eftermiddag", examples: [
+                ("På eftermiddagen går jag en promenad.", "У післяобідню пору я гуляю."),
+                ("Eftermiddagen är perfekt för att läsa.", "Післяобіддя ідеально підходить для читання."),
+                ("Vi träffas på eftermiddagen.", "Ми зустрічаємось у післяобідню пору."),
+                ("Eftermiddagen är varm och solig.", "Післяобіддя тепле і сонячне.")
+            ]),
+            Question(expression: "вечір", translation: "en kväll", examples: [
+                ("På kvällen tittar jag på TV.", "Ввечері я дивлюся телевізор."),
+                ("Kvällen är lugn och skön.", "Вечір спокійний і приємний."),
+                ("Vi äter middag på kvällen.", "Ми вечеряємо ввечері."),
+                ("Kvällen är perfekt för att slappna av.", "Вечір ідеально підходить для відпочинку.")
+            ]),
+            Question(expression: "ніч", translation: "en natt", examples: [
+                ("På natten sover jag.", "Вночі я сплю."),
+                ("Natten är mörk och tyst.", "Ніч темна і тиха."),
+                ("Vi ser stjärnorna på natten.", "Ми бачимо зірки вночі."),
+                ("Natten är lång på vintern.", "Ніч довга взимку.")
+            ]),
+            Question(expression: "тиждень", translation: "en vecka", examples: [
+                ("En vecka har sju dagar.", "Тиждень має сім днів."),
+                ("Jag åker på semester nästa vecka.", "Я їду у відпустку наступного тижня."),
+                ("Veckan börjar på måndag.", "Тиждень починається в понеділок."),
+                ("Den här veckan är mycket upptagen.", "Цей тиждень дуже завантажений.")
+            ]),
+            Question(expression: "місяць", translation: "en månad", examples: [
+                ("En månad har 30 eller 31 dagar.", "Місяць має 30 або 31 день."),
+                ("Juni är min favoritmånad.", "Червень - мій улюблений місяць."),
+                ("Vi reser nästa månad.", "Ми їдемо у подорож наступного місяця."),
+                ("Månaden är snart slut.", "Місяць скоро закінчиться.")
+            ]),
+            Question(expression: "рік", translation: "ett år", examples: [
+                ("Ett år har tolv månader.", "Рік має дванадцять місяців."),
+                ("Nästa år ska jag resa till Sverige.", "Наступного року я поїду до Швеції."),
+                ("Året har gått fort.", "Рік пройшов швидко."),
+                ("Varje år firar vi jul.", "Щороку ми святкуємо Різдво.")
+            ]),
+            Question(expression: "сніданок", translation: "en frukost", examples: [
+                ("Frukost är den viktigaste måltiden.", "Сніданок - найважливіший прийом їжі."),
+                ("Jag äter frukost varje morgon.", "Я снідаю кожного ранку."),
+                ("Frukosten består av bröd och ägg.", "Сніданок складається з хліба та яєць."),
+                ("Vi äter frukost tillsammans.", "Ми снідаємо разом.")
+            ]),
+            Question(expression: "обід", translation: "en lunch", examples: [
+                ("Lunchen serveras klockan tolv.", "Обід подають о дванадцятій."),
+                ("Jag äter lunch med kollegorna.", "Я обідаю з колегами."),
+                ("Lunchen är enkel men god.", "Обід простий, але смачний."),
+                ("Vi tar en paus för lunch.", "Ми робимо перерву на обід.")
+            ]),
+            Question(expression: "вечеря", translation: "en middag", examples: [
+                ("Middagen är klar klockan sju.", "Вечеря буде готова о сьомій."),
+                ("Vi bjuder på middag ikväll.", "Ми запрошуємо на вечерю сьогодні ввечері."),
+                ("Middagen består av fisk och potatis.", "Вечеря складається з риби та картоплі."),
+                ("Efter middagen dricker vi kaffe.", "Після вечері ми п'ємо каву.")
+            ])
+        ],
+        .homework3: [
+            Question(expression: "слово", translation: "ett ord", examples: [
+                ("Ett ord kan betyda mycket.", "Одне слово може багато значити."),
+                ("Kan du stava det här ordet?", "Ти можеш продиктувати це слово по літерах?"),
+                ("Jag lär mig ett nytt ord varje dag.", "Я вивчаю нове слово кожного дня."),
+                ("Det här ordet är svårt att uttala.", "Це слово важко вимовити.")
+            ]),
+            Question(expression: "речення", translation: "en mening", examples: [
+                ("En mening består av flera ord.", "Речення складається з кількох слів."),
+                ("Kan du skriva en mening på svenska?", "Ти можеш написати речення шведською?"),
+                ("Den här meningen är för lång.", "Це речення занадто довге."),
+                ("Jag förstår inte den här meningen.", "Я не розумію цього речення.")
+            ]),
+            Question(expression: "картинка", translation: "en bild", examples: [
+                ("Bilden är mycket vacker.", "Картинка дуже гарна."),
+                ("Jag ritar en bild till min vän.", "Я малюю картинку для свого друга."),
+                ("Bilden hänger på väggen.", "Картинка висить на стіні."),
+                ("Kan du ta en bild av oss?", "Ти можеш зробити фото нас?")
+            ]),
+            Question(expression: "ручка", translation: "en penna", examples: [
+                ("Jag behöver en penna för att skriva.", "Мені потрібна ручка, щоб писати."),
+                ("Pennan är blå.", "Ручка синя."),
+                ("Kan jag låna din penna?", "Можу я позичити твою ручку?"),
+                ("Pennan är slut, jag behöver en ny.", "Ручка закінчилася, мені потрібна нова.")
+            ]),
+            Question(expression: "книга", translation: "en bok", examples: [
+                ("Boken är mycket intressant.", "Книга дуже цікава."),
+                ("Jag läser en bok varje kväll.", "Я читаю книгу кожного вечора."),
+                ("Kan du rekommendera en bra bok?", "Ти можеш порекомендувати хорошу книгу?"),
+                ("Boken ligger på bordet.", "Книга лежить на столі.")
+            ]),
+            Question(expression: "сторінка", translation: "en sida", examples: [
+                ("Varje sida i boken är numrerad.", "Кожна сторінка в книзі пронумерована."),
+                ("Jag läser en sida i taget.", "Я читаю по одній сторінці."),
+                ("Sidan är full av text.", "Сторінка повна тексту."),
+                ("Vänd sidan, tack.", "Перегорніть сторінку, будь ласка.")
+            ]),
+            Question(expression: "лінійка", translation: "en linjal", examples: [
+                ("Jag behöver en linjal för att rita.", "Мені потрібна лінійка, щоб малювати."),
+                ("Linjalen är 30 centimeter lång.", "Лінійка завдовжки 30 сантиметрів."),
+                ("Kan du låna mig din linjal?", "Ти можеш позичити мені свою лінійку?"),
+                ("Linjalen är trasig.", "Лінійка зламана.")
+            ]),
+            Question(expression: "розклад", translation: "ett schema", examples: [
+                ("Schemat visar alla lektioner.", "Розклад показує всі уроки."),
+                ("Jag följer ett strikt schema.", "Я дотримуюся строгого розкладу."),
+                ("Schemat är uppdaterat.", "Розклад оновлений."),
+                ("Kan du skicka mig schemat?", "Ти можеш надіслати мені розклад?")
+            ]),
+            Question(expression: "точилка", translation: "en pennvässare", examples: [
+                ("Jag behöver en pennvässare för min penna.", "Мені потрібна точилка для олівця."),
+                ("Pennvässaren är liten och praktisk.", "Точилка маленька і зручна."),
+                ("Kan jag använda din pennvässare?", "Можу я скористатися твоєю точилкою?"),
+                ("Pennvässaren är trasig.", "Точилка зламана.")
+            ]),
+            Question(expression: "комп'ютер", translation: "en dator", examples: [
+                ("Datorn är mycket snabb.", "Комп'ютер дуже швидкий."),
+                ("Jag använder datorn varje dag.", "Я використовую комп'ютер щодня."),
+                ("Kan du reparera min dator?", "Ти можеш полагодити мій комп'ютер?"),
+                ("Datorn är ny.", "Комп'ютер новий.")
+            ]),
+            Question(expression: "учень", translation: "en elev", examples: [
+                ("Eleven läser en bok.", "Учень читає книгу."),
+                ("Varje elev har ett eget skåp.", "Кожен учень має свою шафку."),
+                ("Eleven är mycket flitig.", "Учень дуже старанний."),
+                ("Eleverna skriver ett prov.", "Учні пишуть контрольну.")
+            ]),
+            Question(expression: "рюкзак", translation: "en väska", examples: [
+                ("Väskan är full av böcker.", "Рюкзак повний книжок."),
+                ("Jag glömde min väska i skolan.", "Я забув свій рюкзак у школі."),
+                ("Kan du bära min väska?", "Ти можеш понести мій рюкзак?"),
+                ("Väskan är för tung.", "Рюкзак занадто важкий.")
+            ]),
+            Question(expression: "гумка", translation: "ett suddgummi", examples: [
+                ("Jag behöver ett suddgummi för att radera.", "Мені потрібна гумка, щоб стерти."),
+                ("Suddgummit är litet och rosa.", "Гумка маленька і рожева."),
+                ("Kan jag låna ditt suddgummi?", "Можу я позичити твою гумку?"),
+                ("Suddgummit är slut.", "Гумка закінчилася.")
+            ]),
+            Question(expression: "зошит", translation: "ett häfte", examples: [
+                ("Häftet är fullt av anteckningar.", "Зошит повний записів."),
+                ("Jag köpte ett nytt häfte.", "Я купив новий зошит."),
+                ("Kan du ge mig ditt häfte?", "Ти можеш дати мені свій зошит?"),
+                ("Häftet ligger i väskan.", "Зошит лежить у рюкзаку.")
+            ]),
+            Question(expression: "годинник", translation: "en klocka", examples: [
+                ("Klockan visar tio över två.", "Годинник показує десять хвилин на третю."),
+                ("Jag har en ny klocka.", "У мене новий годинник."),
+                ("Klockan är trasig.", "Годинник зламаний."),
+                ("Kan du kolla vad klockan är?", "Ти можеш подивитися, котра година?")
+            ]),
+            Question(expression: "словник", translation: "ett lexikon", examples: [
+                ("Lexikonet hjälper mig att lära nya ord.", "Словник допомагає мені вивчати нові слова."),
+                ("Jag använder lexikonet varje dag.", "Я використовую словник щодня."),
+                ("Lexikonet är tungt.", "Словник важкий."),
+                ("Kan jag låna ditt lexikon?", "Можу я позичити твій словник?")
+            ])
+        ],
+        .homework4: [
+            Question(expression: "їжа", translation: "en mat", examples: [
+                ("Maten är mycket god.", "Їжа дуже смачна."),
+                ("Jag lagar mat varje dag.", "Я готую їжу щодня."),
+                ("Vilken mat gillar du mest?", "Яка їжа тобі найбільше подобається?"),
+                ("Maten är klar att serveras.", "Їжа готова до подачі.")
+            ]),
+            Question(expression: "рис", translation: "ett ris", examples: [
+                ("Riset kokar i tio minuter.", "Рис вариться десять хвилин."),
+                ("Jag äter ris till middag.", "Я їм рис на вечерю."),
+                ("Riset är en viktig basvara.", "Рис - це важливий основний продукт."),
+                ("Kan du koka riset?", "Ти можеш зварити рис?")
+            ]),
+            Question(expression: "картопля", translation: "en potatis", examples: [
+                ("Potatisen är kokt.", "Картопля варена."),
+                ("Jag ska laga potatismos.", "Я збираюся приготувати картопляне пюре."),
+                ("Potatis är nyttigt.", "Картопля корисна."),
+                ("Kan du skära potatisen?", "Ти можеш нарізати картоплю?")
+            ]),
+            Question(expression: "м'ясо", translation: "ett kött", examples: [
+                ("Köttet är färskt.", "М'ясо свіже."),
+                ("Jag äter inte kött.", "Я не їм м'ясо."),
+                ("Köttet behöver stekas.", "М'ясо потрібно підсмажити."),
+                ("Vilket kött föredrar du?", "Яке м'ясо ти віддаєш перевагу?")
+            ]),
+            Question(expression: "ковбаса", translation: "en korv", examples: [
+                ("Korven är grillad.", "Ковбаса грильована."),
+                ("Jag äter korv till lunch.", "Я їм ковбасу на обід."),
+                ("Korv är populärt i Sverige.", "Ковбаса популярна у Швеції."),
+                ("Kan du köpa korv till mig?", "Ти можеш купити мені ковбасу?")
+            ]),
+            Question(expression: "риба", translation: "en fisk", examples: [
+                ("Fisken är fångad i havet.", "Риба виловлена в морі."),
+                ("Jag lagar fisk till middag.", "Я готую рибу на вечерю."),
+                ("Fisk är nyttigt för hälsan.", "Риба корисна для здоров'я."),
+                ("Kan du rengöra fisken?", "Ти можеш почистити рибу?")
+            ]),
+            Question(expression: "курка", translation: "en kyckling", examples: [
+                ("Kycklingen är grillad.", "Курка грильована."),
+                ("Jag äter kyckling till middag.", "Я їм курку на вечерю."),
+                ("Kyckling är lätt att laga.", "Курку легко готувати."),
+                ("Kan du skära kycklingen?", "Ти можеш нарізати курку?")
+            ]),
+            Question(expression: "фрикаделька", translation: "en köttbulle", examples: [
+                ("Köttbullarna är hemlagade.", "Фрикадельки домашні."),
+                ("Jag äter köttbullar med potatis.", "Я їм фрикадельки з картоплею."),
+                ("Köttbullar är en svensk klassiker.", "Фрикадельки - це шведська класика."),
+                ("Kan du laga köttbullar?", "Ти можеш приготувати фрикадельки?")
+            ]),
+            Question(expression: "помідор", translation: "en tomat", examples: [
+                ("Tomaten är röd och saftig.", "Помідор червоний і соковитий."),
+                ("Jag lägger tomat på smörgåsen.", "Я кладу помідор на бутерброд."),
+                ("Tomater är nyttiga.", "Помідори корисні."),
+                ("Kan du skära tomaten?", "Ти можеш нарізати помідор?")
+            ]),
+            Question(expression: "салат", translation: "en sallad", examples: [
+                ("Salladen är färsk och god.", "Салат свіжий і смачний."),
+                ("Jag äter sallad till lunch.", "Я їм салат на обід."),
+                ("Sallad är nyttigt för hälsan.", "Салат корисний для здоров'я."),
+                ("Kan du göra en sallad?", "Ти можеш зробити салат?")
+            ]),
+            Question(expression: "овоч", translation: "en grönsak", examples: [
+                ("Grönsaker är nyttiga.", "Овочі корисні."),
+                ("Jag äter många grönsaker.", "Я їм багато овочів."),
+                ("Grönsaker är viktiga i kosten.", "Овочі важливі в раціоні."),
+                ("Kan du köpa grönsaker?", "Ти можеш купити овочі?")
+            ]),
+            Question(expression: "суп", translation: "en soppa", examples: [
+                ("Soppan är varm och god.", "Суп гарячий і смачний."),
+                ("Jag lagar soppa till middag.", "Я готую суп на вечерю."),
+                ("Soppa är perfekt på vintern.", "Суп ідеально підходить взимку."),
+                ("Kan du smaka på soppan?", "Ти можеш спробувати суп?")
+            ]),
+            Question(expression: "бутерброд", translation: "en smörgås", examples: [
+                ("Smörgåsen är enkel men god.", "Бутерброд простий, але смачний."),
+                ("Jag äter en smörgås till frukost.", "Я їм бутерброд на сніданок."),
+                ("Smörgåsar är populära i Sverige.", "Бутерброди популярні у Швеції."),
+                ("Kan du göra en smörgås till mig?", "Ти можеш зробити мені бутерброд?")
+            ]),
+            Question(expression: "яблуко", translation: "ett äpple", examples: [
+                ("Äpplet är sött och saftigt.", "Яблуко солодке і соковите."),
+                ("Jag äter ett äpple varje dag.", "Я їм яблуко щодня."),
+                ("Äpplen är nyttiga.", "Яблука корисні."),
+                ("Kan du skära äpplet?", "Ти можеш нарізати яблуко?")
+            ]),
+            Question(expression: "апельсин", translation: "en apelsin", examples: [
+                ("Apelsinen är färsk och saftig.", "Апельсин свіжий і соковитий."),
+                ("Jag äter en apelsin till frukost.", "Я їм апельсин на сніданок."),
+                ("Apelsiner är rika på C-vitamin.", "Апельсини багаті на вітамін С."),
+                ("Kan du skala apelsinen?", "Ти можеш почистити апельсин?")
+            ]),
+            Question(expression: "банан", translation: "en banan", examples: [
+                ("Bananen är mogen och god.", "Банан стиглий і смачний."),
+                ("Jag äter en banan till mellanmål.", "Я їм банан на перекус."),
+                ("Bananer är enkel att äta.", "Банани легко їсти."),
+                ("Kan du köpa bananer?", "Ти можеш купити банани?")
+            ]),
+            Question(expression: "огірок", translation: "en gurka", examples: [
+                ("Gurkan är färsk och krispig.", "Огірок свіжий і хрусткий."),
+                ("Jag lägger gurka i salladen.", "Я кладу огірок у салат."),
+                ("Gurka är nyttigt.", "Огірок корисний."),
+                ("Kan du skära gurkan?", "Ти можеш нарізати огірок?")
+            ]),
+            Question(expression: "цибуля", translation: "en lök", examples: [
+                ("Löken är stark och smakrik.", "Цибуля гостря і смачна."),
+                ("Jag använder lök i matlagningen.", "Я використовую цибулю при приготуванні їжі."),
+                ("Lök är viktigt i många rätter.", "Цибуля важлива у багатьох стравах."),
+                ("Kan du hacka löken?", "Ти можеш нарізати цибулю?")
+            ]),
+            Question(expression: "молоко", translation: "en mjölk", examples: [
+                ("Mjölken är färsk.", "Молоко свіже."),
+                ("Jag dricker mjölk till frukost.", "Я п'ю молоко на сніданок."),
+                ("Mjölk är nyttigt för benen.", "Молоко корисне для кісток."),
+                ("Kan du köpa mjölk?", "Ти можеш купити молоко?")
+            ]),
+            Question(expression: "пиво", translation: "en/ett öl", examples: [
+                ("Ölet är kallt och uppfriskande.", "Пиво холодне і освіжаюче."),
+                ("Jag tar en öl efter jobbet.", "Я беру пиво після роботи."),  // Zmienione zdanie
+                ("Öl är populärt på sommaren.", "Пиво популярне влітку."),
+                ("Kan du köpa öl?", "Ти можеш купити пиво?")
+            ]),
+            Question(expression: "чай", translation: "ett te", examples: [
+                ("Teet är varmt och skönt.", "Чай гарячий і затишний."),
+                ("Jag dricker te varje morgon.", "Я п'ю чай кожного ранку."),
+                ("Te är perfekt på vintern.", "Чай ідеально підходить взимку."),
+                ("Kan du koka te?", "Ти можеш заварити чай?")
+            ]),
+            Question(expression: "кава", translation: "en kaffe", examples: [
+                ("Kaffet är starkt och gott.", "Кава міцна і смачна."),
+                ("Jag dricker kaffe varje dag.", "Я п'ю каву щодня."),
+                ("Kaffe hjälper mig att vakna.", "Кава допомагає мені прокинутися."),
+                ("Kan du göra kaffe?", "Ти можеш зробити каву?")
+            ])
+        ],
+        .homework5: [
+            Question(expression: "червоний", translation: "röd", examples: [
+                ("Den röda bilen är snabb.", "Червона машина швидка."),
+                ("Jag har en röd tröja.", "У мене червона светр."),
+                ("Röda rosor är vackra.", "Червоні троянди красиві."),
+                ("Kan du ge mig den röda boken?", "Ти можеш дати мені червону книгу?")
+            ]),
+            Question(expression: "синій", translation: "blå", examples: [
+                ("Himlen är blå idag.", "Небо сьогодні синє."),
+                ("Jag har blå ögon.", "У мене сині очі."),
+                ("Den blå väskan är min.", "Синій рюкзак мій."),
+                ("Blå är min favoritfärg.", "Синій - мій улюблений колір.")
+            ]),
+            Question(expression: "жовтий", translation: "gul", examples: [
+                ("Solen är gul.", "Сонце жовте."),
+                ("Jag har en gul penna.", "У мене жовта ручка."),
+                ("Gula bananer är söta.", "Жовті банани солодкі."),
+                ("Kan du köpa den gula lampan?", "Ти можеш купити ту жовту лампу?")
+            ]),
+            Question(expression: "зелений", translation: "grön", examples: [
+                ("Gräset är grönt.", "Трава зелена."),
+                ("Jag har en grön jacka.", "У мене зелена куртка."),
+                ("Gröna äpplen är sura.", "Зелені яблука кислі."),
+                ("Grön är färgen på naturen.", "Зелений - це колір природи.")
+            ]),
+            Question(expression: "помаранчевий", translation: "orange", examples: [
+                ("Den orange frukten är saftig.", "Помаранчевий фрукт соковитий."),
+                ("Jag har en orange tröja.", "У мене помаранчева светр."),
+                ("Orange är en varm färg.", "Помаранчевий - це теплий колір."),
+                ("Kan du se den orange bilen?", "Ти бачиш ту помаранчеву машину?")
+            ]),
+            Question(expression: "фіолетовий", translation: "lila", examples: [
+                ("Lila blommor är vackra.", "Фіолетові квіти красиві."),
+                ("Jag har en lila klänning.", "У мене фіолетова сукня."),
+                ("Lila är en rolig färg.", "Фіолетовий - це веселий колір."),
+                ("Kan du köpa det lila täcket?", "Ти можеш купити те фіолетове покривало?")
+            ]),
+            Question(expression: "чорний", translation: "svart", examples: [
+                ("Katten är svart.", "Кіт чорний."),
+                ("Jag har svarta skor.", "У мене чорні черевики."),
+                ("Svart är en elegant färg.", "Чорний - це елегантний колір."),
+                ("Kan du se den svarta bilen?", "Ти бачиш ту чорну машину?")
+            ]),
+            Question(expression: "білий", translation: "vit", examples: [
+                ("Snön är vit.", "Сніг білий."),
+                ("Jag har en vit skjorta.", "У мене біла сорочка."),
+                ("Vita rosor är vackra.", "Білі троянди красиві."),
+                ("Kan du köpa det vita ljuset?", "Ти можеш купити ту білу свічку?")
+            ]),
+            Question(expression: "коричневий", translation: "brun", examples: [
+                ("Trädet är brunt.", "Дерево коричневе."),
+                ("Jag har en brun väska.", "У мене коричневий рюкзак."),
+                ("Brunt bröd är nyttigt.", "Коричневий хліб корисний."),
+                ("Kan du se den bruna stolen?", "Ти бачиш той коричневий стілець?")
+            ]),
+            Question(expression: "рожевий", translation: "rosa", examples: [
+                ("Rosa blommor är vackra.", "Рожеві квіти красиві."),
+                ("Jag har en rosa tröja.", "У мене рожева светр."),
+                ("Rosa är en glad färg.", "Рожевий - це веселий колір."),
+                ("Kan du köpa den rosa lampan?", "Ти можеш купити ту рожеву лампу?")
+            ]),
+            Question(expression: "молодий", translation: "ung", examples: [
+                ("Han är en ung man.", "Він молодий чоловік."),
+                ("De unga barnen leker.", "Молоді діти граються."),
+                ("Ung är motsatsen till gammal.", "Молодий - це протилежність до старого."),
+                ("Kan du se den unga hunden?", "Ти бачиш того молодого собаку?")
+            ]),
+            Question(expression: "новий", translation: "ny", examples: [
+                ("Det är en ny bil.", "Це нова машина."),
+                ("Jag har en ny telefon.", "У мене новий телефон."),
+                ("Ny är motsatsen till gammal.", "Новий - це протилежність до старого."),
+                ("Kan du köpa den nya boken?", "Ти можеш купити ту нову книгу?")
+            ]),
+            Question(expression: "старий", translation: "gammal", examples: [
+                ("Det är en gammal bil.", "Це стара машина."),
+                ("Jag har en gammal bok.", "У мене стара книга."),
+                ("Gammal är motsatsen till ny.", "Старий - це протилежність до нового."),
+                ("Kan du se det gamla huset?", "Ти бачиш той старий будинок?")
+            ]),
+            Question(expression: "довгий", translation: "lång", examples: [
+                ("Det är en lång väg.", "Це довга дорога."),
+                ("Jag har långt hår.", "У мене довге волосся."),
+                ("Lång är motsatsen till kort.", "Довгий - це протилежність до короткого."),
+                ("Kan du se den långa bron?", "Ти бачиш той довгий міст?")
+            ]),
+            Question(expression: "смугастий", translation: "randig", examples: [
+                ("Den randiga tröjan är snygg.", "Смугаста светр стильна."),
+                ("Jag har en randig skjorta.", "У мене смугаста сорочка."),
+                ("Randigt är populärt i år.", "Смугастий візерунок популярний цього року."),
+                ("Kan du köpa den randiga väskan?", "Ти можеш купити той смугастий рюкзак?")
+            ]),
+            Question(expression: "клітинчастий", translation: "rutig", examples: [
+                ("Den rutiga skjortan är klassisk.", "Клітинчаста сорочка класична."),
+                ("Jag har en rutig filt.", "У мене клітинчаста ковдра."),
+                ("Rutigt är en tidlös stil.", "Клітинчастий візерунок - це безчасний стиль."),
+                ("Kan du se den rutiga väskan?", "Ти бачиш той клітинчастий рюкзак?")
+            ]),
+            Question(expression: "крапчастий", translation: "prickig", examples: [
+                ("Den prickiga hunden är söt.", "Крапчастий собака милий."),
+                ("Jag har en prickig klänning.", "У мене крапчаста сукня."),
+                ("Prickigt är roligt att titta på.", "Крапчастий візерунок весело розглядати."),
+                ("Kan du köpa den prickiga tröjan?", "Ти можеш купити ту крапчасту светр?")
+            ]),
+            Question(expression: "квітчастий", translation: "blommig", examples: [
+                ("Den blommiga klänningen är vacker.", "Квітчаста сукня красива."),
+                ("Jag har en blommig skjorta.", "У мене квітчаста сорочка."),
+                ("Blommigt är perfekt på sommaren.", "Квітчастий візерунок ідеально підходить для літа."),
+                ("Kan du se den blommiga väskan?", "Ти бачиш той квітчастий рюкзак?")
+            ]),
+            Question(expression: "великий", translation: "stor", examples: [
+                ("Det är en stor bil.", "Це велика машина."),
+                ("Jag har en stor familj.", "У мене велика сім'я."),
+                ("Stor är motsatsen till liten.", "Великий - це протилежність до маленького."),
+                ("Kan du se det stora huset?", "Ти бачиш той великий будинок?")
+            ]),
+            Question(expression: "маленький", translation: "liten", examples: [
+                ("Det är en liten bil.", "Це маленька машина."),
+                ("Jag har en liten hund.", "У мене маленький собака."),
+                ("Liten är motsatsen till stor.", "Маленький - це протилежність до великого."),
+                ("Kan du se den lilla fågeln?", "Ти бачиш ту маленьку пташку?")
+            ]),
+            Question(expression: "короткий", translation: "kort", examples: [
+                ("Det är en kort film.", "Це короткий фільм."),
+                ("Jag har kort hår.", "У мене коротке волосся."),
+                ("Kort är motsatsen till lång.", "Короткий - це протилежність до довгого."),
+                ("Kan du se den korta vägen?", "Ти бачиш ту коротку дорогу?")
+            ]),
+            Question(expression: "щасливий", translation: "glad", examples: [
+                ("Jag är glad idag.", "Я щасливий сьогодні."),
+                ("Hon har ett glatt leende.", "У неї щаслива посмішка."),
+                ("Glad är motsatsen till ledsen.", "Щасливий - це протилежність до сумного."),
+                ("Kan du se den glada hunden?", "Ти бачиш того щасливого собаку?")
+            ]),
+            Question(expression: "сумний", translation: "ledsen", examples: [
+                ("Jag är ledsen idag.", "Я сумний сьогодні."),
+                ("Han ser ledsen ut.", "Він виглядає сумним."),
+                ("Ledsen är motsatsen till glad.", "Сумний - це протилежність до щасливого."),
+                ("Kan du trösta den ledsna flickan?", "Ти можеш потішити ту сумну дівчинку?")
+            ])
+        ],
     ]
     
     static func questions(for category: QuestionCategory) -> [Question] {

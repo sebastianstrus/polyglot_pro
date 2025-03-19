@@ -75,7 +75,7 @@ extension View {
             .foregroundColor(color)
     }
     
-    func styledButton(_ type: ButtonType = .primary) -> some View {
+    func styledButton(_ type: ButtonType = .primary, isIcon: Bool = false) -> some View {
         let size: CGFloat
         let width: CGFloat
         let height: CGFloat
@@ -106,7 +106,7 @@ extension View {
         
         return self
             .font(.system(size: size, weight: .bold))
-            .frame(width: width, height: height)
+            .frame(width: isIcon ? height : width, height: height)
             .background(
                 LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
             )
@@ -125,7 +125,7 @@ extension View {
         switch Platform.current {
         case .macOS:
             size = 30
-            width = 600
+            width = 460
             height = 70
             radius = 20
             lineWidth = 5

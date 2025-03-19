@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct MainMenuView: View {
+struct VocabularyView: View {
     @State private var showMenu = true
     @State private var selectedCategory: QuestionCategory? = nil
     

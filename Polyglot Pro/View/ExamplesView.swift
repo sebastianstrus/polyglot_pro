@@ -55,7 +55,7 @@ struct ExamplesView: View {
                         viewModel.speak(text: example.swedish)
                     }) {
                         Image(systemName: "speaker.wave.2.fill")
-                            .frame(width: 50, height: 25)
+                            .frame(width: 25, height: 25)
                             .background(
                                 LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
                             )
