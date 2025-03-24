@@ -1,0 +1,3677 @@
+[
+    {
+        "expression": "tor",
+        "translations": {
+            "ukrainian": "сухий",
+            "english": "dry",
+            "spanish": "seco",
+            "german": "trocken",
+            "polish": "suchy",
+            "french": "sec",
+            "portuguese": "seco",
+            "italian": "secco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Handduken är torr."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рушник сухий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The towel is dry."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La toalla está seca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Handtuch ist trocken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ręcznik jest suchy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La serviette est sèche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A toalha está seca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'asciugamano è asciutto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jordbruket behöver torrt väder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сільське господарство потребує сухої погоди."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Agriculture needs dry weather."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La agricultura necesita clima seco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Landwirtschaft braucht trockenes Wetter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rolnictwo potrzebuje suchej pogody."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'agriculture a besoin de temps sec."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A agricultura precisa de tempo seco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'agricoltura ha bisogno di tempo secco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Torra löv låg på marken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сухі листя лежали на землі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dry leaves lay on the ground."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hojas secas yacían en el suelo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trockene Blätter lagen auf dem Boden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Suche liście leżały na ziemi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Des feuilles sèches gisaient sur le sol."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Folhas secas estavam no chão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Foglie secche giacevano sul terreno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Luften var torr och kall."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повітря було сухим і холодним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The air was dry and cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire estaba seco y frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Luft war trocken und kalt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powietrze było suche i zimne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air était sec et froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar estava seco e frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria era secca e fredda."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "liten",
+        "translations": {
+            "ukrainian": "маленький",
+            "english": "small",
+            "spanish": "pequeño",
+            "german": "klein",
+            "polish": "mały",
+            "french": "petit",
+            "portuguese": "pequeno",
+            "italian": "piccolo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnet är litet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дитина маленька."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The child is small."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El niño es pequeño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kind ist klein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziecko jest małe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'enfant est petit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A criança é pequena."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il bambino è piccolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en liten bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є маленька машина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a small car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo un coche pequeño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein kleines Auto."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam mały samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai une petite voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho um carro pequeno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho una macchina piccola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är en liten by."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це маленьке село."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's a small village."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es un pueblo pequeño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ein kleines Dorf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To mała wioska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un petit village."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É uma vila pequena."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È un piccolo villaggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en liten hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї є маленький собака."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a small dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene un perro pequeño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat einen kleinen Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma małego psa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a un petit chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem um cachorro pequeno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha un cane piccolo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "gigantisk",
+        "translations": {
+            "ukrainian": "гігантський",
+            "english": "gigantic",
+            "spanish": "gigantesco",
+            "german": "gigantisch",
+            "polish": "gigantyczny",
+            "french": "gigantesque",
+            "portuguese": "gigantesco",
+            "italian": "gigantesco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är ett gigantiskt berg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це гігантська гора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's a gigantic mountain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es una montaña gigantesca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ein gigantischer Berg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To gigantyczna góra."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est une montagne gigantesque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É uma montanha gigantesca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È una montagna gigantesca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bygger ett gigantiskt centrum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будують гігантський центр."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are building a gigantic center."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están construyendo un centro gigantesco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bauen ein gigantisches Zentrum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Budują gigantyczne centrum."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils construisent un centre gigantesque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão construindo um centro gigantesco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno costruendo un centro gigantesco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Havet är gigantiskt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Море гігантське."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sea is gigantic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mar es gigantesco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Meer ist gigantisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Morze jest gigantyczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La mer est gigantesque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mar é gigantesco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mare è gigantesco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var en gigantisk explosion."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це був гігантський вибух."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was a gigantic explosion."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue una explosión gigantesca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es war eine gigantische Explosion."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To była gigantyczna eksplozja."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était une explosion gigantesque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi uma explosão gigantesca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stata un'esplosione gigantesca."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "minimal",
+        "translations": {
+            "ukrainian": "мінімальний",
+            "english": "minimal",
+            "spanish": "mínimo",
+            "german": "minimal",
+            "polish": "minimalny",
+            "french": "minimal",
+            "portuguese": "mínimo",
+            "italian": "minimo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Förändringen var minimal."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зміна була мінімальною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The change was minimal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cambio fue mínimo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Veränderung war minimal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmiana była minimalna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le changement était minimal."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A mudança foi mínima."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cambiamento è stato minimo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi har minimal erfarenhet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нас мінімальний досвід."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We have minimal experience."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos experiencia mínima."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben minimale Erfahrung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mamy minimalne doświadczenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons une expérience minimale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Temos experiência mínima."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo un'esperienza minima."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kostnaden är minimal."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вартість мінімальна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cost is minimal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El costo es mínimo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kosten sind minimal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Koszt jest minimalny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le coût est minimal."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O custo é mínimo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il costo è minimo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Effekten är minimal."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ефект мінімальний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The effect is minimal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El efecto es mínimo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Wirkung ist minimal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Efekt jest minimalny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'effet est minimal."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O efeito é mínimo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'effetto è minimo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bred",
+        "translations": {
+            "ukrainian": "широкий",
+            "english": "wide",
+            "spanish": "ancho",
+            "german": "breit",
+            "polish": "szeroki",
+            "french": "large",
+            "portuguese": "largo",
+            "italian": "largo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gatan är bred."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вулиця широка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The street is wide."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La calle es ancha."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Straße ist breit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ulica jest szeroka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La rue est large."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A rua é larga."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La strada è larga."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har breda axlar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього широкі плечі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has broad shoulders."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene hombros anchos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat breite Schultern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma szerokie ramiona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a des épaules larges."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem ombros largos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha spalle larghe."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Floden är bred här."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Річка тут широка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The river is wide here."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El río es ancho aquí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Fluss ist hier breit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rzeka jest tutaj szeroka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La rivière est large ici."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O rio é largo aqui."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il fiume è largo qui."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Breda leenden är vackra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Широкі посмішки красиві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Wide smiles are beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las sonrisas anchas son hermosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Breite Lächeln sind schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szerokie uśmiechy są piękne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les grands sourires sont beaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sorrisos largos são bonitos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I sorrisi larghi sono belli."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "smal",
+        "translations": {
+            "ukrainian": "вузький",
+            "english": "narrow",
+            "spanish": "estrecho",
+            "german": "schmal",
+            "polish": "wąski",
+            "french": "étroit",
+            "portuguese": "estreito",
+            "italian": "stretto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gatan är smal."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вулиця вузька."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The street is narrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La calle es estrecha."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Straße ist schmal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ulica jest wąska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La rue est étroite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A rua é estreita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La strada è stretta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en smal midja."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї вузька талія."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a narrow waist."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una cintura estrecha."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine schmale Taille."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma wąską talię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une taille étroite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma cintura estreita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una vita stretta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Floden är smal här."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Річка тут вузька."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The river is narrow here."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El río es estrecho aquí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Fluss ist hier schmal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rzeka jest tutaj wąska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La rivière est étroite ici."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O rio é estreito aqui."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il fiume è stretto qui."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Smalare vägar är farligare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вужчі дороги небезпечніші."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Narrower roads are more dangerous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las carreteras más estrechas son más peligrosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schmalere Straßen sind gefährlicher."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Węższe drogi są bardziej niebezpieczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les routes plus étroites sont plus dangereuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estradas mais estreitas são mais perigosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le strade più strette sono più pericolose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kort",
+        "translations": {
+            "ukrainian": "короткий",
+            "english": "short",
+            "spanish": "corto",
+            "german": "kurz",
+            "polish": "krótki",
+            "french": "court",
+            "portuguese": "curto",
+            "italian": "corto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Filmen är kort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фільм короткий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The movie is short."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La película es corta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Film ist kurz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Film jest krótki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film est court."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme é curto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il film è corto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har kort hår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього коротке волосся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has short hair."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene el pelo corto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat kurze Haare."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma krótkie włosy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a les cheveux courts."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem cabelo curto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha i capelli corti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Resan var kort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Подорож була короткою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The trip was short."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El viaje fue corto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Reise war kurz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podróż była krótka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le voyage était court."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A viagem foi curta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il viaggio è stato corto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Korta byxor är bekväma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Короткі штани зручні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Short pants are comfortable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los pantalones cortos son cómodos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kurze Hosen sind bequem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Krótkie spodnie są wygodne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les shorts sont confortables."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Calções curtos são confortáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I pantaloncini corti sono comodi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lång",
+        "translations": {
+            "ukrainian": "довгий",
+            "english": "long",
+            "spanish": "largo",
+            "german": "lang",
+            "polish": "długi",
+            "french": "long",
+            "portuguese": "longo",
+            "italian": "lungo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Filmen är lång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фільм довгий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The movie is long."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La película es larga."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Film ist lang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Film jest długi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film est long."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme é longo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il film è lungo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har långt hår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї довге волосся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has long hair."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene el pelo largo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat lange Haare."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma długie włosy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a les cheveux longs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem cabelo longo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha i capelli lunghi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Resan var lång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Подорож була довгою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The trip was long."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El viaje fue largo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Reise war lang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podróż była długa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le voyage était long."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A viagem foi longa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il viaggio è stato lungo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Långa klänningar är eleganta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Довгі сукні елегантні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Long dresses are elegant."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los vestidos largos son elegantes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lange Kleider sind elegant."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Długie sukienki są eleganckie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les robes longues sont élégantes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vestidos longos são elegantes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I vestiti lunghi sono eleganti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rund",
+        "translations": {
+            "ukrainian": "круглий",
+            "english": "round",
+            "spanish": "redondo",
+            "german": "rund",
+            "polish": "okrągły",
+            "french": "rond",
+            "portuguese": "redondo",
+            "italian": "rotondo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bordet är runt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стіл круглий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The table is round."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La mesa es redonda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Tisch ist rund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stół jest okrągły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La table est ronde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A mesa é redonda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tavolo è rotondo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har ett runt ansikte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього кругле обличчя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has a round face."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene una cara redonda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat ein rundes Gesicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma okrągłą twarz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a un visage rond."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem um rosto redondo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha un viso rotondo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Månen är rund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Місяць круглий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The moon is round."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La luna es redonda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Mond ist rund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Księżyc jest okrągły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La lune est ronde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A lua é redonda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La luna è rotonda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Runda föremål är populära."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Круглі предмети популярні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Round objects are popular."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los objetos redondos son populares."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Runde Gegenstände sind beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Okrągłe przedmioty są popularne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les objets ronds sont populaires."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Objetos redondos são populares."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli oggetti rotondi sono popolari."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fyrkantig",
+        "translations": {
+            "ukrainian": "квадратний",
+            "english": "square",
+            "spanish": "cuadrado",
+            "german": "quadratisch",
+            "polish": "kwadratowy",
+            "french": "carré",
+            "portuguese": "quadrado",
+            "italian": "quadrato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bordet är fyrkantigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стіл квадратний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The table is square."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La mesa es cuadrada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Tisch ist quadratisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stół jest kwadratowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La table est carrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A mesa é quadrada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tavolo è quadrato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en fyrkantig ask."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї квадратна коробка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a square box."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una caja cuadrada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine quadratische Schachtel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma kwadratowe pudełko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une boîte carrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma caixa quadrada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una scatola quadrata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fyrkantiga byggnader är vanliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квадратні будівлі поширені."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Square buildings are common."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los edificios cuadrados son comunes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Quadratische Gebäude sind häufig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kwadratowe budynki są powszechne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les bâtiments carrés sont courants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Edifícios quadrados são comuns."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli edifici quadrati sono comuni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fyrkantiga brickor är praktiska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квадратні плитки практичні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Square tiles are practical."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los azulejos cuadrados son prácticos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Quadratische Fliesen sind praktisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kwadratowe płytki są praktyczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les carreaux carrés sont pratiques."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Azulejos quadrados são práticos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le piastrelle quadrate sono pratiche."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "oval",
+        "translations": {
+            "ukrainian": "овальний",
+            "english": "oval",
+            "spanish": "ovalado",
+            "german": "oval",
+            "polish": "owalny",
+            "french": "ovale",
+            "portuguese": "oval",
+            "italian": "ovale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Spegeln är oval."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дзеркало овальне."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The mirror is oval."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El espejo es ovalado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Spiegel ist oval."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lustro jest owalne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le miroir est ovale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O espelho é oval."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo specchio è ovale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har ett ovalt ansikte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї овальне обличчя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has an oval face."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una cara ovalada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat ein ovales Gesicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma owalną twarz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a un visage ovale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem um rosto oval."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha un viso ovale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ovala bord är moderna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Овальні столи сучасні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Oval tables are modern."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las mesas ovaladas son modernas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ovale Tische sind modern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Owalne stoły są nowoczesne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les tables ovales sont modernes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Mesas ovais são modernas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I tavoli ovali sono moderni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ovala fönster är vackra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Овальні вікна красиві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Oval windows are beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las ventanas ovaladas son hermosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ovale Fenster sind schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Owalne okna są piękne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fenêtres ovales sont belles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Janelas ovais são bonitas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le finestre ovali sono belle."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "trekantig",
+        "translations": {
+            "ukrainian": "трикутний",
+            "english": "triangular",
+            "spanish": "triangular",
+            "german": "dreieckig",
+            "polish": "trójkątny",
+            "french": "triangulaire",
+            "portuguese": "triangular",
+            "italian": "triangolare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Flaggan är trekantig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Прапор трикутний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flag is triangular."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La bandera es triangular."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Flagge ist dreieckig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Flaga jest trójkątna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le drapeau est triangulaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A bandeira é triangular."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La bandiera è triangolare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en trekantig hatt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього трикутний капелюх."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has a triangular hat."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene un sombrero triangular."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat einen dreieckigen Hut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma trójkątny kapelusz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a un chapeau triangulaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem um chapéu triangular."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha un cappello triangolare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trekantiga byggnader är ovanliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Трикутні будівлі рідкісні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Triangular buildings are rare."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los edificios triangulares son raros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dreieckige Gebäude sind selten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Trójkątne budynki są rzadkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les bâtiments triangulaires sont rares."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Edifícios triangulares são raros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli edifici triangolari sono rari."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trekantiga brickor är unika."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Трикутні плитки унікальні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Triangular tiles are unique."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los azulejos triangulares son únicos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dreieckige Fliesen sind einzigartig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Trójkątne płytki są unikalne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les carreaux triangulaires sont uniques."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Azulejos triangulares são únicos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le piastrelle triangolari sono uniche."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "böjd",
+        "translations": {
+            "ukrainian": "зігнутий",
+            "english": "bent",
+            "spanish": "doblado",
+            "german": "gebogen",
+            "polish": "zgięty",
+            "french": "courbé",
+            "portuguese": "dobrado",
+            "italian": "piegato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Staven är böjd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Палиця зігнута."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The stick is bent."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El palo está doblado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Stock ist gebogen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kij jest zgięty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bâton est courbé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O bastão está dobrado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il bastone è piegato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en böjd rygg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього зігнута спина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has a bent back."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene la espalda doblada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat einen gebogenen Rücken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma zgięte plecy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a le dos courbé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem as costas dobradas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha la schiena piegata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Böjda träd är vackra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зігнуті дерева красиві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bent trees are beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los árboles doblados son hermosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gebogene Bäume sind schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zgięte drzewa są piękne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les arbres courbés sont beaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Árvores dobradas são bonitas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli alberi piegati sono belli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Böjda linjer är intressanta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зігнуті лінії цікаві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bent lines are interesting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las líneas dobladas son interesantes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gebogene Linien sind interessant."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zgięte linie są interesujące."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les lignes courbées sont intéressantes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Linhas dobradas são interessantes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le linee piegate sono interessanti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "spetsig",
+        "translations": {
+            "ukrainian": "гострий",
+            "english": "pointy",
+            "spanish": "puntiagudo",
+            "german": "spitz",
+            "polish": "spiczasty",
+            "french": "pointu",
+            "portuguese": "pontiagudo",
+            "italian": "appuntito"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kniven är spetsig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ніж гострий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The knife is pointy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cuchillo es puntiagudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Messer ist spitz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nóż jest spiczasty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le couteau est pointu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A faca é pontiaguda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il coltello è appuntito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har spetsiga skor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї гострі туфлі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has pointy shoes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene zapatos puntiagudos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat spitze Schuhe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma spiczaste buty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a des chaussures pointues."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem sapatos pontiagudos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha scarpe appuntite."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Spetsiga föremål är farliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гострі предмети небезпечні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pointy objects are dangerous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los objetos puntiagudos son peligrosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Spitze Gegenstände sind gefährlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spiczaste przedmioty są niebezpieczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les objets pointus sont dangereux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Objetos pontiagudos são perigosos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli oggetti appuntiti sono pericolosi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Spetsiga träd är sällsynta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гострі дерева рідкісні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pointy trees are rare."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los árboles puntiagudos son raros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Spitze Bäume sind selten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spiczaste drzewa są rzadkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les arbres pointus sont rares."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Árvores pontiagudas são raras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli alberi appuntiti sono rari."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "platt",
+        "translations": {
+            "ukrainian": "плоский",
+            "english": "flat",
+            "spanish": "plano",
+            "german": "flach",
+            "polish": "płaski",
+            "french": "plat",
+            "portuguese": "plano",
+            "italian": "piatto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Marken är platt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Земля плоска."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The ground is flat."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El suelo es plano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Boden ist flach."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ziemia jest płaska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le sol est plat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O chão é plano."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il terreno è piatto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har ett platt ansikte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї плоске обличчя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a flat face."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una cara plana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat ein flaches Gesicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma płaską twarz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a un visage plat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem um rosto plano."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha un viso piatto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Platta ytor är lätta att rengöra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Плоскі поверхні легко чистити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Flat surfaces are easy to clean."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las superficies planas son fáciles de limpiar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Flache Oberflächen sind leicht zu reinigen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płaskie powierzchnie są łatwe do czyszczenia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les surfaces plates sont faciles à nettoyer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Superfícies planas são fáceis de limpar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le superfici piatte sono facili da pulire."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Platta tak är vanliga i moderna hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Плоскі дахи поширені в сучасних будинках."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Flat roofs are common in modern houses."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los techos planos son comunes en las casas modernas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Flache Dächer sind in modernen Häusern üblich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płaskie dachy są powszechne w nowoczesnych domach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les toits plats sont courants dans les maisons modernes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Telhados planos são comuns em casas modernas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I tetti piatti sono comuni nelle case moderne."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "slät",
+        "translations": {
+            "ukrainian": "гладкий",
+            "english": "smooth",
+            "spanish": "liso",
+            "german": "glatt",
+            "polish": "gładki",
+            "french": "lisse",
+            "portuguese": "liso",
+            "italian": "liscio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ytan är slät."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поверхня гладка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The surface is smooth."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La superficie es lisa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Oberfläche ist glatt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powierzchnia jest gładka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La surface est lisse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A superfície é lisa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La superficie è liscia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en slät hud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього гладка шкіра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has smooth skin."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene una piel lisa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat eine glatte Haut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma gładką skórę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a une peau lisse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem uma pele lisa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha una pelle liscia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Släta väggar är moderna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гладкі стіни сучасні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Smooth walls are modern."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las paredes lisas son modernas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glatte Wände sind modern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gładkie ściany są nowoczesne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les murs lisses sont modernes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Paredes lisas são modernas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le pareti lisce sono moderne."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Släta ytor är lätta att måla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гладкі поверхні легко фарбувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Smooth surfaces are easy to paint."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las superficies lisas son fáciles de pintar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glatte Oberflächen sind leicht zu streichen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gładkie powierzchnie są łatwe do malowania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les surfaces lisses sont faciles à peindre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Superfícies lisas são fáceis de pintar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le superfici lisce sono facili da dipingere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skrovlig",
+        "translations": {
+            "ukrainian": "шорсткий",
+            "english": "rough",
+            "spanish": "áspero",
+            "german": "rau",
+            "polish": "szorstki",
+            "french": "rugueux",
+            "portuguese": "áspero",
+            "italian": "ruvido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ytan är skrovlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поверхня шорстка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The surface is rough."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La superficie es áspera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Oberfläche ist rau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powierzchnia jest szorstka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La surface est rugueuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A superfície é áspera."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La superficie è ruvida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en skrovlig hud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього шорстка шкіра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has rough skin."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene una piel áspera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat eine raue Haut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma szorstką skórę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a une peau rugueuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem uma pele áspera."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha una pelle ruvida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skrovliga väggar är ovanliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Шорсткі стіни рідкісні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Rough walls are rare."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las paredes ásperas son raras."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rauhe Wände sind selten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szorstkie ściany są rzadkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les murs rugueux sont rares."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Paredes ásperas são raras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le pareti ruvide sono rare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skrovliga ytor är svåra att måla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Шорсткі поверхні важко фарбувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Rough surfaces are difficult to paint."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las superficies ásperas son difíciles de pintar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rauhe Oberflächen sind schwer zu streichen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szorstkie powierzchnie są trudne do malowania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les surfaces rugueuses sont difficiles à peindre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Superfícies ásperas são difíceis de pintar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le superfici ruvide sono difficili da dipingere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "glansig",
+        "translations": {
+            "ukrainian": "блискучий",
+            "english": "glossy",
+            "spanish": "brillante",
+            "german": "glänzend",
+            "polish": "błyszczący",
+            "french": "brillant",
+            "portuguese": "brilhante",
+            "italian": "lucido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ytan är glansig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поверхня блискуча."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The surface is glossy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La superficie es brillante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Oberfläche ist glänzend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powierzchnia jest błyszcząca."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La surface est brillante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A superfície é brilhante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La superficie è lucida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har glansigt hår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї блискуче волосся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has glossy hair."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene el pelo brillante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat glänzendes Haar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma błyszczące włosy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a les cheveux brillants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem cabelo brilhante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha i capelli lucidi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Glansiga ytor är populära."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Блискучі поверхні популярні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Glossy surfaces are popular."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las superficies brillantes son populares."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glänzende Oberflächen sind beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Błyszczące powierzchnie są popularne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les surfaces brillantes sont populaires."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Superfícies brilhantes são populares."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le superfici lucide sono popolari."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Glansiga blad är vackra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Блискучі листя красиві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Glossy leaves are beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las hojas brillantes son hermosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glänzende Blätter sind schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Błyszczące liście są piękne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les feuilles brillantes sont belles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Folhas brilhantes são bonitas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le foglie lucide sono belle."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "matt",
+        "translations": {
+            "ukrainian": "матовий",
+            "english": "matte",
+            "spanish": "mate",
+            "german": "matt",
+            "polish": "matowy",
+            "french": "mat",
+            "portuguese": "fosco",
+            "italian": "opaco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ytan är matt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поверхня матова."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The surface is matte."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La superficie es mate."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Oberfläche ist matt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powierzchnia jest matowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La surface est mate."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A superfície é fosca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La superficie è opaca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en matt färg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї матовий колір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a matte color."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene un color mate."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine matte Farbe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma matowy kolor."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une couleur mate."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma cor fosca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha un colore opaco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Matt färg är modern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Матовий колір сучасний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Matte color is modern."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El color mate es moderno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Matte Farbe ist modern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Matowy kolor jest nowoczesny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La couleur mate est moderne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cor fosca é moderna."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il colore opaco è moderno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Matt yta är lätt att rengöra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Матову поверхню легко чистити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Matte surfaces are easy to clean."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las superficies mate son fáciles de limpiar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Matte Oberflächen sind leicht zu reinigen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Matowe powierzchnie są łatwe do czyszczenia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les surfaces mates sont faciles à nettoyer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Superfícies fosca são fáceis de limpar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le superfici opache sono facili da pulire."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "mjuk",
+        "translations": {
+            "ukrainian": "м'який",
+            "english": "soft",
+            "spanish": "suave",
+            "german": "weich",
+            "polish": "miękki",
+            "french": "doux",
+            "portuguese": "macio",
+            "italian": "morbido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kudden är mjuk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Подушка м'яка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The pillow is soft."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La almohada es suave."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kissen ist weich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poduszka jest miękka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'oreiller est doux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O travesseiro é macio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cuscino è morbido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har mjuk hud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї м'яка шкіра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has soft skin."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una piel suave."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat weiche Haut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma miękką skórę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une peau douce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma pele macia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una pelle morbida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mjuka tyger är bekväma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "М'які тканини зручні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Soft fabrics are comfortable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los tejidos suaves son cómodos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weiche Stoffe sind bequem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miękkie tkaniny są wygodne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les tissus doux sont confortables."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tecidos macios são confortáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I tessuti morbidi sono comodi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mjuka soffor är populära."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "М'які дивани популярні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Soft sofas are popular."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los sofás suaves son populares."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weiche Sofas sind beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miękkie sofy są popularne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les canapés doux sont populaires."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sofás macios são populares."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I divani morbidi sono popolari."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hård",
+        "translations": {
+            "ukrainian": "твердий",
+            "english": "hard",
+            "spanish": "duro",
+            "german": "hart",
+            "polish": "twardy",
+            "french": "dur",
+            "portuguese": "duro",
+            "italian": "duro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stenen är hård."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Камінь твердий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The stone is hard."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La piedra es dura."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Stein ist hart."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kamień jest twardy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pierre est dure."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A pedra é dura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pietra è dura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en hård hud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього тверда шкіра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has hard skin."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene una piel dura."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat eine harte Haut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma twardą skórę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a une peau dure."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem uma pele dura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha una pelle dura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hårda ytor är svåra att skära."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тверді поверхні важко різати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hard surfaces are difficult to cut."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las superficies duras son difíciles de cortar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Harte Oberflächen sind schwer zu schneiden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Twarde powierzchnie są trudne do cięcia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les surfaces dures sont difficiles à couper."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Superfícies duras são difíceis de cortar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le superfici dure sono difficili da tagliare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hårda stolar är obekväma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тверді стільці незручні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hard chairs are uncomfortable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las sillas duras son incómodas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Harte Stühle sind unbequem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Twarde krzesła są niewygodne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les chaises dures sont inconfortables."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cadeiras duras são desconfortáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le sedie dure sono scomode."
+                    }
+                ]
+            }
+        ]
+    }
+]

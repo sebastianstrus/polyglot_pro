@@ -1,0 +1,2977 @@
+[
+    {
+        "expression": "glad",
+        "translations": {
+            "ukrainian": "щасливий",
+            "english": "happy",
+            "spanish": "feliz",
+            "german": "glücklich",
+            "polish": "szczęśliwy",
+            "french": "heureux",
+            "portuguese": "feliz",
+            "italian": "felice"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är glad idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я щасливий сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am happy today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy feliz hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin heute glücklich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem szczęśliwy dziś."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis heureux aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou feliz hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono felice oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ser glad ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядає щасливою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looks happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se ve feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sieht glücklich aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wygląda na szczęśliwą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a l'air heureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parece feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sembra felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen är glada."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти щасливі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños están felices."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder sind glücklich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci są szczęśliwe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sont heureux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estão felizes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono felici."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev glada över nyheten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми були щасливі через новину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We were happy about the news."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estábamos felices por la noticia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir waren glücklich über die Nachricht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Byliśmy szczęśliwi z powodu wiadomości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étions heureux de la nouvelle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficamos felizes com a notícia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Eravamo felici della notizia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lycklig",
+        "translations": {
+            "ukrainian": "щасливий",
+            "english": "happy",
+            "spanish": "feliz",
+            "german": "glücklich",
+            "polish": "szczęśliwy",
+            "french": "heureux",
+            "portuguese": "feliz",
+            "italian": "felice"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig lycklig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся щасливим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich glücklich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się szczęśliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens heureux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me sinto feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en lycklig kvinna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона щаслива жінка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a happy woman."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una mujer feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine glückliche Frau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest szczęśliwą kobietą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une femme heureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma mulher feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una donna felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är lyckliga tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони щасливі разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are happy together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos son felices juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind glücklich zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są szczęśliwi razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont heureux ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles são felizes juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono felici insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lyckliga människor sprider glädje."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Щасливі люди поширюють радість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Happy people spread joy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas felices contagian alegría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glückliche Menschen verbreiten Freude."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szczęśliwi ludzie rozprzestrzeniają radość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens heureux répandent la joie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas felizes espalham alegria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone felici diffondono gioia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "entusiastisk",
+        "translations": {
+            "ukrainian": "ентузіастичний",
+            "english": "enthusiastic",
+            "spanish": "entusiasta",
+            "german": "begeistert",
+            "polish": "entuzjastyczny",
+            "french": "enthousiaste",
+            "portuguese": "entusiasta",
+            "italian": "entusiasta"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är entusiastisk över projektet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він ентузіастично ставиться до проекту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is enthusiastic about the project."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está entusiasmado con el proyecto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist begeistert von dem Projekt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest entuzjastycznie nastawiony do projektu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est enthousiaste à propos du projet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está entusiasmado com o projeto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è entusiasta del progetto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var entusiastisk över idén."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була ентузіастичною щодо ідеї."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was enthusiastic about the idea."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estaba entusiasmada con la idea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war begeistert von der Idee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była entuzjastycznie nastawiona do pomysłu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était enthousiaste à propos de l'idée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela estava entusiasmada com a ideia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei era entusiasta dell'idea."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är entusiastiska över resan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони ентузіастично ставляться до подорожі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are enthusiastic about the trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están entusiasmados con el viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind begeistert von der Reise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są entuzjastycznie nastawieni do podróży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont enthousiastes à propos du voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão entusiasmados com a viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono entusiasti del viaggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Entusiastiska människor är inspirerande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ентузіастичні люди надихають."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Enthusiastic people are inspiring."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas entusiastas son inspiradoras."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Begeisterte Menschen sind inspirierend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Entuzjastyczni ludzie są inspirujący."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens enthousiastes sont inspirants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas entusiastas são inspiradoras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone entusiaste sono ispiranti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kärleksfull",
+        "translations": {
+            "ukrainian": "люблячий",
+            "english": "loving",
+            "spanish": "cariñoso",
+            "german": "liebevoll",
+            "polish": "kochający",
+            "french": "aimant",
+            "portuguese": "amoroso",
+            "italian": "amorevole"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en kärleksfull mor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона любляча мати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a loving mother."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una madre cariñosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine liebevolle Mutter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest kochającą matką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une mère aimante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma mãe amorosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una madre amorevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han gav henne en kärleksfull blick."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він кинув на неї люблячий погляд."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He gave her a loving look."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él le dio una mirada cariñosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er warf ihr einen liebevollen Blick zu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On rzucił jej kochające spojrzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il lui a lancé un regard aimant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele deu a ela um olhar amoroso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei le ha lanciato uno sguardo amorevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är ett kärleksfullt par."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони любляча пара."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are a loving couple."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos son una pareja cariñosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind ein liebevolles Paar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są kochającą się parą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont un couple aimant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles são um casal amoroso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono una coppia amorevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kärleksfulla ord kan läka hjärtan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Люблячі слова можуть зцілювати серця."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Loving words can heal hearts."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las palabras cariñosas pueden sanar corazones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Liebevolle Worte können Herzen heilen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kochające słowa mogą leczyć serca."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les mots aimants peuvent guérir les cœurs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Palavras amorosas podem curar corações."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Parole amorevoli possono guarire i cuori."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hoppfull",
+        "translations": {
+            "ukrainian": "сповнений надії",
+            "english": "hopeful",
+            "spanish": "esperanzado",
+            "german": "hoffnungsvoll",
+            "polish": "pełen nadziei",
+            "french": "plein d'espoir",
+            "portuguese": "esperançoso",
+            "italian": "speranzoso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är hoppfull inför framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я сповнений надії щодо майбутнього."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am hopeful about the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy esperanzado con el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin hoffnungsvoll in Bezug auf die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem pełen nadziei co do przyszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis plein d'espoir pour l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou esperançoso em relação ao futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono speranzoso riguardo al futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är hoppfull om att hitta en lösning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона сповнена надії знайти рішення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is hopeful about finding a solution."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está esperanzada en encontrar una solución."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist hoffnungsvoll, eine Lösung zu finden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest pełna nadziei na znalezienie rozwiązania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est pleine d'espoir de trouver une solution."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está esperançosa em encontrar uma solução."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è speranzosa di trovare una soluzione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är hoppfulla om att vinna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сповнені надії на перемогу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are hopeful about winning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están esperanzados en ganar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind hoffnungsvoll, zu gewinnen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są pełni nadziei na wygraną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont pleins d'espoir de gagner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão esperançosos em ganhar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono speranzosi di vincere."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hoppfulla människor ser möjligheter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Люди, сповнені надії, бачать можливості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hopeful people see opportunities."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas esperanzadas ven oportunidades."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hoffnungsvolle Menschen sehen Möglichkeiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pełni nadziei ludzie widzą możliwości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens pleins d'espoir voient des opportunités."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas esperançosas veem oportunidades."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone speranzose vedono opportunità."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "stolt",
+        "translations": {
+            "ukrainian": "гордий",
+            "english": "proud",
+            "spanish": "orgulloso",
+            "german": "stolz",
+            "polish": "dumny",
+            "french": "fier",
+            "portuguese": "orgulhoso",
+            "italian": "orgoglioso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är stolt över dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я пишаюся тобою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am proud of you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy orgulloso de ti."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin stolz auf dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem z ciebie dumny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis fier de toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou orgulhoso de você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono orgoglioso di te."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är stolt över sitt arbete."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пишається своєю роботою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is proud of her work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está orgullosa de su trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist stolz auf ihre Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest dumna ze swojej pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est fière de son travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está orgulhosa do seu trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è orgogliosa del suo lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är stolta över sina barn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони пишаються своїми дітьми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are proud of their children."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están orgullosos de sus hijos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind stolz auf ihre Kinder."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są dumni ze swoich dzieci."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont fiers de leurs enfants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão orgulhosos de seus filhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono orgogliosi dei loro figli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stolta ögonblick får oss att le."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Горді моменти змушують нас посміхатися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Proud moments make us smile."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los momentos de orgullo nos hacen sonreír."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Stolze Momente lassen uns lächeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dumne chwile sprawiają, że się uśmiechamy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les moments de fierté nous font sourire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Momentos de orgulho nos fazem sorrir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I momenti di orgoglio ci fanno sorridere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ledsen",
+        "translations": {
+            "ukrainian": "сумний",
+            "english": "sad",
+            "spanish": "triste",
+            "german": "traurig",
+            "polish": "smutny",
+            "french": "triste",
+            "portuguese": "triste",
+            "italian": "triste"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är ledsen över att höra det."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені сумно чути це."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am sad to hear that."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy triste de escuchar eso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin traurig, das zu hören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest mi smutno to słyszeć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis triste d'entendre ça."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou triste em ouvir isso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono triste di sentirlo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon såg ledsen ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядала сумно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looked sad."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se veía triste."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sah traurig aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wyglądała na smutną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait l'air triste."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parecia triste."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sembrava triste."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen blev ledsna när de hörde nyheten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти засмутилися, коли почули новину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children became sad when they heard the news."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños se pusieron tristes cuando escucharon la noticia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder wurden traurig, als sie die Nachricht hörten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci stały się smutne, gdy usłyszały wiadomość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sont devenus tristes quand ils ont entendu la nouvelle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças ficaram tristes quando ouviram a notícia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono diventati tristi quando hanno sentito la notizia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ledsna ögonblick är en del av livet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сумні моменти є частиною життя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sad moments are a part of life."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los momentos tristes son parte de la vida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Traurige Momente sind ein Teil des Lebens."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Smutne chwile są częścią życia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les moments tristes font partie de la vie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Momentos tristes fazem parte da vida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I momenti tristi fanno parte della vita."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "arg",
+        "translations": {
+            "ukrainian": "злий",
+            "english": "angry",
+            "spanish": "enojado",
+            "german": "wütend",
+            "polish": "zły",
+            "french": "en colère",
+            "portuguese": "zangado",
+            "italian": "arrabbiato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han blev arg när han hörde nyheten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він розлютився, коли почув новину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He got angry when he heard the news."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se enojó cuando escuchó la noticia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde wütend, als er die Nachricht hörte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On się rozzłościł, gdy usłyszał wiadomość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est devenu en colère quand il a entendu la nouvelle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ficou zangado quando ouviu a notícia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui si è arrabbiato quando ha sentito la notizia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var arg på sin bror."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була зла на свого брата."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was angry at her brother."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estaba enojada con su hermano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war wütend auf ihren Bruder."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była zła na swojego brata."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était en colère contre son frère."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela estava zangada com o irmão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei era arrabbiata con suo fratello."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De blev arga över förseningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони розлютилися через затримку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They got angry about the delay."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se enojaron por el retraso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurden wütend über die Verspätung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni się rozzłościli z powodu opóźnienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont devenus en colère à cause du retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles ficaram zangados com o atraso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si sono arrabbiati per il ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Arga ord kan skada relationer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гнівні слова можуть пошкодити стосунки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Angry words can harm relationships."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las palabras enojadas pueden dañar las relaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wütende Worte können Beziehungen schädigen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gniewne słowa mogą zaszkodzić relacjom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les mots en colère peuvent nuire aux relations."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Palavras zangadas podem prejudicar relacionamentos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Parole arrabbiate possono danneggiare le relazioni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "irriterad",
+        "translations": {
+            "ukrainian": "роздратований",
+            "english": "irritated",
+            "spanish": "irritado",
+            "german": "gereizt",
+            "polish": "poirytowany",
+            "french": "irrité",
+            "portuguese": "irritado",
+            "italian": "irritato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag blev irriterad av ljudet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я роздратувався через звук."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I got irritated by the sound."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me irrité por el sonido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wurde durch das Geräusch gereizt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zdenerwowałem się przez dźwięk."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai été irrité par le bruit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu fiquei irritado com o som."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sono irritato per il rumore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var irriterad på sin kollega."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була роздратована на свого колегу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was irritated at her colleague."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estaba irritada con su colega."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war gereizt auf ihren Kollegen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była poirytowana na swojego kolegę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était irritée par son collègue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela estava irritada com o colega."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei era irritata con il suo collega."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De blev irriterade över förseningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони роздратувалися через затримку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They got irritated about the delay."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se irritaron por el retraso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurden durch die Verspätung gereizt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni się poirytowali z powodu opóźnienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont été irrités par le retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles ficaram irritados com o atraso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si sono irritati per il ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Irriterade människor kan bli otrevliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Роздратовані люди можуть стати неприємними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Irritated people can become unpleasant."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas irritadas pueden volverse desagradables."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gereizte Menschen können unangenehm werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poirytowani ludzie mogą stać się nieprzyjemni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens irrités peuvent devenir désagréables."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas irritadas podem se tornar desagradáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone irritate possono diventare sgradevoli."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "besviken",
+        "translations": {
+            "ukrainian": "розчарований",
+            "english": "disappointed",
+            "spanish": "decepcionado",
+            "german": "enttäuscht",
+            "polish": "rozczarowany",
+            "french": "déçu",
+            "portuguese": "decepcionado",
+            "italian": "deluso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är besviken över resultatet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я розчарований результатом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am disappointed with the result."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy decepcionado con el resultado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin enttäuscht über das Ergebnis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem rozczarowany wynikiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis déçu du résultat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou decepcionado com o resultado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono deluso del risultato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var besviken på sig själv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була розчарована собою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was disappointed in herself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estaba decepcionada de sí misma."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war enttäuscht von sich selbst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była rozczarowana sobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était déçue d'elle-même."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela estava decepcionada consigo mesma."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei era delusa di se stessa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De blev besvikna över beslutet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони були розчаровані рішенням."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They were disappointed with the decision."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos estaban decepcionados con la decisión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie waren enttäuscht über die Entscheidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni byli rozczarowani decyzją."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils étaient déçus de la décision."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles ficaram decepcionados com a decisão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro erano delusi della decisione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Besvikna människor kan tappa motivationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Розчаровані люди можуть втратити мотивацію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Disappointed people can lose motivation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas decepcionadas pueden perder la motivación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Enttäuschte Menschen können die Motivation verlieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozczarowani ludzie mogą stracić motywację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens déçus peuvent perdre leur motivation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas decepcionadas podem perder a motivação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone deluse possono perdere la motivazione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "stressad",
+        "translations": {
+            "ukrainian": "стресований",
+            "english": "stressed",
+            "spanish": "estresado",
+            "german": "gestresst",
+            "polish": "zestresowany",
+            "french": "stressé",
+            "portuguese": "estressado",
+            "italian": "stressato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig stressad idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся стресованим сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel stressed today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento estresado hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich heute gestresst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się zestresowany dziś."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens stressé aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me sinto estressado hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento stressato oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev stressad av arbetet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона стала стресованою через роботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got stressed by work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se estresó por el trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde durch die Arbeit gestresst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona się zestresowała przez pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est devenue stressée à cause du travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou estressada com o trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si è stressata per il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är stressade inför provet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони стресовані через іспит."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are stressed about the exam."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están estresados por el examen."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind gestresst wegen der Prüfung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są zestresowani przed egzaminem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont stressés à cause de l'examen."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão estressados com a prova."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono stressati per l'esame."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stressade människor behöver vila."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стресованим людям потрібен відпочинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stressed people need rest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas estresadas necesitan descansar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gestresste Menschen brauchen Ruhe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zestresowani ludzie potrzebują odpoczynku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens stressés ont besoin de repos."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas estressadas precisam descansar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone stressate hanno bisogno di riposo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "orolig",
+        "translations": {
+            "ukrainian": "стурбований",
+            "english": "worried",
+            "spanish": "preocupado",
+            "german": "besorgt",
+            "polish": "zmartwiony",
+            "french": "inquiet",
+            "portuguese": "preocupado",
+            "italian": "preoccupato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är orolig för min vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я стурбований за свого друга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am worried about my friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy preocupado por mi amigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mache mir Sorgen um meinen Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Martwię się o mojego przyjaciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis inquiet pour mon ami."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou preocupado com meu amigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono preoccupato per il mio amico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev orolig när hon inte hörde något."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона занепокоїлася, коли нічого не почула."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got worried when she didn't hear anything."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se preocupó cuando no escuchó nada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde besorgt, als sie nichts hörte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona się zmartwiła, gdy nic nie usłyszała."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est devenue inquiète quand elle n'a rien entendu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou preocupada quando não ouviu nada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si è preoccupata quando non ha sentito nulla."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är oroliga för framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони стурбовані майбутнім."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are worried about the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están preocupados por el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind besorgt über die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są zmartwieni o przyszłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont inquiets pour l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão preocupados com o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono preoccupati per il futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Oroliga människor kan ha svårt att sova."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стурбованим людям може бути важко спати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Worried people may have trouble sleeping."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas preocupadas pueden tener dificultades para dormir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Besorgte Menschen können Schwierigkeiten haben zu schlafen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmartwieni ludzie mogą mieć problemy ze snem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens inquiets peuvent avoir du mal à dormir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas preocupadas podem ter dificuldade para dormir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone preoccupate possono avere difficoltà a dormire."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rädd",
+        "translations": {
+            "ukrainian": "наляканий",
+            "english": "scared",
+            "spanish": "asustado",
+            "german": "ängstlich",
+            "polish": "przestraszony",
+            "french": "effrayé",
+            "portuguese": "assustado",
+            "italian": "spaventato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är rädd för mörkret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я боюся темряви."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am scared of the dark."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo miedo a la oscuridad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe Angst vor der Dunkelheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Boję się ciemności."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai peur du noir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho medo do escuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho paura del buio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev rädd när hon hörde ljudet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона налякалася, коли почула звук."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got scared when she heard the sound."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se asustó cuando escuchó el sonido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bekam Angst, als sie das Geräusch hörte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona się przestraszyła, gdy usłyszała dźwięk."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a eu peur quand elle a entendu le bruit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou assustada quando ouviu o som."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si è spaventata quando ha sentito il rumore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är rädda för att misslyckas."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони бояться невдачі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are scared of failing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos tienen miedo de fracasar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie haben Angst zu versagen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni boją się porażki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont peur d'échouer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles têm medo de falhar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno paura di fallire."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rädda människor kan undvika risker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Налякані люди можуть уникати ризиків."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Scared people may avoid risks."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas asustadas pueden evitar riesgos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ängstliche Menschen können Risiken vermeiden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przestraszeni ludzie mogą unikać ryzyka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens effrayés peuvent éviter les risques."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas assustadas podem evitar riscos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone spaventate possono evitare i rischi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lugn",
+        "translations": {
+            "ukrainian": "спокійний",
+            "english": "calm",
+            "spanish": "tranquilo",
+            "german": "ruhig",
+            "polish": "spokojny",
+            "french": "calme",
+            "portuguese": "calmo",
+            "italian": "calmo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig lugn nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся спокійним зараз."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel calm now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento tranquilo ahora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich jetzt ruhig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się spokojny teraz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens calme maintenant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me sinto calmo agora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento calmo ora."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en lugn person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона спокійна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a calm person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una persona tranquila."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine ruhige Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest spokojną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une personne calme."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pessoa calma."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una persona calma."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vattnet är lugnt idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вода сьогодні спокійна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The water is calm today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua está tranquila hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wasser ist heute ruhig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Woda jest dziś spokojna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau est calme aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A água está calma hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'acqua è calma oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lugna människor kan hantera stress bättre."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Спокійні люди можуть краще впоратися зі стресом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Calm people can handle stress better."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas tranquilas pueden manejar mejor el estrés."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ruhige Menschen können Stress besser bewältigen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spokojni ludzie mogą lepiej radzić sobie ze stresem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens calmes peuvent mieux gérer le stress."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas calmas podem lidar melhor com o estresse."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone calme possono gestire meglio lo stress."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "neutral",
+        "translations": {
+            "ukrainian": "нейтральний",
+            "english": "neutral",
+            "spanish": "neutral",
+            "german": "neutral",
+            "polish": "neutralny",
+            "french": "neutre",
+            "portuguese": "neutro",
+            "italian": "neutrale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag försöker hålla mig neutral."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я намагаюся залишатися нейтральним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I try to stay neutral."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Intento mantenerme neutral."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich versuche, neutral zu bleiben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Staram się pozostać neutralny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'essaie de rester neutre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tento me manter neutro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cerco di rimanere neutrale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en neutral inställning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона має нейтральну позицію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a neutral stance."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una postura neutral."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine neutrale Haltung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma neutralne stanowisko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une position neutre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma postura neutra."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una posizione neutrale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De valde en neutral färg till väggarna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони обрали нейтральний колір для стін."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They chose a neutral color for the walls."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos eligieron un color neutral para las paredes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wählten eine neutrale Farbe für die Wände."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni wybrali neutralny kolor na ściany."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont choisi une couleur neutre pour les murs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles escolheram uma cor neutra para as paredes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno scelto un colore neutrale per le pareti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Neutrala länder undviker konflikter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нейтральні країни уникають конфліктів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Neutral countries avoid conflicts."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los países neutrales evitan conflictos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Neutrale Länder vermeiden Konflikte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kraje neutralne unikają konfliktów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pays neutres évitent les conflits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Países neutros evitam conflitos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I paesi neutrali evitano i conflitti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "reserverad",
+        "translations": {
+            "ukrainian": "стриманий",
+            "english": "reserved",
+            "spanish": "reservado",
+            "german": "zurückhaltend",
+            "polish": "powściągliwy",
+            "french": "réservé",
+            "portuguese": "reservado",
+            "italian": "riservato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en reserverad person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він стримана людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a reserved person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona reservada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein zurückhaltender Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest powściągliwą osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne réservée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa reservada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona riservata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var reserverad under mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була стриманою під час зустрічі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was reserved during the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estuvo reservada durante la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war während des Treffens zurückhaltend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była powściągliwa podczas spotkania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était réservée pendant la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela esteve reservada durante a reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è stata riservata durante la riunione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är reserverade inför främlingar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони стримані з незнайомцями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are reserved around strangers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos son reservados con los extraños."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind Fremden gegenüber zurückhaltend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są powściągliwi wobec obcych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont réservés avec les étrangers."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles são reservados com estranhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono riservati con gli estranei."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Reserverade människor kan vara svåra att lära känna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стриманих людей може бути важко пізнати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Reserved people can be hard to get to know."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas reservadas pueden ser difíciles de conocer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zurückhaltende Menschen können schwer kennenzulernen sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powściągliwi ludzie mogą być trudni do poznania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens réservés peuvent être difficiles à connaître."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas reservadas podem ser difíceis de conhecer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone riservate possono essere difficili da conoscere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "osäker",
+        "translations": {
+            "ukrainian": "невпевнений",
+            "english": "uncertain",
+            "spanish": "inseguro",
+            "german": "unsicher",
+            "polish": "niepewny",
+            "french": "incertain",
+            "portuguese": "inseguro",
+            "italian": "insicuro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig osäker på mitt beslut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я невпевнений у своєму рішенні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel uncertain about my decision."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento inseguro sobre mi decisión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin unsicher über meine Entscheidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się niepewny co do mojej decyzji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens incertain quant à ma décision."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me sinto inseguro sobre minha decisão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento insicuro sulla mia decisione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är osäker på vad hon ska göra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона невпевнена, що робити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is uncertain about what to do."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está insegura sobre qué hacer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist unsicher, was sie tun soll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest niepewna, co zrobić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est incertaine de ce qu'elle doit faire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está insegura sobre o que fazer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è insicura su cosa fare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är osäkra på framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони невпевнені щодо майбутнього."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are uncertain about the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están inseguros sobre el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind unsicher über die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są niepewni co do przyszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont incertains quant à l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão inseguros sobre o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono insicuri riguardo al futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Osäkra människor kan behöva stöd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Невпевнені люди можуть потребувати підтримки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Uncertain people may need support."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas inseguras pueden necesitar apoyo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Unsicher Menschen können Unterstützung brauchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niepewni ludzie mogą potrzebować wsparcia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens incertains peuvent avoir besoin de soutien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas inseguras podem precisar de apoio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone insicure possono aver bisogno di sostegno."
+                    }
+                ]
+            }
+        ]
+    }
+]

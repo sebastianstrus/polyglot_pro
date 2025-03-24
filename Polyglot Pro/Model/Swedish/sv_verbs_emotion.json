@@ -1,0 +1,2277 @@
+[
+    {
+        "expression": "älska",
+        "translations": {
+            "ukrainian": "кохати",
+            "english": "to love",
+            "spanish": "amar",
+            "german": "lieben",
+            "polish": "kochać",
+            "french": "aimer",
+            "portuguese": "amar",
+            "italian": "amare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я тебе кохаю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te amo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kocham cię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je t'aime."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu te amo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti amo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon älskar att sjunga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона любить співати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She loves to sing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A ella le encanta cantar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie liebt es zu singen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona uwielbia śpiewać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle adore chanter."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela adora cantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei adora cantare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi älskar vår hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми любимо нашого собаку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We love our dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Amamos a nuestro perro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lieben unseren Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kochamy naszego psa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous aimons notre chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós amamos nosso cachorro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Amiamo il nostro cane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De älskar att resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони люблять подорожувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They love to travel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A ellos les encanta viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lieben es zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni uwielbiają podróżować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils adorent voyager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles adoram viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro adorano viaggiare."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hata",
+        "translations": {
+            "ukrainian": "ненавидіти",
+            "english": "to hate",
+            "spanish": "odiar",
+            "german": "hassen",
+            "polish": "nienawidzić",
+            "french": "détester",
+            "portuguese": "odiar",
+            "italian": "odiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag hatar regn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я ненавиджу дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I hate rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Odio la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich hasse Regen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nienawidzę deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je déteste la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu odeio chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Odio la pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hatar att vänta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона ненавидить чекати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She hates waiting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella odia esperar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hasst es zu warten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona nienawidzi czekać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle déteste attendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela odeia esperar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei odia aspettare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi hatar kyla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми ненавидимо холод."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We hate the cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Odiamos el frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hassen die Kälte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nienawidzimy zimna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous détestons le froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós odiamos o frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Odiamo il freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De hatar att ljuga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони ненавидять брехати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They hate lying."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Odian mentir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hassen es zu lügen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni nienawidzą kłamać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils détestent mentir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles odeiam mentir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro odiano mentire."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "glädja",
+        "translations": {
+            "ukrainian": "радіти",
+            "english": "to rejoice",
+            "spanish": "alegrarse",
+            "german": "sich freuen",
+            "polish": "cieszyć się",
+            "french": "se réjouir",
+            "portuguese": "alegrar-se",
+            "italian": "rallegrarsi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag glädjer mig åt semestern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я радію відпустці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am looking forward to the vacation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me alegro por las vacaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich freue mich auf den Urlaub."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cieszę się na wakacje."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me réjouis des vacances."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou ansioso pelas férias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi rallegro per le vacanze."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon glädjer sig åt att träffa dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона радіє зустрічі з тобою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is looking forward to meeting you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se alegra de verte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie freut sich darauf, dich zu treffen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona cieszy się na spotkanie z tobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle se réjouit de te rencontrer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está ansiosa para te ver."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è felice di incontrarti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi glädjer oss åt sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми радіємо літу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are looking forward to summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos alegramos por el verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir freuen uns auf den Sommer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cieszymy się na lato."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous réjouissons de l'été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos ansiosos pelo verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci rallegriamo per l'estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De glädjer sig åt julen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони радіють Різдву."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are looking forward to Christmas."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se alegran por la Navidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie freuen sich auf Weihnachten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cieszą się na Boże Narodzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils se réjouissent de Noël."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão ansiosos pelo Natal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si rallegrano per il Natale."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bråka",
+        "translations": {
+            "ukrainian": "сваритися",
+            "english": "to quarrel",
+            "spanish": "pelear",
+            "german": "streiten",
+            "polish": "kłócić się",
+            "french": "se disputer",
+            "portuguese": "brigar",
+            "italian": "litigare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bråkar ofta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони часто сваряться."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They often quarrel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos pelean a menudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie streiten oft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni często się kłócą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils se disputent souvent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles brigam frequentemente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Litigano spesso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill inte bråka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не хочу сваритися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I don't want to quarrel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No quiero pelear."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich will nicht streiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie chcę się kłócić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne veux pas me disputer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não quero brigar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non voglio litigare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon bråkar med sin bror."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона свариться зі своїм братом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She quarrels with her brother."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella pelea con su hermano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie streitet mit ihrem Bruder."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kłóci się ze swoim bratem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle se dispute avec son frère."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela briga com o irmão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei litiga con suo fratello."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi bråkade igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми посварилися вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We quarreled yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Peleamos ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben uns gestern gestritten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pokłóciliśmy się wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous sommes disputés hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós brigamos ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo litigato ieri."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förvåna",
+        "translations": {
+            "ukrainian": "дивувати",
+            "english": "to surprise",
+            "spanish": "sorprender",
+            "german": "überraschen",
+            "polish": "zaskakiwać",
+            "french": "surprendre",
+            "portuguese": "surpreender",
+            "italian": "sorprendere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han förvånade mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він мене здивував."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He surprised me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él me sorprendió."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat mich überrascht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On mnie zaskoczył."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il m'a surpris."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele me surpreendeu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui mi ha sorpreso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det förvånade oss alla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це здивувало всіх нас."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It surprised all of us."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos sorprendió a todos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es hat uns alle überrascht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To zaskoczyło nas wszystkich."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cela nous a tous surpris."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Isso nos surpreendeu a todos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci ha sorpreso tutti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon förvånade sin familj."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона здивувала свою сім'ю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She surprised her family."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella sorprendió a su familia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat ihre Familie überrascht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zaskoczyła swoją rodzinę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a surpris sa famille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela surpreendeu sua família."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha sorpreso la sua famiglia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De förvånade mig med en present."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони здивували мене подарунком."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They surprised me with a gift."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me sorprendieron con un regalo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie haben mich mit einem Geschenk überrascht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zaskoczyli mnie prezentem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils m'ont surpris avec un cadeau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles me surpreenderam com um presente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi hanno sorpreso con un regalo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skämmas",
+        "translations": {
+            "ukrainian": "соромитися",
+            "english": "to be ashamed",
+            "spanish": "avergonzarse",
+            "german": "sich schämen",
+            "polish": "wstydzić się",
+            "french": "avoir honte",
+            "portuguese": "ter vergonha",
+            "italian": "vergognarsi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag skäms för mitt misstag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені соромно за свою помилку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am ashamed of my mistake."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me avergüenzo de mi error."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich schäme mich für meinen Fehler."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wstydzę się swojego błędu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai honte de mon erreur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tenho vergonha do meu erro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi vergogno del mio errore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skäms för sitt beteende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їй соромно за свою поведінку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is ashamed of her behavior."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se avergüenza de su comportamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schämt sich für ihr Verhalten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wstydzi się swojego zachowania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a honte de son comportement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem vergonha do seu comportamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si vergogna del suo comportamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skäms för att vi var sena."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нам соромно, що ми спізнилися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are ashamed that we were late."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos avergonzamos de llegar tarde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schämen uns, dass wir zu spät waren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wstydzimy się, że się spóźniliśmy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons honte d'être en retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós temos vergonha de termos chegado tarde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vergogniamo di essere arrivati in ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skäms för sitt förflutna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їм соромно за своє минуле."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are ashamed of their past."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se avergüenzan de su pasado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schämen sich für ihre Vergangenheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni wstydzą się swojej przeszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont honte de leur passé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles têm vergonha do seu passado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si vergognano del loro passato."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sakna",
+        "translations": {
+            "ukrainian": "сумувати",
+            "english": "to miss",
+            "spanish": "extrañar",
+            "german": "vermissen",
+            "polish": "tęsknić",
+            "french": "manquer",
+            "portuguese": "sentir falta",
+            "italian": "mancare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag saknar dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я сумую за тобою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I miss you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te extraño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich vermisse dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tęsknię za tobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu me manques."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sinto sua falta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi manchi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon saknar sitt hemland."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона сумує за своєю батьківщиною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She misses her homeland."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella extraña su patria."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie vermisst ihre Heimat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona tęskni za swoją ojczyzną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle manque à son pays."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela sente falta de sua terra natal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei manca alla sua patria."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi saknar vår hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми сумуємо за нашим собакою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We miss our dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Extrañamos a nuestro perro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir vermissen unseren Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tęsknimy za naszym psem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Notre chien nous manque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sentimos falta do nosso cachorro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci manca il nostro cane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De saknar sina vänner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сумуєють за своїми друзями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They miss their friends."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos extrañan a sus amigos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie vermissen ihre Freunde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni tęsknią za swoimi przyjaciółmi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils manquent à leurs amis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles sentem falta dos seus amigos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro mancano ai loro amici."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "uppleva",
+        "translations": {
+            "ukrainian": "переживати",
+            "english": "to experience",
+            "spanish": "experimentar",
+            "german": "erleben",
+            "polish": "doświadczać",
+            "french": "vivre",
+            "portuguese": "experimentar",
+            "italian": "sperimentare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill uppleva världen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу побачити світ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to experience the world."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero experimentar el mundo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte die Welt erleben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę doświadczyć świata."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux vivre le monde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero experimentar o mundo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio sperimentare il mondo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon upplevde en stor förändring."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пережила велику зміну."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She experienced a big change."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella experimentó un gran cambio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erlebte eine große Veränderung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona doświadczyła wielkiej zmiany."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a vécu un grand changement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela experimentou uma grande mudança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha sperimentato un grande cambiamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi upplevde en fantastisk resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми пережили фантастичну подорож."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We experienced a fantastic journey."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Experimentamos un viaje fantástico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erlebten eine fantastische Reise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Doświadczyliśmy fantastycznej podróży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons vécu un voyage fantastique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós experimentamos uma viagem fantástica."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo sperimentato un viaggio fantastico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De upplevde en chock."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони пережили шок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They experienced a shock."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos experimentaron un shock."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erlebten einen Schock."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni doświadczyli szoku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont vécu un choc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles experimentaram um choque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno sperimentato uno shock."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förlåta",
+        "translations": {
+            "ukrainian": "пробачати",
+            "english": "to forgive",
+            "spanish": "perdonar",
+            "german": "verzeihen",
+            "polish": "wybaczać",
+            "french": "pardonner",
+            "portuguese": "perdoar",
+            "italian": "perdonare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag förlåter dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я пробачаю тобі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I forgive you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te perdono."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich vergebe dir."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wybaczam ci."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je te pardonne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu te perdoo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti perdono."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon förlät honom för hans misstag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пробачила його за його помилку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She forgave him for his mistake."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lo perdonó por su error."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verzieh ihm seinen Fehler."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wybaczyła mu jego błąd."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle lui a pardonné son erreur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela o perdoou pelo seu erro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei lo ha perdonato per il suo errore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi förlät henne för att hon var sena."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми пробачили їй за те, що вона спізнилася."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We forgave her for being late."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La perdonamos por llegar tarde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir verziehen ihr, dass sie zu spät war."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wybaczyliśmy jej, że się spóźniła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous lui avons pardonné d'être en retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós a perdoamos por chegar tarde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'abbiamo perdonata per essere arrivata in ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De förlät sina fiender."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони пробачили своїх ворогів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They forgave their enemies."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos perdonaron a sus enemigos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verziehen ihren Feinden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni wybaczyli swoim wrogom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont pardonné à leurs ennemis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles perdoaram seus inimigos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno perdonato i loro nemici."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "gråta",
+        "translations": {
+            "ukrainian": "плакати",
+            "english": "to cry",
+            "spanish": "llorar",
+            "german": "weinen",
+            "polish": "płakać",
+            "french": "pleurer",
+            "portuguese": "chorar",
+            "italian": "piangere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag grät när jag såg filmen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я плакав, коли дивився фільм."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I cried when I watched the movie."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Lloré cuando vi la película."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich weinte, als ich den Film sah."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płakałem, gdy oglądałem film."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai pleuré en regardant le film."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu chorei quando assisti ao filme."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho pianto guardando il film."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon grät av glädje."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона плакала від радості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She cried with joy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lloró de alegría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie weinte vor Freude."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona płakała z radości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a pleuré de joie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela chorou de alegria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha pianto di gioia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi grät tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми плакали разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We cried together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Lloramos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir weinten zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płakaliśmy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons pleuré ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós choramos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo pianto insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De grät när de hörde nyheten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони плакали, коли почули новину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They cried when they heard the news."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos lloraron cuando escucharon la noticia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie weinten, als sie die Nachricht hörten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płakali, gdy usłyszeli wiadomość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont pleuré en entendant la nouvelle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles choraram quando ouviram a notícia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno pianto quando hanno sentito la notizia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hoppas",
+        "translations": {
+            "ukrainian": "сподіватися",
+            "english": "to hope",
+            "spanish": "esperar",
+            "german": "hoffen",
+            "polish": "mieć nadzieję",
+            "french": "espérer",
+            "portuguese": "esperar",
+            "italian": "sperare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag hoppas att du mår bra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я сподіваюся, що у тебе все добре."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I hope you are doing well."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Espero que estés bien."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich hoffe, es geht dir gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam nadzieję, że u ciebie wszystko w porządku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'espère que tu vas bien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Espero que você esteja bem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Spero che tu stia bene."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hoppas på ett bra resultat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона сподівається на хороший результат."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She hopes for a good result."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella espera un buen resultado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hofft auf ein gutes Ergebnis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma nadzieję na dobry wynik."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle espère un bon résultat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela espera um bom resultado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei spera in un buon risultato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi hoppas att det blir soligt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми сподіваємося, що буде сонячно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We hope it will be sunny."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esperamos que haga sol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hoffen, dass es sonnig wird."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mamy nadzieję, że będzie słonecznie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous espérons qu'il fera beau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esperamos que esteja ensolarado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Speriamo che sia soleggiato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De hoppas på fred."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сподіваються на мир."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They hope for peace."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos esperan la paz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hoffen auf Frieden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni mają nadzieję na pokój."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils espèrent la paix."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles esperam pela paz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sperano nella pace."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lida",
+        "translations": {
+            "ukrainian": "страждати",
+            "english": "to suffer",
+            "spanish": "sufrir",
+            "german": "leiden",
+            "polish": "cierpieć",
+            "french": "souffrir",
+            "portuguese": "sofrer",
+            "italian": "soffrire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag lider av huvudvärk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я страждаю від головного болю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I suffer from headaches."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sufro de dolores de cabeza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich leide unter Kopfschmerzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cierpię na bóle głowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je souffre de maux de tête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu sofro de dores de cabeça."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Soffro di mal di testa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lider av ensamhet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона страждає від самотності."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She suffers from loneliness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella sufre de soledad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie leidet unter Einsamkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona cierpi z powodu samotności."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle souffre de solitude."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela sofre de solidão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei soffre di solitudine."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lider av brist på sömn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми страждаємо від недосипання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We suffer from lack of sleep."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sufrimos de falta de sueño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir leiden unter Schlafmangel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cierpimy z powodu braku snu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous souffrons de manque de sommeil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós sofremos de falta de sono."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Soffriamo di mancanza di sonno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De lider av fattigdom."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони страждають від бідності."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They suffer from poverty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos sufren de pobreza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie leiden unter Armut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni cierpią z powodu biedy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils souffrent de pauvreté."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles sofrem de pobreza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro soffrono di povertà."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "le",
+        "translations": {
+            "ukrainian": "сміятися",
+            "english": "to laugh",
+            "spanish": "reír",
+            "german": "lachen",
+            "polish": "śmiać się",
+            "french": "rire",
+            "portuguese": "rir",
+            "italian": "ridere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ler när jag är glad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я посміхаюся, коли я щасливий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I smile when I am happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sonrío cuando estoy feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich lächle, wenn ich glücklich bin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uśmiecham się, gdy jestem szczęśliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je souris quand je suis heureux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu sorrio quando estou feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sorrido quando sono felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ler åt skämtet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона сміється з жарту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She laughs at the joke."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se ríe del chiste."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lacht über den Witz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona śmieje się z żartu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle rit de la blague."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ri da piada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ride della battuta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ler tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми сміємося разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We laugh together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos reímos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lachen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śmiejemy się razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous rions ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós rimos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ridiamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ler åt sina minnen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сміються зі своїх спогадів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They laugh at their memories."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se ríen de sus recuerdos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lachen über ihre Erinnerungen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni śmieją się ze swoich wspomnień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils rient de leurs souvenirs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles riem de suas memórias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro ridono dei loro ricordi."
+                    }
+                ]
+            }
+        ]
+    }
+]

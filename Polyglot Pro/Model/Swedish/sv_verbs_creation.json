@@ -1,0 +1,1927 @@
+[
+    {
+        "expression": "skapa",
+        "translations": {
+            "ukrainian": "створювати",
+            "english": "create",
+            "spanish": "crear",
+            "german": "erschaffen",
+            "polish": "tworzyć",
+            "french": "créer",
+            "portuguese": "criar",
+            "italian": "creare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon vill skapa en ny värld."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона хоче створити новий світ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She wants to create a new world."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella quiere crear un mundo nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie möchte eine neue Welt erschaffen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona chce stworzyć nowy świat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle veut créer un nouveau monde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela quer criar um mundo novo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei vuole creare un nuovo mondo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skapar konst tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми разом створюємо мистецтво."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We create art together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Creamos arte juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erschaffen Kunst zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tworzymy sztukę razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous créons de l'art ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós criamos arte juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Creiamo arte insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han skapade en ny app."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він створив новий додаток."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He created a new app."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él creó una nueva aplicación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat eine neue App erschaffen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On stworzył nową aplikację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a créé une nouvelle application."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele criou um novo aplicativo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha creato una nuova app."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skapar möjligheter för alla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони створюють можливості для всіх."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They create opportunities for everyone."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos crean oportunidades para todos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schaffen Möglichkeiten für alle."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tworzą możliwości dla wszystkich."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils créent des opportunités pour tous."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles criam oportunidades para todos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Creano opportunità per tutti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "producera",
+        "translations": {
+            "ukrainian": "виробляти",
+            "english": "produce",
+            "spanish": "producir",
+            "german": "produzieren",
+            "polish": "produkować",
+            "french": "produire",
+            "portuguese": "produzir",
+            "italian": "produrre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fabriken producerar bilar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фабрика виробляє автомобілі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The factory produces cars."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La fábrica produce coches."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Fabrik produziert Autos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Fabryka produkuje samochody."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'usine produit des voitures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A fábrica produz carros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La fabbrica produce automobili."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De producerar mat för hela staden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони виробляють їжу для всього міста."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They produce food for the entire city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos producen comida para toda la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie produzieren Lebensmittel für die ganze Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Produkują żywność dla całego miasta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils produisent de la nourriture pour toute la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles produzem comida para toda a cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Producono cibo per l'intera città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi producerar el från solenergi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми виробляємо електроенергію з сонячної енергії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We produce electricity from solar energy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Producimos electricidad a partir de energía solar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir produzieren Strom aus Solarenergie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Produkujemy energię elektryczną z energii słonecznej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous produisons de l'électricité à partir de l'énergie solaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Produzimos eletricidade a partir da energia solar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Produciamo elettricità dall'energia solare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon producerar musik för filmer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виробляє музику для фільмів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She produces music for films."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella produce música para películas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie produziert Musik für Filme."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona produkuje muzykę do filmów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle produit de la musique pour des films."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela produz música para filmes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei produce musica per film."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bygga",
+        "translations": {
+            "ukrainian": "будувати",
+            "english": "build",
+            "spanish": "construir",
+            "german": "bauen",
+            "polish": "budować",
+            "french": "construire",
+            "portuguese": "construir",
+            "italian": "costruire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bygger ett nytt hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будують новий будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are building a new house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están construyendo una nueva casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bauen ein neues Haus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni budują nowy dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils construisent une nouvelle maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão construindo uma nova casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno costruendo una nuova casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi bygger en bro över floden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми будуємо міст через річку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are building a bridge over the river."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos construyendo un puente sobre el río."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir bauen eine Brücke über den Fluss."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Budujemy most nad rzeką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous construisons un pont sur la rivière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos construindo uma ponte sobre o rio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo costruendo un ponte sul fiume."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han bygger en karriär inom teknik."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він будує кар'єру в технічній сфері."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is building a career in technology."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está construyendo una carrera en tecnología."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er baut eine Karriere in der Technik auf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On buduje karierę w technologii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il construit une carrière dans la technologie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está construindo uma carreira em tecnologia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta costruendo una carriera nella tecnologia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bygger en framtid tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони разом будують майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are building a future together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están construyendo un futuro juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bauen gemeinsam eine Zukunft auf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Razem budują przyszłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils construisent un avenir ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão construindo um futuro juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno costruendo un futuro insieme."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tillverka",
+        "translations": {
+            "ukrainian": "виготовляти",
+            "english": "manufacture",
+            "spanish": "fabricar",
+            "german": "herstellen",
+            "polish": "wytwarzać",
+            "french": "fabriquer",
+            "portuguese": "fabricar",
+            "italian": "produrre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fabriken tillverkar möbler."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фабрика виготовляє меблі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The factory manufactures furniture."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La fábrica fabrica muebles."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Fabrik stellt Möbel her."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Fabryka wytwarza meble."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'usine fabrique des meubles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A fábrica fabrica móveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La fabbrica produce mobili."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De tillverkar leksaker för barn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони виготовляють іграшки для дітей."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They manufacture toys for children."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos fabrican juguetes para niños."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie stellen Spielzeug für Kinder her."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wytwarzają zabawki dla dzieci."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils fabriquent des jouets pour enfants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles fabricam brinquedos para crianças."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Producono giocattoli per bambini."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi tillverkar produkter av hög kvalitet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми виготовляємо продукти високої якості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We manufacture high-quality products."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fabricamos productos de alta calidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir stellen hochwertige Produkte her."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wytwarzamy produkty wysokiej jakości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous fabriquons des produits de haute qualité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós fabricamos produtos de alta qualidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Produciamo prodotti di alta qualità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon tillverkar smycken för hand."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виготовляє прикраси вручну."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She manufactures jewelry by hand."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella fabrica joyas a mano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie stellt Schmuck von Hand her."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wytwarza biżuterię ręcznie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle fabrique des bijoux à la main."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela fabrica joias à mão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei produce gioielli a mano."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "konstruera",
+        "translations": {
+            "ukrainian": "конструювати",
+            "english": "construct",
+            "spanish": "construir",
+            "german": "konstruieren",
+            "polish": "konstruować",
+            "french": "construire",
+            "portuguese": "construir",
+            "italian": "costruire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De konstruerar en ny bro."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони конструюють новий міст."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are constructing a new bridge."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están construyendo un nuevo puente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie konstruieren eine neue Brücke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni konstruują nowy most."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils construisent un nouveau pont."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão construindo uma nova ponte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno costruendo un nuovo ponte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi konstruerar en robot för att hjälpa människor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми конструюємо робота, щоб допомагати людям."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are constructing a robot to help people."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos construyendo un robot para ayudar a las personas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir konstruieren einen Roboter, um Menschen zu helfen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Konstruujemy robota, aby pomagać ludziom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous construisons un robot pour aider les gens."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos construindo um robô para ajudar as pessoas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo costruendo un robot per aiutare le persone."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han konstruerar en ny motor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він конструює новий двигун."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is constructing a new engine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está construyendo un nuevo motor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er konstruiert einen neuen Motor."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On konstruuje nowy silnik."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il construit un nouveau moteur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está construindo um novo motor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta costruendo un nuovo motore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De konstruerar en plan för framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони конструюють план на майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are constructing a plan for the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están construyendo un plan para el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie konstruieren einen Plan für die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Konstruują plan na przyszłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils construisent un plan pour l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão construindo um plano para o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno costruendo un piano per il futuro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "forma",
+        "translations": {
+            "ukrainian": "формувати",
+            "english": "shape",
+            "spanish": "formar",
+            "german": "formen",
+            "polish": "kształtować",
+            "french": "former",
+            "portuguese": "formar",
+            "italian": "formare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi formar en ny grupp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми формуємо нову групу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are shaping a new group."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos formando un nuevo grupo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir formen eine neue Gruppe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kształtujemy nową grupę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous formons un nouveau groupe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos formando um novo grupo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo formando un nuovo gruppo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon formar lera till en skulptur."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона формує скульптуру з глини."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is shaping clay into a sculpture."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está formando arcilla en una escultura."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie formt Ton zu einer Skulptur."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kształtuje glinę w rzeźbę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle forme de l'argile en une sculpture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está formando argila em uma escultura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta formando l'argilla in una scultura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De formar en strategi för framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони формують стратегію на майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are shaping a strategy for the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están formando una estrategia para el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie formen eine Strategie für die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kształtują strategię na przyszłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils forment une stratégie pour l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão formando uma estratégia para o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno formando una strategia per il futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi formar våra drömmar genom hårt arbete."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми формуємо свої мрії через важку працю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We shape our dreams through hard work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Formamos nuestros sueños a través del trabajo duro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir formen unsere Träume durch harte Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kształtujemy nasze marzenia poprzez ciężką pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous formons nos rêves par le travail dur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós formamos nossos sonhos através do trabalho duro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Formiamo i nostri sogni attraverso il duro lavoro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "designa",
+        "translations": {
+            "ukrainian": "проектувати",
+            "english": "design",
+            "spanish": "diseñar",
+            "german": "designen",
+            "polish": "projektować",
+            "french": "concevoir",
+            "portuguese": "projetar",
+            "italian": "progettare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon designar kläder för en stor modebutik."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона проектує одяг для великого магазину модного одягу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She designs clothes for a large fashion store."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella diseña ropa para una gran tienda de moda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie designt Kleidung für ein großes Modegeschäft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona projektuje ubrania dla dużego sklepu modowego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle conçoit des vêtements pour un grand magasin de mode."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela projeta roupas para uma grande loja de moda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei progetta abiti per un grande negozio di moda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi designar en ny hemsida för företaget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми проектуємо новий веб-сайт для компанії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are designing a new website for the company."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos diseñando un nuevo sitio web para la empresa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir designen eine neue Website für das Unternehmen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Projektujemy nową stronę internetową dla firmy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous concevons un nouveau site web pour l'entreprise."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos projetando um novo site para a empresa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo progettando un nuovo sito web per l'azienda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De designar en ny bilmodell."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони проектують нову модель автомобіля."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are designing a new car model."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están diseñando un nuevo modelo de coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie designen ein neues Automodell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Projektują nowy model samochodu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils conçoivent un nouveau modèle de voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão projetando um novo modelo de carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno progettando un nuovo modello di auto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han designar möbler för moderna hem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він проектує меблі для сучасних домівок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He designs furniture for modern homes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él diseña muebles para hogares modernos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er designt Möbel für moderne Häuser."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On projektuje meble do nowoczesnych domów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il conçoit des meubles pour des maisons modernes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele projeta móveis para casas modernas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui progetta mobili per case moderne."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skriva",
+        "translations": {
+            "ukrainian": "писати",
+            "english": "write",
+            "spanish": "escribir",
+            "german": "schreiben",
+            "polish": "pisać",
+            "french": "écrire",
+            "portuguese": "escrever",
+            "italian": "scrivere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skriver en bok om sitt liv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пише книгу про своє життя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is writing a book about her life."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está escribiendo un libro sobre su vida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreibt ein Buch über ihr Leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pisze książkę o swoim życiu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle écrit un livre sur sa vie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está escrevendo um livro sobre sua vida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta scrivendo un libro sulla sua vita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skriver ett brev till vår vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми пишемо листа нашому другові."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are writing a letter to our friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos escribiendo una carta a nuestro amigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schreiben einen Brief an unseren Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piszemy list do naszego przyjaciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous écrivons une lettre à notre ami."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos escrevendo uma carta para nosso amigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo scrivendo una lettera al nostro amico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skriver en artikel om miljön."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони пишуть статтю про навколишнє середовище."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are writing an article about the environment."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están escribiendo un artículo sobre el medio ambiente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreiben einen Artikel über die Umwelt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piszą artykuł o środowisku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils écrivent un article sur l'environnement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão escrevendo um artigo sobre o meio ambiente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno scrivendo un articolo sull'ambiente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han skriver en dikt till sin flickvän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він пише вірш для своєї дівчини."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is writing a poem for his girlfriend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está escribiendo un poema para su novia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er schreibt ein Gedicht für seine Freundin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On pisze wiersz dla swojej dziewczyny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il écrit un poème pour sa petite amie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está escrevendo um poema para sua namorada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta scrivendo una poesia per la sua ragazza."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "måla",
+        "translations": {
+            "ukrainian": "малювати",
+            "english": "paint",
+            "spanish": "pintar",
+            "german": "malen",
+            "polish": "malować",
+            "french": "peindre",
+            "portuguese": "pintar",
+            "italian": "dipingere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon målar en tavla för utställningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона малює картину для виставки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is painting a picture for the exhibition."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está pintando un cuadro para la exposición."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie malt ein Bild für die Ausstellung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona maluje obraz na wystawę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle peint un tableau pour l'exposition."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está pintando um quadro para a exposição."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta dipingendo un quadro per la mostra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi målar huset i rött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми фарбуємо будинок у червоний колір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are painting the house red."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos pintando la casa de rojo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir malen das Haus rot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Malujemy dom na czerwono."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous peignons la maison en rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos pintando a casa de vermelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo dipingendo la casa di rosso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De målar en mural på skolans vägg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони малюють мурал на стіні школи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are painting a mural on the school wall."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están pintando un mural en la pared de la escuela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie malen ein Wandbild an der Schulwand."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Malują mural na ścianie szkoły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils peignent une fresque sur le mur de l'école."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão pintando um mural na parede da escola."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno dipingendo un murale sul muro della scuola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han målar en landskapsbild."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він малює пейзаж."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is painting a landscape."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está pintando un paisaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er malt eine Landschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On maluje pejzaż."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il peint un paysage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está pintando uma paisagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta dipingendo un paesaggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "komponera",
+        "translations": {
+            "ukrainian": "компонувати",
+            "english": "compose",
+            "spanish": "componer",
+            "german": "komponieren",
+            "polish": "komponować",
+            "french": "composer",
+            "portuguese": "compor",
+            "italian": "comporre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon komponerar en symfoni."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона компонує симфонію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is composing a symphony."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está componiendo una sinfonía."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie komponiert eine Sinfonie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona komponuje symfonię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle compose une symphonie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está compondo uma sinfonia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta componendo una sinfonia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi komponerar musik för filmen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми компонуємо музику для фільму."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are composing music for the film."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos componiendo música para la película."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir komponieren Musik für den Film."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Komponujemy muzykę do filmu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous composons de la musique pour le film."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos compondo música para o filme."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo componendo musica per il film."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De komponerar en sång för sin vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони компонують пісню для свого друга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are composing a song for their friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están componiendo una canción para su amigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie komponieren ein Lied für ihren Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Komponują piosenkę dla swojego przyjaciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils composent une chanson pour leur ami."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão compondo uma música para o amigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno componendo una canzone per il loro amico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han komponerar en opera."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він компонує оперу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is composing an opera."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está componiendo una ópera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er komponiert eine Oper."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On komponuje operę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il compose un opéra."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está compondo uma ópera."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta componendo un'opera."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "uppfinna",
+        "translations": {
+            "ukrainian": "винаходити",
+            "english": "invent",
+            "spanish": "inventar",
+            "german": "erfinden",
+            "polish": "wynaleźć",
+            "french": "inventer",
+            "portuguese": "inventar",
+            "italian": "inventare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon uppfinner en ny maskin."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона винаходить нову машину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is inventing a new machine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está inventando una nueva máquina."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erfindet eine neue Maschine."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wynajduje nową maszynę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle invente une nouvelle machine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está inventando uma nova máquina."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta inventando una nuova macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi uppfinner en ny metod för att spara energi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми винаходимо новий метод для економії енергії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are inventing a new method to save energy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos inventando un nuevo método para ahorrar energía."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erfinden eine neue Methode, um Energie zu sparen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wynajdujemy nową metodę oszczędzania energii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous inventons une nouvelle méthode pour économiser de l'énergie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos inventando um novo método para economizar energia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo inventando un nuovo metodo per risparmiare energia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De uppfinner en ny app för att hjälpa människor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони винаходять новий додаток, щоб допомагати людям."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are inventing a new app to help people."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están inventando una nueva aplicación para ayudar a las personas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erfinden eine neue App, um Menschen zu helfen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wynajdują nową aplikację, aby pomagać ludziom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils inventent une nouvelle application pour aider les gens."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão inventando um novo aplicativo para ajudar as pessoas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno inventando una nuova app per aiutare le persone."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han uppfinner en ny typ av glödlampa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він винаходить новий тип лампочки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is inventing a new type of light bulb."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está inventando un nuevo tipo de bombilla."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er erfindet eine neue Art von Glühbirne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wynajduje nowy rodzaj żarówki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il invente un nouveau type d'ampoule."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está inventando um novo tipo de lâmpada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta inventando un nuovo tipo di lampadina."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2452 @@
+[
+    {
+        "expression": "prata",
+        "translations": {
+            "ukrainian": "розмовляти",
+            "english": "talk",
+            "spanish": "hablar",
+            "german": "sprechen",
+            "polish": "rozmawiać",
+            "french": "parler",
+            "portuguese": "conversar",
+            "italian": "parlare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi pratar om boken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розмовляємо про книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are talking about the book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos hablando del libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sprechen über das Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozmawiamy o książce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous parlons du livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos conversando sobre o livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo parlando del libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon pratar med sin vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона розмовляє зі своїм другом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is talking to her friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está hablando con su amigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie spricht mit ihrem Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona rozmawia ze swoim przyjacielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle parle à son ami."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está conversando com seu amigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta parlando con il suo amico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De pratar om framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони розмовляють про майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are talking about the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están hablando sobre el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sprechen über die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni rozmawiają o przyszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils parlent de l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão conversando sobre o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno parlando del futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag pratar svenska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я розмовляю шведською."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I speak Swedish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo hablo sueco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich spreche Schwedisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mówię po szwedzku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je parle suédois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu falo sueco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Io parlo svedese."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "prata med",
+        "translations": {
+            "ukrainian": "розмовляти з",
+            "english": "talk to",
+            "spanish": "hablar con",
+            "german": "sprechen mit",
+            "polish": "rozmawiać z",
+            "french": "parler à",
+            "portuguese": "conversar com",
+            "italian": "parlare con"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag pratar med min lärare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я розмовляю зі своїм вчителем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am talking to my teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy hablando con mi profesor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich spreche mit meinem Lehrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozmawiam z moim nauczycielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je parle à mon professeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou conversando com meu professor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto parlando con il mio insegnante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han pratar med sin chef."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він розмовляє зі своїм начальником."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is talking to his boss."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está hablando con su jefe."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er spricht mit seinem Chef."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On rozmawia ze swoim szefem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il parle à son patron."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está conversando com seu chefe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui sta parlando con il suo capo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi pratar med varandra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розмовляємо один з одним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are talking to each other."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos hablando entre nosotros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sprechen miteinander."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozmawiamy ze sobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous parlons entre nous."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos conversando entre nós."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo parlando tra di noi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De pratar med sina föräldrar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони розмовляють зі своїми батьками."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are talking to their parents."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están hablando con sus padres."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sprechen mit ihren Eltern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni rozmawiają ze swoimi rodzicami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils parlent à leurs parents."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão conversando com seus pais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno parlando con i loro genitori."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lyssna",
+        "translations": {
+            "ukrainian": "слухати",
+            "english": "listen",
+            "spanish": "escuchar",
+            "german": "zuhören",
+            "polish": "słuchać",
+            "french": "écouter",
+            "portuguese": "ouvir",
+            "italian": "ascoltare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag lyssnar på musik."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я слухаю музику."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am listening to music."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy escuchando música."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich höre Musik."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słucham muzyki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'écoute de la musique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou ouvindo música."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto ascoltando musica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lyssnar på radion."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона слухає радіо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is listening to the radio."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está escuchando la radio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hört Radio."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona słucha radia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle écoute la radio."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está ouvindo o rádio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta ascoltando la radio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lyssnar på läraren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми слухаємо вчителя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are listening to the teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos escuchando al profesor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hören dem Lehrer zu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słuchamy nauczyciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous écoutons le professeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos ouvindo o professor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo ascoltando l'insegnante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De lyssnar på varandra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони слухають один одного."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are listening to each other."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se escuchan mutuamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hören einander zu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni słuchają się nawzajem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils s'écoutent mutuellement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão ouvindo um ao outro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si ascoltano a vicenda."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skriva",
+        "translations": {
+            "ukrainian": "писати",
+            "english": "write",
+            "spanish": "escribir",
+            "german": "schreiben",
+            "polish": "pisać",
+            "french": "écrire",
+            "portuguese": "escrever",
+            "italian": "scrivere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag skriver ett brev."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я пишу листа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am writing a letter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy escribiendo una carta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich schreibe einen Brief."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piszę list."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'écris une lettre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou escrevendo uma carta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto scrivendo una lettera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skriver en bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пише книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is writing a book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está escribiendo un libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreibt ein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pisze książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle écrit un livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está escrevendo um livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta scrivendo un libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skriver en uppsats."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми пишемо есе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are writing an essay."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos escribiendo un ensayo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schreiben einen Aufsatz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piszemy esej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous écrivons une dissertation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos escrevendo um ensaio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo scrivendo un saggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skriver ett meddelande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони пишуть повідомлення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are writing a message."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están escribiendo un mensaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreiben eine Nachricht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni piszą wiadomość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils écrivent un message."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão escrevendo uma mensagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno scrivendo un messaggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "läsa",
+        "translations": {
+            "ukrainian": "читати",
+            "english": "read",
+            "spanish": "leer",
+            "german": "lesen",
+            "polish": "czytać",
+            "french": "lire",
+            "portuguese": "ler",
+            "italian": "leggere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag läser en bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я читаю книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am reading a book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy leyendo un libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich lese ein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czytam książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je lis un livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou lendo um livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto leggendo un libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon läser tidningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона читає газету."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is reading the newspaper."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está leyendo el periódico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie liest die Zeitung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona czyta gazetę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle lit le journal."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está lendo o jornal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta leggendo il giornale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi läser en artikel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми читаємо статтю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are reading an article."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos leyendo un artículo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lesen einen Artikel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czytamy artykuł."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous lisons un article."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos lendo um artigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo leggendo un articolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De läser en roman."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони читають роман."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are reading a novel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están leyendo una novela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lesen einen Roman."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni czytają powieść."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils lisent un roman."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão lendo um romance."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno leggendo un romanzo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "svara",
+        "translations": {
+            "ukrainian": "відповідати",
+            "english": "answer",
+            "spanish": "responder",
+            "german": "antworten",
+            "polish": "odpowiadać",
+            "french": "répondre",
+            "portuguese": "responder",
+            "italian": "rispondere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag svarar på frågan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я відповідаю на питання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am answering the question."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy respondiendo a la pregunta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich antworte auf die Frage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odpowiadam na pytanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je réponds à la question."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou respondendo à pergunta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto rispondendo alla domanda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon svarar på mailet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона відповідає на лист."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is answering the email."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está respondiendo al correo electrónico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie antwortet auf die E-Mail."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona odpowiada na e-mail."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle répond au courriel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está respondendo ao e-mail."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta rispondendo all'e-mail."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi svarar på frågorna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми відповідаємо на питання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are answering the questions."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos respondiendo a las preguntas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir antworten auf die Fragen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odpowiadamy na pytania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous répondons aux questions."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos respondendo às perguntas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo rispondendo alle domande."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De svarar på brevet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони відповідають на лист."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are answering the letter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están respondiendo a la carta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie antworten auf den Brief."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni odpowiadają na list."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils répondent à la lettre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão respondendo à carta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno rispondendo alla lettera."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fråga",
+        "translations": {
+            "ukrainian": "запитувати",
+            "english": "ask",
+            "spanish": "preguntar",
+            "german": "fragen",
+            "polish": "pytać",
+            "french": "demander",
+            "portuguese": "perguntar",
+            "italian": "chiedere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag frågar om hjälp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я прошу допомоги."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am asking for help."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy pidiendo ayuda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bitte um Hilfe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Proszę o pomoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je demande de l'aide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou pedindo ajuda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto chiedendo aiuto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon frågar om vägen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона запитує дорогу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is asking for directions."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está preguntando por direcciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie fragt nach dem Weg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pyta o drogę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle demande son chemin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está perguntando por direções."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta chiedendo indicazioni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi frågar om tiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми запитуємо про час."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are asking about the time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos preguntando por la hora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fragen nach der Uhrzeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pytamy o godzinę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous demandons l'heure."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos perguntando sobre a hora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo chiedendo l'ora."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De frågar om råd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони запитують пораду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are asking for advice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están pidiendo consejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie fragen um Rat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni pytają o radę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils demandent des conseils."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão pedindo conselhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno chiedendo consigli."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "informera",
+        "translations": {
+            "ukrainian": "інформувати",
+            "english": "inform",
+            "spanish": "informar",
+            "german": "informieren",
+            "polish": "informować",
+            "french": "informer",
+            "portuguese": "informar",
+            "italian": "informare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag informerar dig om mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я інформую вас про зустріч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am informing you about the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te estoy informando sobre la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich informiere dich über das Treffen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Informuję cię o spotkaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je t'informe de la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou informando você sobre a reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti sto informando della riunione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon informerar oss om planerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона інформує нас про плани."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is informing us about the plans."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella nos está informando sobre los planes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie informiert uns über die Pläne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona informuje nas o planach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle nous informe des plans."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está nos informando sobre os planos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ci sta informando sui piani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi informerar dem om förändringen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми інформуємо їх про зміни."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are informing them about the change."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Les estamos informando sobre el cambio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir informieren sie über die Änderung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Informujemy ich o zmianie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous les informons du changement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos informando eles sobre a mudança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Li stiamo informando del cambiamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De informerar oss om resultatet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони інформують нас про результат."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are informing us about the result."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos nos están informando sobre el resultado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie informieren uns über das Ergebnis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni informują nas o wyniku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils nous informent du résultat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão nos informando sobre o resultado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro ci stanno informando del risultato."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förklara",
+        "translations": {
+            "ukrainian": "пояснювати",
+            "english": "explain",
+            "spanish": "explicar",
+            "german": "erklären",
+            "polish": "wyjaśniać",
+            "french": "expliquer",
+            "portuguese": "explicar",
+            "italian": "spiegare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag förklarar reglerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я пояснюю правила."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am explaining the rules."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy explicando las reglas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich erkläre die Regeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyjaśniam zasady."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'explique les règles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou explicando as regras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto spiegando le regole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon förklarar problemet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пояснює проблему."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is explaining the problem."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está explicando el problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erklärt das Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wyjaśnia problem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle explique le problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está explicando o problema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta spiegando il problema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi förklarar situationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми пояснюємо ситуацію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are explaining the situation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos explicando la situación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erklären die Situation."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyjaśniamy sytuację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous expliquons la situation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos explicando a situação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo spiegando la situazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De förklarar planen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони пояснюють план."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are explaining the plan."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están explicando el plan."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erklären den Plan."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni wyjaśniają plan."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils expliquent le plan."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão explicando o plano."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno spiegando il piano."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ljuga",
+        "translations": {
+            "ukrainian": "брехати",
+            "english": "lie",
+            "spanish": "mentir",
+            "german": "lügen",
+            "polish": "kłamać",
+            "french": "mentir",
+            "portuguese": "mentir",
+            "italian": "mentire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ljuger inte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не брешу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am not lying."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo no miento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich lüge nicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie kłamię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne mens pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não estou mentindo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non sto mentendo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ljuger om sin ålder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона бреше про свій вік."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is lying about her age."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella miente sobre su edad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lügt über ihr Alter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kłamie na temat swojego wieku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle ment sur son âge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está mentindo sobre sua idade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta mentendo sulla sua età."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ljuger inte för dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми не брешемо вам."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are not lying to you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No te estamos mintiendo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lügen dich nicht an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie kłamiemy ci."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous ne te mentons pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não estamos mentindo para você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non ti stiamo mentendo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ljuger om händelsen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони брешуть про подію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are lying about the event."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos mienten sobre el evento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lügen über das Ereignis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni kłamią na temat wydarzenia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils mentent sur l'événement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão mentindo sobre o evento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno mentendo sull'evento."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "berätta",
+        "translations": {
+            "ukrainian": "розповідати",
+            "english": "tell",
+            "spanish": "contar",
+            "german": "erzählen",
+            "polish": "opowiadać",
+            "french": "raconter",
+            "portuguese": "contar",
+            "italian": "raccontare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag berättar en historia."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я розповідаю історію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am telling a story."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy contando una historia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich erzähle eine Geschichte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Opowiadam historię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je raconte une histoire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou contando uma história."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto raccontando una storia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon berättar om sitt liv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона розповідає про своє життя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is telling about her life."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está contando sobre su vida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erzählt über ihr Leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona opowiada o swoim życiu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle raconte sa vie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está contando sobre sua vida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta raccontando della sua vita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi berättar en hemlighet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розповідаємо таємницю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are telling a secret."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos contando un secreto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erzählen ein Geheimnis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Opowiadamy tajemnicę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous racontons un secret."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos contando um segredo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo raccontando un segreto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De berättar om resan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони розповідають про подорож."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are telling about the trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están contando sobre el viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erzählen über die Reise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni opowiadają o podróży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils racontent le voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão contando sobre a viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno raccontando del viaggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förtydliga",
+        "translations": {
+            "ukrainian": "уточнювати",
+            "english": "clarify",
+            "spanish": "aclarar",
+            "german": "klären",
+            "polish": "wyjaśniać",
+            "french": "clarifier",
+            "portuguese": "esclarecer",
+            "italian": "chiarire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag förtydligar min poäng."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я уточнюю свою думку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am clarifying my point."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy aclarando mi punto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich kläre meinen Standpunkt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyjaśniam moje stanowisko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je clarifie mon point de vue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou esclarecendo meu ponto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto chiarendo il mio punto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon förtydligar reglerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона уточнює правила."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is clarifying the rules."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está aclarando las reglas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie klärt die Regeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wyjaśnia zasady."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle clarifie les règles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está esclarecendo as regras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta chiarendo le regole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi förtydligar situationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми уточнюємо ситуацію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are clarifying the situation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos aclarando la situación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir klären die Situation."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyjaśniamy sytuację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous clarifions la situation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos esclarecendo a situação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo chiarendo la situazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De förtydligar planen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони уточнюють план."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are clarifying the plan."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están aclarando el plan."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie klären den Plan."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni wyjaśniają plan."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils clarifient le plan."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão esclarecendo o plano."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno chiarendo il piano."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "diskutera",
+        "translations": {
+            "ukrainian": "обговорювати",
+            "english": "discuss",
+            "spanish": "discutir",
+            "german": "diskutieren",
+            "polish": "dyskutować",
+            "french": "discuter",
+            "portuguese": "discutir",
+            "italian": "discutere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag diskuterar problemet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я обговорюю проблему."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am discussing the problem."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy discutiendo el problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich diskutiere das Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dyskutuję problem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je discute du problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou discutindo o problema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto discutendo il problema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon diskuterar planerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона обговорює плани."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is discussing the plans."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está discutiendo los planes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie diskutiert die Pläne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dyskutuje plany."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle discute des plans."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está discutindo os planos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta discutendo i piani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi diskuterar mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми обговорюємо зустріч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are discussing the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos discutiendo la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir diskutieren das Treffen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dyskutujemy spotkanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous discutons de la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos discutindo a reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo discutendo l'incontro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De diskuterar framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони обговорюють майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are discussing the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están discutiendo el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie diskutieren die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni dyskutują o przyszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils discutent de l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão discutindo o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno discutendo del futuro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skrika",
+        "translations": {
+            "ukrainian": "кричати",
+            "english": "shout",
+            "spanish": "gritar",
+            "german": "schreien",
+            "polish": "krzyczeć",
+            "french": "crier",
+            "portuguese": "gritar",
+            "italian": "urlare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag skriker av rädsla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я кричу від страху."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am shouting out of fear."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy gritando de miedo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich schreie vor Angst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Krzyczę ze strachu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je crie de peur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou gritando de medo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto urlando dalla paura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skriker av glädje."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона кричить від радості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is shouting with joy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está gritando de alegría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreit vor Freude."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona krzyczy z radości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle crie de joie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está gritando de alegria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta urlando di gioia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skriker för att få hjälp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми кричимо, щоб отримати допомогу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are shouting to get help."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos gritando para pedir ayuda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schreien um Hilfe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Krzyczymy, aby uzyskać pomoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous crions pour obtenir de l'aide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos gritando para pedir ajuda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo urlando per chiedere aiuto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skriker på varandra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони кричать один на одного."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are shouting at each other."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se gritan el uno al otro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreien sich an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni krzyczą na siebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils se crient dessus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão gritando um com o outro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno urlando l'uno all'altro."
+                    }
+                ]
+            }
+        ]
+    }
+]

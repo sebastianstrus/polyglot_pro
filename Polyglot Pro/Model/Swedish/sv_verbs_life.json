@@ -1,0 +1,2102 @@
+[
+    {
+        "expression": "leva",
+        "translations": {
+            "ukrainian": "жити",
+            "english": "live",
+            "spanish": "vivir",
+            "german": "leben",
+            "polish": "żyć",
+            "french": "vivre",
+            "portuguese": "viver",
+            "italian": "vivere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill leva fritt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу жити вільно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to live freely."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero vivir libremente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte frei leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę żyć swobodnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux vivre librement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero viver livremente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio vivere liberamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han lever i Spanien."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він живе в Іспанії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He lives in Spain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él vive en España."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er lebt in Spanien."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On mieszka w Hiszpanii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il vit en Espagne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele vive na Espanha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui vive in Spagna."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lever bara en gång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми живемо лише один раз."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We only live once."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Solo vivimos una vez."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir leben nur einmal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Żyjemy tylko raz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "On ne vit qu'une fois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós só vivemos uma vez."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si vive una volta sola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lever för sin familj."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона живе для своєї родини."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She lives for her family."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella vive para su familia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lebt für ihre Familie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona żyje dla swojej rodziny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle vit pour sa famille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela vive para sua família."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei vive per la sua famiglia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "föda",
+        "translations": {
+            "ukrainian": "народжувати",
+            "english": "give birth",
+            "spanish": "dar a luz",
+            "german": "gebären",
+            "polish": "rodzić",
+            "french": "accoucher",
+            "portuguese": "dar à luz",
+            "italian": "partorire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon födde en flicka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона народила дівчинку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave birth to a girl."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dio a luz a una niña."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie brachte ein Mädchen zur Welt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Urodziła dziewczynkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a donné naissance à une fille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela deu à luz uma menina."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha dato alla luce una bambina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Katten födde tre kattungar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кішка народила трьох кошенят."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cat gave birth to three kittens."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La gata dio a luz a tres gatitos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Katze brachte drei Kätzchen zur Welt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kotka urodziła trzy kocięta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La chatte a donné naissance à trois chatons."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A gata deu à luz três gatinhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La gatta ha dato alla luce tre gattini."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han föddes i Sverige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він народився у Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was born in Sweden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él nació en Suecia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde in Schweden geboren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Urodził się w Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est né en Suède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele nasceu na Suécia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È nato in Svezia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De födde en son förra månaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони народили сина минулого місяця."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They gave birth to a son last month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos dieron a luz a un hijo el mes pasado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie brachten letzten Monat einen Sohn zur Welt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Urodzili syna w zeszłym miesiącu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont donné naissance à un fils le mois dernier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles deram à luz um filho no mês passado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno dato alla luce un figlio il mese scorso."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dö",
+        "translations": {
+            "ukrainian": "помирати",
+            "english": "die",
+            "spanish": "morir",
+            "german": "sterben",
+            "polish": "umierać",
+            "french": "mourir",
+            "portuguese": "morrer",
+            "italian": "morire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han dog i en olycka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він помер у нещасному випадку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He died in an accident."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él murió en un accidente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er starb bei einem Unfall."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmarł w wypadku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est mort dans un accident."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele morreu em um acidente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È morto in un incidente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon dog av sjukdom."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона померла від хвороби."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She died of illness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella murió de una enfermedad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie starb an einer Krankheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmarła z powodu choroby."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est morte d'une maladie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela morreu de uma doença."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È morta di una malattia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De dog för många år sedan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони померли багато років тому."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They died many years ago."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos murieron hace muchos años."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie starben vor vielen Jahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmarli wiele lat temu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont morts il y a de nombreuses années."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles morreram há muitos anos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono morti molti anni fa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill inte dö än."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не хочу ще помирати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I don't want to die yet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No quiero morir todavía."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte noch nicht sterben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie chcę jeszcze umrzeć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne veux pas mourir encore."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não quero morrer ainda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non voglio morire ancora."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "växa",
+        "translations": {
+            "ukrainian": "рости",
+            "english": "grow",
+            "spanish": "crecer",
+            "german": "wachsen",
+            "polish": "rosnąć",
+            "french": "grandir",
+            "portuguese": "crescer",
+            "italian": "crescere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnet växer snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дитина росте швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The child is growing quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El niño está creciendo rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kind wächst schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziecko szybko rośnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'enfant grandit rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A criança está crescendo rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il bambino sta crescendo rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Träden växer högt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дерева ростуть високо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The trees grow tall."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los árboles crecen altos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bäume wachsen hoch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Drzewa rosną wysoko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les arbres poussent haut."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As árvores crescem altas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli alberi crescono alti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han växte upp i en liten stad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виріс у маленькому місті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He grew up in a small town."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él creció en un pueblo pequeño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wuchs in einer kleinen Stadt auf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dorastał w małym mieście."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a grandi dans une petite ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele cresceu em uma cidade pequena."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È cresciuto in una piccola città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Växer det blommor här?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тут ростуть квіти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Do flowers grow here?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Crecen flores aquí?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wachsen hier Blumen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy rosną tu kwiaty?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Est-ce que des fleurs poussent ici ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Crescem flores aqui?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Crescono fiori qui?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "utvecklas",
+        "translations": {
+            "ukrainian": "розвиватися",
+            "english": "develop",
+            "spanish": "desarrollarse",
+            "german": "entwickeln",
+            "polish": "rozwijać się",
+            "french": "se développer",
+            "portuguese": "desenvolver-se",
+            "italian": "svilupparsi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnet utvecklas snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дитина розвивається швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The child is developing quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El niño se desarrolla rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kind entwickelt sich schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziecko szybko się rozwija."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'enfant se développe rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A criança está se desenvolvendo rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il bambino si sta sviluppando rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tekniken utvecklas ständigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Технології постійно розвиваються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Technology is constantly developing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tecnología se desarrolla constantemente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Technik entwickelt sich ständig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Technologia stale się rozwija."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La technologie se développe constamment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A tecnologia está se desenvolvendo constantemente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La tecnologia si sviluppa costantemente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Företaget utvecklas snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Компанія швидко розвивається."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The company is developing quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La empresa se desarrolla rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Unternehmen entwickelt sich schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Firma szybko się rozwija."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entreprise se développe rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A empresa está se desenvolvendo rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'azienda si sta sviluppando rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han utvecklas som ledare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він розвивається як лідер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is developing as a leader."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se está desarrollando como líder."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er entwickelt sich als Führungskraft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozwija się jako lider."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il se développe en tant que leader."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está se desenvolvendo como líder."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si sta sviluppando come leader."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "mogna",
+        "translations": {
+            "ukrainian": "дозрівати",
+            "english": "ripen",
+            "spanish": "madurar",
+            "german": "reifen",
+            "polish": "dojrzewać",
+            "french": "mûrir",
+            "portuguese": "amadurecer",
+            "italian": "maturare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Frukterna mognar på trädet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фрукти дозрівають на дереві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fruits are ripening on the tree."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las frutas maduran en el árbol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Früchte reifen am Baum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Owoce dojrzewają na drzewie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fruits mûrissent sur l'arbre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As frutas estão amadurecendo na árvore."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I frutti stanno maturando sull'albero."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tomaterna mognar i solen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Помідори дозрівають на сонці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The tomatoes are ripening in the sun."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los tomates maduran al sol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tomaten reifen in der Sonne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomidory dojrzewają na słońcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les tomates mûrissent au soleil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os tomates estão amadurecendo ao sol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I pomodori stanno maturando al sole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han mognade med åren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він дозрівав з роками."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He matured over the years."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él maduró con los años."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er reifte über die Jahre."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dojrzewał z biegiem lat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a mûri avec les années."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele amadureceu com os anos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È maturato con gli anni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vinerna mognar i källaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вина дозрівають у підвалі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The wines are ripening in the cellar."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los vinos maduran en la bodega."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Weine reifen im Keller."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wina dojrzewają w piwnicy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les vins mûrissent dans la cave."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os vinhos estão amadurecendo na adega."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I vini stanno maturando in cantina."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "åldras",
+        "translations": {
+            "ukrainian": "старіти",
+            "english": "age",
+            "spanish": "envejecer",
+            "german": "altern",
+            "polish": "starzeć się",
+            "french": "vieillir",
+            "portuguese": "envelhecer",
+            "italian": "invecchiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon åldras graciöst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона старіє граціозно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is aging gracefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está envejeciendo con gracia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie altert anmutig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona starzeje się z gracją."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle vieillit avec grâce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está envelhecendo com graça."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta invecchiando con grazia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han åldras snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він швидко старіє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is aging quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está envejeciendo rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er altert schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On szybko się starzeje."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il vieillit rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está envelhecendo rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui sta invecchiando rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi åldras alla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми всі старіємо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We all age."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Todos envejecemos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir alle altern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wszyscy się starzejemy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous vieillissons tous."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Todos nós envelhecemos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Tutti invecchiamo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden åldras sakta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака повільно старіє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is aging slowly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro está envejeciendo lentamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund altert langsam."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies starzeje się powoli."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien vieillit lentement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro está envelhecendo lentamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane sta invecchiando lentamente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "gråta",
+        "translations": {
+            "ukrainian": "плакати",
+            "english": "cry",
+            "spanish": "llorar",
+            "german": "weinen",
+            "polish": "płakać",
+            "french": "pleurer",
+            "portuguese": "chorar",
+            "italian": "piangere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon grät hela natten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона плакала всю ніч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She cried all night."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lloró toda la noche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie weinte die ganze Nacht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona płakała całą noc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a pleuré toute la nuit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela chorou a noite toda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha pianto tutta la notte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnet grät högt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дитина голосно плакала."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The child cried loudly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El niño lloró fuerte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kind weinte laut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziecko płakało głośno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'enfant a pleuré fort."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A criança chorou alto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il bambino ha pianto forte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han grät av glädje."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він плакав від радості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He cried with joy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él lloró de alegría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er weinte vor Freude."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On płakał z radości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a pleuré de joie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele chorou de alegria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha pianto di gioia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De grät tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони плакали разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They cried together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos lloraron juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie weinten zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płakali razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont pleuré ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles choraram juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno pianto insieme."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "andas",
+        "translations": {
+            "ukrainian": "дихати",
+            "english": "breathe",
+            "spanish": "respirar",
+            "german": "atmen",
+            "polish": "oddychać",
+            "french": "respirer",
+            "portuguese": "respirar",
+            "italian": "respirare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han andas djupt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він дихає глибоко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He breathes deeply."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él respira profundamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er atmet tief."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On oddycha głęboko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il respire profondément."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele respira profundamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui respira profondamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon andas lugnt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дихає спокійно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She breathes calmly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella respira tranquilamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie atmet ruhig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona oddycha spokojnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle respire calmement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela respira calmamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei respira tranquillamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste andas frisk luft."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні дихати свіжим повітрям."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to breathe fresh air."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesitamos respirar aire fresco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen frische Luft atmen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy oddychać świeżym powietrzem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons respirer de l'air frais."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos respirar ar fresco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo respirare aria fresca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De andas snabbt efter löpningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони швидко дихають після бігу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They breathe quickly after running."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos respiran rápidamente después de correr."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie atmen schnell nach dem Laufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oddychają szybko po biegu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils respirent rapidement après avoir couru."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles respiram rapidamente após correr."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Respirano velocemente dopo la corsa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Leda",
+        "translations": {
+            "ukrainian": "вести",
+            "english": "lead",
+            "spanish": "liderar",
+            "german": "führen",
+            "polish": "prowadzić",
+            "french": "conduire",
+            "portuguese": "liderar",
+            "italian": "guidare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han leder teamet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він веде команду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He leads the team."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él lidera el equipo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er führt das Team."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On prowadzi zespół."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il dirige l'équipe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele lidera a equipe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui guida la squadra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon leder projektet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона веде проект."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She leads the project."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lidera el proyecto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie führt das Projekt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona prowadzi projekt."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle dirige le projet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela lidera o projeto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei guida il progetto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De leder företaget framgångsrikt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони успішно керують компанією."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They lead the company successfully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos lideran la empresa con éxito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie führen das Unternehmen erfolgreich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni prowadzą firmę z sukcesem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils dirigent l'entreprise avec succès."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles lideram a empresa com sucesso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro guidano l'azienda con successo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi leder diskussionen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми ведемо дискусію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We lead the discussion."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nosotros lideramos la discusión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir führen die Diskussion."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Prowadzimy dyskusję."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous menons la discussion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós lideramos a discussão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Noi guidiamo la discussione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Kämpa",
+        "translations": {
+            "ukrainian": "боротися",
+            "english": "fight",
+            "spanish": "luchar",
+            "german": "kämpfen",
+            "polish": "walczyć",
+            "french": "combattre",
+            "portuguese": "lutar",
+            "italian": "lottare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han kämpar för sina rättigheter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він бореться за свої права."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He fights for his rights."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él lucha por sus derechos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kämpft für seine Rechte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On walczy o swoje prawa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il combat pour ses droits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele luta pelos seus direitos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui lotta per i suoi diritti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kämpar mot sjukdomen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона бореться з хворобою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She fights against the disease."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lucha contra la enfermedad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kämpft gegen die Krankheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona walczy z chorobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle combat la maladie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela luta contra a doença."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei lotta contro la malattia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi kämpar för fred."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми боремось за мир."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We fight for peace."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nosotros luchamos por la paz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir kämpfen für den Frieden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Walczymy o pokój."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous combattons pour la paix."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós lutamos pela paz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Noi lottiamo per la pace."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kämpar tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони борються разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They fight together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos luchan juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kämpfen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni walczą razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils combattent ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles lutam juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro lottano insieme."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lära",
+        "translations": {
+            "ukrainian": "вчити",
+            "english": "learn",
+            "spanish": "aprender",
+            "german": "lernen",
+            "polish": "uczyć się",
+            "french": "apprendre",
+            "portuguese": "aprender",
+            "italian": "imparare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag lär mig svenska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я вчу шведську."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am learning Swedish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy aprendiendo sueco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich lerne Schwedisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uczę się szwedzkiego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'apprends le suédois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou aprendendo sueco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto imparando lo svedese."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lär sig snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона швидко вчиться."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She learns quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella aprende rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lernt schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona szybko się uczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle apprend rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela aprende rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei impara rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lär oss varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми вчимося кожного дня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We learn every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nosotros aprendemos cada día."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lernen jeden Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uczymy się każdego dnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous apprenons chaque jour."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós aprendemos todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Noi impariamo ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De lär sig nya saker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони вчаться новому."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are learning new things."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están aprendiendo cosas nuevas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lernen neue Dinge."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni uczą się nowych rzeczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils apprennent de nouvelles choses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão aprendendo coisas novas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno imparando cose nuove."
+                    }
+                ]
+            }
+        ]
+    }
+]

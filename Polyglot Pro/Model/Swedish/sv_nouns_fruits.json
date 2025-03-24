@@ -1,0 +1,4202 @@
+[
+    {
+        "expression": "ett äpple",
+        "translations": {
+            "ukrainian": "яблуко",
+            "english": "an apple",
+            "spanish": "una manzana",
+            "german": "ein Apfel",
+            "polish": "jabłko",
+            "french": "une pomme",
+            "portuguese": "uma maçã",
+            "italian": "una mela"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter ett äpple varje morgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм яблуко кожного ранку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat an apple every morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como una manzana cada mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse jeden Morgen einen Apfel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem jabłko każdego ranka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange une pomme chaque matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como uma maçã todas as manhãs."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio una mela ogni mattina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Äpplen är nyttiga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яблука корисні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Apples are healthy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las manzanas son saludables."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Äpfel sind gesund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jabłka są zdrowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pommes sont saines."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As maçãs são saudáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le mele sono salutari."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan jag få ett äpple?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можу я отримати яблуко?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can I have an apple?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedo tener una manzana?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kann ich einen Apfel haben?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy mogę dostać jabłko?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Puis-je avoir une pomme?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Posso pegar uma maçã?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Posso avere una mela?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det här äpplet är sött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це яблуко солодке."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This apple is sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta manzana es dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dieser Apfel ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jabłko jest słodkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette pomme est sucrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta maçã é doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa mela è dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett päron",
+        "translations": {
+            "ukrainian": "груша",
+            "english": "a pear",
+            "spanish": "una pera",
+            "german": "eine Birne",
+            "polish": "gruszka",
+            "french": "une poire",
+            "portuguese": "uma pêra",
+            "italian": "una pera"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte ett päron på marknaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив грушу на ринку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a pear at the market."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré una pera en el mercado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe eine Birne auf dem Markt gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem gruszkę na rynku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté une poire au marché."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei uma pêra no mercado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato una pera al mercato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Päron är min favoritfrukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Груша - мій улюблений фрукт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pears are my favorite fruit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las peras son mi fruta favorita."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Birnen sind mein Lieblingsobst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gruszki to mój ulubiony owoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les poires sont mes fruits préférés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As peras são minha fruta favorita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le pere sono il mio frutto preferito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du skära upp ett päron?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви нарізати грушу?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you cut up a pear?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes cortar una pera?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du eine Birne schneiden?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz pokroić gruszkę?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu couper une poire?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode cortar uma pêra?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi tagliare una pera?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det här päronet är moget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ця груша стигла."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This pear is ripe."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta pera está madura."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Birne ist reif."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta gruszka jest dojrzała."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette poire est mûre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta pêra está madura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa pera è matura."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en apelsin",
+        "translations": {
+            "ukrainian": "апельсин",
+            "english": "an orange",
+            "spanish": "una naranja",
+            "german": "eine Orange",
+            "polish": "pomarańcza",
+            "french": "une orange",
+            "portuguese": "uma laranja",
+            "italian": "un'arancia"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag dricker apelsinjuice varje morgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я п'ю апельсиновий сік кожного ранку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I drink orange juice every morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Bebo jugo de naranja cada mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich trinke jeden Morgen Orangensaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piję sok pomarańczowy każdego ranka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je bois du jus d'orange chaque matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu bebo suco de laranja todas as manhãs."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Bevo succo d'arancia ogni mattina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Apelsiner är fulla av vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Апельсини багаті на вітамін С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Oranges are full of vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las naranjas están llenas de vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Orangen sind voller Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomarańcze są pełne witaminy C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les oranges sont pleines de vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As laranjas são cheias de vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le arance sono piene di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du skala en apelsin?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви почистити апельсин?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you peel an orange?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes pelar una naranja?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du eine Orange schälen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz obrać pomarańczę?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu peler une orange?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode descascar uma laranja?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi sbucciare un'arancia?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här apelsinen är söt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цей апельсин солодкий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This orange is sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta naranja es dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Orange ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta pomarańcza jest słodka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette orange est sucrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta laranja é doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa arancia è dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en banan",
+        "translations": {
+            "ukrainian": "банан",
+            "english": "a banana",
+            "spanish": "un plátano",
+            "german": "eine Banane",
+            "polish": "banan",
+            "french": "une banane",
+            "portuguese": "uma banana",
+            "italian": "una banana"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter en banan till frukost."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм банан на сніданок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat a banana for breakfast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como un plátano para el desayuno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse eine Banane zum Frühstück."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem banana na śniadanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange une banane pour le petit-déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como uma banana no café da manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio una banana a colazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bananer är bra för hälsan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Банани корисні для здоров'я."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bananas are good for your health."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los plátanos son buenos para la salud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bananen sind gut für die Gesundheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Banany są dobre dla zdrowia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les bananes sont bonnes pour la santé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As bananas são boas para a saúde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le banane sono buone per la salute."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa bananer?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити банани?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy bananas?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar plátanos?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Bananen kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić banany?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des bananes?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar bananas?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare delle banane?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här bananen är mogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цей банан стиглий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This banana is ripe."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este plátano está maduro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Banane ist reif."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ten banan jest dojrzały."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette banane est mûre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta banana está madura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa banana è matura."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en citron",
+        "translations": {
+            "ukrainian": "лимон",
+            "english": "a lemon",
+            "spanish": "un limón",
+            "german": "eine Zitrone",
+            "polish": "cytryna",
+            "french": "un citron",
+            "portuguese": "um limão",
+            "italian": "un limone"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag använder citron i mitt te."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я додаю лимон у свій чай."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I use lemon in my tea."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Uso limón en mi té."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich verwende Zitrone in meinem Tee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Używam cytryny w mojej herbacie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'utilise du citron dans mon thé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu uso limão no meu chá."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Uso il limone nel mio tè."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Citroner är sura."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лимони кислі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Lemons are sour."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los limones son ácidos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zitronen sind sauer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cytryny są kwaśne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les citrons sont acides."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os limões são azedos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I limoni sono aspri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa citroner?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити лимони?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy lemons?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar limones?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Zitronen kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić cytryny?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des citrons?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar limões?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare dei limoni?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här citronen är sur."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цей лимон кислий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This lemon is sour."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este limón es ácido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Zitrone ist sauer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta cytryna jest kwaśna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ce citron est acide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este limão é azedo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questo limone è aspro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en jordgubbe",
+        "translations": {
+            "ukrainian": "полуниця",
+            "english": "a strawberry",
+            "spanish": "una fresa",
+            "german": "eine Erdbeere",
+            "polish": "truskawka",
+            "french": "une fraise",
+            "portuguese": "um morango",
+            "italian": "una fragola"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar jordgubbar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю полуниці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love strawberries."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encantan las fresas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe Erdbeeren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam truskawki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore les fraises."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu adoro morangos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro le fragole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jordgubbar är söta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Полуниці солодкі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Strawberries are sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las fresas son dulces."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Erdbeeren sind süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Truskawki są słodkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fraises sont sucrées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os morangos são doces."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le fragole sono dolci."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa jordgubbar?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити полуниці?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy strawberries?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar fresas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Erdbeeren kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić truskawki?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des fraises?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar morangos?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare delle fragole?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här jordgubben är stor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ця полуниця велика."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This strawberry is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta fresa es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Erdbeere ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta truskawka jest duża."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette fraise est grosse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este morango é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa fragola è grande."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett hallon",
+        "translations": {
+            "ukrainian": "малина",
+            "english": "a raspberry",
+            "spanish": "una frambuesa",
+            "german": "eine Himbeere",
+            "polish": "malina",
+            "french": "une framboise",
+            "portuguese": "uma framboesa",
+            "italian": "un lampone"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag plockar hallon i skogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираю малину в лісі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I pick raspberries in the forest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Recojo frambuesas en el bosque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich pflücke Himbeeren im Wald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zbieram maliny w lesie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je cueille des framboises dans la forêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu colho framboesas na floresta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Raccolgo lamponi nella foresta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hallon är goda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Малина смачна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Raspberries are delicious."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las frambuesas son deliciosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Himbeeren sind lecker."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Maliny są pyszne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les framboises sont délicieuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As framboesas são deliciosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I lamponi sono deliziosi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa hallon?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити малину?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy raspberries?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar frambuesas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Himbeeren kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić maliny?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des framboises?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar framboesas?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare dei lamponi?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här hallonen är söt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ця малина солодка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This raspberry is sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta frambuesa es dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Himbeere ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta malina jest słodka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette framboise est sucrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta framboesa é doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questo lampone è dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett blåbär",
+        "translations": {
+            "ukrainian": "чорниця",
+            "english": "a blueberry",
+            "spanish": "un arándano",
+            "german": "eine Blaubeere",
+            "polish": "borówka",
+            "french": "une myrtille",
+            "portuguese": "um mirtilo",
+            "italian": "un mirtillo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter blåbär till frukost."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм чорниці на сніданок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat blueberries for breakfast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como arándanos para el desayuno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse Blaubeeren zum Frühstück."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem borówki na śniadanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange des myrtilles pour le petit-déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como mirtilos no café da manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio mirtilli a colazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blåbär är nyttiga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чорниці корисні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Blueberries are healthy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los arándanos son saludables."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Blaubeeren sind gesund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Borówki są zdrowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les myrtilles sont saines."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os mirtilos são saudáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I mirtilli sono salutari."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa blåbär?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити чорниці?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy blueberries?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar arándanos?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Blaubeeren kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić borówki?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des myrtilles?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar mirtilos?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare dei mirtilli?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här blåbären är söta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ці чорниці солодкі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "These blueberries are sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estos arándanos son dulces."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Blaubeeren sind süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Te borówki są słodkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ces myrtilles sont sucrées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estes mirtilos são doces."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questi mirtilli sono dolci."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett björnbär",
+        "translations": {
+            "ukrainian": "ожина",
+            "english": "a blackberry",
+            "spanish": "una mora",
+            "german": "eine Brombeere",
+            "polish": "jeżyna",
+            "french": "une mûre",
+            "portuguese": "uma amora",
+            "italian": "una mora"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag plockar björnbär i skogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираю ожину в лісі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I pick blackberries in the forest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Recojo moras en el bosque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich pflücke Brombeeren im Wald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zbieram jeżyny w lesie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je cueille des mûres dans la forêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu colho amoras na floresta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Raccolgo more nella foresta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Björnbär är goda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ожина смачна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Blackberries are delicious."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las moras son deliciosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Brombeeren sind lecker."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jeżyny są pyszne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les mûres sont délicieuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As amoras são deliciosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le more sono deliziose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa björnbär?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити ожину?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy blackberries?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar moras?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Brombeeren kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić jeżyny?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des mûres?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar amoras?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare delle more?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här björnbären är söt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ця ожина солодка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This blackberry is sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta mora es dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Brombeere ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta jeżyna jest słodka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette mûre est sucrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta amora é doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa mora è dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett körsbär",
+        "translations": {
+            "ukrainian": "вишня",
+            "english": "a cherry",
+            "spanish": "una cereza",
+            "german": "eine Kirsche",
+            "polish": "wiśnia",
+            "french": "une cerise",
+            "portuguese": "uma cereja",
+            "italian": "una ciliegia"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter körsbär på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм вишні влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat cherries in the summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como cerezas en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse Kirschen im Sommer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem wiśnie latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange des cerises en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como cerejas no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio ciliegie in estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Körsbär är söta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вишні солодкі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cherries are sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las cerezas son dulces."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kirschen sind süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wiśnie są słodkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les cerises sont sucrées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As cerejas são doces."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le ciliegie sono dolci."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa körsbär?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити вишні?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy cherries?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar cerezas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Kirschen kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić wiśnie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des cerises?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar cerejas?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare delle ciliegie?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här körsbären är söt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ця вишня солодка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This cherry is sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta cereza es dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Kirsche ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta wiśnia jest słodka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette cerise est sucrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta cereja é doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa ciliegia è dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett plommon",
+        "translations": {
+            "ukrainian": "слива",
+            "english": "a plum",
+            "spanish": "una ciruela",
+            "german": "eine Pflaume",
+            "polish": "śliwka",
+            "french": "une prune",
+            "portuguese": "uma ameixa",
+            "italian": "una prugna"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter plommon på hösten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм сливи восени."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat plums in the autumn."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como ciruelas en otoño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse Pflaumen im Herbst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem śliwki jesienią."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange des prunes en automne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como ameixas no outono."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio prugne in autunno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Plommon är saftiga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сливи соковиті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Plums are juicy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las ciruelas son jugosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Pflaumen sind saftig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śliwki są soczyste."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les prunes sont juteuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As ameixas são suculentas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le prugne sono succose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa plommon?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити сливи?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy plums?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar ciruelas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Pflaumen kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić śliwki?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des prunes?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar ameixas?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare delle prugne?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här plommonet är sött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ця слива солодка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This plum is sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta ciruela es dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Diese Pflaume ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta śliwka jest słodka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette prune est sucrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta ameixa é doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa prugna è dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en persika",
+        "translations": {
+            "ukrainian": "персик",
+            "english": "a peach",
+            "spanish": "un melocotón",
+            "german": "ein Pfirsich",
+            "polish": "brzoskwinia",
+            "french": "une pêche",
+            "portuguese": "um pêssego",
+            "italian": "una pesca"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter persika på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм персики влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat peaches in the summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como melocotones en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse Pfirsiche im Sommer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem brzoskwinie latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange des pêches en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como pêssegos no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio pesche in estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Persikor är saftiga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Персики соковиті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Peaches are juicy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los melocotones son jugosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Pfirsiche sind saftig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Brzoskwinie są soczyste."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pêches sont juteuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os pêssegos são suculentos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le pesche sono succose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa persikor?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити персики?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy peaches?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar melocotones?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Pfirsiche kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić brzoskwinie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu acheter des pêches?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar pêssegos?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare delle pesche?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här persikan är söt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цей персик солодкий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This peach is sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este melocotón es dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dieser Pfirsich ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ta brzoskwinia jest słodka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette pêche est sucrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este pêssego é doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa pesca è dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en nektarin",
+        "translations": {
+            "ukrainian": "нектарин",
+            "english": "nectarine",
+            "spanish": "nectarina",
+            "german": "Nektarine",
+            "polish": "nektarynka",
+            "french": "nectarine",
+            "portuguese": "nectarina",
+            "italian": "nettarina"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar att äta en nektarin på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю їсти нектарин влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love eating a nectarine in the summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta comer una nectarina en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe es, im Sommer eine Nektarine zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam jeść nektarynkę latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore manger une nectarine en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro comer uma nectarina no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro mangiare una nettarina in estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Nektariner är söta och saftiga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нектарини солодкі та соковиті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Nectarines are sweet and juicy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las nectarinas son dulces y jugosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nektarinen sind süß und saftig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nektarynki są słodkie i soczyste."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les nectarines sont sucrées et juteuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As nectarinas são doces e suculentas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le nettarine sono dolci e succose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa nektariner på marknaden?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити нектарини на ринку?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy nectarines at the market?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprar nectarinas en el mercado?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du Nektarinen auf dem Markt kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić nektarynki na rynku?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pouvez-vous acheter des nectarines au marché?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar nectarinas no mercado?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprare nettarine al mercato?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska göra en nektarinsallad till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся приготувати салат з нектаринів на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to make a nectarine salad for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hacer una ensalada de nectarinas para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde einen Nektarinensalat zum Abendessen machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrobię sałatkę z nektarynek na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire une salade de nectarines pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fazer uma salada de nectarinas para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Farò un'insalata di nettarine per cena."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en melon",
+        "translations": {
+            "ukrainian": "диня",
+            "english": "melon",
+            "spanish": "melón",
+            "german": "Melone",
+            "polish": "melon",
+            "french": "melon",
+            "portuguese": "melão",
+            "italian": "melone"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Melon är perfekt att äta på en varm dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Диня ідеально підходить для вживання в спекотний день."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Melon is perfect to eat on a hot day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El melón es perfecto para comer en un día caluroso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Melone ist perfekt, um an einem heißen Tag zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Melon jest idealny do jedzenia w upalny dzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le melon est parfait à manger par une journée chaude."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O melão é perfeito para comer em um dia quente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il melone è perfetto da mangiare in una giornata calda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en söt melon på torget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив солодку диню на ринку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a sweet melon at the market."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré un melón dulce en el mercado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe eine süße Melone auf dem Markt gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem słodkiego melona na rynku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté un melon sucré au marché."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei um melão doce no mercado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato un melone dolce al mercato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Melon är en populär frukt på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Диня - популярний фрукт влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Melon is a popular fruit in the summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El melón es una fruta popular en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Melone ist eine beliebte Frucht im Sommer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Melon to popularny owoc latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le melon est un fruit populaire en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O melão é uma fruta popular no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il melone è un frutto popolare in estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ska göra en melonsallad till festen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми збираємося приготувати салат з дині для вечірки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are going to make a melon salad for the party."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos a hacer una ensalada de melón para la fiesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir werden einen Melonensalat für die Party machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrobimy sałatkę z melona na imprezę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons faire une salade de melon pour la fête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos fazer uma salada de melão para a festa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Faremo un'insalata di melone per la festa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en vattenmelon",
+        "translations": {
+            "ukrainian": "кавун",
+            "english": "watermelon",
+            "spanish": "sandía",
+            "german": "Wassermelone",
+            "polish": "arbuz",
+            "french": "pastèque",
+            "portuguese": "melancia",
+            "italian": "anguria"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vattenmelon är min favoritfrukt på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кавун - мій улюблений фрукт влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Watermelon is my favorite fruit in the summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La sandía es mi fruta favorita en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wassermelone ist meine Lieblingsfrucht im Sommer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Arbuz to mój ulubiony owoc latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pastèque est mon fruit préféré en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A melancia é minha fruta favorita no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'anguria è il mio frutto preferito in estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi äter vattenmelon på stranden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми їмо кавун на пляжі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We eat watermelon at the beach."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Comemos sandía en la playa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir essen Wassermelone am Strand."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jemy arbuza na plaży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous mangeons de la pastèque à la plage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comemos melancia na praia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangiamo anguria in spiaggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vattenmelon är mycket uppfriskande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кавун дуже освіжає."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Watermelon is very refreshing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La sandía es muy refrescante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wassermelone ist sehr erfrischend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Arbuz jest bardzo orzeźwiający."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pastèque est très rafraîchissante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A melancia é muito refrescante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'anguria è molto rinfrescante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du skära upp vattenmelonen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви нарізати кавун?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you cut up the watermelon?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes cortar la sandía?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du die Wassermelone aufschneiden?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz pokroić arbuza?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu couper la pastèque?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode cortar a melancia?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi tagliare l'anguria?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en ananas",
+        "translations": {
+            "ukrainian": "ананас",
+            "english": "pineapple",
+            "spanish": "piña",
+            "german": "Ananas",
+            "polish": "ananas",
+            "french": "ananas",
+            "portuguese": "abacaxi",
+            "italian": "ananas"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ananas är en tropisk frukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ананас - це тропічний фрукт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pineapple is a tropical fruit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La piña es una fruta tropical."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ananas ist eine tropische Frucht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ananas to owoc tropikalny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'ananas est un fruit tropical."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O abacaxi é uma fruta tropical."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ananas è un frutto tropicale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar ananas på pizza."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю ананас на піці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love pineapple on pizza."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta la piña en la pizza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe Ananas auf Pizza."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam ananasa na pizzy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore l'ananas sur la pizza."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro abacaxi na pizza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro l'ananas sulla pizza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ananas är rikt på vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ананас багатий на вітамін С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pineapple is rich in vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La piña es rica en vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ananas ist reich an Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ananas jest bogaty w witaminę C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'ananas est riche en vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O abacaxi é rico em vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ananas è ricco di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa en ananas åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені ананас?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy a pineapple for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme una piña?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir eine Ananas kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi ananasa?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter un ananas?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar um abacaxi para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi un ananas?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en mango",
+        "translations": {
+            "ukrainian": "манго",
+            "english": "mango",
+            "spanish": "mango",
+            "german": "Mango",
+            "polish": "mango",
+            "french": "mangue",
+            "portuguese": "manga",
+            "italian": "mango"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mango är en söt och saftig frukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Манго - це солодкий і соковитий фрукт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Mango is a sweet and juicy fruit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mango es una fruta dulce y jugosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mango ist eine süße und saftige Frucht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mango to słodki i soczysty owoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La mangue est un fruit sucré et juteux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A manga é uma fruta doce e suculenta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mango è un frutto dolce e succoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar att äta mango till frukost."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю їсти манго на сніданок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love eating mango for breakfast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta comer mango en el desayuno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe es, Mango zum Frühstück zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam jeść mango na śniadanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore manger de la mangue au petit-déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro comer manga no café da manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro mangiare mango a colazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mango är populärt i smoothies."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Манго популярне у смузі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Mango is popular in smoothies."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mango es popular en los batidos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mango ist in Smoothies beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mango jest popularne w smoothie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La mangue est populaire dans les smoothies."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A manga é popular em smoothies."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mango è popolare nei frullati."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa en mango åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені манго?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy a mango for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme un mango?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir eine Mango kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi mango?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter une mangue?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar uma manga para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi un mango?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en kiwi",
+        "translations": {
+            "ukrainian": "ківі",
+            "english": "kiwi",
+            "spanish": "kiwi",
+            "german": "Kiwi",
+            "polish": "kiwi",
+            "french": "kiwi",
+            "portuguese": "kiwi",
+            "italian": "kiwi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kiwi är en liten men näringsrik frukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ківі - це маленький, але поживний фрукт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Kiwi is a small but nutritious fruit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El kiwi es una fruta pequeña pero nutritiva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kiwi ist eine kleine, aber nahrhafte Frucht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiwi to mały, ale pożywny owoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le kiwi est un petit fruit mais nutritif."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O kiwi é uma fruta pequena, mas nutritiva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il kiwi è un frutto piccolo ma nutriente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter kiwi till mellanmål."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм ківі на перекус."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat kiwi as a snack."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como kiwi como merienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse Kiwi als Snack."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem kiwi jako przekąskę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange du kiwi en collation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como kiwi como lanche."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio kiwi come spuntino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kiwi är rikt på vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ківі багате на вітамін С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Kiwi is rich in vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El kiwi es rico en vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kiwi ist reich an Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiwi jest bogate w witaminę C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le kiwi est riche en vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O kiwi é rico em vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il kiwi è ricco di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du skära upp en kiwi åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви нарізати мені ківі?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you cut up a kiwi for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes cortar un kiwi para mí?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir eine Kiwi aufschneiden?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz pokroić kiwi dla mnie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu couper un kiwi pour moi?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode cortar um kiwi para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi tagliare un kiwi per me?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett granatäpple",
+        "translations": {
+            "ukrainian": "гранат",
+            "english": "pomegranate",
+            "spanish": "granada",
+            "german": "Granatapfel",
+            "polish": "granat",
+            "french": "grenade",
+            "portuguese": "romã",
+            "italian": "melograno"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Granatäpple är en antioxidantrik frukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гранат - це фрукт, багатий на антиоксиданти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pomegranate is an antioxidant-rich fruit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La granada es una fruta rica en antioxidantes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Granatapfel ist eine antioxidansreiche Frucht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Granat to owoc bogaty w przeciwutleniacze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La grenade est un fruit riche en antioxydants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A romã é uma fruta rica em antioxidantes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il melograno è un frutto ricco di antiossidanti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar att äta granatäpplekärnor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю їсти зерна граната."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love eating pomegranate seeds."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta comer semillas de granada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe es, Granatapfelkerne zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam jeść pestki granatu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore manger les graines de grenade."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro comer sementes de romã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro mangiare i semi di melograno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Granatäpple är populärt i sallader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гранат популярний у салатах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pomegranate is popular in salads."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La granada es popular en las ensaladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Granatapfel ist in Salaten beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Granat jest popularny w sałatkach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La grenade est populaire dans les salades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A romã é popular em saladas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il melograno è popolare nelle insalate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa ett granatäpple åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені гранат?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy a pomegranate for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme una granada?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir einen Granatapfel kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi granat?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter une grenade?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar uma romã para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi un melograno?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en vindruva",
+        "translations": {
+            "ukrainian": "виноград",
+            "english": "grape",
+            "spanish": "uva",
+            "german": "Weintraube",
+            "polish": "winogrono",
+            "french": "raisin",
+            "portuguese": "uva",
+            "italian": "uva"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vindruvor är en populär frukt att äta som mellanmål."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Виноград - популярний фрукт для перекусу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Grapes are a popular fruit to eat as a snack."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las uvas son una fruta popular para comer como merienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weintrauben sind eine beliebte Frucht, die man als Snack isst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Winogrona to popularny owoc do jedzenia jako przekąska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les raisins sont un fruit populaire à manger en collation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As uvas são uma fruta popular para comer como lanche."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'uva è un frutto popolare da mangiare come spuntino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar att äta gröna vindruvor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю їсти зелені виногради."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love eating green grapes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta comer uvas verdes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe es, grüne Weintrauben zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam jeść zielone winogrona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore manger des raisins verts."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro comer uvas verdes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro mangiare uva verde."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vindruvor är en viktig ingrediens i vin."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Виноград - важливий інгредієнт у вині."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Grapes are an important ingredient in wine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las uvas son un ingrediente importante en el vino."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weintrauben sind eine wichtige Zutat in Wein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Winogrona są ważnym składnikiem wina."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les raisins sont un ingrédient important dans le vin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As uvas são um ingrediente importante no vinho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'uva è un ingrediente importante nel vino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa vindruvor åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені виноград?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy grapes for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme uvas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir Weintrauben kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi winogrona?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter des raisins?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar uvas para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi dell'uva?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett fikon",
+        "translations": {
+            "ukrainian": "інжир",
+            "english": "fig",
+            "spanish": "higo",
+            "german": "Feige",
+            "polish": "figa",
+            "french": "figue",
+            "portuguese": "figo",
+            "italian": "fico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fikon är en söt och mjuk frukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Інжир - це солодкий і м'який фрукт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fig is a sweet and soft fruit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El higo es una fruta dulce y suave."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Feige ist eine süße und weiche Frucht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Figa to słodki i miękki owoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La figue est un fruit sucré et tendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O figo é uma fruta doce e macia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il fico è un frutto dolce e morbido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar att äta fikon till dessert."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю їсти інжир на десерт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love eating figs for dessert."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta comer higos de postre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe es, Feigen als Dessert zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam jeść figi na deser."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore manger des figues en dessert."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro comer figos de sobremesa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro mangiare fichi come dessert."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fikon är populärt i bakverk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Інжир популярний у випічці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Figs are popular in baked goods."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los higos son populares en los productos horneados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Feigen sind in Backwaren beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Figi są popularne w wypiekach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les figues sont populaires dans les pâtisseries."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os figos são populares em produtos de panificação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I fichi sono popolari nei prodotti da forno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa ett fikon åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені інжир?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy a fig for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme un higo?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir eine Feige kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi figę?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter une figue?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar um figo para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi un fico?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ett dadlar",
+        "translations": {
+            "ukrainian": "фініки",
+            "english": "dates",
+            "spanish": "dátiles",
+            "german": "Datteln",
+            "polish": "daktyle",
+            "french": "dattes",
+            "portuguese": "tâmaras",
+            "italian": "datteri"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dadlar är en naturligt söt frukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фініки - це природно солодкий фрукт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dates are a naturally sweet fruit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los dátiles son una fruta naturalmente dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Datteln sind eine natürlich süße Frucht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Daktyle to naturalnie słodki owoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les dattes sont un fruit naturellement sucré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As tâmaras são uma fruta naturalmente doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I datteri sono un frutto naturalmente dolce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter dadlar som en hälsosam snacks."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм фініки як здоровий перекус."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat dates as a healthy snack."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Como dátiles como un snack saludable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich esse Datteln als gesunden Snack."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem daktyle jako zdrową przekąskę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je mange des dattes comme collation saine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu como tâmaras como um lanche saudável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mangio datteri come spuntino salutare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dadlar är rika på fiber."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фініки багаті на клітковину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dates are rich in fiber."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los dátiles son ricos en fibra."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Datteln sind reich an Ballaststoffen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Daktyle są bogate w błonnik."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les dattes sont riches en fibres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As tâmaras são ricas em fibras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I datteri sono ricchi di fibre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa dadlar åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені фініки?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy dates for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme dátiles?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir Datteln kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi daktyle?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter des dattes?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar tâmaras para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi dei datteri?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en papaya",
+        "translations": {
+            "ukrainian": "папая",
+            "english": "papaya",
+            "spanish": "papaya",
+            "german": "Papaya",
+            "polish": "papaja",
+            "french": "papaye",
+            "portuguese": "mamão",
+            "italian": "papaya"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Papaya är en tropisk frukt med mjukt kött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Папая - це тропічний фрукт з м'якою м'якоттю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Papaya is a tropical fruit with soft flesh."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La papaya es una fruta tropical con pulpa suave."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Papaya ist eine tropische Frucht mit weichem Fruchtfleisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Papaja to tropikalny owoc z miękkim miąższem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La papaye est un fruit tropical à la chair tendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mamão é uma fruta tropical com polpa macia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La papaya è un frutto tropicale con polpa morbida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar att äta papaya till frukost."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю їсти папаю на сніданок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love eating papaya for breakfast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta comer papaya en el desayuno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe es, Papaya zum Frühstück zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam jeść papaję na śniadanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore manger de la papaye au petit-déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro comer mamão no café da manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro mangiare papaya a colazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Papaya är rik på vitaminer och mineraler."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Папая багата на вітаміни та мінерали."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Papaya is rich in vitamins and minerals."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La papaya es rica en vitaminas y minerales."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Papaya ist reich an Vitaminen und Mineralien."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Papaja jest bogata w witaminy i minerały."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La papaye est riche en vitamines et minéraux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mamão é rico em vitaminas e minerais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La papaya è ricca di vitamine e minerali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa en papaya åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені папаю?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy a papaya for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme una papaya?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir eine Papaya kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi papaję?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter une papaye?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar um mamão para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi una papaya?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en kokosnöt",
+        "translations": {
+            "ukrainian": "кокосовий горіх",
+            "english": "coconut",
+            "spanish": "coco",
+            "german": "Kokosnuss",
+            "polish": "kokos",
+            "french": "noix de coco",
+            "portuguese": "coco",
+            "italian": "noce di cocco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kokosnöt är en populär ingrediens i desserter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кокосовий горіх - популярний інгредієнт у десертах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Coconut is a popular ingredient in desserts."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coco es un ingrediente popular en los postres."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kokosnuss ist eine beliebte Zutat in Desserts."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kokos to popularny składnik deserów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La noix de coco est un ingrédient populaire dans les desserts."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O coco é um ingrediente popular em sobremesas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La noce di cocco è un ingrediente popolare nei dessert."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar smaken av kokosnöt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю смак кокосового горіха."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love the taste of coconut."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta el sabor del coco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe den Geschmack von Kokosnuss."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam smak kokosa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore le goût de la noix de coco."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Adoro o sabor do coco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro il sapore della noce di cocco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kokosnöt är rik på näringsämnen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кокосовий горіх багатий на поживні речовини."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Coconut is rich in nutrients."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coco es rico en nutrientes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kokosnuss ist reich an Nährstoffen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kokos jest bogaty w składniki odżywcze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La noix de coco est riche en nutriments."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O coco é rico em nutrientes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La noce di cocco è ricca di nutrienti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan du köpa en kokosnöt åt mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можете ви купити мені кокосовий горіх?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can you buy a coconut for me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedes comprarme un coco?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kannst du mir eine Kokosnuss kaufen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy możesz kupić mi kokosa?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Peux-tu m'acheter une noix de coco?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você pode comprar um coco para mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puoi comprarmi una noce di cocco?"
+                    }
+                ]
+            }
+        ]
+    }
+]

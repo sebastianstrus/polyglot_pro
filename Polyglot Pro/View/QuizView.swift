@@ -9,7 +9,9 @@ import SwiftUI
 
 struct QuizView: View {
     @ObservedObject var viewModel: LearnViewModel
-    @Binding var showMenu: Bool
+//    @StateObject private var settings = SettingsManager.shared
+    
+    //@Binding var showMenu: Bool
     @FocusState private var isTextFieldFocused: Bool
     
     let hintFontSize: CGFloat = {
@@ -31,19 +33,19 @@ struct QuizView: View {
             VStack(spacing: 20) {
                 ZStack {
                     HStack() {
-                        Button(action: {
-                            showMenu = true
-                        }) {
-                            Image(systemName: "chevron.left")
-                                .styledButton(isIcon: true)
-                        }.buttonStyle(ScaleButtonStyle())
+                        //                        Button(action: {
+                        //                            //showMenu = true
+                        //                        }) {
+                        //                            Image(systemName: "chevron.left")
+                        //                                .styledButton(isIcon: true)
+                        //                        }.buttonStyle(ScaleButtonStyle())
                         
-                        if Platform.current == .macOS {
-                            Text("\(viewModel.currentIndex + 1)/\(viewModel.questions.count)")
-                                .font(.system(size: 30, weight: .bold, design: .rounded))
-                                .foregroundColor(.purple)
-                                .padding()
-                        }
+                        //if Platform.current == .macOS {
+                        Text("\(viewModel.currentIndex + 1)/\(viewModel.questions.count)")
+                            .font(.system(size: 30, weight: .bold, design: .rounded))
+                            .foregroundColor(.purple)
+                            .padding()
+                        //}
                         
                         Spacer()
                         
@@ -65,31 +67,32 @@ struct QuizView: View {
                         }
                         
                         
+                        
+                        
+                        Button(action: {
+                            viewModel.toggleSound()
+                        }) {
+                            Image(systemName: viewModel.isSoundOn ? "speaker.wave.2.fill" : "speaker.slash.fill")
+                                .styledButton(isIcon: true)
+                        }.buttonStyle(ScaleButtonStyle())
+                        
                         if Platform.current == .macOS {
-                            
-                            Button(action: {
-                                viewModel.toggleSound()
-                            }) {
-                                Image(systemName: viewModel.isSoundOn ? "speaker.wave.2.fill" : "speaker.slash.fill")
-                                    .styledButton(isIcon: true)
-                            }.buttonStyle(ScaleButtonStyle())
-                            
                             Slider(value: $viewModel.speechRate, in: 0.1...0.6, step: 0.1)
                                 .styledSlider()
                         }
                     }
                     
-                    Text(viewModel.category.rawValue)
-                        .styledTitel()
+                    //Text(viewModel.category.rawValue)
+                    .styledTitel()
                 }
                 .padding()
                 .padding(.top, 4)
                 
-                Text(viewModel.questions[viewModel.currentIndex].expression)
+                Text(viewModel.questions[viewModel.currentIndex].translations[Language.ukrainian.rawValue]!)
                     .styledTitel()
                     .padding()
                 
-                Text(viewModel.questions[viewModel.currentIndex].translation)
+                Text(viewModel.questions[viewModel.currentIndex].expression)
                     .font(.system(size: hintFontSize, weight: .regular, design: .rounded))
                     .foregroundColor(.red)
                     .opacity(0.9)
@@ -113,7 +116,7 @@ struct QuizView: View {
                 
                 HStack {
                     Button(action: {
-                        viewModel.speak(text: viewModel.questions[viewModel.currentIndex].translation)
+                        viewModel.speak(text: viewModel.questions[viewModel.currentIndex].expression)
                         if !viewModel.missCountUpdated {
                             viewModel.missCount += 1
                             viewModel.missCountUpdated = true
@@ -161,12 +164,12 @@ struct QuizView: View {
                 }
                 
                 Spacer()
-            }
+            }.background ( GradientBackground().ignoresSafeArea() )
             
             if viewModel.questions.count == viewModel.currentIndex + 1 && viewModel.missCount == 0 && viewModel.isCorrect == true  {
                 ConfettiView()
             }
             
-        }
+        }.navigationTitle(viewModel.category.rawValue)
     }
 }

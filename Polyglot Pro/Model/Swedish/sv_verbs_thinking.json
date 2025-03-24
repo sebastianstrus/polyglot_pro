@@ -1,0 +1,2627 @@
+[
+    {
+        "expression": "tänka",
+        "translations": {
+            "ukrainian": "думати",
+            "english": "think",
+            "spanish": "pensar",
+            "german": "denken",
+            "polish": "myśleć",
+            "french": "penser",
+            "portuguese": "pensar",
+            "italian": "pensare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tänker på dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я думаю про тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am thinking about you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy pensando en ti."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich denke an dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Myślę o tobie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je pense à toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou pensando em você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto pensando a te."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad tänker du på?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Про що ти думаєш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What are you thinking about?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿En qué estás pensando?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Woran denkst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "O czym myślisz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À quoi penses-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "No que você está pensando?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "A cosa stai pensando?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han tänker mycket på framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він багато думає про майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He thinks a lot about the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él piensa mucho en el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er denkt viel über die Zukunft nach."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dużo myśli o przyszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il pense beaucoup à l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele pensa muito no futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Pensa molto al futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi tänker resa till Spanien."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми думаємо поїхати до Іспанії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are thinking of traveling to Spain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos pensando en viajar a España."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir denken daran, nach Spanien zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Myślimy o podróży do Hiszpanii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous pensons voyager en Espagne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos pensando em viajar para a Espanha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo pensando di viaggiare in Spagna."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förstå",
+        "translations": {
+            "ukrainian": "розуміти",
+            "english": "understand",
+            "spanish": "entender",
+            "german": "verstehen",
+            "polish": "rozumieć",
+            "french": "comprendre",
+            "portuguese": "entender",
+            "italian": "capire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag förstår inte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не розумію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I don't understand."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No entiendo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich verstehe nicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie rozumiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne comprends pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não entendo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non capisco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Förstår du mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти мене розумієш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Do you understand me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Me entiendes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Verstehst du mich?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozumiesz mnie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu me comprends ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você me entende?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi capisci?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han förstår svenska väl."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він добре розуміє шведську."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He understands Swedish well."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él entiende bien el sueco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er versteht Schwedisch gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dobrze rozumie szwedzki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il comprend bien le suédois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele entende bem sueco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui capisce bene lo svedese."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi förstår varandra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розуміємо один одного."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We understand each other."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos entendemos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir verstehen uns."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozumiemy się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous comprenons."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós nos entendemos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci capiamo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "glömma",
+        "translations": {
+            "ukrainian": "забувати",
+            "english": "forget",
+            "spanish": "olvidar",
+            "german": "vergessen",
+            "polish": "zapominać",
+            "french": "oublier",
+            "portuguese": "esquecer",
+            "italian": "dimenticare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag glömde mitt lösenord."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я забув свій пароль."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I forgot my password."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Olvidé mi contraseña."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe mein Passwort vergessen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zapomniałem swojego hasła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai oublié mon mot de passe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu esqueci minha senha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho dimenticato la mia password."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Glöm inte att stänga av ljuset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Не забудь вимкнути світло."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Don't forget to turn off the light."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No olvides apagar la luz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vergiss nicht, das Licht auszuschalten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie zapomnij wyłączyć światła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "N'oublie pas d'éteindre la lumière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não se esqueça de apagar a luz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non dimenticare di spegnere la luce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon glömde bort mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона забула про зустріч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She forgot about the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se olvidó de la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat das Treffen vergessen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zapomniała o spotkaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a oublié la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela esqueceu a reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è dimenticata della riunione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi glömde bort att köpa mjölk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми забули купити молоко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We forgot to buy milk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos olvidamos de comprar leche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben vergessen, Milch zu kaufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zapomnieliśmy kupić mleko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons oublié d'acheter du lait."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós esquecemos de comprar leite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo dimenticato di comprare il latte."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "minnas",
+        "translations": {
+            "ukrainian": "пам'ятати",
+            "english": "remember",
+            "spanish": "recordar",
+            "german": "erinnern",
+            "polish": "pamiętać",
+            "french": "se souvenir",
+            "portuguese": "lembrar",
+            "italian": "ricordare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag minns inte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не пам'ятаю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I don't remember."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No recuerdo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich erinnere mich nicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie pamiętam."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne me souviens pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não me lembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non ricordo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Minns du mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти мене пам'ятаєш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Do you remember me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Me recuerdas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Erinnerst du dich an mich?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pamiętasz mnie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu te souviens de moi ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você se lembra de mim?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti ricordi di me?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han minns alltid födelsedagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він завжди пам'ятає дні народження."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He always remembers birthdays."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él siempre recuerda los cumpleaños."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er erinnert sich immer an Geburtstage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On zawsze pamięta urodziny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il se souvient toujours des anniversaires."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele sempre se lembra dos aniversários."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui si ricorda sempre dei compleanni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi minns den dagen väl."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми добре пам'ятаємо той день."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We remember that day well."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Recordamos bien ese día."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erinnern uns gut an diesen Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dobrze pamiętamy ten dzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous souvenons bien de ce jour."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós nos lembramos bem daquele dia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci ricordiamo bene di quel giorno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tro",
+        "translations": {
+            "ukrainian": "вірити",
+            "english": "believe",
+            "spanish": "creer",
+            "german": "glauben",
+            "polish": "wierzyć",
+            "french": "croire",
+            "portuguese": "acreditar",
+            "italian": "credere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tror på dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я вірю в тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I believe in you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Creo en ti."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich glaube an dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wierzę w ciebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je crois en toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu acredito em você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Credo in te."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tror du på spöken?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти віриш у привидів?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Do you believe in ghosts?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Crees en los fantasmas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glaubst du an Geister?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wierzysz w duchy?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Crois-tu aux fantômes ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você acredita em fantasmas?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Credi nei fantasmi?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han tror att det kommer att regna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він вірить, що буде дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He believes it will rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él cree que va a llover."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er glaubt, dass es regnen wird."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wierzy, że będzie padać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il croit qu'il va pleuvoir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele acredita que vai chover."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui crede che pioverà."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi tror på kärlek."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми віримо в кохання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We believe in love."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Creemos en el amor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir glauben an die Liebe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wierzymy w miłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous croyons en l'amour."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós acreditamos no amor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Crediamo nell'amore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "älska",
+        "translations": {
+            "ukrainian": "кохати",
+            "english": "love",
+            "spanish": "amar",
+            "german": "lieben",
+            "polish": "kochać",
+            "french": "aimer",
+            "portuguese": "amar",
+            "italian": "amare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я кохаю тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te amo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kocham cię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je t'aime."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu te amo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti amo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon älskar att sjunga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона любить співати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She loves to sing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A ella le encanta cantar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie liebt es zu singen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona uwielbia śpiewać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle adore chanter."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela adora cantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei adora cantare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De älskar att resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони люблять подорожувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They love to travel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Les encanta viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lieben es zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni uwielbiają podróżować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils adorent voyager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles adoram viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adorano viaggiare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi älskar vår hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми любимо нашого собаку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We love our dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Amamos a nuestro perro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lieben unseren Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kochamy naszego psa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous aimons notre chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós amamos nosso cachorro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Amiamo il nostro cane."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hata",
+        "translations": {
+            "ukrainian": "ненавидіти",
+            "english": "hate",
+            "spanish": "odiar",
+            "german": "hassen",
+            "polish": "nienawidzić",
+            "french": "détester",
+            "portuguese": "odiar",
+            "italian": "odiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag hatar regn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я ненавиджу дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I hate rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Odio la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich hasse Regen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nienawidzę deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je déteste la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu odeio chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Odio la pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hatar att vänta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона ненавидить чекати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She hates waiting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella odia esperar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hasst es zu warten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona nienawidzi czekania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle déteste attendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela odeia esperar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei odia aspettare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De hatar kyla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони ненавидять холод."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They hate the cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Odian el frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hassen die Kälte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni nienawidzą zimna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils détestent le froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles odeiam o frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Odiano il freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi hatar att ljuga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми ненавидимо брехати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We hate lying."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Odiamos mentir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hassen es zu lügen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nienawidzimy kłamać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous détestons mentir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós odiamos mentir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Odiamo mentire."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vilja",
+        "translations": {
+            "ukrainian": "хотіти",
+            "english": "want",
+            "spanish": "querer",
+            "german": "wollen",
+            "polish": "chcieć",
+            "french": "vouloir",
+            "portuguese": "querer",
+            "italian": "volere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill ha en kopp kaffe."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу чашку кави."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want a cup of coffee."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero una taza de café."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte eine Tasse Kaffee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę filiżankę kawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux une tasse de café."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero uma xícara de café."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio una tazza di caffè."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad vill du göra ikväll?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Що ти хочеш робити сьогодні ввечері?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What do you want to do tonight?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué quieres hacer esta noche?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was willst du heute Abend machen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Co chcesz robić dziś wieczorem?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Que veux-tu faire ce soir ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O que você quer fazer esta noite?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cosa vuoi fare stasera?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han vill bli läkare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він хоче стати лікарем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He wants to become a doctor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él quiere ser médico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er will Arzt werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On chce zostać lekarzem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il veut devenir médecin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele quer se tornar médico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui vuole diventare medico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi vill resa till Japan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми хочемо поїхати до Японії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We want to travel to Japan."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Queremos viajar a Japón."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wollen nach Japan reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcemy pojechać do Japonii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous voulons voyager au Japon."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós queremos viajar para o Japão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vogliamo viaggiare in Giappone."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "känna",
+        "translations": {
+            "ukrainian": "відчувати",
+            "english": "feel",
+            "spanish": "sentir",
+            "german": "fühlen",
+            "polish": "czuć",
+            "french": "sentir",
+            "portuguese": "sentir",
+            "italian": "sentire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig trött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я відчуваю себе втомленим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel tired."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento cansado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich müde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się zmęczony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens fatigué."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me sinto cansado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento stanco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon känner sig glad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона почувається щасливою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She feels happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se siente feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie fühlt sich glücklich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona czuje się szczęśliwa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle se sent heureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela se sente feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si sente felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De känner sig säkra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони почуваються впевненими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They feel confident."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se sienten seguros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie fühlen sich sicher."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni czują się pewnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils se sentent en sécurité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles se sentem seguros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si sentono sicuri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi känner oss förvirrade."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми почуваємося збентеженими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We feel confused."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos sentimos confundidos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fühlen uns verwirrt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czujemy się zdezorientowani."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous sentons confus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós nos sentimos confusos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci sentiamo confusi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "oroa",
+        "translations": {
+            "ukrainian": "турбуватися",
+            "english": "worry",
+            "spanish": "preocuparse",
+            "german": "sorgen",
+            "polish": "martwić się",
+            "french": "s'inquiéter",
+            "portuguese": "preocupar-se",
+            "italian": "preoccuparsi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag oroar mig för dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я турбуюся за тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I worry about you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me preocupo por ti."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mache mir Sorgen um dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Martwię się o ciebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je m'inquiète pour toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me preocupo com você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi preoccupo per te."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon oroar sig för provet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона турбується за іспит."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She worries about the exam."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se preocupa por el examen."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sorgt sich um die Prüfung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona martwi się o egzamin."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'inquiète pour l'examen."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela se preocupa com a prova."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si preoccupa per l'esame."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De oroar sig för framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони турбуються за майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They worry about the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se preocupan por el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sorgen sich um die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni martwią się o przyszłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils s'inquiètent pour l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles se preocupam com o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si preoccupano per il futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi oroar oss för vädret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми турбуємося за погоду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We worry about the weather."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos preocupamos por el clima."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sorgen uns um das Wetter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Martwimy się o pogodę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous inquiétons pour la météo."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós nos preocupamos com o tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci preoccupiamo per il tempo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tvivla",
+        "translations": {
+            "ukrainian": "сумніватися",
+            "english": "doubt",
+            "spanish": "dudar",
+            "german": "zweifeln",
+            "polish": "wątpić",
+            "french": "douter",
+            "portuguese": "duvidar",
+            "italian": "dubitare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tvivlar på hans ord."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я сумніваюся в його словах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I doubt his words."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Dudo de sus palabras."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich zweifle an seinen Worten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wątpię w jego słowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je doute de ses paroles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu duvido das suas palavras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dubito delle sue parole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon tvivlar på att det kommer att fungera."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона сумнівається, що це спрацює."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She doubts it will work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella duda de que funcione."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie zweifelt, dass es funktionieren wird."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wątpi, że to zadziała."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle doute que cela fonctionne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela duvida que vai funcionar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei dubita che funzionerà."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De tvivlar på hans förmåga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сумніваються в його здібностях."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They doubt his ability."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos dudan de su capacidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie zweifeln an seiner Fähigkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni wątpią w jego umiejętności."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils doutent de ses capacités."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles duvidam da sua capacidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro dubitano delle sue capacità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi tvivlar på att det är sant."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми сумніваємося, що це правда."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We doubt it is true."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Dudamos de que sea verdad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir zweifeln, dass es wahr ist."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wątpimy, że to prawda."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous doutons que ce soit vrai."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós duvidamos que seja verdade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dubitiamo che sia vero."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "analysera",
+        "translations": {
+            "ukrainian": "аналізувати",
+            "english": "analyze",
+            "spanish": "analizar",
+            "german": "analysieren",
+            "polish": "analizować",
+            "french": "analyser",
+            "portuguese": "analisar",
+            "italian": "analizzare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag analyserar data."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я аналізую дані."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I analyze data."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Analizo datos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich analysiere Daten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Analizuję dane."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'analyse des données."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu analiso dados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Analizzo i dati."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon analyserar situationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона аналізує ситуацію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She analyzes the situation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella analiza la situación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie analysiert die Situation."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona analizuje sytuację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle analyse la situation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela analisa a situação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei analizza la situazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De analyserar marknaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони аналізують ринок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They analyze the market."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos analizan el mercado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie analysieren den Markt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni analizują rynek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils analysent le marché."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles analisam o mercado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro analizzano il mercato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi analyserar problemet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми аналізуємо проблему."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We analyze the problem."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Analizamos el problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir analysieren das Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Analizujemy problem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous analysons le problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós analisamos o problema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Analizziamo il problema."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "drömma",
+        "translations": {
+            "ukrainian": "мріяти",
+            "english": "dream",
+            "spanish": "soñar",
+            "german": "träumen",
+            "polish": "marzyć",
+            "french": "rêver",
+            "portuguese": "sonhar",
+            "italian": "sognare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag drömmer om att resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я мрію про подорожі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I dream of traveling."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sueño con viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich träume vom Reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Marzę o podróżowaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je rêve de voyager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu sonho em viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sogno di viaggiare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon drömmer om att bli skådespelare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона мріє стати акторкою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She dreams of becoming an actress."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella sueña con ser actriz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie träumt davon, Schauspielerin zu werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona marzy o zostaniu aktorką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle rêve de devenir actrice."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela sonha em se tornar atriz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sogna di diventare un'attrice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De drömmer om ett bättre liv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони мріють про краще життя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They dream of a better life."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos sueñan con una vida mejor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie träumen von einem besseren Leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni marzą o lepszym życiu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils rêvent d'une vie meilleure."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles sonham com uma vida melhor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sognano una vita migliore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi drömmer om fred."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми мріємо про мир."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We dream of peace."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Soñamos con la paz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir träumen vom Frieden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Marzymy o pokoju."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous rêvons de paix."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós sonhamos com a paz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sogniamo la pace."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "planera",
+        "translations": {
+            "ukrainian": "планувати",
+            "english": "plan",
+            "spanish": "planear",
+            "german": "planen",
+            "polish": "planować",
+            "french": "planifier",
+            "portuguese": "planejar",
+            "italian": "pianificare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag planerar en resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я планую подорож."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am planning a trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy planeando un viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich plane eine Reise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Planuję podróż."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je planifie un voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou planejando uma viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto pianificando un viaggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon planerar sin framtid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона планує своє майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is planning her future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está planeando su futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie plant ihre Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona planuje swoją przyszłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle planifie son avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está planejando seu futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta pianificando il suo futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De planerar en fest."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони планують вечірку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are planning a party."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están planeando una fiesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie planen eine Party."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni planują imprezę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils planifient une fête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão planejando uma festa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno pianificando una festa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi planerar att köpa ett hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми плануємо купити будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are planning to buy a house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos planeando comprar una casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir planen, ein Haus zu kaufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Planujemy kupić dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous planifions d'acheter une maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos planejando comprar uma casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo pianificando di comprare una casa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bestämma",
+        "translations": {
+            "ukrainian": "вирішувати",
+            "english": "decide",
+            "spanish": "decidir",
+            "german": "entscheiden",
+            "polish": "decydować",
+            "french": "décider",
+            "portuguese": "decidir",
+            "italian": "decidere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag bestämmer mig för att resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я вирішую поїхати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I decide to travel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Decido viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich entscheide mich zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Decyduję się pojechać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je décide de voyager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu decido viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Decido di viaggiare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon bestämmer sig för att studera."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона вирішує вчитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She decides to study."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella decide estudiar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie entscheidet sich zu studieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona decyduje się uczyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle décide d'étudier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela decide estudar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei decide di studiare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bestämmer sig för att flytta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони вирішують переїхати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They decide to move."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos deciden mudarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie entscheiden sich umzuziehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni decydują się przeprowadzić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils décident de déménager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles decidem se mudar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro decidono di trasferirsi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi bestämmer oss för att stanna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми вирішуємо залишитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We decide to stay."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Decidimos quedarnos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir entscheiden uns zu bleiben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Decydujemy się zostać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous décidons de rester."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós decidimos ficar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Decidiamo di restare."
+                    }
+                ]
+            }
+        ]
+    }
+]

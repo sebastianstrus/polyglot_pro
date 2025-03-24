@@ -1,0 +1,2102 @@
+[
+    {
+        "expression": "äta",
+        "translations": {
+            "ukrainian": "їсти",
+            "english": "eat",
+            "spanish": "comer",
+            "german": "essen",
+            "polish": "jeść",
+            "french": "manger",
+            "portuguese": "comer",
+            "italian": "mangiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag äter frukost varje morgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їм сніданок кожного ранку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I eat breakfast every morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo desayuno todas las mañanas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich frühstücke jeden Morgen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jem śniadanie każdego ranka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je prends le petit-déjeuner tous les matins."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tomo café da manhã todas as manhãs."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Faccio colazione ogni mattina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi äter middag tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми їмо вечерю разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We eat dinner together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cenamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir essen zusammen zu Abend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jemy obiad razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous dînons ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós jantamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ceniamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han äter inte kött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він не їсть м'яса."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He doesn't eat meat."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él no come carne."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er isst kein Fleisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On nie je mięsa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il ne mange pas de viande."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele não come carne."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui non mangia carne."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen äter glass."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти їдять морозиво."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are eating ice cream."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños están comiendo helado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder essen Eis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci jedzą lody."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants mangent de la glace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estão comendo sorvete."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini stanno mangiando il gelato."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dricka",
+        "translations": {
+            "ukrainian": "пити",
+            "english": "drink",
+            "spanish": "beber",
+            "german": "trinken",
+            "polish": "pić",
+            "french": "boire",
+            "portuguese": "beber",
+            "italian": "bere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag dricker kaffe på morgonen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я п'ю каву вранці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I drink coffee in the morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo bebo café por la mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich trinke Kaffee am Morgen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piję kawę rano."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je bois du café le matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu bebo café de manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Bevo il caffè al mattino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon dricker te istället för kaffe."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона п'є чай замість кави."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She drinks tea instead of coffee."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella bebe té en lugar de café."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie trinkt Tee statt Kaffee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pije herbatę zamiast kawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle boit du thé au lieu de café."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela bebe chá em vez de café."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei beve tè invece del caffè."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi dricker vatten under måltiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми п'ємо воду під час їжі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We drink water during the meal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Bebemos agua durante la comida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir trinken Wasser während des Essens."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pijemy wodę podczas posiłku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous buvons de l'eau pendant le repas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós bebemos água durante a refeição."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Beviamo acqua durante il pasto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen dricker juice."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти п'ють сік."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are drinking juice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños están bebiendo jugo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder trinken Saft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci piją sok."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants boivent du jus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estão bebendo suco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini stanno bevendo succo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "laga",
+        "translations": {
+            "ukrainian": "готувати",
+            "english": "cook",
+            "spanish": "cocinar",
+            "german": "kochen",
+            "polish": "gotować",
+            "french": "cuisiner",
+            "portuguese": "cozinhar",
+            "italian": "cucinare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lagar mat till familjen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона готує їжу для сім'ї."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She cooks food for the family."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella cocina comida para la familia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kocht Essen für die Familie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona gotuje jedzenie dla rodziny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle cuisine pour la famille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela cozinha comida para a família."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei cucina il cibo per la famiglia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lagar mat tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми готуємо їжу разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We cook food together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cocinamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir kochen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gotujemy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous cuisinons ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cozinhamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cuciniamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han lagar mat varje kväll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він готує їжу кожного вечора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He cooks food every evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él cocina todas las noches."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kocht jeden Abend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On gotuje każdego wieczoru."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il cuisine tous les soirs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele cozinha todas as noites."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui cucina ogni sera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De lagar mat till festen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони готують їжу для свята."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are cooking food for the party."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están cocinando comida para la fiesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kochen Essen für die Party."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni gotują jedzenie na imprezę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils cuisinent pour la fête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão cozinhando comida para a festa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno cucinando il cibo per la festa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skära",
+        "translations": {
+            "ukrainian": "різати",
+            "english": "cut",
+            "spanish": "cortar",
+            "german": "schneiden",
+            "polish": "kroić",
+            "french": "couper",
+            "portuguese": "cortar",
+            "italian": "tagliare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skär brödet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона ріже хліб."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She cuts the bread."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella corta el pan."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schneidet das Brot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kroi chleb."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle coupe le pain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela corta o pão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei taglia il pane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skär frukten i bitar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми ріжемо фрукти на шматочки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We cut the fruit into pieces."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cortamos la fruta en trozos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schneiden das Obst in Stücke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kroimy owoce na kawałki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous coupons les fruits en morceaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cortamos a fruta em pedaços."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Tagliamo la frutta a pezzi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han skär papperet med saxen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він ріже папір ножицями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He cuts the paper with scissors."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él corta el papel con tijeras."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er schneidet das Papier mit einer Schere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On tnie papier nożyczkami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il coupe le papier avec des ciseaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele corta o papel com tesoura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui taglia la carta con le forbici."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skär köttet i tunna skivor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони ріжуть м'ясо на тонкі скибочки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They cut the meat into thin slices."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos cortan la carne en rodajas finas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schneiden das Fleisch in dünne Scheiben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni kroją mięso na cienkie plastry."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils coupent la viande en fines tranches."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles cortam a carne em fatias finas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro tagliano la carne a fette sottili."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "smaka",
+        "translations": {
+            "ukrainian": "смакувати",
+            "english": "taste",
+            "spanish": "saborear",
+            "german": "schmecken",
+            "polish": "smakować",
+            "french": "goûter",
+            "portuguese": "saborear",
+            "italian": "assaggiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon smakar på soppan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона смакує суп."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She tastes the soup."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella saborea la sopa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schmeckt die Suppe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona smakuje zupę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle goûte la soupe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela saboreia a sopa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei assaggia la zuppa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi smakar på vinet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми смакуємо вино."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We taste the wine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nosotros saboreamos el vino."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schmecken den Wein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Smakujemy wino."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous goûtons le vin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós saboreamos o vinho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Noi assaggiamo il vino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han smakar på osten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він смакує сир."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He tastes the cheese."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él saborea el queso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er schmeckt den Käse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On smakuje ser."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il goûte le fromage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele saboreia o queijo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui assaggia il formaggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De smakar på desserten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони смакують десерт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They taste the dessert."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos saborean el postre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schmecken das Dessert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni smakują deser."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils goûtent le dessert."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles saboreiam a sobremesa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro assaggiano il dessert."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "baka",
+        "translations": {
+            "ukrainian": "пекти",
+            "english": "bake",
+            "spanish": "hornear",
+            "german": "backen",
+            "polish": "piec",
+            "french": "cuire au four",
+            "portuguese": "assar",
+            "italian": "cuocere al forno"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon bakar bröd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пече хліб."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She bakes bread."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella hornea pan."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie backt Brot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona piecze chleb."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle cuit du pain au four."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela assa pão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei cuoce il pane al forno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi bakar kakor till festen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми печемо тістечка для свята."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We bake cookies for the party."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Horneamos galletas para la fiesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir backen Kekse für die Party."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pieczemy ciasteczka na imprezę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous cuisons des biscuits pour la fête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós assamos biscoitos para a festa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cuociamo i biscotti per la festa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han bakar en tårta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він пече торт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He bakes a cake."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él hornea un pastel."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er backt einen Kuchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On piecze ciasto."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il cuit un gâteau au four."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele assa um bolo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui cuoce una torta al forno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bakar bullar till frukost."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони печуть булочки на сніданок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They bake buns for breakfast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos hornean bollos para el desayuno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie backen Brötchen zum Frühstück."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni pieczą bułki na śniadanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils cuisent des petits pains pour le petit-déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles assam pãezinhos para o café da manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro cuociono i panini per la colazione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "småäta",
+        "translations": {
+            "ukrainian": "перекушувати",
+            "english": "snack",
+            "spanish": "picar",
+            "german": "snacken",
+            "polish": "przekąsić",
+            "french": "grignoter",
+            "portuguese": "lanchar",
+            "italian": "spiluccare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon småäter frukt mellan måltiderna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона перекушує фруктами між прийомами їжі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She snacks on fruit between meals."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella pica fruta entre comidas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie snackt Obst zwischen den Mahlzeiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona przekąsza owoce między posiłkami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle grignote des fruits entre les repas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela lancha frutas entre as refeições."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei spiluccare frutta tra i pasti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen småäter godis på eftermiddagen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти перекушують солодощами вдень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children snack on candy in the afternoon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños pican dulces por la tarde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder snacken Süßigkeiten am Nachmittag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci przekąszają słodycze po południu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants grignotent des bonbons l'après-midi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças lancham doces à tarde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini spiluccano dolci nel pomeriggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi småäter nötter när vi tittar på film."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми перекушуємо горіхами, коли дивимось фільми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We snack on nuts when we watch movies."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Picamos frutos secos cuando vemos películas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir snacken Nüsse, wenn wir Filme schauen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przekąszamy orzechy, gdy oglądamy filmy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous grignotons des noix en regardant des films."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós lanchamos nozes quando assistimos filmes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Spilucciamo noci mentre guardiamo i film."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han småäter ost och kex framför TV:n."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він перекушує сиром і крекерами перед телевізором."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He snacks on cheese and crackers in front of the TV."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él pica queso y galletas frente al televisor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er snackt Käse und Cracker vor dem Fernseher."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On przekąsza ser i krakersy przed telewizorem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il grignote du fromage et des crackers devant la télé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele lancha queijo e biscoitos em frente à TV."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui spiluccare formaggio e cracker davanti alla TV."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "konsumera",
+        "translations": {
+            "ukrainian": "споживати",
+            "english": "consume",
+            "spanish": "consumir",
+            "german": "konsumieren",
+            "polish": "konsumować",
+            "french": "consommer",
+            "portuguese": "consumir",
+            "italian": "consumare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Människor konsumerar mer energi än någonsin."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Люди споживають більше енергії, ніж будь-коли."
+                    },
+                    {
+                        "language": "english",
+                        "text": "People consume more energy than ever."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas consumen más energía que nunca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Menschen konsumieren mehr Energie als je zuvor."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ludzie konsumują więcej energii niż kiedykolwiek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens consomment plus d'énergie que jamais."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As pessoas consomem mais energia do que nunca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone consumano più energia che mai."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste minska hur mycket plast vi konsumerar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні зменшити споживання пластику."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to reduce how much plastic we consume."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesitamos reducir la cantidad de plástico que consumimos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen unseren Plastikverbrauch reduzieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy zmniejszyć ilość plastiku, którą konsumujemy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons réduire notre consommation de plastique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos reduzir a quantidade de plástico que consumimos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo ridurre la quantità di plastica che consumiamo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han konsumerar mycket kaffe varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він споживає багато кави кожного дня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He consumes a lot of coffee every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él consume mucho café todos los días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er konsumiert jeden Tag viel Kaffee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On konsumuje dużo kawy każdego dnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il consomme beaucoup de café chaque jour."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele consome muito café todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui consuma molto caffè ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De konsumerar mindre kött för miljöns skull."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони споживають менше м'яса заради навколишнього середовища."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They consume less meat for the sake of the environment."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos consumen menos carne por el bien del medio ambiente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie konsumieren weniger Fleisch für die Umwelt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni konsumują mniej mięsa dla dobra środowiska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils consomment moins de viande pour l'environnement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles consomem menos carne pelo bem do meio ambiente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro consumano meno carne per il bene dell'ambiente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tugga",
+        "translations": {
+            "ukrainian": "жувати",
+            "english": "chew",
+            "spanish": "masticar",
+            "german": "kauen",
+            "polish": "żuć",
+            "french": "mâcher",
+            "portuguese": "mastigar",
+            "italian": "masticare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon tuggar tuggummi varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона жує жуйку кожного дня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She chews gum every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella mastica chicle todos los días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kaut jeden Tag Kaugummi."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona żuje gumę każdego dnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle mâche du chewing-gum tous les jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela mastiga chiclete todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei mastica gomma ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han tuggar maten noggrant."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він ретельно жує їжу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He chews his food thoroughly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él mastica la comida cuidadosamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kaut sein Essen gründlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dokładnie żuje jedzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il mâche soigneusement sa nourriture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele mastiga a comida cuidadosamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui mastica il cibo accuratamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen tuggar på sina naglar när de är nervösa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти жують нігті, коли нервують."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children chew their nails when they are nervous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños se muerden las uñas cuando están nerviosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder kauen an ihren Nägeln, wenn sie nervös sind."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci żują paznokcie, gdy są nerwowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants se rongent les ongles quand ils sont nerveux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças mastigam as unhas quando estão nervosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini si mordono le unghie quando sono nervosi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden tuggar på ett ben."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака жує кістку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is chewing on a bone."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro está masticando un hueso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund kaut an einem Knochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies żuje kość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien mâche un os."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro está mastigando um osso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane sta masticando un osso."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "koka",
+        "translations": {
+            "ukrainian": "варити",
+            "english": "boil",
+            "spanish": "hervir",
+            "german": "kochen",
+            "polish": "gotować",
+            "french": "bouillir",
+            "portuguese": "ferver",
+            "italian": "bollire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kokar vatten till teet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона кип'ятить воду для чаю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She boils water for the tea."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella hierve agua para el té."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kocht Wasser für den Tee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona gotuje wodę na herbatę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle fait bouillir de l'eau pour le thé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ferve água para o chá."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei fa bollire l'acqua per il tè."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi kokar potatis till middagen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми варимо картоплю на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We boil potatoes for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hervimos patatas para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir kochen Kartoffeln für das Abendessen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gotujemy ziemniaki na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous faisons bouillir des pommes de terre pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós fervemos batatas para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Facciamo bollire le patate per la cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han kokar ägg till frukost."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він варить яйця на сніданок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He boils eggs for breakfast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él hierve huevos para el desayuno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kocht Eier zum Frühstück."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On gotuje jajka na śniadanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait bouillir des œufs pour le petit-déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ferve ovos para o café da manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui fa bollire le uova per la colazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kokar soppa på helgerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони варять суп на вихідних."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They boil soup on weekends."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos hierven sopa los fines de semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kochen Suppe am Wochenende."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni gotują zupę w weekendy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils font bouillir de la soupe le week-end."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles fervem sopa nos fins de semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro fanno bollire la zuppa nei fine settimana."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skära",
+        "translations": {
+            "ukrainian": "різати",
+            "english": "cut",
+            "spanish": "cortar",
+            "german": "schneiden",
+            "polish": "kroić",
+            "french": "couper",
+            "portuguese": "cortar",
+            "italian": "tagliare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skär brödet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона ріже хліб."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She cuts the bread."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella corta el pan."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schneidet das Brot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kroi chleb."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle coupe le pain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela corta o pão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei taglia il pane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skär frukten i bitar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми ріжемо фрукти на шматочки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We cut the fruit into pieces."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cortamos la fruta en trozos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schneiden das Obst in Stücke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kroimy owoce na kawałki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous coupons les fruits en morceaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cortamos a fruta em pedaços."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Tagliamo la frutta a pezzi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han skär papperet med saxen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він ріже папір ножицями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He cuts the paper with scissors."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él corta el papel con tijeras."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er schneidet das Papier mit einer Schere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On tnie papier nożyczkami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il coupe le papier avec des ciseaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele corta o papel com tesoura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui taglia la carta con le forbici."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skär köttet i tunna skivor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони ріжуть м'ясо на тонкі скибочки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They cut the meat into thin slices."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos cortan la carne en rodajas finas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schneiden das Fleisch in dünne Scheiben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni kroją mięso na cienkie plastry."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils coupent la viande en fines tranches."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles cortam a carne em fatias finas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro tagliano la carne a fette sottili."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sjuda",
+        "translations": {
+            "ukrainian": "тушити",
+            "english": "simmer",
+            "spanish": "hervir a fuego lento",
+            "german": "köcheln",
+            "polish": "dusić",
+            "french": "mijoter",
+            "portuguese": "cozinhar em fogo brando",
+            "italian": "sobbollire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon sjuder köttet i grytan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона тушить м'ясо в каструлі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She simmers the meat in the pot."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella hierve a fuego lento la carne en la olla."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie köchelt das Fleisch im Topf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dusi mięso w garnku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle fait mijoter la viande dans la casserole."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela cozinha a carne em fogo brando na panela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei fa sobbollire la carne nella pentola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi sjuder soppan i en timme."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми тушимо суп протягом години."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We simmer the soup for an hour."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hervimos la sopa a fuego lento durante una hora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir köcheln die Suppe eine Stunde lang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dusimy zupę przez godzinę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous faisons mijoter la soupe pendant une heure."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cozinhamos a sopa em fogo brando por uma hora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Facciamo sobbollire la zuppa per un'ora."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sjuder grönsakerna i en sås."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він тушить овочі в соусі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He simmers the vegetables in a sauce."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él hierve a fuego lento las verduras en una salsa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er köchelt das Gemüse in einer Soße."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dusi warzywa w sosie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait mijoter les légumes dans une sauce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele cozinha os legumes em fogo brando em um molho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui fa sobbollire le verdure in una salsa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De sjuder fisken med kryddor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони тушкують рибу з приправами."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They simmer the fish with spices."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos hierven a fuego lento el pescado con especias."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie köcheln den Fisch mit Gewürzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni duszają rybę z przyprawami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils font mijoter le poisson avec des épices."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles cozinham o peixe em fogo brando com especiarias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro fanno sobbollire il pesce con le spezie."
+                    }
+                ]
+            }
+        ]
+    }
+]

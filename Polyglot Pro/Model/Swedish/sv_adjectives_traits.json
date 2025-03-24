@@ -1,0 +1,1577 @@
+[
+    {
+        "expression": "smart",
+        "translations": {
+            "ukrainian": "розумний",
+            "english": "smart",
+            "spanish": "inteligente",
+            "german": "schlau",
+            "polish": "mądry",
+            "french": "intelligent",
+            "portuguese": "inteligente",
+            "italian": "intelligente"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en smart kille."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він розумний хлопець."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a smart guy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un chico inteligente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein schlauer Typ."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest mądrym facetem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un gars intelligent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um cara inteligente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un ragazzo intelligente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var ett smart beslut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це було розумне рішення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "That was a smart decision."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue una decisión inteligente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das war eine schlaue Entscheidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To była mądra decyzja."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était une décision intelligente."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Essa foi uma decisão inteligente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stata una decisione intelligente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en smart lösning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона має розумне рішення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a smart solution."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una solución inteligente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine schlaue Lösung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma mądre rozwiązanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une solution intelligente."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma solução inteligente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una soluzione intelligente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Smart telefon är mycket populär."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Смартфони дуже популярні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Smartphones are very popular."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los teléfonos inteligentes son muy populares."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Smartphones sind sehr beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Smartfony są bardzo popularne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les smartphones sont très populaires."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os smartphones são muito populares."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli smartphone sono molto popolari."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "klok",
+        "translations": {
+            "ukrainian": "мудрий",
+            "english": "wise",
+            "spanish": "sabio",
+            "german": "weise",
+            "polish": "mądry",
+            "french": "sage",
+            "portuguese": "sábio",
+            "italian": "saggio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en klok man."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він мудра людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a wise man."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un hombre sabio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein weiser Mann."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest mądrym człowiekiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un homme sage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um homem sábio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un uomo saggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var ett klokt val."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це був мудрий вибір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "That was a wise choice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue una elección sabia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das war eine weise Wahl."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To był mądry wybór."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était un choix sage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Essa foi uma escolha sábia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stata una scelta saggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kloka människor lyssnar först."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мудрі люди спочатку слухають."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Wise people listen first."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas sabias escuchan primero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weise Menschen hören zuerst zu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mądrzy ludzie najpierw słuchają."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens sages écoutent d'abord."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas sábias ouvem primeiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone sagge ascoltano prima."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gav mig ett klokt råd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дала мені мудру пораду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave me wise advice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella me dio un consejo sabio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gab mir einen weisen Rat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dała mi mądrą radę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle m'a donné un conseil sage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela me deu um conselho sábio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei mi ha dato un consiglio saggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skarp",
+        "translations": {
+            "ukrainian": "гострий",
+            "english": "sharp",
+            "spanish": "afilado",
+            "german": "scharf",
+            "polish": "ostry",
+            "french": "tranchant",
+            "portuguese": "afiado",
+            "italian": "affilato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kniven är mycket skarp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ніж дуже гострий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The knife is very sharp."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cuchillo está muy afilado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Messer ist sehr scharf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nóż jest bardzo ostry."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le couteau est très tranchant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A faca está muito afiada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il coltello è molto affilato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en skarp blick."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього гострий погляд."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has a sharp gaze."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene una mirada aguda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat einen scharfen Blick."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma ostry wzrok."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a un regard perçant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem um olhar afiado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha uno sguardo acuto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skärpan på bilden är fantastisk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Різкість зображення фантастична."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sharpness of the image is fantastic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La nitidez de la imagen es fantástica."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Schärfe des Bildes ist fantastisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ostrość obrazu jest fantastyczna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La netteté de l'image est fantastique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A nitidez da imagem é fantástica."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La nitidezza dell'immagine è fantastica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en skarp humor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона має гострий гумор."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a sharp sense of humor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene un humor agudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat einen scharfen Sinn für Humor."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma ostry humor."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a un sens de l'humour acéré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem um senso de humor afiado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha un senso dell'umorismo acuto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "logisk",
+        "translations": {
+            "ukrainian": "логічний",
+            "english": "logical",
+            "spanish": "lógico",
+            "german": "logisch",
+            "polish": "logiczny",
+            "french": "logique",
+            "portuguese": "lógico",
+            "italian": "logico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans argument var mycket logiskt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його аргумент був дуже логічним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His argument was very logical."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su argumento fue muy lógico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein Argument war sehr logisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego argument był bardzo logiczny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son argument était très logique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O argumento dele foi muito lógico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua argomentazione era molto logica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är logiskt att tänka så."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Логічно так думати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is logical to think that way."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es lógico pensar así."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist logisch, so zu denken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Logiczne jest tak myśleć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est logique de penser ainsi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É lógico pensar assim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È logico pensare in quel modo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Logisk följd av händelserna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Логічний наслідок подій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Logical consequence of the events."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Consecuencia lógica de los eventos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Logische Folge der Ereignisse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Logiczna konsekwencja wydarzeń."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Conséquence logique des événements."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Consequência lógica dos eventos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Conseguenza logica degli eventi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en logisk tänkare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона логічно мислить."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a logical thinker."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una pensadora lógica."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine logische Denkerin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest logicznym myślicielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est une penseuse logique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pensadora lógica."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una pensatrice logica."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skarpsinnig",
+        "translations": {
+            "ukrainian": "проникливий",
+            "english": "perceptive",
+            "spanish": "perspicaz",
+            "german": "scharfsinnig",
+            "polish": "przenikliwy",
+            "french": "perspicace",
+            "portuguese": "perspicaz",
+            "italian": "perspicace"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en skarpsinnig observatör."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він проникливий спостерігач."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a perceptive observer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un observador perspicaz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein scharfsinniger Beobachter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest przenikliwym obserwatorem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un observateur perspicace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um observador perspicaz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un osservatore perspicace."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gav en skarpsinnig analys."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дала проникливий аналіз."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave a perceptive analysis."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dio un análisis perspicaz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gab eine scharfsinnige Analyse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dała przenikliwą analizę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a donné une analyse perspicace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela deu uma análise perspicaz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha dato un'analisi perspicace."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skarpsinniga människor ser detaljer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Проникливі люди бачать деталі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Perceptive people see details."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas perspicaces ven detalles."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Scharfsinnige Menschen sehen Details."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przenikliwi ludzie widzą szczegóły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes perspicaces voient les détails."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas perspicazes veem detalhes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone perspicaci vedono i dettagli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans skarpsinnighet imponerar mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його проникливість вражає мене."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His perceptiveness impresses me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su perspicacia me impresiona."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein Scharfsinn beeindruckt mich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego przenikliwość imponuje mi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa perspicacité m'impressionne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A perspicácia dele me impressiona."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua perspicacia mi impressiona."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dum",
+        "translations": {
+            "ukrainian": "дурний",
+            "english": "stupid",
+            "spanish": "estúpido",
+            "german": "dumm",
+            "polish": "głupi",
+            "french": "stupide",
+            "portuguese": "estúpido",
+            "italian": "stupido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var ett dumt misstag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це була дурна помилка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "That was a stupid mistake."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ese fue un error estúpido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das war ein dummer Fehler."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To był głupi błąd."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était une erreur stupide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esse foi um erro estúpido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato un errore stupido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sa något dumt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він сказав щось дурне."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He said something stupid."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él dijo algo estúpido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sagte etwas Dummes."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On powiedział coś głupiego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a dit quelque chose de stupide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele disse algo estúpido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha detto qualcosa di stupido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig dum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся дурним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel stupid."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento estúpido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich dumm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się głupi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens stupide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me sinto estúpido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento stupido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är dumt att tro det."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дурно так думати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's stupid to believe that."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es estúpido creer eso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist dumm, das zu glauben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To głupie w to wierzyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est stupide de croire ça."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É estúpido acreditar nisso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stupido crederci."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "långsam",
+        "translations": {
+            "ukrainian": "повільний",
+            "english": "slow",
+            "spanish": "lento",
+            "german": "langsam",
+            "polish": "wolny",
+            "french": "lent",
+            "portuguese": "lento",
+            "italian": "lento"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilen är långsam."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автомобіль повільний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The car is slow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coche es lento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Auto ist langsam."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samochód jest wolny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La voiture est lente."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carro é lento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La macchina è lenta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är långsam på jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він повільний у роботі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is slow at work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es lento en el trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist langsam bei der Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest wolny w pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est lent au travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é lento no trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è lento nel lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Processen är långsam."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Процес повільний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The process is slow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El proceso es lento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Prozess ist langsam."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Proces jest wolny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le processus est lent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O processo é lento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il processo è lento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Långsam och stadig vinner loppet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повільний і стабільний виграє гонку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Slow and steady wins the race."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Lento y constante gana la carrera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Langsam und stetig gewinnt das Rennen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wolno i stabilnie wygrywa wyścig."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Lent et régulier gagne la course."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Devagar e sempre vence a corrida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lento e costante vince la gara."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tankspridd",
+        "translations": {
+            "ukrainian": "розсіяний",
+            "english": "absent-minded",
+            "spanish": "distraído",
+            "german": "zerstreut",
+            "polish": "roztargniony",
+            "french": "distrait",
+            "portuguese": "distraído",
+            "italian": "distratto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är tankspridd idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він сьогодні розсіяний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is absent-minded today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está distraído hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist heute zerstreut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest dziś roztargniony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est distrait aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está distraído hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è distratto oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är ofta tankspridd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона часто розсіяна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is often absent-minded."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella suele estar distraída."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist oft zerstreut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest często roztargniona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est souvent distraite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está frequentemente distraída."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è spesso distratta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tankspridda människor glömmer saker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Розсіяні люди забувають речі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Absent-minded people forget things."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas distraídas olvidan cosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zerstreute Menschen vergessen Dinge."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Roztargnieni ludzie zapominają rzeczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens distraits oublient des choses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas distraídas esquecem coisas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone distratte dimenticano le cose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag blev tankspridd och glömde nycklarna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я був розсіяний і забув ключі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I was absent-minded and forgot the keys."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estaba distraído y olvidé las llaves."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich war zerstreut und habe die Schlüssel vergessen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Byłem roztargniony i zapomniałem kluczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'étais distrait et j'ai oublié les clés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu estava distraído e esqueci as chaves."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ero distratto e ho dimenticato le chiavi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "irrationell",
+        "translations": {
+            "ukrainian": "ірраціональний",
+            "english": "irrational",
+            "spanish": "irracional",
+            "german": "irrational",
+            "polish": "irracjonalny",
+            "french": "irrationnel",
+            "portuguese": "irracional",
+            "italian": "irrazionale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans beslut var irrationellt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його рішення було ірраціональним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His decision was irrational."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su decisión fue irracional."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Seine Entscheidung war irrational."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego decyzja była irracjonalna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa décision était irrationnelle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A decisão dele foi irracional."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua decisione era irrazionale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Irrationell rädsla kan vara skadlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ірраціональний страх може бути шкідливим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Irrational fear can be harmful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El miedo irracional puede ser dañino."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Irrationale Angst kann schädlich sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Irracjonalny strach może być szkodliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La peur irrationnelle peut être nuisible."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O medo irracional pode ser prejudicial."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La paura irrazionale può essere dannosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Irrationella tankar kan vara farliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ірраціональні думки можуть бути небезпечними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Irrational thoughts can be dangerous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los pensamientos irracionales pueden ser peligrosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Irrationale Gedanken können gefährlich sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Irracjonalne myśli mogą być niebezpieczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pensées irrationnelles peuvent être dangereuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pensamentos irracionais podem ser perigosos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I pensieri irrazionali possono essere pericolosi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon agerade irrationellt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона діяла ірраціонально."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She acted irrationally."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella actuó de manera irracional."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie handelte irrational."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona działała irracjonalnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a agi de manière irrationnelle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela agiu de forma irracional."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha agito in modo irrazionale."
+                    }
+                ]
+            }
+        ]
+    }
+]

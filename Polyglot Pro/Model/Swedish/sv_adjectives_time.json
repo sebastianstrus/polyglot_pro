@@ -1,0 +1,1927 @@
+[
+    {
+        "expression": "ung",
+        "translations": {
+            "ukrainian": "молодий",
+            "english": "young",
+            "spanish": "joven",
+            "german": "jung",
+            "polish": "młody",
+            "french": "jeune",
+            "portuguese": "jovem",
+            "italian": "giovane"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en ung man."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він молодий чоловік."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a young man."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un hombre joven."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein junger Mann."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest młodym mężczyzną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un jeune homme."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um homem jovem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un giovane uomo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De har en ung hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У них молодий пес."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They have a young dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tienen un perro joven."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie haben einen jungen Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mają młodego psa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont un jeune chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles têm um cachorro jovem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno un cane giovane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en ung konstnär."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона молода художниця."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a young artist."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una artista joven."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine junge Künstlerin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest młodą artystką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une jeune artiste."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma artista jovem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una giovane artista."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De unga träden växer snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Молоді дерева швидко ростуть."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The young trees grow quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los árboles jóvenes crecen rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die jungen Bäume wachsen schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Młode drzewa rosną szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les jeunes arbres poussent rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As árvores jovens crescem rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I giovani alberi crescono rapidamente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "gammal",
+        "translations": {
+            "ukrainian": "старий",
+            "english": "old",
+            "spanish": "viejo",
+            "german": "alt",
+            "polish": "stary",
+            "french": "vieux",
+            "portuguese": "velho",
+            "italian": "vecchio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är en gammal bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це старий автомобіль."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is an old car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es un coche viejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ein altes Auto."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To stary samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est une vieille voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É um carro velho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È una macchina vecchia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon bor i ett gammalt hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона живе в старому будинку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She lives in an old house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella vive en una casa vieja."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wohnt in einem alten Haus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona mieszka w starym domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle vit dans une vieille maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela mora em uma casa velha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei vive in una casa vecchia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den gamla katten sover mycket."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Старий кіт багато спить."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The old cat sleeps a lot."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El gato viejo duerme mucho."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die alte Katze schläft viel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stary kot dużo śpi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vieux chat dort beaucoup."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O gato velho dorme muito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il gatto vecchio dorme molto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gamla böcker kan vara värdefulla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Старі книги можуть бути цінними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Old books can be valuable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los libros viejos pueden ser valiosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Alte Bücher können wertvoll sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stare książki mogą być cenne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les vieux livres peuvent être précieux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os livros velhos podem ser valiosos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I libri vecchi possono essere preziosi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "medelålders",
+        "translations": {
+            "ukrainian": "середнього віку",
+            "english": "middle-aged",
+            "spanish": "de mediana edad",
+            "german": "mittleren Alters",
+            "polish": "w średnim wieku",
+            "french": "d'âge moyen",
+            "portuguese": "de meia-idade",
+            "italian": "di mezza età"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en medelålders man."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він чоловік середнього віку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a middle-aged man."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un hombre de mediana edad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein Mann mittleren Alters."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest mężczyzną w średnim wieku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un homme d'âge moyen."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um homem de meia-idade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un uomo di mezza età."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Medelålders kvinnor är ofta mycket aktiva."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Жінки середнього віку часто дуже активні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Middle-aged women are often very active."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las mujeres de mediana edad suelen ser muy activas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Frauen mittleren Alters sind oft sehr aktiv."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kobiety w średnim wieku są często bardzo aktywne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les femmes d'âge moyen sont souvent très actives."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Mulheres de meia-idade são frequentemente muito ativas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le donne di mezza età sono spesso molto attive."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De flesta medelålders människor har redan karriär."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Більшість людей середнього віку вже мають кар'єру."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Most middle-aged people already have a career."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La mayoría de las personas de mediana edad ya tienen una carrera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die meisten Menschen mittleren Alters haben bereits eine Karriere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Większość ludzi w średnim wieku ma już karierę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La plupart des personnes d'âge moyen ont déjà une carrière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A maioria das pessoas de meia-idade já tem uma carreira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La maggior parte delle persone di mezza età ha già una carriera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Medelålders par reser ofta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пари середнього віку часто подорожують."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Middle-aged couples often travel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las parejas de mediana edad suelen viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Paare mittleren Alters reisen oft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pary w średnim wieku często podróżują."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les couples d'âge moyen voyagent souvent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Casais de meia-idade costumam viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le coppie di mezza età viaggiano spesso."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "nyfödd",
+        "translations": {
+            "ukrainian": "новонароджений",
+            "english": "newborn",
+            "spanish": "recién nacido",
+            "german": "neugeboren",
+            "polish": "nowonarodzony",
+            "french": "nouveau-né",
+            "portuguese": "recém-nascido",
+            "italian": "neonato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är en nyfödd bebis."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це новонароджена дитина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is a newborn baby."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es un bebé recién nacido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ein neugeborenes Baby."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To nowonarodzone dziecko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un bébé nouveau-né."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É um bebê recém-nascido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È un neonato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Nyfödda barn sover mycket."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Новонароджені діти багато сплять."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Newborn babies sleep a lot."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los bebés recién nacidos duermen mucho."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Neugeborene Babys schlafen viel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nowonarodzone dzieci dużo śpią."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les bébés nouveau-nés dorment beaucoup."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bebês recém-nascidos dormem muito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I neonati dormono molto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är mamma till en nyfödd flicka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона мама новонародженої дівчинки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is the mother of a newborn girl."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es la madre de una niña recién nacida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist die Mutter eines neugeborenen Mädchens."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest mamą nowonarodzonej dziewczynki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est la mère d'une fille nouveau-née."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é a mãe de uma menina recém-nascida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è la madre di una neonata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Nyfödda kattungar är mycket små."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Новонароджені кошенята дуже маленькі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Newborn kittens are very small."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los gatitos recién nacidos son muy pequeños."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Neugeborene Kätzchen sind sehr klein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nowonarodzone kocięta są bardzo małe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les chatons nouveau-nés sont très petits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os gatinhos recém-nascidos são muito pequenos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I gattini neonati sono molto piccoli."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "uråldrig",
+        "translations": {
+            "ukrainian": "давній",
+            "english": "ancient",
+            "spanish": "antiguo",
+            "german": "uralt",
+            "polish": "starożytny",
+            "french": "ancien",
+            "portuguese": "antigo",
+            "italian": "antico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är en uråldrig stad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це давнє місто."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is an ancient city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es una ciudad antigua."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist eine uralte Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To starożytne miasto."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est une ville ancienne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É uma cidade antiga."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È una città antica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Uråldriga träd kan vara väldigt höga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Древні дерева можуть бути дуже високими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Ancient trees can be very tall."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los árboles antiguos pueden ser muy altos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Uralte Bäume können sehr hoch sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Starożytne drzewa mogą być bardzo wysokie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les arbres anciens peuvent être très hauts."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Árvores antigas podem ser muito altas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli alberi antichi possono essere molto alti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Uråldriga traditioner lever kvar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Древні традиції продовжують жити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Ancient traditions live on."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las tradiciones antiguas perduran."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Uralte Traditionen leben weiter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Starożytne tradycje przetrwały."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les traditions anciennes perdurent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tradições antigas sobrevivem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le tradizioni antiche sopravvivono."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Uråldriga böcker är mycket värdefulla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Древні книги дуже цінні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Ancient books are very valuable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los libros antiguos son muy valiosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Uralte Bücher sind sehr wertvoll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Starożytne książki są bardzo cenne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les livres anciens sont très précieux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Livros antigos são muito valiosos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I libri antichi sono molto preziosi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tidig",
+        "translations": {
+            "ukrainian": "ранній",
+            "english": "early",
+            "spanish": "temprano",
+            "german": "früh",
+            "polish": "wczesny",
+            "french": "précoce",
+            "portuguese": "cedo",
+            "italian": "precoce"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar tidiga morgnar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобаються ранні ранки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like early mornings."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gustan las mañanas tempranas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag frühe Morgen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię wczesne poranki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime les matins précoces."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto de manhãs cedo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piacciono le mattine precoci."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tidiga fåglar fångar masken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ранні птахи ловлять черв'яка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Early birds catch the worm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los pájaros madrugadores atrapan el gusano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der frühe Vogel fängt den Wurm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wczesny ptaszek łapie robaka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'oiseau précoce attrape le ver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pássaro madrugador pega a minhoca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mattino ha l'oro in bocca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tidig vår är vacker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рання весна прекрасна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Early spring is beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La primavera temprana es hermosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der frühe Frühling ist schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wczesna wiosna jest piękna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le printemps précoce est magnifique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A primavera cedo é linda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La primavera precoce è bellissima."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tidiga blommor blommar i mars."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ранні квіти розквітають у березні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Early flowers bloom in March."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las flores tempranas florecen en marzo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Frühe Blumen blühen im März."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wczesne kwiaty kwitną w marcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fleurs précoces fleurissent en mars."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As flores cedo florescem em março."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I fiori precoci fioriscono a marzo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sen",
+        "translations": {
+            "ukrainian": "пізній",
+            "english": "late",
+            "spanish": "tarde",
+            "german": "spät",
+            "polish": "późny",
+            "french": "tard",
+            "portuguese": "tarde",
+            "italian": "tardi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kom hem sent igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я повернувся додому пізно вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I came home late yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Llegué a casa tarde ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich kam gestern spät nach Hause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wróciłem do domu późno wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis rentré tard hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cheguei em casa tarde ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono tornato a casa tardi ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sen höst är ofta regnig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пізня осінь часто дощова."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Late autumn is often rainy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El otoño tardío suele ser lluvioso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der späte Herbst ist oft regnerisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Późna jesień jest często deszczowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'automne tardif est souvent pluvieux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O outono tardio é frequentemente chuvoso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autunno tardivo è spesso piovoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sen natt är perfekt för stjärnskådning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пізня ніч ідеальна для спостереження за зірками."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Late night is perfect for stargazing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La noche tardía es perfecta para observar las estrellas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die späte Nacht ist perfekt zum Sternegucken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Późna noc jest idealna do obserwacji gwiazd."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nuit tardive est parfaite pour observer les étoiles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A noite tardia é perfeita para observar as estrelas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La notte tardiva è perfetta per osservare le stelle."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sen middag är vanligt i Spanien."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пізня вечеря є звичайною в Іспанії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Late dinner is common in Spain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cena tardía es común en España."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Spätes Abendessen ist in Spanien üblich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Późna kolacja jest powszechna w Hiszpanii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le dîner tardif est courant en Espagne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O jantar tardio é comum na Espanha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cena tardiva è comune in Spagna."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "snabb",
+        "translations": {
+            "ukrainian": "швидкий",
+            "english": "fast",
+            "spanish": "rápido",
+            "german": "schnell",
+            "polish": "szybki",
+            "french": "rapide",
+            "portuguese": "rápido",
+            "italian": "veloce"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en snabb löpare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він швидкий бігун."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a fast runner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un corredor rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein schneller Läufer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest szybkim biegaczem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un coureur rapide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um corredor rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un corridore veloce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snabb mat är inte alltid hälsosam."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Швидка їжа не завжди корисна для здоров'я."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fast food is not always healthy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La comida rápida no siempre es saludable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schnelles Essen ist nicht immer gesund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szybkie jedzenie nie zawsze jest zdrowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nourriture rapide n'est pas toujours saine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comida rápida nem sempre é saudável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cibo veloce non è sempre salutare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snabb internet är viktigt idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Швидкий інтернет важливий сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fast internet is important today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Internet rápido es importante hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schnelles Internet ist heute wichtig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szybki internet jest ważny dzisiaj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Internet rapide est important aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Internet rápido é importante hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Internet veloce è importante oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snabb service är viktigt för kunderna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Швидке обслуговування важливе для клієнтів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fast service is important for customers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El servicio rápido es importante para los clientes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schneller Service ist wichtig für Kunden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szybka obsługa jest ważna dla klientów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un service rapide est important pour les clients."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Serviço rápido é importante para os clientes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Un servizio veloce è importante per i clienti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "långsam",
+        "translations": {
+            "ukrainian": "повільний",
+            "english": "slow",
+            "spanish": "lento",
+            "german": "langsam",
+            "polish": "wolny",
+            "french": "lent",
+            "portuguese": "lento",
+            "italian": "lento"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en långsam löpare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він повільний бігун."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a slow runner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un corredor lento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein langsamer Läufer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest wolnym biegaczem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un coureur lent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um corredor lento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un corridore lento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Långsam internet är frustrerande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повільний інтернет розчаровує."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Slow internet is frustrating."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Internet lento es frustrante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Langsames Internet ist frustrierend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wolny internet jest frustrujący."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Internet lent est frustrant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Internet lento é frustrante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Internet lento è frustrante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Långsam matlagning kan ge bättre smak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повільне приготування їжі може дати кращий смак."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Slow cooking can give better flavor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cocción lenta puede dar mejor sabor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Langsames Kochen kann besseren Geschmack geben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wolne gotowanie może dać lepszy smak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La cuisson lente peut donner un meilleur goût."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cozinhar lentamente pode dar um sabor melhor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cottura lenta può dare un sapore migliore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Långsam musik är avkopplande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повільна музика розслабляє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Slow music is relaxing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La música lenta es relajante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Langsame Musik ist entspannend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wolna muzyka jest relaksująca."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La musique lente est relaxante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Música lenta é relaxante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La musica lenta è rilassante."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tillfällig",
+        "translations": {
+            "ukrainian": "тимчасовий",
+            "english": "temporary",
+            "spanish": "temporal",
+            "german": "vorübergehend",
+            "polish": "tymczasowy",
+            "french": "temporaire",
+            "portuguese": "temporário",
+            "italian": "temporaneo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är en tillfällig lösning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це тимчасове рішення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is a temporary solution."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es una solución temporal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist eine vorübergehende Lösung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To tymczasowe rozwiązanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est une solution temporaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É uma solução temporária."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È una soluzione temporanea."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har ett tillfälligt jobb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене тимчасова робота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a temporary job."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo un trabajo temporal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe einen vorübergehenden Job."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam tymczasową pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai un travail temporaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho um trabalho temporário."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho un lavoro temporaneo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tillfälligt boende är ofta dyrt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тимчасове житло часто дороге."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Temporary accommodation is often expensive."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El alojamiento temporal suele ser caro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vorübergehende Unterkunft ist oft teuer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tymczasowe zakwaterowanie jest często drogie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un logement temporaire est souvent cher."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Acomodação temporária é frequentemente cara."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'alloggio temporaneo è spesso costoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tillfällig glädje kan vara bedräglig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тимчасова радість може бути оманливою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Temporary joy can be deceptive."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La alegría temporal puede ser engañosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vorübergehende Freude kann trügerisch sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tymczasowa radość może być zwodnicza."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La joie temporaire peut être trompeuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A alegria temporária pode ser enganosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La gioia temporanea può essere ingannevole."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "evig",
+        "translations": {
+            "ukrainian": "вічний",
+            "english": "eternal",
+            "spanish": "eterno",
+            "german": "ewig",
+            "polish": "wieczny",
+            "french": "éternel",
+            "portuguese": "eterno",
+            "italian": "eterno"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kärleken är evig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Любов вічна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Love is eternal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El amor es eterno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Liebe ist ewig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miłość jest wieczna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'amour est éternel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O amor é eterno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'amore è eterno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Evig fred är en dröm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вічний мир – це мрія."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Eternal peace is a dream."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La paz eterna es un sueño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ewiger Frieden ist ein Traum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wieczny pokój to marzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La paix éternelle est un rêve."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A paz eterna é um sonho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pace eterna è un sogno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Evig vänskap är sällsynt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вічна дружба рідкісна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Eternal friendship is rare."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La amistad eterna es rara."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ewige Freundschaft ist selten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wieczna przyjaźń jest rzadka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'amitié éternelle est rare."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A amizade eterna é rara."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'amicizia eterna è rara."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Evig glädje finns inte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вічної радості не існує."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Eternal joy does not exist."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La alegría eterna no existe."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ewige Freude gibt es nicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wiecznej radości nie ma."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La joie éternelle n'existe pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A alegria eterna não existe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La gioia eterna non esiste."
+                    }
+                ]
+            }
+        ]
+    }
+]

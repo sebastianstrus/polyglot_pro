@@ -1,0 +1,2103 @@
+[
+    {
+        "expression": "pågå",
+        "translations": {
+            "ukrainian": "відбуватися",
+            "english": "take place",
+            "spanish": "tener lugar",
+            "german": "stattfinden",
+            "polish": "odbywać się",
+            "french": "avoir lieu",
+            "portuguese": "ocorrer",
+            "italian": "avere luogo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mötet pågår just nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зустріч зараз відбувається."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The meeting is taking place right now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La reunión está teniendo lugar ahora mismo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Meeting findet gerade statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spotkanie odbywa się właśnie teraz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réunion a lieu en ce moment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A reunião está ocorrendo agora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La riunione sta avendo luogo proprio ora."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Festivalen pågår hela veckan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фестиваль триває весь тиждень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The festival is taking place all week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El festival tiene lugar toda la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Festival findet die ganze Woche statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Festival odbywa się przez cały tydzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le festival a lieu toute la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O festival ocorre durante toda a semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il festival si svolge per tutta la settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Renoveringen pågår fortfarande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ремонт все ще триває."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The renovation is still taking place."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La renovación todavía está teniendo lugar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Renovierung findet immer noch statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Remont wciąż trwa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La rénovation a toujours lieu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A reforma ainda está ocorrendo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ristrutturazione è ancora in corso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Diskussionen pågår i salen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Обговорення відбувається в залі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The discussion is taking place in the hall."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La discusión tiene lugar en el salón."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Diskussion findet im Saal statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dyskusja odbywa się w sali."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La discussion a lieu dans la salle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A discussão está ocorrendo no salão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La discussione si svolge nella sala."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "passera",
+        "translations": {
+            "ukrainian": "проходити",
+            "english": "pass",
+            "spanish": "pasar",
+            "german": "vorbeigehen",
+            "polish": "mijać",
+            "french": "passer",
+            "portuguese": "passar",
+            "italian": "passare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tåget passerar stationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поїзд проходить повз станцію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train passes the station."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tren pasa por la estación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Zug fährt am Bahnhof vorbei."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pociąg mija stację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le train passe la gare."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trem passa pela estação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il treno passa la stazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han passerade mig på gatan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він пройшов повз мене на вулиці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He passed me on the street."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él me pasó en la calle."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ging an mir auf der Straße vorbei."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Minął mnie na ulicy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il m'a dépassé dans la rue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele passou por mim na rua."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi ha superato per strada."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tiden passerar snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Час минає швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Time passes quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tiempo pasa rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Zeit vergeht schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czas mija szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps passe vite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo passa rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo passa velocemente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilen passerade huset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автомобіль проїхав повз будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The car passed the house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coche pasó por la casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Auto fuhr am Haus vorbei."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samochód minął dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La voiture est passée devant la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carro passou pela casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La macchina è passata davanti alla casa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "börja",
+        "translations": {
+            "ukrainian": "починати",
+            "english": "start",
+            "spanish": "empezar",
+            "german": "anfangen",
+            "polish": "zaczynać",
+            "french": "commencer",
+            "portuguese": "começar",
+            "italian": "iniziare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi börjar mötet kl. 10."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми починаємо зустріч о 10."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We start the meeting at 10."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Empezamos la reunión a las 10."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir beginnen das Meeting um 10 Uhr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zaczynamy spotkanie o 10."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous commençons la réunion à 10 heures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Começamos a reunião às 10."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Iniziamo la riunione alle 10."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han började skriva en bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він почав писати книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He started writing a book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él empezó a escribir un libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er begann ein Buch zu schreiben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zaczął pisać książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a commencé à écrire un livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele começou a escrever um livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha iniziato a scrivere un libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Filmen börjar snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фільм скоро почнеться."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The movie starts soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La película empieza pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Film fängt bald an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Film zaczyna się wkrótce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film commence bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme começa logo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il film inizia presto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag börjar träna imorgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я починаю тренуватися завтра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I start training tomorrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Empiezo a entrenar mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fange morgen an zu trainieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zaczynam trenować jutro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je commence à m'entraîner demain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu começo a treinar amanhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Inizio ad allenarmi domani."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sluta",
+        "translations": {
+            "ukrainian": "припиняти",
+            "english": "stop",
+            "spanish": "parar",
+            "german": "aufhören",
+            "polish": "przestawać",
+            "french": "arrêter",
+            "portuguese": "parar",
+            "italian": "smettere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sluta prata!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Припиніть говорити!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stop talking!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Deja de hablar!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hör auf zu reden!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przestań mówić!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Arrête de parler!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pare de falar!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Smetti di parlare!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon slutade röka förra månaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона припинила курити минулого місяця."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She stopped smoking last month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dejó de fumar el mes pasado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat letzten Monat aufgehört zu rauchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona przestała palić w zeszłym miesiącu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a arrêté de fumer le mois dernier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parou de fumar no mês passado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha smesso di fumare il mese scorso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Regnet slutade äntligen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дощ нарешті припинився."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The rain finally stopped."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La lluvia finalmente paró."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Regen hat endlich aufgehört."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Deszcz wreszcie przestał."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pluie s'est enfin arrêtée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A chuva finalmente parou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pioggia finalmente è cessata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste sluta med det här."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні припинити це."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We have to stop this."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que parar esto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen damit aufhören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy to przestać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons arrêter ça."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Temos que parar com isso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo smetterla."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fortsätta",
+        "translations": {
+            "ukrainian": "продовжувати",
+            "english": "continue",
+            "spanish": "continuar",
+            "german": "fortsetzen",
+            "polish": "kontynuować",
+            "french": "continuer",
+            "portuguese": "continuar",
+            "italian": "continuare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi fortsätter imorgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми продовжимо завтра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We will continue tomorrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Continuaremos mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir werden morgen fortfahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będziemy kontynuować jutro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous continuerons demain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos continuar amanhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Continueremo domani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han fortsätter att arbeta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він продовжує працювати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He continues to work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él continúa trabajando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er arbeitet weiter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On kontynuuje pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il continue à travailler."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele continua a trabalhar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Continua a lavorare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fortsätt läsa boken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Продовжуйте читати книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Continue reading the book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Continúa leyendo el libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lies das Buch weiter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kontynuuj czytanie książki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Continue à lire le livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Continue lendo o livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Continua a leggere il libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De fortsätter att sjunga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони продовжують співати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They continue to sing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos continúan cantando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie singen weiter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni kontynuują śpiewanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils continuent à chanter."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles continuam a cantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Continuano a cantare."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "stoppa",
+        "translations": {
+            "ukrainian": "зупиняти",
+            "english": "stop",
+            "spanish": "detener",
+            "german": "stoppen",
+            "polish": "zatrzymywać",
+            "french": "arrêter",
+            "portuguese": "parar",
+            "italian": "fermare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stoppa bilen!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зупиніть машину!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stop the car!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Detén el coche!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Stopp das Auto!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zatrzymaj samochód!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Arrête la voiture!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pare o carro!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ferma la macchina!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han stoppade mig på gatan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він зупинив мене на вулиці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He stopped me on the street."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él me detuvo en la calle."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat mich auf der Straße gestoppt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zatrzymał mnie na ulicy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il m'a arrêté dans la rue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele me parou na rua."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi ha fermato per strada."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tåget stoppade vid stationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поїзд зупинився на станції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train stopped at the station."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tren se detuvo en la estación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Zug hielt am Bahnhof an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pociąg zatrzymał się na stacji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le train s'est arrêté à la gare."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trem parou na estação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il treno si è fermato alla stazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stoppa honom!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зупиніть його!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stop him!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Deténlo!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Stopp ihn!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zatrzymaj go!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Arrête-le!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pare ele!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fermalo!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "påskynda",
+        "translations": {
+            "ukrainian": "прискорювати",
+            "english": "accelerate",
+            "spanish": "acelerar",
+            "german": "beschleunigen",
+            "polish": "przyspieszać",
+            "french": "accélérer",
+            "portuguese": "acelerar",
+            "italian": "accelerare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste påskynda processen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні прискорити процес."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to accelerate the process."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que acelerar el proceso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen den Prozess beschleunigen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy przyspieszyć proces."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons accélérer le processus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos acelerar o processo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo accelerare il processo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han påskyndade sina steg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він прискорив свої кроки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He accelerated his steps."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él aceleró sus pasos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er beschleunigte seine Schritte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyspieszył swoje kroki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a accéléré ses pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele acelerou seus passos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha accelerato i suoi passi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Påskynda arbetet!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Прискорьте роботу!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Accelerate the work!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Acelera el trabajo!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Beschleunige die Arbeit!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyspiesz pracę!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Accélère le travail!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Acelere o trabalho!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Accelera il lavoro!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De påskyndade byggandet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони прискорили будівництво."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They accelerated the construction."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos aceleraron la construcción."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie beschleunigten den Bau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyspieszyli budowę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont accéléré la construction."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles aceleraram a construção."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno accelerato la costruzione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "försena",
+        "translations": {
+            "ukrainian": "затримувати",
+            "english": "delay",
+            "spanish": "retrasar",
+            "german": "verzögern",
+            "polish": "opóźniać",
+            "french": "retarder",
+            "portuguese": "atrasar",
+            "italian": "ritardare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tåget försenades på grund av snö."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поїзд затримався через сніг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train was delayed due to snow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tren se retrasó debido a la nieve."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Zug wurde wegen Schnee verzögert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pociąg został opóźniony z powodu śniegu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le train a été retardé à cause de la neige."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trem foi atrasado devido à neve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il treno è stato ritardato a causa della neve."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi försenades av trafiken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми затрималися через трафік."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We were delayed by traffic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos retrasamos por el tráfico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wurden durch den Verkehr verzögert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zostaliśmy opóźnieni przez ruch uliczny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons été retardés par la circulation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Fomos atrasados pelo trânsito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo stati ritardati dal traffico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Försena inte projektet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Не затримуйте проект."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Don't delay the project."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No retrases el proyecto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Verzögere das Projekt nicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie opóźniaj projektu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ne retardez pas le projet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não atrase o projeto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non ritardare il progetto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Flyget försenades på grund av storm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рейс затримався через бурю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flight was delayed due to the storm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vuelo se retrasó debido a la tormenta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Flug wurde wegen des Sturms verzögert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lot został opóźniony z powodu burzy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vol a été retardé à cause de la tempête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O voo foi atrasado devido à tempestade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il volo è stato ritardato a causa della tempesta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vänta",
+        "translations": {
+            "ukrainian": "чекати",
+            "english": "wait",
+            "spanish": "esperar",
+            "german": "warten",
+            "polish": "czekać",
+            "french": "attendre",
+            "portuguese": "esperar",
+            "italian": "aspettare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vänta här!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чекайте тут!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Wait here!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Espera aquí!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Warte hier!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekaj tutaj!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Attends ici!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Espere aqui!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Aspetta qui!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag väntar på bussen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я чекаю на автобус."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am waiting for the bus."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy esperando el autobús."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich warte auf den Bus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekam na autobus."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'attends le bus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou esperando o ônibus."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto aspettando l'autobus."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi väntar på dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми чекаємо на тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are waiting for you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te estamos esperando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir warten auf dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekamy na ciebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous t'attendons."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos esperando por você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti stiamo aspettando."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vänta lite!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Почекайте трохи!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Wait a little!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Espera un poco!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Warte ein bisschen!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poczekaj chwilę!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Attends un peu!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Espere um pouco!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Aspetta un po'!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "komma",
+        "translations": {
+            "ukrainian": "приходити",
+            "english": "come",
+            "spanish": "venir",
+            "german": "kommen",
+            "polish": "przychodzić",
+            "french": "venir",
+            "portuguese": "vir",
+            "italian": "venire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kom hit!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Іди сюди!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Come here!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Ven aquí!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Komm her!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chodź tutaj!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Viens ici!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Venha aqui!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vieni qui!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han kommer snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він скоро прийде."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is coming soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él viene pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kommt bald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wkrótce przyjdzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il arrive bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está vindo logo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui sta arrivando presto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi kommer från Sverige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми приїхали зі Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We come from Sweden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Venimos de Suecia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir kommen aus Schweden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyjechaliśmy ze Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous venons de Suède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós viemos da Suécia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Veniamo dalla Svezia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kommer du ikväll?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти прийдеш сьогодні ввечері?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Are you coming tonight?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Vienes esta noche?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kommst du heute Abend?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyjdziesz dziś wieczorem?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu viens ce soir ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você vem hoje à noite?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vieni stasera?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sträcka",
+        "translations": {
+            "ukrainian": "тягнути",
+            "english": "stretch",
+            "spanish": "estirar",
+            "german": "strecken",
+            "polish": "rozciągać",
+            "french": "étirer",
+            "portuguese": "esticar",
+            "italian": "allungare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sträck ut armen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Витягни руку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stretch out your arm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estira el brazo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Streck den Arm aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyciągnij rękę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Étire ton bras."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estique o braço."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Allunga il braccio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sträckte på sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він потягнувся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He stretched."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se estiró."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er streckte sich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On się rozciągnął."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il s'est étiré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele se esticou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è allungato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sträck på benen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Потягніть ноги."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stretch your legs."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estira las piernas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Streck die Beine."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozciągnij nogi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Étire tes jambes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estique as pernas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Allunga le gambe."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sträck ut mattan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Розтягніть килим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stretch out the rug."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estira la alfombra."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Streck den Teppich aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozciągnij dywan."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Étire le tapis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estique o tapete."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Allunga il tappeto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "försvinna",
+        "translations": {
+            "ukrainian": "зникати",
+            "english": "disappear",
+            "spanish": "desaparecer",
+            "german": "verschwinden",
+            "polish": "znikać",
+            "french": "disparaître",
+            "portuguese": "desaparecer",
+            "italian": "scomparire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han försvann plötsligt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він раптово зник."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He suddenly disappeared."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él desapareció de repente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er verschwand plötzlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On nagle zniknął."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a soudainement disparu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele desapareceu de repente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È improvvisamente scomparso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Försvann den?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зникла?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Did it disappear?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Desapareció?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ist es verschwunden?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy to zniknęło?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "A-t-il disparu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele desapareceu?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È scomparso?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Försvinn!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зникни!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Disappear!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Desaparece!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Verschwinde!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zniknij!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Disparais !"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Desapareça!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sparisci!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Försvann pengarna?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гроші зникли?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Did the money disappear?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Desapareció el dinero?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ist das Geld verschwunden?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy pieniądze zniknęły?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'argent a-t-il disparu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O dinheiro desapareceu?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il denaro è scomparso?"
+                    }
+                ]
+            }
+        ]
+    }
+]
+

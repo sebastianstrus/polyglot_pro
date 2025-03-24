@@ -1,0 +1,1752 @@
+[
+    {
+        "expression": "söt",
+        "translations": {
+            "ukrainian": "солодкий",
+            "english": "sweet",
+            "spanish": "dulce",
+            "german": "süß",
+            "polish": "słodki",
+            "french": "doux",
+            "portuguese": "doce",
+            "italian": "dolce"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en söt flicka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона мила дівчинка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a sweet girl."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una chica dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist ein süßes Mädchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest słodką dziewczynką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une fille douce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma garota doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una ragazza dolce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kakan är väldigt söt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Торт дуже солодкий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cake is very sweet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pastel es muy dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kuchen ist sehr süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ciasto jest bardzo słodkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le gâteau est très doux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O bolo é muito doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La torta è molto dolce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en söt hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього милий пес."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has a sweet dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene un perro dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat einen süßen Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma słodkiego psa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a un chien doux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem um cachorro doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha un cane dolce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var en söt gest."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це був милий жест."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was a sweet gesture."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue un gesto dulce."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es war eine süße Geste."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To był słodki gest."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était un geste doux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi um gesto doce."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato un gesto dolce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sur",
+        "translations": {
+            "ukrainian": "кислий",
+            "english": "sour",
+            "spanish": "agrio",
+            "german": "sauer",
+            "polish": "kwaśny",
+            "french": "aigre",
+            "portuguese": "azedo",
+            "italian": "aspro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Citronen är sur."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лимон кислий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The lemon is sour."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El limón es agrio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Zitrone ist sauer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cytryna jest kwaśna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le citron est aigre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O limão é azedo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il limone è aspro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar inte sur mjölk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені не подобається кисле молоко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I don't like sour milk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No me gusta la leche agria."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag keine saure Milch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie lubię kwaśnego mleka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je n'aime pas le lait aigre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não gosto de leite azedo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non mi piace il latte acido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Surströmming är en svensk specialitet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сюрстремінг — це шведський спеціалітет."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Surströmming is a Swedish specialty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El surströmming es una especialidad sueca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Surströmming ist eine schwedische Spezialität."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Surströmming to szwedzki specjał."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le surströmming est une spécialité suédoise."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Surströmming é uma especialidade sueca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il surströmming è una specialità svedese."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gjorde en sur min."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зробила кислу мину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She made a sour face."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella puso una cara agria."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie machte ein saures Gesicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrobiła kwaśną minę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a fait une grimace aigre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela fez uma cara azeda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha fatto una faccia acida."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "salt",
+        "translations": {
+            "ukrainian": "солоний",
+            "english": "salty",
+            "spanish": "salado",
+            "german": "salzig",
+            "polish": "słony",
+            "french": "salé",
+            "portuguese": "salgado",
+            "italian": "salato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Havsvattnet är salt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Морська вода солона."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The seawater is salty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua del mar es salada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Meerwasser ist salzig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Woda morska jest słona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau de mer est salée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A água do mar é salgada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'acqua di mare è salata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Maten var för salt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їжа була занадто солона."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The food was too salty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La comida estaba demasiado salada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Essen war zu salzig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jedzenie było za słone."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nourriture était trop salée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A comida estava muito salgada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cibo era troppo salato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar salt popcorn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається солоний попкорн."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like salty popcorn."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gustan las palomitas saladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag salziges Popcorn."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię słone popcorn."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime le popcorn salé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto de pipoca salgada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace il popcorn salato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Salt är viktigt för kroppen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сіль важлива для організму."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Salt is important for the body."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La sal es importante para el cuerpo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Salz ist wichtig für den Körper."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sól jest ważna dla organizmu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le sel est important pour le corps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O sal é importante para o corpo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sale è importante per il corpo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "besk",
+        "translations": {
+            "ukrainian": "гіркий",
+            "english": "bitter",
+            "spanish": "amargo",
+            "german": "bitter",
+            "polish": "gorzki",
+            "french": "amer",
+            "portuguese": "amargo",
+            "italian": "amaro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kaffet är för beskt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кава занадто гірка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The coffee is too bitter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El café es demasiado amargo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kaffee ist zu bitter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kawa jest za gorzka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le café est trop amer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O café é muito amargo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il caffè è troppo amaro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Läkemedlet smakar beskt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ліки мають гіркий смак."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The medicine tastes bitter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El medicamento sabe amargo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Medizin schmeckt bitter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lek ma gorzki smak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le médicament a un goût amer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O remédio tem um gosto amargo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La medicina ha un sapore amaro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hade en besk smak i munnen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї був гіркий смак у роті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She had a bitter taste in her mouth."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tenía un sabor amargo en la boca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hatte einen bitteren Geschmack im Mund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miała gorzki smak w ustach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait un goût amer dans la bouche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tinha um gosto amargo na boca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei aveva un sapore amaro in bocca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Besk choklad är populärt i vissa länder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гіркий шоколад популярний у деяких країнах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bitter chocolate is popular in some countries."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El chocolate amargo es popular en algunos países."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bitterschokolade ist in einigen Ländern beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gorzka czekolada jest popularna w niektórych krajach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chocolat amer est populaire dans certains pays."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O chocolate amargo é popular em alguns países."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cioccolato amaro è popolare in alcuni paesi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kryddig",
+        "translations": {
+            "ukrainian": "пряний",
+            "english": "spicy",
+            "spanish": "picante",
+            "german": "würzig",
+            "polish": "pikantny",
+            "french": "épicé",
+            "portuguese": "temperado",
+            "italian": "speziato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Maten är väldigt kryddig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їжа дуже пряна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The food is very spicy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La comida es muy picante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Essen ist sehr würzig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jedzenie jest bardzo pikantne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nourriture est très épicée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A comida é muito temperada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cibo è molto speziato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar kryddig mat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається пряна їжа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like spicy food."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta la comida picante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag würziges Essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię pikantne jedzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime la nourriture épicée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto de comida temperada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace il cibo speziato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kryddig soppa är populär på vintern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пряний суп популярний взимку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Spicy soup is popular in winter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La sopa picante es popular en invierno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Würzige Suppe ist im Winter beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pikantna zupa jest popularna zimą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La soupe épicée est populaire en hiver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sopa temperada é popular no inverno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La zuppa speziata è popolare in inverno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kryddig curry är min favoriträtt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пряне карі — моя улюблена страва."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Spicy curry is my favorite dish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El curry picante es mi plato favorito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Würziges Curry ist mein Lieblingsgericht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pikantne curry to moje ulubione danie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le curry épicé est mon plat préféré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Curry temperado é meu prato favorito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il curry speziato è il mio piatto preferito."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "mild",
+        "translations": {
+            "ukrainian": "м'який",
+            "english": "mild",
+            "spanish": "suave",
+            "german": "mild",
+            "polish": "łagodny",
+            "french": "doux",
+            "portuguese": "suave",
+            "italian": "mite"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vädret är mildt idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні погода м'яка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The weather is mild today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima es suave hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wetter ist heute mild."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pogoda jest dziś łagodna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps est doux aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O clima está suave hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo è mite oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en mild personlighet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї м'який характер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a mild personality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una personalidad suave."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine milde Persönlichkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma łagodną osobowość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une personnalité douce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma personalidade suave."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una personalità mite."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mild sås passar bra till kyckling."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "М'який соус добре підходить до курки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Mild sauce goes well with chicken."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La salsa suave va bien con el pollo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Milde Sauce passt gut zu Hühnchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Łagodny sos pasuje do kurczaka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La sauce douce va bien avec le poulet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Molho suave combina bem com frango."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La salsa mite si abbina bene al pollo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mild tvål är bra för känslig hud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "М'яке мило добре підходить для чутливої шкіри."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Mild soap is good for sensitive skin."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El jabón suave es bueno para la piel sensible."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Milde Seife ist gut für empfindliche Haut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Łagodne mydło jest dobre dla wrażliwej skóry."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le savon doux est bon pour la peau sensible."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sabão suave é bom para pele sensível."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sapone mite è buono per la pelle sensibile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "väldoftande",
+        "translations": {
+            "ukrainian": "ароматний",
+            "english": "fragrant",
+            "spanish": "aromático",
+            "german": "duftend",
+            "polish": "pachnący",
+            "french": "parfumé",
+            "portuguese": "aromático",
+            "italian": "profumato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blommorna är väldoftande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квіти ароматні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flowers are fragrant."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las flores son aromáticas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Blumen sind duftend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kwiaty są pachnące."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fleurs sont parfumées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As flores são aromáticas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I fiori sono profumati."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon använder väldoftande parfym."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона використовує ароматні парфуми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She uses fragrant perfume."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella usa perfume aromático."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verwendet duftendes Parfüm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona używa pachnących perfum."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle utilise un parfum parfumé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela usa perfume aromático."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei usa un profumo profumato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Väldoftande ljus är populära under julen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ароматні свічки популярні під час Різдва."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fragrant candles are popular during Christmas."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las velas aromáticas son populares durante la Navidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Duftende Kerzen sind in der Weihnachtszeit beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachnące świece są popularne w czasie świąt Bożego Narodzenia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les bougies parfumées sont populaires pendant Noël."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Velas aromáticas são populares durante o Natal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le candele profumate sono popolari durante il Natale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Väldoftande örter används i matlagning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ароматні трави використовуються в кулінарії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fragrant herbs are used in cooking."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las hierbas aromáticas se usan en la cocina."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Duftende Kräuter werden beim Kochen verwendet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachnące zioła są używane w gotowaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les herbes parfumées sont utilisées en cuisine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ervas aromáticas são usadas na culinária."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le erbe profumate sono usate in cucina."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "illaluktande",
+        "translations": {
+            "ukrainian": "смердючий",
+            "english": "foul-smelling",
+            "spanish": "maloliente",
+            "german": "übelriechend",
+            "polish": "cuchnący",
+            "french": "malodorant",
+            "portuguese": "malcheiroso",
+            "italian": "maleodorante"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Soporna är illaluktande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сміття смердить."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The garbage is foul-smelling."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La basura es maloliente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Müll ist übelriechend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śmieci są cuchnące."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les ordures sont malodorantes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O lixo é malcheiroso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La spazzatura è maleodorante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var en illaluktande gas i rummet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У кімнаті був смердючий газ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "There was a foul-smelling gas in the room."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Había un gas maloliente en la habitación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es gab ein übelriechendes Gas im Raum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W pokoju był cuchnący gaz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il y avait un gaz malodorant dans la pièce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Havia um gás malcheiroso no quarto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "C'era un gas maleodorante nella stanza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Illaluktande fisk är inte ätbar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Смердюча риба не їстівна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Foul-smelling fish is not edible."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pescado maloliente no es comestible."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Übelriechender Fisch ist nicht essbar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cuchnąca ryba nie jest jadalna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le poisson malodorant n'est pas comestible."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Peixe malcheiroso não é comestível."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il pesce maleodorante non è commestibile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Illaluktande avlopp är ett problem i staden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Смердючі стоки — це проблема в місті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Foul-smelling sewage is a problem in the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las aguas residuales malolientes son un problema en la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Übelriechende Abwässer sind ein Problem in der Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cuchnące ścieki są problemem w mieście."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les eaux usées malodorantes sont un problème dans la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esgoto malcheiroso é um problema na cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le acque reflue maleodoranti sono un problema in città."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fräsch",
+        "translations": {
+            "ukrainian": "свіжий",
+            "english": "fresh",
+            "spanish": "fresco",
+            "german": "frisch",
+            "polish": "świeży",
+            "french": "frais",
+            "portuguese": "fresco",
+            "italian": "fresco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Luften är fräsch efter regnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повітря свіже після дощу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The air is fresh after the rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire está fresco después de la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Luft ist frisch nach dem Regen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powietrze jest świeże po deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air est frais après la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar está fresco depois da chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria è fresca dopo la pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte fräscha grönsaker på marknaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив свіжі овочі на ринку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought fresh vegetables at the market."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré verduras frescas en el mercado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe frisches Gemüse auf dem Markt gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem świeże warzywa na rynku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté des légumes frais au marché."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu comprei legumes frescos no mercado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato verdure fresche al mercato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en fräsch andedräkt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї свіже дихання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has fresh breath."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene un aliento fresco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat frischen Atem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma świeży oddech."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une haleine fraîche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem um hálito fresco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha un alito fresco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fräscht vatten är viktigt för hälsan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Свіжа вода важлива для здоров'я."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fresh water is important for health."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua fresca es importante para la salud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Frisches Wasser ist wichtig für die Gesundheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Świeża woda jest ważna dla zdrowia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau fraîche est importante pour la santé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Água fresca é importante para a saúde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'acqua fresca è importante per la salute."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "unken",
+        "translations": {
+            "ukrainian": "затхлий",
+            "english": "musty",
+            "spanish": "mohoso",
+            "german": "muffig",
+            "polish": "stęchły",
+            "french": "moisi",
+            "portuguese": "mofado",
+            "italian": "muffito"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Källaren luktar unken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Підвал пахне затхлим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The basement smells musty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El sótano huele a moho."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Keller riecht muffig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piwnica pachnie stęchlizną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le sous-sol sent le moisi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O porão cheira a mofo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cantina odora di muffa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gamla böcker kan lukta unken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Старі книги можуть пахнути затхлим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Old books can smell musty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los libros viejos pueden oler a moho."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Alte Bücher können muffig riechen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stare książki mogą pachnieć stęchlizną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les vieux livres peuvent sentir le moisi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Livros velhos podem cheirar a mofo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I libri vecchi possono odorare di muffa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Unken luft kan vara ohälsosam."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Затхле повітря може бути шкідливим для здоров'я."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Musty air can be unhealthy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire mohoso puede ser poco saludable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Muffige Luft kann ungesund sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stęchłe powietrze może być niezdrowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air moisi peut être malsain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar mofado pode ser prejudicial à saúde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria muffita può essere malsana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Unken lukt kan komma från fuktiga rum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Затхлий запах може йти від вологих приміщень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Musty smell can come from damp rooms."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El olor a moho puede venir de habitaciones húmedas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Muffiger Geruch kann aus feuchten Räumen kommen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stęchły zapach może pochodzić z wilgotnych pomieszczeń."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'odeur de moisi peut venir de pièces humides."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cheiro de mofo pode vir de cômodos úmidos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'odore di muffa può provenire da stanze umide."
+                    }
+                ]
+            }
+        ]
+    }
+]

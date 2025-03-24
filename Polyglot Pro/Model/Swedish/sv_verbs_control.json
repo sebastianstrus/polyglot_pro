@@ -1,0 +1,1752 @@
+[
+    {
+        "expression": "styra",
+        "translations": {
+            "ukrainian": "керувати",
+            "english": "steer",
+            "spanish": "dirigir",
+            "german": "steuern",
+            "polish": "sterować",
+            "french": "diriger",
+            "portuguese": "dirigir",
+            "italian": "guidare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han styrt båten till hamn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він направив човен до порту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He steered the boat to the harbor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él dirigió el barco al puerto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er steuerte das Boot zum Hafen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On skierował łódź do portu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a dirigé le bateau vers le port."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele dirigiu o barco para o porto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha guidato la barca verso il porto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon styrt företaget framgångsrikt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона успішно керувала компанією."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has successfully steered the company."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella ha dirigido la empresa con éxito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat das Unternehmen erfolgreich gesteuert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona skutecznie kierowała firmą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a dirigé l'entreprise avec succès."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela dirigiu a empresa com sucesso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha guidato l'azienda con successo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De styrt projektet mot målet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони направили проект до мети."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They steered the project towards the goal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos dirigieron el proyecto hacia el objetivo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie haben das Projekt zum Ziel gesteuert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni skierowali projekt w kierunku celu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont dirigé le projet vers l'objectif."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles dirigiram o projeto para o objetivo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno guidato il progetto verso l'obiettivo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste styra diskussionen tillbaka till ämnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні повернути обговорення до теми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to steer the discussion back to the topic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que dirigir la discusión de vuelta al tema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen die Diskussion zurück zum Thema lenken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy skierować dyskusję z powrotem na temat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons ramener la discussion au sujet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos direcionar a discussão de volta ao tópico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo riportare la discussione al tema."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kontrollera",
+        "translations": {
+            "ukrainian": "контролювати",
+            "english": "control",
+            "spanish": "controlar",
+            "german": "kontrollieren",
+            "polish": "kontrolować",
+            "french": "contrôler",
+            "portuguese": "controlar",
+            "italian": "controllare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kontrollerar kvaliteten på produkterna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона контролює якість продуктів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She controls the quality of the products."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella controla la calidad de los productos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kontrolliert die Qualität der Produkte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kontroluje jakość produktów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle contrôle la qualité des produits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela controla a qualidade dos produtos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei controlla la qualità dei prodotti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste kontrollera bilen innan resan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні перевірити машину перед поїздкою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to check the car before the trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que controlar el coche antes del viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen das Auto vor der Reise kontrollieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy sprawdzić samochód przed podróżą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons contrôler la voiture avant le voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos verificar o carro antes da viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo controllare la macchina prima del viaggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kontrollerar passen vid gränsen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони перевіряють паспорти на кордоні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They check the passports at the border."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos controlan los pasaportes en la frontera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kontrollieren die Pässe an der Grenze."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni kontrolują paszporty na granicy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils contrôlent les passeports à la frontière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles controlam os passaportes na fronteira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Controllano i passaporti al confine."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kontrollerar att allt är klart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я перевіряю, що все готово."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I check that everything is ready."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo controlo que todo esté listo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich kontrolliere, dass alles bereit ist."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sprawdzam, czy wszystko jest gotowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vérifie que tout est prêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu verifico se tudo está pronto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Controllo che tutto sia pronto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "leda",
+        "translations": {
+            "ukrainian": "вести",
+            "english": "lead",
+            "spanish": "liderar",
+            "german": "führen",
+            "polish": "prowadzić",
+            "french": "diriger",
+            "portuguese": "liderar",
+            "italian": "guidare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han leder teamet till framgång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він веде команду до успіху."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He leads the team to success."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él lidera el equipo hacia el éxito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er führt das Team zum Erfolg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On prowadzi zespół do sukcesu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il dirige l'équipe vers le succès."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele lidera a equipe para o sucesso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui guida la squadra verso il successo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon leder företaget med visdom."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона керує компанією з мудрістю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She leads the company with wisdom."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lidera la empresa con sabiduría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie führt das Unternehmen mit Weisheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona prowadzi firmę z mądrością."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle dirige l'entreprise avec sagesse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela lidera a empresa com sabedoria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei guida l'azienda con saggezza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De leder projektet mot målet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони ведуть проект до мети."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are leading the project towards the goal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos lideran el proyecto hacia el objetivo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie führen das Projekt zum Ziel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni prowadzą projekt w kierunku celu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils dirigent le projet vers l'objectif."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles lideram o projeto para o objetivo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro guidano il progetto verso l'obiettivo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi leder diskussionen tillbaka till ämnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повертаємо обговорення до теми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are leading the discussion back to the topic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos liderando la discusión de vuelta al tema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir führen die Diskussion zurück zum Thema."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Prowadzimy dyskusję z powrotem na temat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous ramenons la discussion au sujet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos liderando a discussão de volta ao tópico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo riportando la discussione al tema."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hantera",
+        "translations": {
+            "ukrainian": "керувати",
+            "english": "handle",
+            "spanish": "manejar",
+            "german": "handhaben",
+            "polish": "zarządzać",
+            "french": "gérer",
+            "portuguese": "gerenciar",
+            "italian": "gestire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hanterar kriser mycket bra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дуже добре справляється з кризами."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She handles crises very well."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella maneja las crisis muy bien."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie handelt Krisen sehr gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona bardzo dobrze radzi sobie z kryzysami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle gère très bien les crises."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela lida muito bem com crises."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei gestisce molto bene le crisi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste hantera situationen försiktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні обережно поводитися в цій ситуації."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to handle the situation carefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que manejar la situación con cuidado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen die Situation vorsichtig handhaben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy ostrożnie zarządzać sytuacją."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons gérer la situation avec précaution."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos lidar com a situação com cuidado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo gestire la situazione con cautela."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De hanterar kundklagomål snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони швидко розбираються зі скаргами клієнтів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They handle customer complaints quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos manejan las quejas de los clientes rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bearbeiten Kundenbeschwerden schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni szybko zajmują się skargami klientów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils traitent rapidement les réclamations des clients."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles lidam rapidamente com reclamações de clientes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro gestiscono rapidamente i reclami dei clienti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag hanterar stress genom att träna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я справляюся зі стресом, тренуючись."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I handle stress by exercising."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Manejo el estrés haciendo ejercicio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich handle Stress durch Training."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Radzę sobie ze stresem poprzez ćwiczenia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je gère le stress en faisant de l'exercice."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu lido com o estresse me exercitando."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gestisco lo stress facendo esercizio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bestämma",
+        "translations": {
+            "ukrainian": "визначати",
+            "english": "decide",
+            "spanish": "decidir",
+            "german": "entscheiden",
+            "polish": "decydować",
+            "french": "décider",
+            "portuguese": "decidir",
+            "italian": "decidere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste bestämma oss snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні скоро вирішити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to decide soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que decidir pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen uns bald entscheiden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy się wkrótce zdecydować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons décider bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos decidir logo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo decidere presto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon bestämde sig för att resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона вирішила поїхати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She decided to travel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella decidió viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie entschied sich zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zdecydowała się podróżować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a décidé de voyager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela decidiu viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha deciso di viaggiare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bestämde sig för att köpa huset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони вирішили купити будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They decided to buy the house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos decidieron comprar la casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie entschieden sich, das Haus zu kaufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zdecydowali się kupić dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont décidé d'acheter la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles decidiram comprar a casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno deciso di comprare la casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag bestämde mig för att studera mer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я вирішив вчитися більше."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I decided to study more."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Decidí estudiar más."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich entschied mich, mehr zu lernen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zdecydowałem się uczyć więcej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai décidé d'étudier davantage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu decidi estudar mais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho deciso di studiare di più."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "övervaka",
+        "translations": {
+            "ukrainian": "наглядати",
+            "english": "monitor",
+            "spanish": "supervisar",
+            "german": "überwachen",
+            "polish": "nadzorować",
+            "french": "surveiller",
+            "portuguese": "monitorar",
+            "italian": "sorvegliare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon övervakar arbetet noggrant."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона уважно наглядає за роботою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She monitors the work carefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella supervisa el trabajo cuidadosamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie überwacht die Arbeit sorgfältig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dokładnie nadzoruje pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle surveille le travail attentivement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela monitora o trabalho cuidadosamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sorveglia il lavoro attentamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste övervaka processen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні наглядати за процесом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to monitor the process."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que supervisar el proceso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen den Prozess überwachen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy nadzorować proces."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons surveiller le processus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos monitorar o processo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo sorvegliare il processo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De övervakar marknaden noggrant."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони уважно спостерігають за ринком."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They monitor the market carefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos supervisan el mercado cuidadosamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie überwachen den Markt sorgfältig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni dokładnie nadzorują rynek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils surveillent le marché attentivement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles monitoram o mercado cuidadosamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sorvegliano il mercato attentamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag övervakar min hälsa regelbundet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я регулярно стежу за своїм здоров'ям."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I monitor my health regularly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo superviso mi salud regularmente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich überwache meine Gesundheit regelmäßig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Regularnie monitoruję swoje zdrowie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je surveille ma santé régulièrement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu monitoro minha saúde regularmente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Io sorveglio la mia salute regolarmente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fastställa",
+        "translations": {
+            "ukrainian": "встановлювати",
+            "english": "establish",
+            "spanish": "establecer",
+            "german": "festlegen",
+            "polish": "ustanawiać",
+            "french": "établir",
+            "portuguese": "estabelecer",
+            "italian": "stabilire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste fastställa reglerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні встановити правила."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to establish the rules."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos que establecer las reglas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen die Regeln festlegen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy ustanowić zasady."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons établir les règles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos estabelecer as regras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo stabilire le regole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De fastställde datumet för mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони встановили дату зустрічі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They established the date for the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos establecieron la fecha de la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie legten das Datum für das Treffen fest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni ustalili datę spotkania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont établi la date de la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estabeleceram a data da reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno stabilito la data dell'incontro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon fastställde planen för projektet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона встановила план проекту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She established the plan for the project."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estableció el plan para el proyecto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie legte den Plan für das Projekt fest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ustaliła plan projektu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a établi le plan pour le projet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela estabeleceu o plano para o projeto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha stabilito il piano per il progetto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag fastställde mina mål för året."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я встановив свої цілі на рік."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I established my goals for the year."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Establecí mis metas para el año."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich legte meine Ziele für das Jahr fest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ustaliłem swoje cele na rok."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai établi mes objectifs pour l'année."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu estabeleci meus objetivos para o ano."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho stabilito i miei obiettivi per l'anno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "diktera",
+        "translations": {
+            "ukrainian": "диктувати",
+            "english": "dictate",
+            "spanish": "dictar",
+            "german": "diktieren",
+            "polish": "dyktować",
+            "french": "dicter",
+            "portuguese": "ditar",
+            "italian": "dettare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han dikterade brevet till sin assistent."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він продиктував листа своєму асистенту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He dictated the letter to his assistant."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él dictó la carta a su asistente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er diktierte den Brief an seinen Assistenten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On podyktował list swojemu asystentowi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a dicté la lettre à son assistant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ditou a carta para seu assistente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha dettato la lettera al suo assistente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon dikterade villkoren för avtalet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона продиктувала умови угоди."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She dictated the terms of the agreement."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dictó los términos del acuerdo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie diktierte die Bedingungen des Vertrags."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona podyktowała warunki umowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a dicté les termes de l'accord."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ditou os termos do acordo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha dettato i termini dell'accordo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De dikterade reglerna för spelet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони продиктували правила гри."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They dictated the rules of the game."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos dictaron las reglas del juego."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie diktierten die Regeln des Spiels."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni podyktowali zasady gry."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont dicté les règles du jeu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles ditaram as regras do jogo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro hanno dettato le regole del gioco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag dikterade mina tankar till en vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я продиктував свої думки другові."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I dictated my thoughts to a friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo dicté mis pensamientos a un amigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich diktierte meine Gedanken einem Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podyktowałem swoje myśli przyjacielowi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai dicté mes pensées à un ami."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu ditei meus pensamentos para um amigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho dettato i miei pensieri a un amico."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "leda",
+        "translations": {
+            "ukrainian": "вести",
+            "english": "lead",
+            "spanish": "liderar",
+            "german": "führen",
+            "polish": "prowadzić",
+            "french": "diriger",
+            "portuguese": "liderar",
+            "italian": "guidare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han leder teamet till framgång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він веде команду до успіху."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He leads the team to success."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él lidera el equipo hacia el éxito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er führt das Team zum Erfolg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On prowadzi zespół do sukcesu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il dirige l'équipe vers le succès."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele lidera a equipe para o sucesso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui guida la squadra verso il successo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon leder företaget med visdom."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона керує компанією з мудрістю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She leads the company with wisdom."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lidera la empresa con sabiduría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie führt das Unternehmen mit Weisheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona prowadzi firmę z mądrością."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle dirige l'entreprise avec sagesse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela lidera a empresa com sabedoria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei guida l'azienda con saggezza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De leder projektet mot målet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони ведуть проект до мети."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are leading the project towards the goal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos lideran el proyecto hacia el objetivo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie führen das Projekt zum Ziel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni prowadzą projekt w kierunku celu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils dirigent le projet vers l'objectif."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles lideram o projeto para o objetivo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro guidano il progetto verso l'obiettivo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi leder diskussionen tillbaka till ämnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повертаємо обговорення до теми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are leading the discussion back to the topic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos liderando la discusión de vuelta al tema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir führen die Diskussion zurück zum Thema."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Prowadzimy dyskusję z powrotem na temat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous ramenons la discussion au sujet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos liderando a discussão de volta ao tópico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo riportando la discussione al tema."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "befalla",
+        "translations": {
+            "ukrainian": "наказувати",
+            "english": "command",
+            "spanish": "ordenar",
+            "german": "befehlen",
+            "polish": "rozkazywać",
+            "french": "commander",
+            "portuguese": "ordenar",
+            "italian": "comandare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han befaller sina soldater att marschera."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він наказує своїм солдатам маршувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He commands his soldiers to march."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él ordena a sus soldados que marchen."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er befiehlt seinen Soldaten zu marschieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On rozkazuje swoim żołnierzom maszerować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il ordonne à ses soldats de marcher."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ordena que seus soldados marchem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui comanda ai suoi soldati di marciare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon befaller respekt från sina anställda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона вимагає поваги від своїх співробітників."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She commands respect from her employees."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella ordena respeto de sus empleados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie befiehlt Respekt von ihren Mitarbeitern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wymaga szacunku od swoich pracowników."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle commande le respect de ses employés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ordena respeito de seus funcionários."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei comanda il rispetto dai suoi dipendenti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De befaller att alla ska lyda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони наказують, щоб усі слухалися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They command everyone to obey."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos ordenan que todos obedezcan."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie befehlen, dass alle gehorchen sollen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni rozkazują, aby wszyscy słuchali."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ordonnent à tous d'obéir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles ordenam que todos obedeçam."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro comandano che tutti obbediscano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag befaller dig att sluta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я наказую тобі зупинитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I command you to stop."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo te ordeno que pares."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich befehle dir aufzuhören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozkazuję ci przestać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je t'ordonne d'arrêter."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu te ordeno que pare."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti comando di fermarti."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2102 @@
+[
+    {
+        "expression": "ny",
+        "translations": {
+            "ukrainian": "новий",
+            "english": "new",
+            "spanish": "nuevo",
+            "german": "neu",
+            "polish": "nowy",
+            "french": "nouveau",
+            "portuguese": "novo",
+            "italian": "nuovo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en ny bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив нову машину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a new car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré un coche nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein neues Auto gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem nowy samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté une nouvelle voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu comprei um carro novo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato una macchina nuova."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en ny klänning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона має нову сукню."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a new dress."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene un vestido nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat ein neues Kleid."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma nową sukienkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une nouvelle robe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem um vestido novo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha un vestito nuovo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi flyttade till ett nytt hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми переїхали до нового будинку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We moved to a new house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos mudamos a una casa nueva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sind in ein neues Haus gezogen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przeprowadziliśmy się do nowego domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons emménagé dans une nouvelle maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós nos mudamos para uma casa nova."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo trasferiti in una casa nuova."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det här är en ny början."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це новий початок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This is a new beginning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este es un nuevo comienzo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dies ist ein neuer Anfang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To nowy początek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un nouveau début."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este é um novo começo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questo è un nuovo inizio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hållbar",
+        "translations": {
+            "ukrainian": "стійкий",
+            "english": "sustainable",
+            "spanish": "sostenible",
+            "german": "nachhaltig",
+            "polish": "zrównoważony",
+            "french": "durable",
+            "portuguese": "sustentável",
+            "italian": "sostenibile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi behöver hållbar utveckling."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нам потрібен стійкий розвиток."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need sustainable development."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesitamos un desarrollo sostenible."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir brauchen nachhaltige Entwicklung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Potrzebujemy zrównoważonego rozwoju."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons besoin d'un développement durable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos de desenvolvimento sustentável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo bisogno di uno sviluppo sostenibile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hållbar energi är viktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стійка енергія важлива."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sustainable energy is important."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La energía sostenible es importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nachhaltige Energie ist wichtig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrównoważona energia jest ważna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'énergie durable est importante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A energia sustentável é importante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'energia sostenibile è importante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hållbar mat är bra för miljön."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стійка їжа корисна для навколишнього середовища."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sustainable food is good for the environment."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La comida sostenible es buena para el medio ambiente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nachhaltige Lebensmittel sind gut für die Umwelt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrównoważona żywność jest dobra dla środowiska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nourriture durable est bonne pour l'environnement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A comida sustentável é boa para o meio ambiente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cibo sostenibile è buono per l'ambiente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hållbarhet är nyckeln till framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стійкість - це ключ до майбутнього."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sustainability is the key to the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La sostenibilidad es la clave del futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nachhaltigkeit ist der Schlüssel zur Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrównoważony rozwój jest kluczem do przyszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La durabilité est la clé de l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A sustentabilidade é a chave para o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sostenibilità è la chiave per il futuro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "stabil",
+        "translations": {
+            "ukrainian": "стабільний",
+            "english": "stable",
+            "spanish": "estable",
+            "german": "stabil",
+            "polish": "stabilny",
+            "french": "stable",
+            "portuguese": "estável",
+            "italian": "stabile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Marknaden är stabil just nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ринок зараз стабільний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The market is stable right now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mercado está estable en este momento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Markt ist gerade stabil."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rynek jest teraz stabilny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le marché est stable en ce moment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mercado está estável no momento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mercato è stabile in questo momento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har ett stabilt jobb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього стабільна робота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has a stable job."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene un trabajo estable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat einen stabilen Job."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma stabilną pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a un emploi stable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem um emprego estável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha un lavoro stabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ekonomin är relativt stabil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Економіка відносно стабільна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The economy is relatively stable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La economía es relativamente estable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Wirtschaft ist relativ stabil."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gospodarka jest względnie stabilna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'économie est relativement stable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A economia é relativamente estável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'economia è relativamente stabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ett stabilt förhållande är viktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стабільні стосунки важливі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A stable relationship is important."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Una relación estable es importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine stabile Beziehung ist wichtig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stabilny związek jest ważny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Une relation stable est importante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um relacionamento estável é importante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Una relazione stabile è importante."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "pålitlig",
+        "translations": {
+            "ukrainian": "надійний",
+            "english": "reliable",
+            "spanish": "confiable",
+            "german": "zuverlässig",
+            "polish": "niezawodny",
+            "french": "fiable",
+            "portuguese": "confiável",
+            "italian": "affidabile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en pålitlig vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він надійний друг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a reliable friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un amigo confiable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein zuverlässiger Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest niezawodnym przyjacielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un ami fiable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um amigo confiável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un amico affidabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den här bilen är mycket pålitlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ця машина дуже надійна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This car is very reliable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este coche es muy confiable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dieses Auto ist sehr zuverlässig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ten samochód jest bardzo niezawodny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cette voiture est très fiable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este carro é muito confiável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa macchina è molto affidabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi behöver en pålitlig partner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нам потрібен надійний партнер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need a reliable partner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesitamos un socio confiable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir brauchen einen zuverlässigen Partner."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Potrzebujemy niezawodnego partnera."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons besoin d'un partenaire fiable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos de um parceiro confiável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo bisogno di un partner affidabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Pålitlig information är viktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Надійна інформація важлива."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Reliable information is important."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La información confiable es importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zuverlässige Informationen sind wichtig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niezawodne informacje są ważne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Une information fiable est importante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Informações confiáveis são importantes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Informazioni affidabili sono importanti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "trasig",
+        "translations": {
+            "ukrainian": "зламаний",
+            "english": "broken",
+            "spanish": "roto",
+            "german": "kaputt",
+            "polish": "zepsuty",
+            "french": "cassé",
+            "portuguese": "quebrado",
+            "italian": "rotto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Min telefon är trasig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мій телефон зламаний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My phone is broken."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mi teléfono está roto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mein Telefon ist kaputt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mój telefon jest zepsuty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mon téléphone est cassé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meu telefone está quebrado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mio telefono è rotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den trasiga stolen står i hörnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зламаний стілець стоїть у куті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The broken chair is in the corner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La silla rota está en la esquina."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der kaputte Stuhl steht in der Ecke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zepsuty stół stoi w kącie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La chaise cassée est dans le coin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cadeira quebrada está no canto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sedia rotta è nell'angolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kan inte använda den trasiga datorn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не можу використовувати зламаний комп'ютер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I can't use the broken computer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No puedo usar la computadora rota."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich kann den kaputten Computer nicht benutzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie mogę używać zepsutego komputera."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne peux pas utiliser l'ordinateur cassé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não consigo usar o computador quebrado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non posso usare il computer rotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den trasiga lampan blinkar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зламана лампа блимає."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The broken lamp is flickering."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La lámpara rota parpadea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die kaputte Lampe flackert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zepsuta lampa miga."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La lampe cassée clignote."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A lâmpada quebrada está piscando."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La lampada rotta lampeggia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rostig",
+        "translations": {
+            "ukrainian": "іржавий",
+            "english": "rusty",
+            "spanish": "oxidado",
+            "german": "rostig",
+            "polish": "zardzewiały",
+            "french": "rouillé",
+            "portuguese": "enferrujado",
+            "italian": "arrugginito"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den rostiga cykeln står i garaget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Іржавий велосипед стоїть у гаражі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The rusty bike is in the garage."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La bicicleta oxidada está en el garaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das rostige Fahrrad steht in der Garage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zardzewiały rower stoi w garażu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vélo rouillé est dans le garage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A bicicleta enferrujada está na garagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La bicicletta arrugginita è in garage."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den rostiga nyckeln fungerar inte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Іржавий ключ не працює."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The rusty key doesn't work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La llave oxidada no funciona."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der rostige Schlüssel funktioniert nicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zardzewiały klucz nie działa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La clé rouillée ne fonctionne pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A chave enferrujada não funciona."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La chiave arrugginita non funziona."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den rostiga grindar gnisslar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Іржаві ворота скриплять."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The rusty gate creaks."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La puerta oxidada chirría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das rostige Tor knarrt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zardzewiała brama skrzypi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le portail rouillé grince."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O portão enferrujado range."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cancello arrugginito scricchiola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den rostiga bilen står på gården."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Іржава машина стоїть на подвір'ї."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The rusty car is in the yard."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coche oxidado está en el patio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das rostige Auto steht auf dem Hof."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zardzewiały samochód stoi na podwórku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La voiture rouillée est dans la cour."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carro enferrujado está no quintal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La macchina arrugginita è nel cortile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skör",
+        "translations": {
+            "ukrainian": "крихкий",
+            "english": "fragile",
+            "spanish": "frágil",
+            "german": "zerbrechlich",
+            "polish": "kruchy",
+            "french": "fragile",
+            "portuguese": "frágil",
+            "italian": "fragile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var försiktig, den är skör."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будь обережним, вона крихка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Be careful, it's fragile."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ten cuidado, es frágil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sei vorsichtig, es ist zerbrechlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bądź ostrożny, jest kruchy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Fais attention, c'est fragile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tenha cuidado, é frágil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fai attenzione, è fragile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den sköra vasen gick sönder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Крихка ваза розбилася."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fragile vase broke."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El jarrón frágil se rompió."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die zerbrechliche Vase ist zerbrochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Krucha waza się rozbiła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vase fragile s'est cassé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vaso frágil quebrou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vaso fragile si è rotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skör glas måste hanteras försiktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Крихке скло потрібно обробляти обережно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fragile glass must be handled carefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vidrio frágil debe manejarse con cuidado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zerbrechliches Glas muss vorsichtig behandelt werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kruche szkło należy obchodzić się ostrożnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le verre fragile doit être manipulé avec précaution."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vidro frágil deve ser manuseado com cuidado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vetro fragile deve essere maneggiato con cura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den sköra blomman behöver skydd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Крихка квітка потребує захисту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fragile flower needs protection."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La flor frágil necesita protección."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die zerbrechliche Blume braucht Schutz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kruchy kwiat potrzebuje ochrony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La fleur fragile a besoin de protection."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A flor frágil precisa de proteção."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il fiore fragile ha bisogno di protezione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "instabil",
+        "translations": {
+            "ukrainian": "нестабільний",
+            "english": "unstable",
+            "spanish": "inestable",
+            "german": "instabil",
+            "polish": "niestabilny",
+            "french": "instable",
+            "portuguese": "instável",
+            "italian": "instabile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Marknaden är instabil just nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ринок зараз нестабільний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The market is unstable right now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mercado es inestable en este momento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Markt ist gerade instabil."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rynek jest teraz niestabilny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le marché est instable en ce moment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mercado está instável no momento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mercato è instabile in questo momento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den instabila stolen vinglar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нестабільний стілець хитається."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The unstable chair wobbles."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La silla inestable se tambalea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der instabile Stuhl wackelt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niestabilny stół się chwieje."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La chaise instable vacille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cadeira instável balança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sedia instabile traballa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ett instabilt förhållande är svårt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нестабільні стосунки важкі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "An unstable relationship is difficult."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Una relación inestable es difícil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine instabile Beziehung ist schwierig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niestabilny związek jest trudny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Une relation instable est difficile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um relacionamento instável é difícil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Una relazione instabile è difficile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den instabila ekonomin orsakar oro."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нестабільна економіка викликає занепокоєння."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The unstable economy causes concern."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La economía inestable causa preocupación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die instabile Wirtschaft verursacht Besorgnis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niestabilna gospodarka powoduje niepokój."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'économie instable suscite des inquiétudes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A economia instável causa preocupação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'economia instabile causa preoccupazione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "färsk",
+        "translations": {
+            "ukrainian": "свіжий",
+            "english": "fresh",
+            "spanish": "fresco",
+            "german": "frisch",
+            "polish": "świeży",
+            "french": "frais",
+            "portuguese": "fresco",
+            "italian": "fresco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte färska blommor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив свіжі квіти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought fresh flowers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré flores frescas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe frische Blumen gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem świeże kwiaty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté des fleurs fraîches."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu comprei flores frescas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato fiori freschi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Färsk frukt är godast."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Свіжі фрукти найсмачніші."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fresh fruit is the tastiest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La fruta fresca es la más sabrosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Frisches Obst schmeckt am besten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Świeże owoce są najsmaczniejsze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fruits frais sont les plus savoureux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A fruta fresca é a mais saborosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La frutta fresca è la più gustosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Färsk luft är bra för hälsan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Свіже повітря корисне для здоров'я."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fresh air is good for your health."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire fresco es bueno para la salud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Frische Luft ist gut für die Gesundheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Świeże powietrze jest dobre dla zdrowia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air frais est bon pour la santé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar fresco é bom para a saúde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria fresca fa bene alla salute."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi åt färsk fisk till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми їли свіжу рибу на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We ate fresh fish for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Comimos pescado fresco para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben frischen Fisch zum Abendessen gegessen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jedliśmy świeżą rybę na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons mangé du poisson frais pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comemos peixe fresco no jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo mangiato pesce fresco a cena."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sliten",
+        "translations": {
+            "ukrainian": "зношений",
+            "english": "worn out",
+            "spanish": "gastado",
+            "german": "abgenutzt",
+            "polish": "znoszony",
+            "french": "usé",
+            "portuguese": "gasto",
+            "italian": "consumato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mina skor är slitna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мої туфлі зношені."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My shoes are worn out."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mis zapatos están gastados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Meine Schuhe sind abgenutzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Moje buty są znoszone."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mes chaussures sont usées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meus sapatos estão gastos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le mie scarpe sono consumate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den slitna stolen behöver bytas ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зношений стілець потрібно замінити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The worn-out chair needs to be replaced."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La silla gastada necesita ser reemplazada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der abgenutzte Stuhl muss ersetzt werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zniszczony stół trzeba wymienić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La chaise usée doit être remplacée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cadeira gasta precisa ser substituída."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sedia consumata deve essere sostituita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den slitna mattan ser dålig ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зношений килим виглядає погано."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The worn-out carpet looks bad."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La alfombra gastada se ve mal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der abgenutzte Teppich sieht schlecht aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zniszczony dywan wygląda źle."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le tapis usé a l'air mauvais."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tapete gasto parece ruim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tappeto consumato sembra brutto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den slitna jackan är fortfarande varm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зношена куртка все ще тепла."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The worn-out jacket is still warm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La chaqueta gastada sigue siendo cálida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die abgenutzte Jacke ist immer noch warm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zniszczona kurtka jest nadal ciepła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La veste usée est toujours chaude."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A jaqueta gasta ainda está quente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La giacca consumata è ancora calda."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sprucken",
+        "translations": {
+            "ukrainian": "тріснутий",
+            "english": "cracked",
+            "spanish": "agrietado",
+            "german": "rissig",
+            "polish": "pęknięty",
+            "french": "fêlé",
+            "portuguese": "rachado",
+            "italian": "incrinato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den spruckna skålen läcker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тріснута миска тече."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cracked bowl is leaking."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tazón agrietado está goteando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die rissige Schüssel leckt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pęknięta miska przecieka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bol fêlé fuit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A tigela rachada está vazando."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ciotola incrinata perde."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den spruckna spegeln är farlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тріснуте дзеркало небезпечне."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cracked mirror is dangerous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El espejo agrietado es peligroso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der rissige Spiegel ist gefährlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pęknięte lustro jest niebezpieczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le miroir fêlé est dangereux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O espelho rachado é perigoso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo specchio incrinato è pericoloso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den spruckna väggen behöver repareras."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тріснуту стіну потрібно відремонтувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cracked wall needs to be repaired."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La pared agrietada necesita reparación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die rissige Wand muss repariert werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pęknięta ściana wymaga naprawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le mur fêlé doit être réparé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A parede rachada precisa ser reparada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il muro incrinato deve essere riparato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den spruckna rutan måste bytas ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тріснуте скло потрібно замінити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cracked window needs to be replaced."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La ventana agrietada necesita ser reemplazada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das rissige Fenster muss ersetzt werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pęknięta szyba musi zostać wymieniona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La vitre fêlée doit être remplacée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A janela rachada precisa ser substituída."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La finestra incrinata deve essere sostituita."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "felfri",
+        "translations": {
+            "ukrainian": "бездоганний",
+            "english": "flawless",
+            "spanish": "impecable",
+            "german": "makellos",
+            "polish": "nieskazitelny",
+            "french": "impeccable",
+            "portuguese": "impecável",
+            "italian": "perfetto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hennes utseende är felfritt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Її зовнішність бездоганна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her appearance is flawless."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su apariencia es impecable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Aussehen ist makellos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jej wygląd jest nieskazitelny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son apparence est impeccable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A aparência dela é impecável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo aspetto è perfetto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den felfria diamanten är dyrbar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бездоганний діамант дорогоцінний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flawless diamond is precious."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El diamante impecable es precioso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der makellose Diamant ist kostbar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieskazitelny diament jest cenny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le diamant impeccable est précieux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O diamante impecável é precioso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il diamante perfetto è prezioso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans prestation var felfri."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його виступ був бездоганним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His performance was flawless."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su actuación fue impecable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Seine Leistung war makellos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego występ był nieskazitelny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa performance était impeccable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A performance dele foi impecável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua performance è stata perfetta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den felfria planen fungerade perfekt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бездоганний план спрацював ідеально."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flawless plan worked perfectly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El plan impecable funcionó perfectamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der makellose Plan funktionierte perfekt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieskazitelny plan zadziałał idealnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le plan impeccable a fonctionné parfaitement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O plano impecável funcionou perfeitamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il piano perfetto ha funzionato perfettamente."
+                    }
+                ]
+            }
+        ]
+    }
+]

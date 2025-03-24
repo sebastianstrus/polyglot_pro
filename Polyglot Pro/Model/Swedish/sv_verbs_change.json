@@ -1,0 +1,4202 @@
+[
+    {
+        "expression": "bli",
+        "translations": {
+            "ukrainian": "стати",
+            "english": "become",
+            "spanish": "convertirse",
+            "german": "werden",
+            "polish": "stać się",
+            "french": "devenir",
+            "portuguese": "tornar-se",
+            "italian": "diventare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill bli läkare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу стати лікарем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to become a doctor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero convertirme en médico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte Arzt werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę zostać lekarzem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux devenir médecin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero me tornar médico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio diventare medico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev mycket glad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона стала дуже щасливою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She became very happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se puso muy feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde sehr glücklich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona stała się bardzo szczęśliwa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est devenue très heureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou muito feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è diventata molto felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vädret blev kallt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Погода стала холодною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The weather became cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima se volvió frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wetter wurde kalt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pogoda stała się zimna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps est devenu froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo ficou frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo è diventato freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De blev vänner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони стали друзями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They became friends."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos se hicieron amigos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurden Freunde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zostali przyjaciółmi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont devenus amis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles se tornaram amigos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono diventati amici."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förändras",
+        "translations": {
+            "ukrainian": "змінюватися",
+            "english": "change",
+            "spanish": "cambiar",
+            "german": "verändern",
+            "polish": "zmieniać się",
+            "french": "changer",
+            "portuguese": "mudar",
+            "italian": "cambiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vädret förändras snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Погода швидко змінюється."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The weather changes quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima cambia rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wetter ändert sich schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pogoda szybko się zmienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps change rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo muda rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo cambia rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han förändras med tiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він змінюється з часом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He changes over time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él cambia con el tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er verändert sich mit der Zeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On zmienia się z czasem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il change avec le temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele muda com o tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui cambia nel tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Planerna förändras ofta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Плани часто змінюються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Plans often change."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los planes cambian a menudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Pläne ändern sich oft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Plany często się zmieniają."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les plans changent souvent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os planos mudam frequentemente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I piani cambiano spesso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Samhället förändras ständigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Суспільство постійно змінюється."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Society is constantly changing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La sociedad cambia constantemente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Gesellschaft verändert sich ständig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Społeczeństwo ciągle się zmienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La société change constamment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A sociedade muda constantemente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La società cambia costantemente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "växa",
+        "translations": {
+            "ukrainian": "рости",
+            "english": "grow",
+            "spanish": "crecer",
+            "german": "wachsen",
+            "polish": "rosnąć",
+            "french": "grandir",
+            "portuguese": "crescer",
+            "italian": "crescere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen växer snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти швидко ростуть."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Children grow quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños crecen rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kinder wachsen schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci szybko rosną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants grandissent vite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças crescem rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini crescono rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Träden växer höga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дерева ростуть високими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The trees grow tall."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los árboles crecen altos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bäume wachsen hoch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Drzewa rosną wysokie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les arbres poussent haut."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As árvores crescem altas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli alberi crescono alti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Företaget växer snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Компанія швидко росте."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The company is growing quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La empresa crece rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Unternehmen wächst schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Firma szybko rośnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entreprise grandit rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A empresa está crescendo rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'azienda sta crescendo rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han växte upp i en liten stad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виріс у маленькому місті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He grew up in a small town."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él creció en un pueblo pequeño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wuchs in einer kleinen Stadt auf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dorastał w małym mieście."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a grandi dans une petite ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele cresceu em uma cidade pequena."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È cresciuto in una piccola città."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "utveckla",
+        "translations": {
+            "ukrainian": "розвивати",
+            "english": "develop",
+            "spanish": "desarrollar",
+            "german": "entwickeln",
+            "polish": "rozwijać",
+            "french": "développer",
+            "portuguese": "desenvolver",
+            "italian": "sviluppare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon utvecklar en ny app."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона розробляє новий додаток."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is developing a new app."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está desarrollando una nueva aplicación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie entwickelt eine neue App."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona rozwija nową aplikację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle développe une nouvelle application."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está desenvolvendo um novo aplicativo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta sviluppando una nuova app."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi utvecklar en strategi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розробляємо стратегію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are developing a strategy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos desarrollando una estrategia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir entwickeln eine Strategie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozwijamy strategię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous développons une stratégie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos desenvolvendo uma estratégia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo sviluppando una strategia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De utvecklar nya tekniker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони розробляють нові технології."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are developing new technologies."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están desarrollando nuevas tecnologías."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie entwickeln neue Technologien."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni rozwijają nowe technologie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils développent de nouvelles technologies."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão desenvolvendo novas tecnologias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno sviluppando nuove tecnologie."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Företaget utvecklar nya produkter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Компанія розробляє нові продукти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The company is developing new products."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La empresa está desarrollando nuevos productos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Unternehmen entwickelt neue Produkte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Firma rozwija nowe produkty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entreprise développe de nouveaux produits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A empresa está desenvolvendo novos produtos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'azienda sta sviluppando nuovi prodotti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "omvandla",
+        "translations": {
+            "ukrainian": "перетворювати",
+            "english": "transform",
+            "spanish": "transformar",
+            "german": "umwandeln",
+            "polish": "przekształcać",
+            "french": "transformer",
+            "portuguese": "transformar",
+            "italian": "trasformare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De omvandlar energi till elektricitet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони перетворюють енергію на електрику."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They transform energy into electricity."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos transforman la energía en electricidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wandeln Energie in Elektrizität um."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni przekształcają energię w elektryczność."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils transforment l'énergie en électricité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles transformam energia em eletricidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro trasformano l'energia in elettricità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon omvandlar sina drömmar till verklighet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона перетворює свої мрії на реальність."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She transforms her dreams into reality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella transforma sus sueños en realidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verwandelt ihre Träume in Realität."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona przekształca swoje marzenia w rzeczywistość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle transforme ses rêves en réalité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela transforma seus sonhos em realidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei trasforma i suoi sogni in realtà."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi omvandlar problem till möjligheter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми перетворюємо проблеми на можливості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We transform problems into opportunities."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Transformamos problemas en oportunidades."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir verwandeln Probleme in Möglichkeiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przekształcamy problemy w możliwości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous transformons les problèmes en opportunités."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós transformamos problemas em oportunidades."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Trasformiamo i problemi in opportunità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Företaget omvandlar idéer till produkter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Компанія перетворює ідеї на продукти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The company transforms ideas into products."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La empresa transforma ideas en productos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Unternehmen verwandelt Ideen in Produkte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Firma przekształca pomysły w produkty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entreprise transforme des idées en produits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A empresa transforma ideias em produtos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'azienda trasforma le idee in prodotti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "övergå",
+        "translations": {
+            "ukrainian": "переходити",
+            "english": "transition",
+            "spanish": "transicionar",
+            "german": "übergehen",
+            "polish": "przechodzić",
+            "french": "transiter",
+            "portuguese": "transicionar",
+            "italian": "transitare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi övergår till ett nytt system."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми переходимо до нової системи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are transitioning to a new system."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos transicionando a un nuevo sistema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir gehen zu einem neuen System über."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przechodzimy do nowego systemu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous passons à un nouveau système."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos transicionando para um novo sistema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo transitando a un nuovo sistema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon övergår till ett nytt jobb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона переходить на нову роботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is transitioning to a new job."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está transicionando a un nuevo trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wechselt zu einem neuen Job."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona przechodzi do nowej pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle passe à un nouvel emploi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está transicionando para um novo emprego."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta transitando a un nuovo lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De övergår till en ny strategi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони переходять до нової стратегії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are transitioning to a new strategy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están transicionando a una nueva estrategia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gehen zu einer neuen Strategie über."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni przechodzą do nowej strategii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils passent à une nouvelle stratégie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão transicionando para uma nova estratégia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno transitando a una nuova strategia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Företaget övergår till grön energi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Компанія переходить на зелену енергію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The company is transitioning to green energy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La empresa está transicionando a la energía verde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Unternehmen geht zu grüner Energie über."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Firma przechodzi na zieloną energię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entreprise passe à l'énergie verte."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A empresa está transicionando para a energia verde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'azienda sta transitando all'energia verde."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skifta",
+        "translations": {
+            "ukrainian": "змінювати",
+            "english": "shift",
+            "spanish": "cambiar",
+            "german": "wechseln",
+            "polish": "zmieniać",
+            "french": "changer",
+            "portuguese": "mudar",
+            "italian": "cambiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vädret skiftar snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Погода швидко змінюється."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The weather shifts quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima cambia rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wetter wechselt schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pogoda szybko się zmienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps change rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo muda rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo cambia rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han skiftar fokus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він змінює фокус."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He shifts focus."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él cambia el enfoque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wechselt den Fokus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On zmienia skupienie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il change de focus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele muda o foco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui cambia il focus."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skiftar till en ny strategi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми переходимо до нової стратегії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are shifting to a new strategy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos cambiando a una nueva estrategia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wechseln zu einer neuen Strategie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmieniamy na nową strategię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous passons à une nouvelle stratégie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos mudando para uma nova estratégia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo cambiando a una nuova strategia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skiftar till en ny modell."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони переходять на нову модель."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are shifting to a new model."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están cambiando a un nuevo modelo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wechseln zu einem neuen Modell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zmieniają na nowy model."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils passent à un nouveau modèle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão mudando para um novo modelo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno cambiando a un nuovo modello."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "byta",
+        "translations": {
+            "ukrainian": "змінювати",
+            "english": "change",
+            "spanish": "cambiar",
+            "german": "wechseln",
+            "polish": "zmieniać",
+            "french": "changer",
+            "portuguese": "mudar",
+            "italian": "cambiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag byter kläder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я міняю одяг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am changing clothes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy cambiando de ropa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wechsle die Kleidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmieniam ubranie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je change de vêtements."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou trocando de roupa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto cambiando i vestiti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon byter jobb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона міняє роботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is changing jobs."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está cambiando de trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wechselt den Job."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zmienia pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle change de travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está trocando de emprego."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta cambiando lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi byter bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми міняємо машину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are changing cars."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos cambiando de coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wechseln das Auto."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmieniamy samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous changeons de voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos trocando de carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo cambiando macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De byter till en ny strategi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони переходять на нову стратегію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are changing to a new strategy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están cambiando a una nueva estrategia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wechseln zu einer neuen Strategie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zmieniają na nową strategię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils passent à une nouvelle stratégie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão mudando para uma nova estratégia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno cambiando a una nuova strategia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ersätta",
+        "translations": {
+            "ukrainian": "замінювати",
+            "english": "replace",
+            "spanish": "reemplazar",
+            "german": "ersetzen",
+            "polish": "zastępować",
+            "french": "remplacer",
+            "portuguese": "substituir",
+            "italian": "sostituire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ersätter den gamla datorn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми замінюємо старий комп'ютер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are replacing the old computer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos reemplazando la computadora vieja."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir ersetzen den alten Computer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zastępujemy stary komputer."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous remplaçons l'ancien ordinateur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos substituindo o computador antigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo sostituendo il vecchio computer."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ersätter sin chef."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона замінює свого начальника."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is replacing her boss."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está reemplazando a su jefe."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ersetzt ihren Chef."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zastępuje swojego szefa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle remplace son patron."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está substituindo seu chefe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta sostituendo il suo capo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ersätter gamla metoder med nya."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони замінюють старі методи новими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are replacing old methods with new ones."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están reemplazando métodos antiguos con nuevos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ersetzen alte Methoden durch neue."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zastępują stare metody nowymi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils remplacent les anciennes méthodes par des nouvelles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão substituindo métodos antigos por novos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno sostituendo i vecchi metodi con nuovi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Företaget ersätter plast med papper."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Компанія замінює пластик на папір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The company is replacing plastic with paper."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La empresa está reemplazando el plástico con papel."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Unternehmen ersetzt Plastik durch Papier."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Firma zastępuje plastik papierem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entreprise remplace le plastique par du papier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A empresa está substituindo plástico por papel."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'azienda sta sostituendo la plastica con la carta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "försvinna",
+        "translations": {
+            "ukrainian": "зникати",
+            "english": "disappear",
+            "spanish": "desaparecer",
+            "german": "verschwinden",
+            "polish": "znikać",
+            "french": "disparaître",
+            "portuguese": "desaparecer",
+            "italian": "scomparire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han försvann plötsligt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він раптово зник."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He suddenly disappeared."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él desapareció de repente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er verschwand plötzlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On nagle zniknął."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a soudainement disparu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele desapareceu de repente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è improvvisamente scomparso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon försvann i folkmassan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зникла в натовпі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She disappeared into the crowd."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella desapareció en la multitud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verschwand in der Menge."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zniknęła w tłumie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a disparu dans la foule."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela desapareceu na multidão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è scomparsa tra la folla."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De försvann utan ett spår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони зникли без сліду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They disappeared without a trace."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos desaparecieron sin dejar rastro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verschwanden spurlos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zniknęli bez śladu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont disparu sans laisser de trace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles desapareceram sem deixar vestígios."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono scomparsi senza lasciare traccia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Föremålet försvann mystiskt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Предмет таємничо зник."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The object mysteriously disappeared."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El objeto desapareció misteriosamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Objekt verschwand mysteriös."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przedmiot tajemniczo zniknął."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'objet a mystérieusement disparu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O objeto desapareceu misteriosamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'oggetto è misteriosamente scomparso."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "minska",
+        "translations": {
+            "ukrainian": "зменшувати",
+            "english": "decrease",
+            "spanish": "disminuir",
+            "german": "verringern",
+            "polish": "zmniejszać",
+            "french": "diminuer",
+            "portuguese": "diminuir",
+            "italian": "diminuire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kostnaderna minskar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Витрати зменшуються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The costs are decreasing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los costos están disminuyendo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kosten verringern sich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Koszty się zmniejszają."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les coûts diminuent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os custos estão diminuindo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I costi stanno diminuendo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon minskar sin arbetsbelastning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зменшує своє навантаження на роботі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is decreasing her workload."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está disminuyendo su carga de trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verringert ihre Arbeitsbelastung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zmniejsza swoje obciążenie pracą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle diminue sa charge de travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está diminuindo sua carga de trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta diminuendo il suo carico di lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi minskar vår energianvändning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми зменшуємо наше споживання енергії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are decreasing our energy usage."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos disminuyendo nuestro uso de energía."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir verringern unseren Energieverbrauch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmniejszamy nasze zużycie energii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous diminuons notre consommation d'énergie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos diminuindo nosso uso de energia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo diminuendo il nostro consumo di energia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De minskar utsläppen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони зменшують викиди."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are decreasing emissions."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están disminuyendo las emisiones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verringern die Emissionen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zmniejszają emisje."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils diminuent les émissions."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão diminuindo as emissões."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno diminuendo le emissioni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "öka",
+        "translations": {
+            "ukrainian": "збільшувати",
+            "english": "increase",
+            "spanish": "aumentar",
+            "german": "erhöhen",
+            "polish": "zwiększać",
+            "french": "augmenter",
+            "portuguese": "aumentar",
+            "italian": "aumentare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Priserna ökar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ціни збільшуються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Prices are increasing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los precios están aumentando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Preise steigen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ceny rosną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les prix augmentent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os preços estão aumentando."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I prezzi stanno aumentando."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ökar sin produktivitet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона збільшує свою продуктивність."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is increasing her productivity."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está aumentando su productividad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erhöht ihre Produktivität."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona zwiększa swoją produktywność."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle augmente sa productivité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está aumentando sua produtividade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta aumentando la sua produttività."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ökar vår försäljning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми збільшуємо наші продажі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are increasing our sales."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos aumentando nuestras ventas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erhöhen unseren Umsatz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zwiększamy naszą sprzedaż."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous augmentons nos ventes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos aumentando nossas vendas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo aumentando le nostre vendite."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ökar sin anställning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони збільшують свою зайнятість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are increasing their employment."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están aumentando su empleo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erhöhen ihre Beschäftigung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zwiększają swoje zatrudnienie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils augmentent leur emploi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão aumentando seu emprego."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno aumentando il loro impiego."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "expandera",
+        "translations": {
+            "ukrainian": "розширювати",
+            "english": "expand",
+            "spanish": "expandir",
+            "german": "erweitern",
+            "polish": "rozszerzać",
+            "french": "étendre",
+            "portuguese": "expandir",
+            "italian": "espandere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Företaget expanderar till nya marknader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Компанія розширюється на нові ринки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The company is expanding into new markets."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La empresa se está expandiendo a nuevos mercados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Unternehmen expandiert in neue Märkte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Firma rozszerza się na nowe rynki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entreprise s'étend à de nouveaux marchés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A empresa está se expandindo para novos mercados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'azienda si sta espandendo in nuovi mercati."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi expanderar vårt utbud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розширюємо наш асортимент."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are expanding our range."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos ampliando nuestra gama."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erweitern unser Sortiment."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozszerzamy naszą ofertę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous élargissons notre gamme."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos expandindo nossa linha de produtos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo espandendo la nostra gamma."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De expanderar sin verksamhet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони розширюють свою діяльність."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are expanding their business."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están expandiendo su negocio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erweitern ihr Geschäft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni rozszerzają swoją działalność."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils étendent leur activité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão expandindo seus negócios."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno espandendo la loro attività."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Staden expanderar snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Місто швидко розширюється."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The city is expanding rapidly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La ciudad se está expandiendo rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Stadt expandiert schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miasto szybko się rozszerza."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La ville s'étend rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cidade está se expandindo rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La città si sta espandendo rapidamente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "krympa",
+        "translations": {
+            "ukrainian": "зменшуватися",
+            "english": "shrink",
+            "spanish": "encoger",
+            "german": "schrumpfen",
+            "polish": "kurczyć się",
+            "french": "rétrécir",
+            "portuguese": "encolher",
+            "italian": "restringere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tröjan krympte i tvätten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Футболка зменшилася під час прання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sweater shrank in the wash."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El suéter se encogió en el lavado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Pullover ist in der Wäsche geschrumpft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sweter skurczył się w praniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le pull a rétréci au lavage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A camisola encolheu na lavagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il maglione si è ristretto in lavatrice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Marknaden krympte under krisen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ринок зменшився під час кризи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The market shrank during the crisis."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mercado se redujo durante la crisis."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Markt schrumpfte während der Krise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rynek skurczył się podczas kryzysu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le marché s'est rétréci pendant la crise."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mercado encolheu durante a crise."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mercato si è ristretto durante la crisi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi krympte vår budget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми зменшили наш бюджет."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We shrank our budget."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Redujimos nuestro presupuesto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben unser Budget geschrumpft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zmniejszyliśmy nasz budżet."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons réduit notre budget."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós reduzimos nosso orçamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo ridotto il nostro budget."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De krympte sin personalstyrka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони зменшили свій штат."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They shrank their workforce."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos redujeron su plantilla."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie haben ihre Belegschaft verkleinert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zmniejszyli swoją kadrę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont réduit leur effectif."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles reduziram sua força de trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno ridotto il loro personale."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "smälta",
+        "translations": {
+            "ukrainian": "танути",
+            "english": "melt",
+            "spanish": "derretir",
+            "german": "schmelzen",
+            "polish": "topić się",
+            "french": "fondre",
+            "portuguese": "derreter",
+            "italian": "sciogliere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Isen smälter i solen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лід тане на сонці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The ice is melting in the sun."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El hielo se derrite al sol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Eis schmilzt in der Sonne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lód topi się na słońcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La glace fond au soleil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O gelo está derretendo ao sol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il ghiaccio si scioglie al sole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Chokladen smälter i munnen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Шоколад тане в роті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The chocolate melts in your mouth."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El chocolate se derrite en la boca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Schokolade schmilzt im Mund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekolada topi się w ustach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chocolat fond dans la bouche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O chocolate derrete na boca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cioccolato si scioglie in bocca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snön smälter på våren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сніг тане навесні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The snow melts in spring."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La nieve se derrite en primavera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Schnee schmilzt im Frühling."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śnieg topi się na wiosnę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La neige fond au printemps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A neve derrete na primavera."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La neve si scioglie in primavera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Värmen får isen att smälta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тепло змушує лід танути."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The heat makes the ice melt."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El calor hace que el hielo se derrita."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Hitze lässt das Eis schmelzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ciepło sprawia, że lód topi się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La chaleur fait fondre la glace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O calor faz o gelo derreter."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il calore fa sciogliere il ghiaccio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "frysa",
+        "translations": {
+            "ukrainian": "замерзати",
+            "english": "freeze",
+            "spanish": "congelar",
+            "german": "frieren",
+            "polish": "marznąć",
+            "french": "geler",
+            "portuguese": "congelar",
+            "italian": "congelare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vattnet fryser till is."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вода замерзає в лід."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The water freezes into ice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua se congela en hielo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wasser gefriert zu Eis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Woda zamarza w lód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau gèle en glace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A água congela em gelo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'acqua si congela in ghiaccio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag fryser i det kalla vädret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я мерзну в холодну погоду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am freezing in the cold weather."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo frío en el clima frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich friere im kalten Wetter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Marznę w zimną pogodę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je gèle par temps froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou congelando no clima frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto congelando nel freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Maten fryser i frysen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їжа замерзає в морозилці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The food freezes in the freezer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La comida se congela en el congelador."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Essen gefriert im Gefrierschrank."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jedzenie zamarza w zamrażarce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nourriture gèle dans le congélateur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A comida congela no freezer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cibo si congela nel congelatore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De fryser vägarna för att förhindra olyckor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони заморожують дороги, щоб запобігти аваріям."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They freeze the roads to prevent accidents."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos congelan las carreteras para prevenir accidentes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie frieren die Straßen ein, um Unfälle zu verhindern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni zamrażają drogi, aby zapobiec wypadkom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils gèlent les routes pour prévenir les accidents."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles congelam as estradas para prevenir acidentes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro congelano le strade per prevenire incidenti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "brinna",
+        "translations": {
+            "ukrainian": "горіти",
+            "english": "burn",
+            "spanish": "arder",
+            "german": "brennen",
+            "polish": "palić się",
+            "french": "brûler",
+            "portuguese": "arder",
+            "italian": "bruciare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Elden brinner fortfarande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вогонь досі горить."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fire is still burning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El fuego todavía arde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Feuer brennt noch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ogień wciąż się pali."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le feu brûle encore."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O fogo ainda está queimando."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il fuoco sta ancora bruciando."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ljuset brinner på bordet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Свічка горить на столі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The candle is burning on the table."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La vela arde en la mesa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kerze brennt auf dem Tisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Świeca pali się na stole."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La bougie brûle sur la table."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A vela está queimando na mesa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La candela sta bruciando sul tavolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Huset brann ner till grunden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будинок згорів дотла."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The house burned down to the ground."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La casa se quemó hasta los cimientos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Haus brannte bis auf die Grundmauern nieder."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dom spłonął doszczętnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La maison a brûlé jusqu'au sol."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A casa queimou até o chão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La casa è bruciata fino alle fondamenta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han brinner för fotboll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він палає любов'ю до футболу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is passionate about football."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él arde de pasión por el fútbol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er brennt für Fußball."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On płonie miłością do piłki nożnej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est passionné de football."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é apaixonado por futebol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È appassionato di calcio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rosta",
+        "translations": {
+            "ukrainian": "іржавіти",
+            "english": "rust",
+            "spanish": "oxidarse",
+            "german": "rosten",
+            "polish": "rdzewieć",
+            "french": "rouiller",
+            "portuguese": "enferrujar",
+            "italian": "arrugginire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilen börjar rosta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автомобіль починає іржавіти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The car is starting to rust."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coche está empezando a oxidarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Auto beginnt zu rosten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samochód zaczyna rdzewieć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La voiture commence à rouiller."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carro está começando a enferrujar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'auto sta iniziando a arrugginire."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Staketet har rostat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Паркан заіржавів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fence has rusted."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La valla se ha oxidado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Zaun ist verrostet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płot zardzewiał."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La clôture a rouillé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cerca enferrujou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il recinto si è arrugginito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kniven har rostat i regnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ніж заіржавів під дощем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The knife has rusted in the rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cuchillo se ha oxidado con la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Messer ist im Regen verrostet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nóż zardzewiał na deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le couteau a rouillé sous la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A faca enferrujou na chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il coltello si è arrugginito sotto la pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Metall rostar lätt i fuktigt klimat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Метал легко іржавіє у вологих умовах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Metal rusts easily in humid climates."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El metal se oxida fácilmente en climas húmedos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Metall rostet leicht in feuchtem Klima."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Metal łatwo rdzewieje w wilgotnym klimacie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le métal rouille facilement dans les climats humides."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O metal enferruja facilmente em climas úmidos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il metallo si arrugginisce facilmente nei climi umidi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "blekna",
+        "translations": {
+            "ukrainian": "бліднути",
+            "english": "fade",
+            "spanish": "desvanecerse",
+            "german": "verblassen",
+            "polish": "blaknąć",
+            "french": "pâlir",
+            "portuguese": "desbotar",
+            "italian": "sbiadire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Färgerna bleknar i solen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кольори бліднуть на сонці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The colors fade in the sun."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los colores se desvanecen al sol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Farben verblassen in der Sonne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kolory blakną na słońcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les couleurs pâlissent au soleil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As cores desbotam ao sol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I colori sbiadiscono al sole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Minnet bleknar med tiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пам'ять блідне з часом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Memory fades with time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El recuerdo se desvanece con el tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Erinnerung verblasst mit der Zeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pamięć blaknie z czasem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La mémoire pâlit avec le temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A memória desbota com o tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il ricordo sbiadisce con il tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den gamla tavlan har bleknat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стара картина поблідла."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The old painting has faded."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El viejo cuadro se ha desvanecido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das alte Gemälde ist verblasst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stary obraz wyblakł."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vieux tableau a pâli."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A pintura antiga desbotou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vecchio dipinto è sbiadito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hennes leende bleknade när hon hörde nyheten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Її посмішка зникла, коли вона почула новину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her smile faded when she heard the news."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su sonrisa se desvaneció cuando escuchó la noticia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Lächeln verblasste, als sie die Nachricht hörte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jej uśmiech zbladł, gdy usłyszała wiadomość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son sourire s'est effacé lorsqu'elle a entendu la nouvelle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O sorriso dela desbotou quando ela ouviu a notícia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo sorriso è sbiadito quando ha sentito la notizia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "svälla",
+        "translations": {
+            "ukrainian": "набрякати",
+            "english": "swell",
+            "spanish": "hincharse",
+            "german": "anschwellen",
+            "polish": "puchnąć",
+            "french": "gonfler",
+            "portuguese": "inchar",
+            "italian": "gonfiarsi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans fot svällde efter skadan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його ступня набрякла після травми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His foot swelled after the injury."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su pie se hinchó después de la lesión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein Fuß schwoll nach der Verletzung an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego stopa spuchła po urazie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son pied a gonflé après la blessure."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pé dele inchou após a lesão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo piede si è gonfiato dopo l'infortunio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Floden svällde efter regnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Річка розлилася після дощу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The river swelled after the rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El río se hinchó después de la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Fluss schwoll nach dem Regen an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rzeka spuchła po deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La rivière a gonflé après la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O rio inchou após a chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il fiume si è gonfiato dopo la pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ansiktet svällde efter insektsbettet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Обличчя набрякло після укусу комахи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His face swelled after the insect bite."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su cara se hinchó después de la picadura de insecto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein Gesicht schwoll nach dem Insektenstich an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Twarz spuchła po ukąszeniu owada."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son visage a gonflé après la piqûre d'insecte."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O rosto dele inchou após a picada de inseto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo viso si è gonfiato dopo la puntura di insetto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Musklerna svällde efter träningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "М'язи набрякли після тренування."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The muscles swelled after the workout."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los músculos se hincharon después del entrenamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Muskeln schwollen nach dem Training an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mięśnie spuchły po treningu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les muscles ont gonflé après l'entraînement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os músculos incharam após o treino."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I muscoli si sono gonfiati dopo l'allenamento."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "mogna",
+        "translations": {
+            "ukrainian": "дозрівати",
+            "english": "ripen",
+            "spanish": "madurar",
+            "german": "reifen",
+            "polish": "dojrzewać",
+            "french": "mûrir",
+            "portuguese": "amadurecer",
+            "italian": "maturare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Frukten mognar på trädet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фрукти дозрівають на дереві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fruit ripens on the tree."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La fruta madura en el árbol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Früchte reifen am Baum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Owoce dojrzewają na drzewie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fruits mûrissent sur l'arbre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A fruta amadurece na árvore."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La frutta matura sull'albero."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tomaterna mognar i solen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Помідори дозрівають на сонці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The tomatoes ripen in the sun."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los tomates maduran al sol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tomaten reifen in der Sonne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomidory dojrzewają na słońcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les tomates mûrissent au soleil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os tomates amadurecem ao sol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I pomodori maturano al sole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Äpplena har mognat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яблука дозріли."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The apples have ripened."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las manzanas han madurado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Äpfel sind gereift."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jabłka dojrzały."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pommes ont mûri."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As maçãs amadureceram."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le mele sono mature."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vinet behöver mogna i flera år."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вино потребує дозрівання протягом кількох років."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The wine needs to ripen for several years."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vino necesita madurar durante varios años."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Wein muss mehrere Jahre reifen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wino musi dojrzewać przez kilka lat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vin a besoin de mûrir pendant plusieurs années."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vinho precisa amadurecer por vários anos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vino ha bisogno di maturare per diversi anni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "åldras",
+        "translations": {
+            "ukrainian": "старіти",
+            "english": "age",
+            "spanish": "envejecer",
+            "german": "altern",
+            "polish": "starzeć się",
+            "french": "vieillir",
+            "portuguese": "envelhecer",
+            "italian": "invecchiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Människor åldras med tiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Люди старіють з часом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "People age over time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas envejecen con el tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Menschen altern mit der Zeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ludzie starzeją się z czasem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les gens vieillissent avec le temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As pessoas envelhecem com o tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone invecchiano con il tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden åldras snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака старіє швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is aging quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro envejece rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund altert schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies starzeje się szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien vieillit rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro está envelhecendo rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane sta invecchiando rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vin åldras bättre i källaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вино краще старіє в підвалі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Wine ages better in the cellar."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vino envejece mejor en la bodega."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wein altert besser im Keller."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wino lepiej starzeje się w piwnicy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vin vieillit mieux dans la cave."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vinho envelhece melhor na adega."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vino invecchia meglio in cantina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon åldras graciöst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона старіє граціозно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is aging gracefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella envejece con gracia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie altert anmutig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona starzeje się z gracją."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle vieillit avec grâce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está envelhecendo com graça."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta invecchiando con grazia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förnya",
+        "translations": {
+            "ukrainian": "оновлювати",
+            "english": "renew",
+            "spanish": "renovar",
+            "german": "erneuern",
+            "polish": "odnawiać",
+            "french": "renouveler",
+            "portuguese": "renovar",
+            "italian": "rinnovare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De förnyar sitt pass."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони оновлюють свій паспорт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are renewing their passport."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están renovando su pasaporte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erneuern ihren Pass."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni odnawiają swój paszport."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils renouvellent leur passeport."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão renovando o passaporte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno rinnovando il passaporto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste förnya avtalet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нам потрібно оновити договір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need to renew the contract."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesitamos renovar el contrato."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen den Vertrag erneuern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy odnowić umowę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons renouveler le contrat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos renovar o contrato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo rinnovare il contratto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon förnyar sitt medlemskap."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона оновлює своє членство."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is renewing her membership."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está renovando su membresía."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erneuert ihre Mitgliedschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona odnawia swoje członkostwo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle renouvelle son adhésion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está renovando sua associação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta rinnovando la sua iscrizione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Staden förnyar sitt utseende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Місто оновлює свій вигляд."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The city is renewing its appearance."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La ciudad está renovando su apariencia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Stadt erneuert ihr Aussehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miasto odnawia swój wygląd."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La ville renouvelle son apparence."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cidade está renovando sua aparência."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La città sta rinnovando il suo aspetto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "modernisera",
+        "translations": {
+            "ukrainian": "модернізувати",
+            "english": "modernize",
+            "spanish": "modernizar",
+            "german": "modernisieren",
+            "polish": "modernizować",
+            "french": "moderniser",
+            "portuguese": "modernizar",
+            "italian": "modernizzare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De moderniserar fabriken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони модернізують фабрику."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are modernizing the factory."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están modernizando la fábrica."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie modernisieren die Fabrik."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni modernizują fabrykę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils modernisent l'usine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão modernizando a fábrica."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno modernizzando la fabbrica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Regeringen moderniserar sjukvården."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Уряд модернізує охорону здоров'я."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The government is modernizing healthcare."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El gobierno está modernizando la atención médica."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Regierung modernisiert das Gesundheitswesen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rząd modernizuje opiekę zdrowotną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le gouvernement modernise les soins de santé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O governo está modernizando a saúde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il governo sta modernizzando l'assistenza sanitaria."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De moderniserar sitt hem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони модернізують свій дім."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are modernizing their home."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están modernizando su hogar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie modernisieren ihr Zuhause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni modernizują swój dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils modernisent leur maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão modernizando sua casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno modernizzando la loro casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skolan moderniserar sin utbildning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Школа модернізує свою освіту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The school is modernizing its education."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La escuela está modernizando su educación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Schule modernisiert ihre Ausbildung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szkoła modernizuje swoją edukację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'école modernise son éducation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A escola está modernizando sua educação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La scuola sta modernizzando la sua educazione."
+                    }
+                ]
+            }
+        ]
+    }
+]

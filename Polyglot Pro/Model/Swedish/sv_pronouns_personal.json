@@ -1,0 +1,1402 @@
+[
+    {
+        "expression": "jag",
+        "translations": {
+            "ukrainian": "я",
+            "english": "I",
+            "spanish": "yo",
+            "german": "ich",
+            "polish": "ja",
+            "french": "je",
+            "portuguese": "eu",
+            "italian": "io"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag heter Anna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мене звуть Анна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My name is Anna."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me llamo Anna."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich heiße Anna."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nazywam się Anna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je m'appelle Anna."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meu nome é Anna."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi chiamo Anna."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar att läsa böcker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю читати книги."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love to read books."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta leer libros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe es, Bücher zu lesen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam czytać książki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore lire des livres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu adoro ler livros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro leggere libri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag bor i Stockholm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я живу в Стокгольмі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I live in Stockholm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vivo en Estocolmo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wohne in Stockholm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieszkam w Sztokholmie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'habite à Stockholm."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu moro em Estocolmo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vivo a Stoccolma."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska till affären."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я йду до магазину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to the store."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a la tienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich gehe zum Laden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idę do sklepu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais au magasin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou à loja."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado al negozio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "du",
+        "translations": {
+            "ukrainian": "ти",
+            "english": "you",
+            "spanish": "tú",
+            "german": "du",
+            "polish": "ty",
+            "french": "tu",
+            "portuguese": "você",
+            "italian": "tu"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du är snäll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти добрий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You are kind."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Eres amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du bist nett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jesteś miły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu es gentil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você é gentil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sei gentile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad heter du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Як тебе звати?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What is your name?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cómo te llamas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie heißt du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jak masz na imię?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Comment tu t'appelles ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Qual é o seu nome?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Come ti chiami?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du bor i Kiev."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти живеш у Києві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You live in Kyiv."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vives en Kiev."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du wohnst in Kiew."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieszkasz w Kijowie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu habites à Kiev."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você mora em Kiev."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vivi a Kiev."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du ska till skolan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти йдеш до школи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You are going to school."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vas a la escuela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du gehst zur Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idziesz do szkoły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu vas à l'école."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você vai para a escola."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vai a scuola."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "han",
+        "translations": {
+            "ukrainian": "він",
+            "english": "he",
+            "spanish": "él",
+            "german": "er",
+            "polish": "on",
+            "french": "il",
+            "portuguese": "ele",
+            "italian": "lui"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är lärare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він вчитель."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es profesor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist Lehrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest nauczycielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est professeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é professor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un insegnante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han älskar fotboll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він любить футбол."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He loves football."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él ama el fútbol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er liebt Fußball."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On kocha piłkę nożną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il adore le football."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele adora futebol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui adora il calcio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han bor i Göteborg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він живе в Гетеборзі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He lives in Gothenburg."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él vive en Gotemburgo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wohnt in Göteborg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On mieszka w Göteborgu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il habite à Göteborg."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele mora em Gotemburgo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui vive a Göteborg."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han ska till jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він йде на роботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is going to work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él va al trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er geht zur Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On idzie do pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il va au travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele vai para o trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui va al lavoro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hon",
+        "translations": {
+            "ukrainian": "вона",
+            "english": "she",
+            "spanish": "ella",
+            "german": "sie",
+            "polish": "ona",
+            "french": "elle",
+            "portuguese": "ela",
+            "italian": "lei"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är läkare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона лікар."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a doctor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es médica."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist Ärztin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest lekarzem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est médecin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é médica."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è un medico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon älskar att dansa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона любить танцювати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She loves to dance."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A ella le encanta bailar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie liebt es zu tanzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona uwielbia tańczyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle adore danser."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela adora dançar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei adora ballare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon bor i Malmö."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона живе в Мальме."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She lives in Malmö."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella vive en Malmö."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wohnt in Malmö."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona mieszka w Malmö."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle habite à Malmö."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela mora em Malmö."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei vive a Malmö."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ska till gymmet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона йде до спортзалу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is going to the gym."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella va al gimnasio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie geht ins Fitnessstudio."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona idzie na siłownię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle va à la salle de sport."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela vai para a academia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei va in palestra."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "den/det",
+        "translations": {
+            "ukrainian": "воно",
+            "english": "it",
+            "spanish": "eso/esa",
+            "german": "es",
+            "polish": "to",
+            "french": "il/elle",
+            "portuguese": "isso/essa",
+            "italian": "esso/essa"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är en bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це книга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is a book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es un libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest książka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É um livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È un libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den är stor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона велика."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest duże."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est grand."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È grande."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är en hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це собака."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is a dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es un perro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ein Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest pies."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É um cachorro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È un cane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den är liten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він маленький."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is small."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es pequeño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist klein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest małe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est petit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É pequeno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È piccolo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vi",
+        "translations": {
+            "ukrainian": "ми",
+            "english": "we",
+            "spanish": "nosotros",
+            "german": "wir",
+            "polish": "my",
+            "french": "nous",
+            "portuguese": "nós",
+            "italian": "noi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi är vänner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми друзі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are friends."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Somos amigos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sind Freunde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jesteśmy przyjaciółmi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous sommes amis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós somos amigos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo amici."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi älskar att resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми любимо подорожувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We love to travel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos encanta viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lieben es zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiamy podróżować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous adorons voyager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós adoramos viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoriamo viaggiare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi bor i Sverige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми живемо у Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We live in Sweden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vivimos en Suecia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wohnen in Schweden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieszkamy w Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous vivons en Suède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós moramos na Suécia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Viviamo in Svezia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ska till parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми йдемо до парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are going to the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos al parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir gehen in den Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idziemy do parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons au parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós vamos ao parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo al parco."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ni",
+        "translations": {
+            "ukrainian": "ви",
+            "english": "you",
+            "spanish": "ustedes",
+            "german": "ihr",
+            "polish": "wy",
+            "french": "vous",
+            "portuguese": "vocês",
+            "italian": "voi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ni är snälla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ви добрі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You are kind."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ustedes son amables."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr seid nett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jesteście mili."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Vous êtes gentils."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vocês são gentis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siete gentili."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var bor ni?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Де ви живете?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where do you live?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Dónde viven ustedes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wo wohnt ihr?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gdzie mieszkacie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où habitez-vous ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Onde vocês moram?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove vivete?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ni ska till stan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ви йдете до міста."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You are going to the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ustedes van a la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr geht in die Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idziecie do miasta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Vous allez en ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vocês vão para a cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andate in città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ni älskar musik."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ви любите музику."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You love music."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ustedes aman la música."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr liebt Musik."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kochacie muzykę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Vous adorez la musique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vocês adoram música."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Amate la musica."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "de",
+        "translations": {
+            "ukrainian": "вони",
+            "english": "they",
+            "spanish": "ellos/ellas",
+            "german": "sie",
+            "polish": "oni/one",
+            "french": "ils/elles",
+            "portuguese": "eles/elas",
+            "italian": "loro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är läkare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони лікарі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are doctors."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos son médicos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sind Ärzte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni są lekarzami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont médecins."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles são médicos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sono medici."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De älskar att läsa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони люблять читати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They love to read."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A ellos les encanta leer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lieben es zu lesen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni uwielbiają czytać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils adorent lire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles adoram ler."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro adorano leggere."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bor i Ukraina."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони живуть в Україні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They live in Ukraine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos viven en Ucrania."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wohnen in der Ukraine."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni mieszkają w Ukrainie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vivent en Ukraine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles moram na Ucrânia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro vivono in Ucraina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ska till skolan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони йдуть до школи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to school."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a la escuela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gehen zur Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni idą do szkoły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont à l'école."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão para a escola."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro vanno a scuola."
+                    }
+                ]
+            }
+        ]
+    }
+]

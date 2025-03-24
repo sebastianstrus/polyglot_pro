@@ -1,0 +1,2277 @@
+[
+    {
+        "expression": "springa",
+        "translations": {
+            "ukrainian": "бігати",
+            "english": "run",
+            "spanish": "correr",
+            "german": "rennen",
+            "polish": "biegać",
+            "french": "courir",
+            "portuguese": "correr",
+            "italian": "correre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag springer varje morgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я бігаю кожного ранку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I run every morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Corro cada mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich renne jeden Morgen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Biegam każdego ranka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je cours chaque matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu corro todas as manhãs."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Corro ogni mattina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han springer snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він бігає швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He runs fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él corre rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er rennt schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On biega szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il court vite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele corre rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui corre veloce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi sprang till parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми побігли до парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We ran to the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Corrimos al parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir rannten zum Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pobiegliśmy do parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons couru jusqu'au parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós corremos para o parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo corsi al parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att springa ett maraton."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть бігати марафон."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to run a marathon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a correr un maratón."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden einen Marathon laufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą biegać maraton."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont courir un marathon."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão correr uma maratona."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro correranno una maratona."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "gå",
+        "translations": {
+            "ukrainian": "ходити",
+            "english": "walk",
+            "spanish": "caminar",
+            "german": "gehen",
+            "polish": "chodzić",
+            "french": "marcher",
+            "portuguese": "andar",
+            "italian": "camminare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag går till skolan varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я ходжу до школи кожного дня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I walk to school every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Camino a la escuela todos los días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich gehe jeden Tag zur Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chodzę do szkoły każdego dnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais à l'école tous les jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou para a escola todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado a scuola ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gick hem efter jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пішла додому після роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She walked home after work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella caminó a casa después del trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ging nach Hause nach der Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poszła do domu po pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est rentrée à pied après le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela foi para casa a pé depois do trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È andata a casa a piedi dopo il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi går till parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми йдемо до парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are walking to the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos al parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir gehen in den Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idziemy do parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons au parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós vamos ao parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo al parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De gick genom skogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони йшли через ліс."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They walked through the forest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos caminaron por el bosque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gingen durch den Wald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szli przez las."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont traversé la forêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles caminharam pela floresta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno camminato attraverso la foresta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "köra",
+        "translations": {
+            "ukrainian": "їхати",
+            "english": "drive",
+            "spanish": "conducir",
+            "german": "fahren",
+            "polish": "jechać",
+            "french": "conduire",
+            "portuguese": "dirigir",
+            "italian": "guidare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kör bil till jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їжджу на роботу на машині."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I drive to work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Conduzco al trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fahre zur Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jadę do pracy samochodem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je conduis au travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu dirijo para o trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Guido al lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han körde till stan igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він їхав до міста вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He drove to the city yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él condujo a la ciudad ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er fuhr gestern in die Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jechał do miasta wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a conduit jusqu'à la ville hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele dirigiu até a cidade ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha guidato in città ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi körde genom tunneln."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми їхали через тунель."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We drove through the tunnel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Condujimos por el túnel."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fuhren durch den Tunnel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jechaliśmy przez tunel."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons conduit à travers le tunnel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós dirigimos pelo túnel."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo guidato attraverso il tunnel."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att köra till havet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони поїдуть до моря."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to drive to the sea."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a conducir al mar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden zum Meer fahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pojadą nad morze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont conduire jusqu'à la mer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão dirigir até o mar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro guideranno fino al mare."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "simma",
+        "translations": {
+            "ukrainian": "плавати",
+            "english": "swim",
+            "spanish": "nadar",
+            "german": "schwimmen",
+            "polish": "pływać",
+            "french": "nager",
+            "portuguese": "nadar",
+            "italian": "nuotare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag simmar i havet varje sommar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я плаваю в морі кожного літа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I swim in the sea every summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nado en el mar cada verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich schwimme jeden Sommer im Meer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pływam w morzu każdego lata."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je nage dans la mer chaque été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu nado no mar todo verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nuoto nel mare ogni estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon simmar mycket bra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона плаває дуже добре."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She swims very well."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella nada muy bien."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schwimmt sehr gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pływa bardzo dobrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle nage très bien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela nada muito bem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei nuota molto bene."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi simmade i sjön igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми плавали в озері вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We swam in the lake yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nadamos en el lago ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schwammen gestern im See."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pływaliśmy w jeziorze wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons nagé dans le lac hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós nadamos no lago ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo nuotato nel lago ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att simma i poolen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть плавати в басейні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to swim in the pool."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a nadar en la piscina."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden im Pool schwimmen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą pływać w basenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont nager dans la piscine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão nadar na piscina."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro nuoteranno in piscina."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "flyga",
+        "translations": {
+            "ukrainian": "літати",
+            "english": "fly",
+            "spanish": "volar",
+            "german": "fliegen",
+            "polish": "latać",
+            "french": "voler",
+            "portuguese": "voar",
+            "italian": "volare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag flyger till Spanien imorgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я лечу до Іспанії завтра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am flying to Spain tomorrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a volar a España mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fliege morgen nach Spanien."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lecę do Hiszpanii jutro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais voler en Espagne demain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou voar para a Espanha amanhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Volo in Spagna domani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fåglarna flyger högt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Птахи літають високо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The birds fly high."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los pájaros vuelan alto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Vögel fliegen hoch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ptaki latają wysoko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les oiseaux volent haut."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os pássaros voam alto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli uccelli volano in alto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi flög till Paris förra veckan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми летіли до Парижа минулого тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We flew to Paris last week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Volamos a París la semana pasada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir flogen letzte Woche nach Paris."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Leciałem do Paryża w zeszłym tygodniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons volé à Paris la semaine dernière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós voamos para Paris na semana passada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo volati a Parigi la scorsa settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att flyga till New York."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони полетять до Нью-Йорка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to fly to New York."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a volar a Nueva York."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden nach New York fliegen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Polecą do Nowego Jorku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont voler à New York."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão voar para Nova York."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro voleranno a New York."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "klättra",
+        "translations": {
+            "ukrainian": "лазити",
+            "english": "climb",
+            "spanish": "trepar",
+            "german": "klettern",
+            "polish": "wspinać się",
+            "french": "grimper",
+            "portuguese": "escalar",
+            "italian": "arrampicarsi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag klättrar på berg varje sommar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я лажу по горах кожного літа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I climb mountains every summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escalo montañas cada verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich klettere jeden Sommer auf Berge."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wspinam się na góry każdego lata."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je grimpe sur les montagnes chaque été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu escalo montanhas todo verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi arrampico sulle montagne ogni estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han klättrade upp för trädet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виліз на дерево."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He climbed up the tree."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él trepó al árbol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kletterte auf den Baum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wspiął się na drzewo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a grimpé à l'arbre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele escalou a árvore."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è arrampicato sull'albero."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi klättrade över staketet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми перелізли через паркан."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We climbed over the fence."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escalamos la valla."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir kletterten über den Zaun."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wspięliśmy się przez płot."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons grimpé par-dessus la clôture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós escalamos a cerca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo arrampicati oltre il recinto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att klättra på klipporna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть лазити по скелях."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to climb the rocks."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a escalar las rocas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden auf die Felsen klettern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą się wspinać po skałach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont grimper sur les rochers."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão escalar as rochas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si arrampicheranno sulle rocce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "halka",
+        "translations": {
+            "ukrainian": "ковзатися",
+            "english": "slide",
+            "spanish": "resbalar",
+            "german": "rutschen",
+            "polish": "poślizgnąć się",
+            "french": "glisser",
+            "portuguese": "deslizar",
+            "italian": "scivolare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag halkade på isen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я ковзнувся на льоду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I slid on the ice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me resbalé en el hielo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich rutschte auf dem Eis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poślizgnąłem się na lodzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai glissé sur la glace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu escorreguei no gelo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono scivolato sul ghiaccio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon halkade på det våta golvet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона ковзнулася на мокрій підлозі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She slid on the wet floor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella resbaló en el piso mojado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie rutschte auf dem nassen Boden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poślizgnęła się na mokrej podłodze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a glissé sur le sol mouillé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela escorregou no chão molhado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è scivolata sul pavimento bagnato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi halkade ner för backen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми ковзалися з пагорба."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We slid down the hill."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos resbalamos por la colina."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir rutschten den Hügel hinunter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poślizgnęliśmy się ze wzgórza."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons glissé en bas de la colline."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós escorregamos morro abaixo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo scivolati giù per la collina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att halka på isen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть ковзатися на льоду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to slide on the ice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a resbalar en el hielo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden auf dem Eis rutschen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą się ślizgać po lodzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont glisser sur la glace."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão escorregar no gelo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro scivoleranno sul ghiaccio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "återvända",
+        "translations": {
+            "ukrainian": "повертатися",
+            "english": "return",
+            "spanish": "regresar",
+            "german": "zurückkehren",
+            "polish": "wracać",
+            "french": "retourner",
+            "portuguese": "retornar",
+            "italian": "ritornare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag återvände hem efter jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я повернувся додому після роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I returned home after work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Regresé a casa después del trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich kehrte nach der Arbeit nach Hause zurück."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wróciłem do domu po pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis rentré à la maison après le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu retornei para casa depois do trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono tornato a casa dopo il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon återvände till sin hemstad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона повернулася до свого рідного міста."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She returned to her hometown."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella regresó a su ciudad natal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kehrte in ihre Heimatstadt zurück."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wróciła do swojego rodzinnego miasta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est retournée dans sa ville natale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela retornou à sua cidade natal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è tornata nella sua città natale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi återvände till hotellet sent på kvällen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повернулися до готелю пізно ввечері."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We returned to the hotel late in the evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Regresamos al hotel tarde por la noche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir kehrten spät abends ins Hotel zurück."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wróciliśmy do hotelu późnym wieczorem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous sommes retournés à l'hôtel tard dans la soirée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós retornamos ao hotel tarde da noite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo tornati in hotel a tarda sera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att återvända till Sverige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони повернуться до Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to return to Sweden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a regresar a Suecia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden nach Schweden zurückkehren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wrócą do Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont retourner en Suède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão retornar para a Suécia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro torneranno in Svezia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "springa iväg",
+        "translations": {
+            "ukrainian": "побігти",
+            "english": "run away",
+            "spanish": "huir",
+            "german": "weglaufen",
+            "polish": "uciekać",
+            "french": "s'enfuir",
+            "portuguese": "fugir",
+            "italian": "scappare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden sprang iväg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака побіг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog ran away."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro huyó."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund lief weg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies uciekł."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien s'est enfui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro fugiu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane è scappato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen sprang iväg från leken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти побігли від гри."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children ran away from the game."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños huyeron del juego."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder liefen vom Spiel weg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci uciekły z gry."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants se sont enfuis du jeu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças fugiram do jogo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono scappati dal gioco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sprang iväg från problemen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він побіг від проблем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He ran away from the problems."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él huyó de los problemas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er lief vor den Problemen weg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uciekł od problemów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il s'est enfui des problèmes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele fugiu dos problemas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È scappato dai problemi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att springa iväg från faran."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони побіжать від небезпеки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to run away from the danger."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a huir del peligro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden vor der Gefahr weglaufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uciekną przed niebezpieczeństwem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont s'enfuir du danger."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão fugir do perigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro scapperanno dal pericolo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vandra",
+        "translations": {
+            "ukrainian": "походити",
+            "english": "hike",
+            "spanish": "caminar",
+            "german": "wandern",
+            "polish": "wędrować",
+            "french": "randonner",
+            "portuguese": "caminhar",
+            "italian": "camminare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vandrar i skogen varje helg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я походжу в лісі кожного вікенду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I hike in the forest every weekend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Camino en el bosque cada fin de semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wandere jedes Wochenende im Wald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wędruję w lesie każdego weekendu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je fais de la randonnée dans la forêt chaque week-end."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu caminho na floresta todo fim de semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cammino nella foresta ogni fine settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi vandrade genom bergen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми походили через гори."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We hiked through the mountains."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Caminamos por las montañas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wanderten durch die Berge."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wędrowaliśmy przez góry."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons randonné à travers les montagnes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós caminhamos pelas montanhas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo camminato attraverso le montagne."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De vandrade längs floden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони походили вздовж річки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They hiked along the river."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos caminaron a lo largo del río."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wanderten entlang des Flusses."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wędrowali wzdłuż rzeki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont randonné le long de la rivière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles caminharam ao longo do rio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno camminato lungo il fiume."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att vandra i nationalparken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть походити в національному парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to hike in the national park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a caminar en el parque nacional."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden im Nationalpark wandern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą wędrować w parku narodowym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont randonner dans le parc national."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão caminhar no parque nacional."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro cammineranno nel parco nazionale."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rusa",
+        "translations": {
+            "ukrainian": "мчати",
+            "english": "rush",
+            "spanish": "apresurarse",
+            "german": "hetzen",
+            "polish": "pędzić",
+            "french": "se précipiter",
+            "portuguese": "correr",
+            "italian": "affrettarsi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag rusade till bussen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я помчав до автобуса."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I rushed to the bus."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me apresuré al autobús."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich hetzte zum Bus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pędziłem do autobusu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me suis précipité vers le bus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu corri para o ônibus."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sono affrettato verso l'autobus."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon rusade till sjukhuset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона помчала до лікарні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She rushed to the hospital."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se apresuró al hospital."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hetzte ins Krankenhaus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pędziła do szpitala."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est précipitée à l'hôpital."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela correu para o hospital."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si è affrettata all'ospedale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi rusade genom stan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми мчали через місто."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We rushed through the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos apresuramos por la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hetzten durch die Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pędziliśmy przez miasto."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous sommes précipités à travers la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós corremos pela cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo affrettati attraverso la città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att rusa till flygplatsen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони помчать до аеропорту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to rush to the airport."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a apresurarse al aeropuerto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden zum Flughafen hetzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pojadą na lotnisko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont se précipiter à l'aéroport."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão correr para o aeroporto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si affretteranno all'aeroporto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "gå",
+        "translations": {
+            "ukrainian": "ходити",
+            "english": "walk",
+            "spanish": "caminar",
+            "german": "gehen",
+            "polish": "chodzić",
+            "french": "marcher",
+            "portuguese": "andar",
+            "italian": "camminare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag går till skolan varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я ходжу до школи кожного дня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I walk to school every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Camino a la escuela todos los días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich gehe jeden Tag zur Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chodzę do szkoły każdego dnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais à l'école tous les jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou para a escola todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado a scuola ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gick hem efter jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пішла додому після роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She walked home after work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella caminó a casa después del trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ging nach Hause nach der Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poszła do domu po pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est rentrée à pied après le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela foi para casa a pé depois do trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È andata a casa a piedi dopo il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi går till parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми йдемо до парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are walking to the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos al parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir gehen in den Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idziemy do parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons au parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós vamos ao parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo al parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De gick genom skogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони йшли через ліс."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They walked through the forest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos caminaron por el bosque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gingen durch den Wald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szli przez las."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont traversé la forêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles caminharam pela floresta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hanno camminato attraverso la foresta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "promenera",
+        "translations": {
+            "ukrainian": "гуляти",
+            "english": "stroll",
+            "spanish": "pasear",
+            "german": "spazieren",
+            "polish": "spacerować",
+            "french": "se promener",
+            "portuguese": "passear",
+            "italian": "passeggiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag promenerar i parken varje kväll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я гуляю в парку кожного вечора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I stroll in the park every evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Paseo por el parque cada noche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich spaziere jeden Abend im Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spaceruję w parku każdego wieczoru."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me promène dans le parc chaque soir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu passeio no parque todas as noites."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Passeggio nel parco ogni sera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon promenerade längs stranden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона гуляла вздовж пляжу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She strolled along the beach."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella paseó por la playa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie spazierte am Strand entlang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spacerowała wzdłuż plaży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est promenée le long de la plage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela passeou pela praia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei passeggiò lungo la spiaggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi promenerade genom stan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми гуляли через місто."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We strolled through the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Paseamos por la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir spazierten durch die Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spacerowaliśmy przez miasto."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous sommes promenés dans la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós passeamos pela cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo passeggiato per la città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att promenera i skogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть гуляти в лісі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to stroll in the forest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a pasear por el bosque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden im Wald spazieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą spacerować w lesie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont se promener dans la forêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão passear na floresta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro passeggeranno nella foresta."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2277 @@
+[
+    {
+        "expression": "vara",
+        "translations": {
+            "ukrainian": "бути",
+            "english": "to be",
+            "spanish": "ser/estar",
+            "german": "sein",
+            "polish": "być",
+            "french": "être",
+            "portuguese": "ser/estar",
+            "italian": "essere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är glad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я щасливий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin glücklich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem szczęśliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis heureux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu estou feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är varmt idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні тепло."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is warm today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace calor hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist warm heute."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzisiaj jest ciepło."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait chaud aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está quente hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa caldo oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi är här."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми тут."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are here."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos aquí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sind hier."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jesteśmy tutaj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous sommes ici."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos aqui."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo qui."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är lärare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він вчитель."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es profesor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist Lehrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest nauczycielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est professeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é professor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un insegnante."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "stå",
+        "translations": {
+            "ukrainian": "стояти",
+            "english": "to stand",
+            "spanish": "estar de pie",
+            "german": "stehen",
+            "polish": "stać",
+            "french": "être debout",
+            "portuguese": "estar de pé",
+            "italian": "stare in piedi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag står vid fönstret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я стою біля вікна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am standing by the window."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy de pie junto a la ventana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich stehe am Fenster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stoję przy oknie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis debout près de la fenêtre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou de pé perto da janela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono in piedi vicino alla finestra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han står på scenen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він стоїть на сцені."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is standing on the stage."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está de pie en el escenario."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er steht auf der Bühne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On stoi na scenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est debout sur scène."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está de pé no palco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È in piedi sul palco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi står i kö."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми стоїмо в черзі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are standing in line."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos haciendo cola."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir stehen in der Schlange."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stoimy w kolejce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous faisons la queue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos na fila."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo in fila."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De står vid dörren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони стоять біля дверей."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are standing by the door."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están de pie junto a la puerta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie stehen an der Tür."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stoją przy drzwiach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont debout près de la porte."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão de pé perto da porta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono in piedi vicino alla porta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ligga",
+        "translations": {
+            "ukrainian": "лежати",
+            "english": "to lie",
+            "spanish": "estar acostado",
+            "german": "liegen",
+            "polish": "leżeć",
+            "french": "être allongé",
+            "portuguese": "estar deitado",
+            "italian": "essere sdraiato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ligger i sängen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я лежу в ліжку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am lying in bed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy acostado en la cama."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liege im Bett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Leżę w łóżku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis allongé dans le lit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou deitado na cama."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono sdraiato nel letto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Boken ligger på bordet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Книга лежить на столі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The book is lying on the table."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El libro está sobre la mesa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Buch liegt auf dem Tisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Książka leży na stole."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le livre est sur la table."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O livro está sobre a mesa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il libro è sul tavolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden ligger i solen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака лежить на сонці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is lying in the sun."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro está tumbado al sol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund liegt in der Sonne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies leży na słońcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien est allongé au soleil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro está deitado ao sol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane è sdraiato al sole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ligger på stranden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони лежать на пляжі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are lying on the beach."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están tumbados en la playa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie liegen am Strand."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Leżą na plaży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont allongés sur la plage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão deitados na praia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono sdraiati sulla spiaggia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bo",
+        "translations": {
+            "ukrainian": "жити",
+            "english": "to live",
+            "spanish": "vivir",
+            "german": "wohnen",
+            "polish": "mieszkać",
+            "french": "habiter",
+            "portuguese": "morar",
+            "italian": "vivere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag bor i Stockholm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я живу в Стокгольмі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I live in Stockholm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vivo en Estocolmo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wohne in Stockholm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieszkam w Sztokholmie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'habite à Stockholm."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu moro em Estocolmo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vivo a Stoccolma."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi bor i Sverige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми живемо у Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We live in Sweden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vivimos en Suecia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wohnen in Schweden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieszkamy w Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous vivons en Suède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós moramos na Suécia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Viviamo in Svezia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han bor i Göteborg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він живе в Гетеборзі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He lives in Gothenburg."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él vive en Gotemburgo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wohnt in Göteborg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On mieszka w Göteborgu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il habite à Göteborg."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele mora em Gotemburgo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui vive a Göteborg."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bor i Ukraina."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони живуть в Україні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They live in Ukraine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos viven en Ucrania."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wohnen in der Ukraine."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni mieszkają w Ukrainie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vivent en Ukraine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles moram na Ucrânia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro vivono in Ucraina."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "pågå",
+        "translations": {
+            "ukrainian": "відбуватися",
+            "english": "to take place",
+            "spanish": "tener lugar",
+            "german": "stattfinden",
+            "polish": "odbywać się",
+            "french": "avoir lieu",
+            "portuguese": "acontecer",
+            "italian": "avere luogo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mötet pågår just nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зустріч зараз відбувається."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The meeting is taking place right now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La reunión está teniendo lugar ahora mismo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Meeting findet gerade statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spotkanie odbywa się właśnie teraz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réunion a lieu en ce moment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A reunião está acontecendo agora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La riunione sta avendo luogo proprio ora."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Festivalen pågår hela veckan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фестиваль триває весь тиждень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The festival is taking place all week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El festival tiene lugar toda la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Festival findet die ganze Woche statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Festival odbywa się przez cały tydzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le festival a lieu toute la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O festival está acontecendo a semana toda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il festival si svolge per tutta la settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Byggarbetet pågår fortfarande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будівництво все ще триває."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The construction is still taking place."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La construcción todavía está teniendo lugar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bauarbeiten finden noch statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Budowa wciąż trwa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les travaux de construction ont toujours lieu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A construção ainda está acontecendo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I lavori di costruzione sono ancora in corso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Diskussionen pågår i salen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дискусія відбувається в залі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The discussion is taking place in the hall."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La discusión está teniendo lugar en el salón."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Diskussion findet im Saal statt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dyskusja odbywa się w sali."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La discussion a lieu dans la salle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A discussão está acontecendo no salão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La discussione si svolge nella sala."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "existera",
+        "translations": {
+            "ukrainian": "існувати",
+            "english": "to exist",
+            "spanish": "existir",
+            "german": "existieren",
+            "polish": "istnieć",
+            "french": "exister",
+            "portuguese": "existir",
+            "italian": "esistere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det existerar många olika kulturer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Існує багато різних культур."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Many different cultures exist."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Existen muchas culturas diferentes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es existieren viele verschiedene Kulturen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Istnieje wiele różnych kultur."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il existe de nombreuses cultures différentes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Existem muitas culturas diferentes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Esistono molte culture diverse."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det existerar en lösning på problemet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Існує рішення цієї проблеми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A solution to the problem exists."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Existe una solución al problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es existiert eine Lösung für das Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Istnieje rozwiązanie problemu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il existe une solution au problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Existe uma solução para o problema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Esiste una soluzione al problema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det existerar inga bevis."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Немає жодних доказів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "No evidence exists."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No existen pruebas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es existieren keine Beweise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie ma żadnych dowodów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il n'existe aucune preuve."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não existem provas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non esistono prove."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det existerar en möjlighet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Існує можливість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A possibility exists."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Existe una posibilidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es existiert eine Möglichkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Istnieje możliwość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il existe une possibilité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Existe uma possibilidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Esiste una possibilità."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vänta",
+        "translations": {
+            "ukrainian": "чекати",
+            "english": "to wait",
+            "spanish": "esperar",
+            "german": "warten",
+            "polish": "czekać",
+            "french": "attendre",
+            "portuguese": "esperar",
+            "italian": "aspettare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag väntar på bussen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я чекаю на автобус."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am waiting for the bus."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy esperando el autobús."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich warte auf den Bus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekam na autobus."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'attends le bus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou esperando o ônibus."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto aspettando l'autobus."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi väntar på dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми чекаємо на тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are waiting for you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te estamos esperando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir warten auf dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekamy na ciebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous t'attendons."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos esperando por você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti stiamo aspettando."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han väntar på ett svar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він чекає на відповідь."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is waiting for an answer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está esperando una respuesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wartet auf eine Antwort."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On czeka na odpowiedź."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il attend une réponse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está esperando uma resposta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta aspettando una risposta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De väntar på tåget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони чекають на потяг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are waiting for the train."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están esperando el tren."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie warten auf den Zug."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekają na pociąg."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils attendent le train."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão esperando o trem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno aspettando il treno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vila",
+        "translations": {
+            "ukrainian": "відпочивати",
+            "english": "to rest",
+            "spanish": "descansar",
+            "german": "ruhen",
+            "polish": "odpoczywać",
+            "french": "se reposer",
+            "portuguese": "descansar",
+            "italian": "riposare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill vila mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу відпочити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to rest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero descansar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte mich ausruhen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę odpocząć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux me reposer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero descansar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio riposarmi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han vilar efter jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він відпочиває після роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He rests after work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él descansa después del trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ruht sich nach der Arbeit aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On odpoczywa po pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il se repose après le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele descansa depois do trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si riposa dopo il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi vilar i parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми відпочиваємо в парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are resting in the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos descansando en el parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir ruhen uns im Park aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odpoczywamy w parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous reposons dans le parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos descansando no parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci stiamo riposando nel parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De vilar på stranden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони відпочивають на пляжі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are resting on the beach."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están descansando en la playa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ruhen sich am Strand aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odpoczywają na plaży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils se reposent sur la plage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão descansando na praia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si stanno riposando sulla spiaggia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sitta",
+        "translations": {
+            "ukrainian": "сидіти",
+            "english": "to sit",
+            "spanish": "sentarse",
+            "german": "sitzen",
+            "polish": "siedzieć",
+            "french": "s'asseoir",
+            "portuguese": "sentar",
+            "italian": "sedersi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag sitter vid bordet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я сиджу за столом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am sitting at the table."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy sentado en la mesa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich sitze am Tisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Siedzę przy stole."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis assis à la table."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou sentado à mesa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono seduto al tavolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sitter i soffan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він сидить на дивані."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is sitting on the couch."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está sentado en el sofá."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sitzt auf dem Sofa."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On siedzi na kanapie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est assis sur le canapé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está sentado no sofá."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È seduto sul divano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi sitter i parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми сидимо в парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are sitting in the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos sentados en el parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sitzen im Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Siedzimy w parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous sommes assis dans le parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos sentados no parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo seduti nel parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De sitter på bänken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сидять на лавці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are sitting on the bench."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están sentados en el banco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sitzen auf der Bank."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Siedzą na ławce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont assis sur le banc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão sentados no banco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono seduti sulla panchina."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "leva",
+        "translations": {
+            "ukrainian": "жити",
+            "english": "to live",
+            "spanish": "vivir",
+            "german": "leben",
+            "polish": "żyć",
+            "french": "vivre",
+            "portuguese": "viver",
+            "italian": "vivere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill leva ett långt liv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу жити довге життя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to live a long life."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero vivir una vida larga."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte ein langes Leben leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę żyć długo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux vivre une longue vie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero viver uma vida longa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio vivere una vita lunga."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han lever i London."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він живе в Лондоні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He lives in London."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él vive en Londres."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er lebt in London."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On mieszka w Londynie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il vit à Londres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele vive em Londres."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui vive a Londra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lever i en stor stad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми живемо у великому місті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We live in a big city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vivimos en una gran ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir leben in einer großen Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieszkamy w dużym mieście."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous vivons dans une grande ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vivemos em uma grande cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Viviamo in una grande città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De lever ett enkelt liv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони живуть простим життям."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They live a simple life."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos viven una vida sencilla."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie leben ein einfaches Leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni żyją prostym życiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vivent une vie simple."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vivem uma vida simples."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro vivono una vita semplice."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sova",
+        "translations": {
+            "ukrainian": "спати",
+            "english": "to sleep",
+            "spanish": "dormir",
+            "german": "schlafen",
+            "polish": "spać",
+            "french": "dormir",
+            "portuguese": "dormir",
+            "italian": "dormire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag sover gott."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я добре сплю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I sleep well."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Duermo bien."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich schlafe gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śpię dobrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je dors bien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu durmo bem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dormo bene."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sover på soffan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він спить на дивані."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is sleeping on the couch."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está durmiendo en el sofá."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er schläft auf dem Sofa."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On śpi na kanapie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il dort sur le canapé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está dormindo no sofá."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta dormendo sul divano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi sover i tältet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми спимо в наметі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are sleeping in the tent."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos durmiendo en la tienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schlafen im Zelt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śpimy w namiocie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous dormons dans la tente."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos dormindo na barraca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo dormendo nella tenda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De sover i samma rum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сплять в одній кімнаті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are sleeping in the same room."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están durmiendo en la misma habitación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schlafen im selben Zimmer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śpią w tym samym pokoju."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils dorment dans la même chambre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão dormindo no mesmo quarto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stanno dormendo nella stessa stanza."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vara fast",
+        "translations": {
+            "ukrainian": "бути застряглим",
+            "english": "to be stuck",
+            "spanish": "estar atrapado",
+            "german": "feststecken",
+            "polish": "utknąć",
+            "french": "être coincé",
+            "portuguese": "estar preso",
+            "italian": "essere bloccato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är fast i trafiken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я застряг у пробці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am stuck in traffic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy atrapado en el tráfico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich stecke im Stau fest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Utknąłem w korku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis coincé dans les embouteillages."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou preso no trânsito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono bloccato nel traffico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är fast i hissen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він застряг у ліфті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is stuck in the elevator."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está atrapado en el ascensor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er steckt im Aufzug fest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Utknął w windzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est coincé dans l'ascenseur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está preso no elevador."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È bloccato nell'ascensore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi är fast i snön."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми застрягли в снігу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are stuck in the snow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos atrapados en la nieve."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir stecken im Schnee fest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Utknęliśmy w śniegu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous sommes coincés dans la neige."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos presos na neve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo bloccati nella neve."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De är fast i en svår situation."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони застрягли в складній ситуації."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are stuck in a difficult situation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Están atrapados en una situación difícil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie stecken in einer schwierigen Situation fest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Utknęli w trudnej sytuacji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils sont coincés dans une situation difficile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão presos em uma situação difícil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono bloccati in una situazione difficile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "finnas",
+        "translations": {
+            "ukrainian": "існувати",
+            "english": "to exist",
+            "spanish": "existir",
+            "german": "existieren",
+            "polish": "istnieć",
+            "french": "exister",
+            "portuguese": "existir",
+            "italian": "esistere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det finns många böcker här."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тут багато книг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "There are many books here."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hay muchos libros aquí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es gibt viele Bücher hier."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest tu wiele książek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il y a beaucoup de livres ici."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Há muitos livros aqui."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci sono molti libri qui."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det finns inga problem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Немає жодних проблем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "There are no problems."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No hay problemas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es gibt keine Probleme."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie ma żadnych problemów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il n'y a pas de problèmes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não há problemas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non ci sono problemi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det finns en lösning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Існує рішення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "There is a solution."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hay una solución."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es gibt eine Lösung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Istnieje rozwiązanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il y a une solution."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Há uma solução."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "C'è una soluzione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det finns inget att oroa sig för."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Немає чого хвилюватися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "There is nothing to worry about."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No hay nada de qué preocuparse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es gibt nichts, worüber man sich Sorgen machen muss."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie ma się czym martwić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il n'y a rien à craindre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não há nada com que se preocupar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non c'è nulla di cui preoccuparsi."
+                    }
+                ]
+            }
+        ]
+    }
+]

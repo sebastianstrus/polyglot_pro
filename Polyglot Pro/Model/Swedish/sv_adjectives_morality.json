@@ -1,0 +1,2277 @@
+[
+    {
+        "expression": "ärlig",
+        "translations": {
+            "ukrainian": "чесний",
+            "english": "honest",
+            "spanish": "honesto",
+            "german": "ehrlich",
+            "polish": "uczciwy",
+            "french": "honnête",
+            "portuguese": "honesto",
+            "italian": "onesto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en ärlig person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він чесна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an honest person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona honesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein ehrlicher Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest uczciwą osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne honnête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa honesta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona onesta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ärlighet är viktigt i ett förhållande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чесність важлива у стосунках."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Honesty is important in a relationship."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La honestidad es importante en una relación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ehrlichkeit ist wichtig in einer Beziehung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uczciwość jest ważna w związku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'honnêteté est importante dans une relation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A honestidade é importante em um relacionamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'onestà è importante in una relazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gav ett ärligt svar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дала чесну відповідь."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave an honest answer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dio una respuesta honesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gab eine ehrliche Antwort."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dała szczerą odpowiedź."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a donné une réponse honnête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela deu uma resposta honesta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha dato una risposta onesta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Att vara ärlig är en dygd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бути чесним – це чеснота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Being honest is a virtue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ser honesto es una virtud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ehrlich zu sein ist eine Tugend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bycie uczciwym to cnota."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Être honnête est une vertu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ser honesto é uma virtude."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Essere onesti è una virtù."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rättvis",
+        "translations": {
+            "ukrainian": "справедливий",
+            "english": "fair",
+            "spanish": "justo",
+            "german": "gerecht",
+            "polish": "sprawiedliwy",
+            "french": "juste",
+            "portuguese": "justo",
+            "italian": "giusto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Domaren var rättvis."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Суддя був справедливим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The judge was fair."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El juez fue justo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Richter war gerecht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sędzia był sprawiedliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le juge était juste."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O juiz foi justo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il giudice era giusto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi försöker vara rättvisa mot alla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми намагаємося бути справедливими до всіх."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We try to be fair to everyone."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Intentamos ser justos con todos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir versuchen, gerecht zu allen zu sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Staramy się być sprawiedliwi wobec wszystkich."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous essayons d'être justes envers tout le monde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tentamos ser justos com todos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cerchiamo di essere giusti con tutti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "En rättvis värld är en bättre värld."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Справедливий світ – це кращий світ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A fair world is a better world."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Un mundo justo es un mundo mejor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine gerechte Welt ist eine bessere Welt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sprawiedliwy świat to lepszy świat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un monde juste est un monde meilleur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um mundo justo é um mundo melhor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Un mondo giusto è un mondo migliore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rättvisa är viktigt i samhället."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Справедливість важлива у суспільстві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Justice is important in society."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La justicia es importante en la sociedad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gerechtigkeit ist wichtig in der Gesellschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sprawiedliwość jest ważna w społeczeństwie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La justice est importante dans la société."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A justiça é importante na sociedade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La giustizia è importante nella società."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lojal",
+        "translations": {
+            "ukrainian": "лояльний",
+            "english": "loyal",
+            "spanish": "leal",
+            "german": "loyal",
+            "polish": "lojalny",
+            "french": "loyal",
+            "portuguese": "leal",
+            "italian": "leale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en lojal vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він лояльний друг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a loyal friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un amigo leal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein loyaler Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest lojalnym przyjacielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un ami loyal."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um amigo leal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un amico leale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lojalitet är viktigt i ett förhållande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лояльність важлива у стосунках."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Loyalty is important in a relationship."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La lealtad es importante en una relación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Loyalität ist wichtig in einer Beziehung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lojalność jest ważna w związku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La loyauté est importante dans une relation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A lealdade é importante em um relacionamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La lealtà è importante in una relazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är lojal mot sitt företag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона лояльна до своєї компанії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is loyal to her company."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es leal a su empresa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist loyal zu ihrer Firma."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest lojalna wobec swojej firmy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est loyale envers son entreprise."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é leal à sua empresa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è leale alla sua azienda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lojalitet bygger förtroende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лояльність будує довіру."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Loyalty builds trust."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La lealtad construye confianza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Loyalität schafft Vertrauen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lojalność buduje zaufanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La loyauté construit la confiance."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A lealdade constrói confiança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La lealtà costruisce fiducia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "pålitlig",
+        "translations": {
+            "ukrainian": "надійний",
+            "english": "reliable",
+            "spanish": "confiable",
+            "german": "zuverlässig",
+            "polish": "godny zaufania",
+            "french": "fiable",
+            "portuguese": "confiável",
+            "italian": "affidabile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en pålitlig kollega."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він надійний колега."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a reliable colleague."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un colega confiable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein zuverlässiger Kollege."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest godnym zaufania kolegą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un collègue fiable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um colega confiável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un collega affidabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Pålitlighet är en viktig egenskap."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Надійність – важлива якість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Reliability is an important quality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La confiabilidad es una cualidad importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zuverlässigkeit ist eine wichtige Eigenschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Godność zaufania to ważna cecha."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La fiabilité est une qualité importante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A confiabilidade é uma qualidade importante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'affidabilità è una qualità importante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en pålitlig vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона надійна подруга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a reliable friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una amiga confiable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine zuverlässige Freundin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest godną zaufania przyjaciółką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une amie fiable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma amiga confiável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è un'amica affidabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "En pålitlig bil är viktig för långa resor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Надійний автомобіль важливий для довгих поїздок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A reliable car is important for long trips."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Un coche confiable es importante para viajes largos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ein zuverlässiges Auto ist wichtig für lange Reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Godny zaufania samochód jest ważny na długie podróże."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Une voiture fiable est importante pour les longs trajets."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um carro confiável é importante para viagens longas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Un'auto affidabile è importante per i viaggi lunghi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "osjälvisk",
+        "translations": {
+            "ukrainian": "несамовитий",
+            "english": "selfless",
+            "spanish": "desinteresado",
+            "german": "selbstlos",
+            "polish": "bezinteresowny",
+            "french": "désintéressé",
+            "portuguese": "altruísta",
+            "italian": "altruista"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en osjälvisk person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона несамовита особа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a selfless person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una persona desinteresada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine selbstlose Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest bezinteresowną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une personne désintéressée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pessoa altruísta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una persona altruista."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans osjälviska handlingar inspirerar andra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його несамовиті вчинки надихають інших."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His selfless actions inspire others."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sus acciones desinteresadas inspiran a otros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Seine selbstlosen Handlungen inspirieren andere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego bezinteresowne działania inspirują innych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ses actions désintéressées inspirent les autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Suas ações altruístas inspiram os outros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le sue azioni altruiste ispirano gli altri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Osjälviskhet är en sällsynt egenskap."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Несамовитість – це рідкісна якість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Selflessness is a rare quality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El desinterés es una cualidad rara."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Selbstlosigkeit ist eine seltene Eigenschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bezinteresowność to rzadka cecha."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le désintéressement est une qualité rare."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Altruísmo é uma qualidade rara."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'altruismo è una qualità rara."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi behöver fler osjälviska ledare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нам потрібно більше несамовитих лідерів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need more selfless leaders."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesitamos más líderes desinteresados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir brauchen mehr selbstlose Führungskräfte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Potrzebujemy więcej bezinteresownych liderów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons besoin de plus de leaders désintéressés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos de mais líderes altruístas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo bisogno di più leader altruisti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lögnaktig",
+        "translations": {
+            "ukrainian": "брехливий",
+            "english": "deceitful",
+            "spanish": "engañoso",
+            "german": "lügnerisch",
+            "polish": "kłamliwy",
+            "french": "menteur",
+            "portuguese": "enganoso",
+            "italian": "bugiardo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en lögnaktig person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він брехлива особа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a deceitful person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona engañosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist eine lügnerische Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest kłamliwą osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne menteuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa enganosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona bugiarda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lögnaktiga människor kan inte lita på."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Брехливим людям не можна довіряти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Deceitful people cannot be trusted."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No se puede confiar en las personas engañosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lügnerischen Menschen kann man nicht vertrauen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kłamliwym ludziom nie można ufać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "On ne peut pas faire confiance aux personnes menteuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas enganosas não podem ser confiáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone bugiarde non possono essere fidate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev upprörd över hans lögnaktiga beteende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона засмутилася через його брехливу поведінку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got upset over his deceitful behavior."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se enfadó por su comportamiento engañoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war verärgert über sein lügnerisches Verhalten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zdenerwowała się jego kłamliwym zachowaniem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est énervée à cause de son comportement menteur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou chateada com o comportamento enganoso dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è arrabbiata per il suo comportamento bugiardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lögnaktiga påståenden kan skada relationer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Брехливі твердження можуть зашкодити стосункам."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Deceitful claims can harm relationships."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las afirmaciones engañosas pueden dañar las relaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lügnerische Behauptungen können Beziehungen schaden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kłamliwe twierdzenia mogą zaszkodzić relacjom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les affirmations menteuses peuvent nuire aux relations."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Afirmações enganosas podem prejudicar relacionamentos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dichiarazioni bugiarde possono danneggiare le relazioni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "korrupt",
+        "translations": {
+            "ukrainian": "корумпований",
+            "english": "corrupt",
+            "spanish": "corrupto",
+            "german": "korrupt",
+            "polish": "skorumpowany",
+            "french": "corrompu",
+            "portuguese": "corrupto",
+            "italian": "corrotto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Regeringen anklagas för att vara korrupt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Уряд звинувачують у корупції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The government is accused of being corrupt."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El gobierno es acusado de ser corrupto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Regierung wird beschuldigt, korrupt zu sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rząd jest oskarżany o bycie skorumpowanym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le gouvernement est accusé d'être corrompu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O governo é acusado de ser corrupto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il governo è accusato di essere corrotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Korrupta politiker skadar samhället."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Корупційні політики шкодять суспільству."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Corrupt politicians harm society."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los políticos corruptos dañan la sociedad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Korrupte Politiker schaden der Gesellschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skorumpowani politycy szkodzą społeczeństwu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les politiciens corrompus nuisent à la société."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Políticos corruptos prejudicam a sociedade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I politici corrotti danneggiano la società."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Korruption är ett stort problem i många länder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Корупція – це велика проблема в багатьох країнах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Corruption is a big problem in many countries."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La corrupción es un gran problema en muchos países."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Korruption ist ein großes Problem in vielen Ländern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Korupcja to duży problem w wielu krajach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La corruption est un gros problème dans de nombreux pays."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A corrupção é um grande problema em muitos países."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La corruzione è un grosso problema in molti paesi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han blev avslöjad som korrupt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його викрили як корумпованого."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was exposed as corrupt."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue expuesto como corrupto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde als korrupt entlarvt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Został ujawniony jako skorumpowany."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a été démasqué comme corrompu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi exposto como corrupto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato smascherato come corrotto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "falsk",
+        "translations": {
+            "ukrainian": "фальшивий",
+            "english": "fake",
+            "spanish": "falso",
+            "german": "falsch",
+            "polish": "fałszywy",
+            "french": "faux",
+            "portuguese": "falso",
+            "italian": "falso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hade ett falskt leende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї була фальшива посмішка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She had a fake smile."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tenía una sonrisa falsa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hatte ein falsches Lächeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miała fałszywy uśmiech."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait un sourire faux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tinha um sorriso falso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Aveva un sorriso falso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Falska pengar är ett stort problem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фальшиві гроші – це велика проблема."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fake money is a big problem."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El dinero falso es un gran problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Falschgeld ist ein großes Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Fałszywe pieniądze to duży problem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La fausse monnaie est un gros problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Dinheiro falso é um grande problema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il denaro falso è un grosso problema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han använde ett falskt namn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він використовував фальшиве ім'я."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He used a fake name."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él usó un nombre falso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er benutzte einen falschen Namen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Użył fałszywego imienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a utilisé un faux nom."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele usou um nome falso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha usato un nome falso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Falska löften kan skada förtroendet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фальшиві обіцянки можуть зашкодити довірі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fake promises can harm trust."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las promesas falsas pueden dañar la confianza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Falsche Versprechen können das Vertrauen schaden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Fałszywe obietnice mogą zaszkodzić zaufaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fausses promesses peuvent nuire à la confiance."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Promessas falsas podem prejudicar a confiança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le false promesse possono danneggiare la fiducia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "manipulativ",
+        "translations": {
+            "ukrainian": "маніпулятивний",
+            "english": "manipulative",
+            "spanish": "manipulador",
+            "german": "manipulativ",
+            "polish": "manipulacyjny",
+            "french": "manipulateur",
+            "portuguese": "manipulador",
+            "italian": "manipolatore"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han använde manipulativa taktiker för att vinna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він використовував маніпулятивні тактики, щоб перемогти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He used manipulative tactics to win."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él usó tácticas manipuladoras para ganar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er verwendete manipulative Taktiken, um zu gewinnen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Użył manipulacyjnych taktyk, aby wygrać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a utilisé des tactiques manipulatives pour gagner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele usou táticas manipuladoras para vencer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha usato tattiche manipolative per vincere."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Manipulativa människor kan vara farliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Маніпулятивні люди можуть бути небезпечними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Manipulative people can be dangerous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas manipuladoras pueden ser peligrosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Manipulative Menschen können gefährlich sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Manipulacyjni ludzie mogą być niebezpieczni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes manipulatrices peuvent être dangereuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas manipuladoras podem ser perigosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone manipolatrici possono essere pericolose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kände sig utnyttjad av hans manipulativa beteende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона почувалася використаною через його маніпулятивну поведінку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She felt exploited by his manipulative behavior."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se sintió explotada por su comportamiento manipulador."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie fühlte sich von seinem manipulativen Verhalten ausgenutzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuła się wykorzystana przez jego manipulacyjne zachowanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est sentie exploitée par son comportement manipulateur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela se sentiu explorada pelo comportamento manipulador dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è sentita sfruttata dal suo comportamento manipolatore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Manipulativa metoder används ofta i förhandlingar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Маніпулятивні методи часто використовуються в переговорах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Manipulative methods are often used in negotiations."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los métodos manipuladores se usan a menudo en las negociaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Manipulative Methoden werden oft in Verhandlungen eingesetzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Manipulacyjne metody są często używane w negocjacjach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les méthodes manipulatives sont souvent utilisées dans les négociations."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Métodos manipuladores são frequentemente usados em negociações."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I metodi manipolatori sono spesso usati nelle trattative."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hederlig",
+        "translations": {
+            "ukrainian": "чесний",
+            "english": "honest",
+            "spanish": "honesto",
+            "german": "ehrlich",
+            "polish": "uczciwy",
+            "french": "honnête",
+            "portuguese": "honesto",
+            "italian": "onesto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en hederlig man."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він чесна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an honest man."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un hombre honesto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein ehrlicher Mann."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest uczciwym człowiekiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un homme honnête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um homem honesto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un uomo onesto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hederlighet är en viktig egenskap."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чесність – це важлива якість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Honesty is an important quality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La honestidad es una cualidad importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ehrlichkeit ist eine wichtige Eigenschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uczciwość to ważna cecha."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'honnêteté est une qualité importante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A honestidade é uma qualidade importante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'onestà è una qualità importante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var hederlig om sina misstag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була чесною щодо своїх помилок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was honest about her mistakes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella fue honesta sobre sus errores."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war ehrlich über ihre Fehler."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Była uczciwa co do swoich błędów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a été honnête à propos de ses erreurs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela foi honesta sobre seus erros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stata onesta riguardo ai suoi errori."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi behöver fler hederliga politiker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нам потрібно більше чесних політиків."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We need more honest politicians."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesitamos más políticos honestos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir brauchen mehr ehrliche Politiker."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Potrzebujemy więcej uczciwych polityków."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons besoin de plus de politiciens honnêtes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Precisamos de mais políticos honestos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo bisogno di più politici onesti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "trogen",
+        "translations": {
+            "ukrainian": "вірний",
+            "english": "loyal",
+            "spanish": "leal",
+            "german": "treu",
+            "polish": "lojalny",
+            "french": "fidèle",
+            "portuguese": "leal",
+            "italian": "fedele"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en trogen vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він вірний друг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a loyal friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un amigo leal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein treuer Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest lojalnym przyjacielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un ami fidèle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um amigo leal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un amico fedele."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden är trogen mot sin ägare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака вірний своєму господарю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is loyal to its owner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro es leal a su dueño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund ist seinem Besitzer treu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies jest lojalny wobec swojego właściciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien est fidèle à son propriétaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro é leal ao seu dono."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane è fedele al suo padrone."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trogenhet är en viktig del av ett förhållande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вірність – це важлива частина стосунків."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Loyalty is an important part of a relationship."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La lealtad es una parte importante de una relación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Treue ist ein wichtiger Teil einer Beziehung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lojalność jest ważną częścią związku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La fidélité est une partie importante d'une relation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A lealdade é uma parte importante de um relacionamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La fedeltà è una parte importante di una relazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon förblev trogen sina principer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона залишилася вірною своїм принципам."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She remained loyal to her principles."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se mantuvo leal a sus principios."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie blieb ihren Prinzipien treu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pozostała lojalna swoim zasadom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est restée fidèle à ses principes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela permaneceu leal aos seus princípios."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È rimasta fedele ai suoi principi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "otrogen",
+        "translations": {
+            "ukrainian": "невірний",
+            "english": "unfaithful",
+            "spanish": "infiel",
+            "german": "untreu",
+            "polish": "niewierny",
+            "french": "infidèle",
+            "portuguese": "infiel",
+            "italian": "infedele"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var otrogen mot sin fru."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був невірний своїй дружині."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was unfaithful to his wife."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue infiel a su esposa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war seiner Frau untreu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był niewierny swojej żonie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a été infidèle à sa femme."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi infiel à sua esposa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato infedele a sua moglie."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Otrohet kan förstöra ett förhållande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Невірність може зруйнувати стосунки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Unfaithfulness can destroy a relationship."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La infidelidad puede destruir una relación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Untreue kann eine Beziehung zerstören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niewierność może zniszczyć związek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'infidélité peut détruire une relation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A infidelidade pode destruir um relacionamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'infedeltà può distruggere una relazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kände sig bedragen när hon upptäckte hans otrohet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона почувалася обдуреною, коли виявила його невірність."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She felt betrayed when she discovered his unfaithfulness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se sintió traicionada cuando descubrió su infidelidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie fühlte sich betrogen, als sie seine Untreue entdeckte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuła się zdradzona, gdy odkryła jego niewierność."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est sentie trahie quand elle a découvert son infidélité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela se sentiu traída quando descobriu sua infidelidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è sentita tradita quando ha scoperto la sua infedeltà."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Otrohet är en vanlig orsak till skilsmässa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Невірність – це часта причина розлучення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Unfaithfulness is a common cause of divorce."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La infidelidad es una causa común de divorcio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Untreue ist eine häufige Ursache für Scheidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niewierność to częsta przyczyna rozwodów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'infidélité est une cause fréquente de divorce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A infidelidade é uma causa comum de divórcio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'infedeltà è una causa comune di divorzio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rättvis",
+        "translations": {
+            "ukrainian": "справедливий",
+            "english": "fair",
+            "spanish": "justo",
+            "german": "gerecht",
+            "polish": "sprawiedliwy",
+            "french": "juste",
+            "portuguese": "justo",
+            "italian": "giusto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Domaren var rättvis i sitt beslut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Суддя був справедливим у своєму рішенні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The judge was fair in his decision."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El juez fue justo en su decisión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Richter war gerecht in seiner Entscheidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sędzia był sprawiedliwy w swojej decyzji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le juge a été juste dans sa décision."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O juiz foi justo em sua decisão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il giudice è stato giusto nella sua decisione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rättvisa är viktigt i ett samhälle."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Справедливість важлива в суспільстві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fairness is important in a society."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La justicia es importante en una sociedad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gerechtigkeit ist wichtig in einer Gesellschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sprawiedliwość jest ważna w społeczeństwie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La justice est importante dans une société."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A justiça é importante em uma sociedade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La giustizia è importante in una società."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon försökte vara rättvis mot alla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона намагалася бути справедливою до всіх."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She tried to be fair to everyone."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella intentó ser justa con todos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie versuchte, allen gegenüber gerecht zu sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Starała się być sprawiedliwa wobec wszystkich."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a essayé d'être juste envers tout le monde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tentou ser justa com todos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha cercato di essere giusta con tutti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rättvis fördelning av resurser är viktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Справедливий розподіл ресурсів важливий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Fair distribution of resources is important."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La distribución justa de recursos es importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine gerechte Verteilung der Ressourcen ist wichtig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sprawiedliwy rozdział zasobów jest ważny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La répartition équitable des ressources est importante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A distribuição justa de recursos é importante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La distribuzione equa delle risorse è importante."
+                    }
+                ]
+            }
+        ]
+    }
+]

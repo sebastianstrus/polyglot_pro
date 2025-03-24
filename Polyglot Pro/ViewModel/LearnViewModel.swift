@@ -20,39 +20,46 @@ class LearnViewModel: ObservableObject {
     @Published var showHint = false
     @Published var shake: Bool = false
     @Published var missCountUpdated: Bool = false
-    @Published var isSoundOn = true {
+    @Published var isSoundOn: Bool = SettingsManager.shared.isSoundOn
+    
+    @Published var speechRate: Double = SettingsManager.shared.speechRate {
         didSet {
-            UserDefaults.standard.set(isSoundOn, forKey: "speechOn")
+            SettingsManager.shared.speechRate = speechRate
         }
     }
     
-    @Published var speechRate: Float {
-        didSet {
-            UserDefaults.standard.set(speechRate, forKey: "speechRate")
-        }
-    }
     
-    var category: QuestionCategory
+//    @Published var speechRate: Float {
+//        didSet {
+//            UserDefaults.standard.set(speechRate, forKey: "speechRate")
+//        }
+//    }
+    
+    var category: Category
     private var speechSynthesizer = AVSpeechSynthesizer()
     
-    init(category: QuestionCategory) {
+    init(category: Category) {
         self.category = category
-        self.questionsBase = DataProvider.questions(for: category)
-        self.questions = DataProvider.questions(for: category).shuffled()
+//        self.questionsBase = DataProvider2.questions(for: category)
+//        self.questions = DataProvider.questions(for: category).shuffled()
         
-        self.speechRate = UserDefaults.standard.float(forKey: "speechRate")
-        self.isSoundOn = UserDefaults.standard.bool(forKey: "speechOn")
+        self.questionsBase = DataProviderStruct.data[category] ?? []
+        self.questions = (DataProviderStruct.data[category] ?? []).shuffled()
         
-        if self.speechRate == 0 { self.speechRate = 0.3 }
+    }
+    
+    func toggleSound() {
+        SettingsManager.shared.isSoundOn.toggle()
+        isSoundOn = SettingsManager.shared.isSoundOn
     }
     
     func checkAnswer() -> Bool? {
         guard !userInput.isEmpty else { return nil }
-        isCorrect = userInput.lowercased() == questions[currentIndex].translation.lowercased()
+        isCorrect = userInput.lowercased() == questions[currentIndex].expression.lowercased()
         
         if isCorrect == true {
             if isSoundOn {
-                speak(text: questions[currentIndex].translation)
+                speak(text: questions[currentIndex].expression)
             }
         } else {
             if !missCountUpdated {
@@ -86,14 +93,10 @@ class LearnViewModel: ObservableObject {
         }
     }
     
-    func toggleSound() {
-        isSoundOn.toggle()
-    }
-    
     func speak(text: String) {
         let utterance = AVSpeechUtterance(string: text)
         utterance.voice = AVSpeechSynthesisVoice(language: "sv-SE")
-        utterance.rate = speechRate
+        utterance.rate = Float(speechRate)
         speechSynthesizer.speak(utterance)
         
     }

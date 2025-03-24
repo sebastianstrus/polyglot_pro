@@ -1,0 +1,4552 @@
+[
+    {
+        "expression": "bil",
+        "translations": {
+            "ukrainian": "автомобіль",
+            "english": "car",
+            "spanish": "coche",
+            "german": "Auto",
+            "polish": "samochód",
+            "french": "voiture",
+            "portuguese": "carro",
+            "italian": "macchina"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en ny bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив новий автомобіль."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a new car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré un coche nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein neues Auto gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem nowy samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté une nouvelle voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei um carro novo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato una macchina nuova."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilen är röd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автомобіль червоний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The car is red."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coche es rojo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Auto ist rot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samochód jest czerwony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La voiture est rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carro é vermelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La macchina è rossa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi åker bil till jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми їдемо на роботу автомобілем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We drive to work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos al trabajo en coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fahren mit dem Auto zur Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jedziemy do pracy samochodem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons au travail en voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos para o trabalho de carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo al lavoro in macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilen står på parkeringen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автомобіль стоїть на стоянці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The car is in the parking lot."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coche está en el aparcamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Auto steht auf dem Parkplatz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samochód stoi na parkingu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La voiture est sur le parking."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carro está no estacionamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La macchina è nel parcheggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "buss",
+        "translations": {
+            "ukrainian": "автобус",
+            "english": "bus",
+            "spanish": "autobús",
+            "german": "Bus",
+            "polish": "autobus",
+            "french": "bus",
+            "portuguese": "ônibus",
+            "italian": "autobus"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bussen är sen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автобус запізнюється."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bus is late."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El autobús está tarde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Bus ist spät."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Autobus się spóźnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bus est en retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ônibus está atrasado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autobus è in ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tar bussen till skolan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їду до школи автобусом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I take the bus to school."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tomo el autobús a la escuela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich nehme den Bus zur Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jadę do szkoły autobusem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je prends le bus pour aller à l'école."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu pego o ônibus para a escola."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prendo l'autobus per andare a scuola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bussen är full."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автобус переповнений."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bus is full."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El autobús está lleno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Bus ist voll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Autobus jest pełny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bus est plein."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ônibus está cheio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autobus è pieno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bussen går kl 8."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автобус відправляється о 8 годині."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bus leaves at 8."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El autobús sale a las 8."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Bus fährt um 8 Uhr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Autobus odjeżdża o 8."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bus part à 8 heures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ônibus sai às 8."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autobus parte alle 8."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tåg",
+        "translations": {
+            "ukrainian": "поїзд",
+            "english": "train",
+            "spanish": "tren",
+            "german": "Zug",
+            "polish": "pociąg",
+            "french": "train",
+            "portuguese": "trem",
+            "italian": "treno"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tåget är snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поїзд швидкий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train is fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tren es rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Zug ist schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pociąg jest szybki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le train est rapide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trem é rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il treno è veloce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag åker tåg till Stockholm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їду до Стокгольма поїздом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I take the train to Stockholm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy en tren a Estocolmo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fahre mit dem Zug nach Stockholm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jadę pociągiem do Sztokholmu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je prends le train pour Stockholm."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou de trem para Estocolmo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado in treno a Stoccolma."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tåget är försenat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поїзд запізнюється."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train is delayed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tren está retrasado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Zug ist verspätet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pociąg jest opóźniony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le train est en retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trem está atrasado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il treno è in ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tåget går kl 10."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поїзд відправляється о 10 годині."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train leaves at 10."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tren sale a las 10."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Zug fährt um 10 Uhr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pociąg odjeżdża o 10."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le train part à 10 heures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trem sai às 10."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il treno parte alle 10."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "cykel",
+        "translations": {
+            "ukrainian": "велосипед",
+            "english": "bicycle",
+            "spanish": "bicicleta",
+            "german": "Fahrrad",
+            "polish": "rower",
+            "french": "vélo",
+            "portuguese": "bicicleta",
+            "italian": "bicicletta"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag cyklar till jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їду на роботу велосипедом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bike to work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy al trabajo en bicicleta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fahre mit dem Fahrrad zur Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jadę do pracy rowerem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais au travail à vélo."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou para o trabalho de bicicleta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado al lavoro in bicicletta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Cykeln är trasig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Велосипед зламаний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bicycle is broken."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La bicicleta está rota."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Fahrrad ist kaputt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rower jest zepsuty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vélo est cassé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A bicicleta está quebrada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La bicicletta è rotta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en ny cykel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив новий велосипед."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a new bicycle."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré una bicicleta nueva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein neues Fahrrad gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem nowy rower."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté un nouveau vélo."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei uma bicicleta nova."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato una bicicletta nuova."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Cykeln står i garaget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Велосипед стоїть у гаражі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bicycle is in the garage."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La bicicleta está en el garaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Fahrrad steht in der Garage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rower stoi w garażu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vélo est dans le garage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A bicicleta está na garagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La bicicletta è in garage."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "båt",
+        "translations": {
+            "ukrainian": "човен",
+            "english": "boat",
+            "spanish": "barco",
+            "german": "Boot",
+            "polish": "łódź",
+            "french": "bateau",
+            "portuguese": "barco",
+            "italian": "barca"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi åker båt till ön."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми їдемо на острів човном."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We take the boat to the island."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos a la isla en barco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fahren mit dem Boot zur Insel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płyniemy na wyspę łodzią."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons à l'île en bateau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós vamos para a ilha de barco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo all'isola in barca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Båten är vit."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Човен білий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The boat is white."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El barco es blanco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Boot ist weiß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Łódź jest biała."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bateau est blanc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O barco é branco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La barca è bianca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Båten ligger vid bryggan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Човен стоїть біля пристані."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The boat is at the dock."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El barco está en el muelle."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Boot liegt am Steg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Łódź stoi przy przystani."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bateau est au quai."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O barco está no cais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La barca è al molo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Båten seglar snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Човен швидко пливе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The boat sails fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El barco navega rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Boot segelt schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Łódź płynie szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le bateau navigue vite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O barco navega rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La barca naviga veloce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "flygplan",
+        "translations": {
+            "ukrainian": "літак",
+            "english": "airplane",
+            "spanish": "avión",
+            "german": "Flugzeug",
+            "polish": "samolot",
+            "french": "avion",
+            "portuguese": "avião",
+            "italian": "aereo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Flygplanet lyfter om tio minuter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Літак злетить через десять хвилин."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The airplane takes off in ten minutes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El avión despega en diez minutos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Flugzeug startet in zehn Minuten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samolot wystartuje za dziesięć minut."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'avion décolle dans dix minutes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O avião decola em dez minutos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aereo decolla tra dieci minuti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Flygplanet är stort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Літак великий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The airplane is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El avión es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Flugzeug ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samolot jest duży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'avion est grand."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O avião é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aereo è grande."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag åker flygplan till Paris."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я лечу до Парижа літаком."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am flying to Paris by airplane."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a París en avión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fliege mit dem Flugzeug nach Paris."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lecę do Paryża samolotem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais à Paris en avion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou para Paris de avião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado a Parigi in aereo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Flygplanet landar snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Літак скоро приземлиться."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The airplane will land soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El avión aterrizará pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Flugzeug landet bald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samolot wkrótce wyląduje."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'avion atterrira bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O avião vai pousar em breve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aereo atterrerà presto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lastbil",
+        "translations": {
+            "ukrainian": "вантажівка",
+            "english": "truck",
+            "spanish": "camión",
+            "german": "Lastwagen",
+            "polish": "ciężarówka",
+            "french": "camion",
+            "portuguese": "caminhão",
+            "italian": "camion"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lastbilen är full med varor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вантажівка повна товарів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The truck is full of goods."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El camión está lleno de mercancías."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Lastwagen ist voller Waren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ciężarówka jest pełna towarów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le camion est plein de marchandises."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O caminhão está cheio de mercadorias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camion è pieno di merci."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lastbilen kör snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вантажівка їде швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The truck is driving fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El camión va rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Lastwagen fährt schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ciężarówka jedzie szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le camion roule vite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O caminhão está andando rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camion va veloce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lastbilen stannade vid lagerhuset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вантажівка зупинилася біля складу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The truck stopped at the warehouse."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El camión se detuvo en el almacén."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Lastwagen hielt am Lagerhaus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ciężarówka zatrzymała się przy magazynie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le camion s'est arrêté à l'entrepôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O caminhão parou no armazém."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camion si è fermato al magazzino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lastbilen transporterar trä."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вантажівка перевозить дерево."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The truck is transporting wood."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El camión transporta madera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Lastwagen transportiert Holz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ciężarówka przewozi drewno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le camion transporte du bois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O caminhão está transportando madeira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camion trasporta legno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "taxi",
+        "translations": {
+            "ukrainian": "таксі",
+            "english": "taxi",
+            "spanish": "taxi",
+            "german": "Taxi",
+            "polish": "taksówka",
+            "french": "taxi",
+            "portuguese": "táxi",
+            "italian": "taxi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tar ett taxi till flygplatsen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я беру таксі до аеропорту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I take a taxi to the airport."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tomo un taxi al aeropuerto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich nehme ein Taxi zum Flughafen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Biorę taksówkę na lotnisko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je prends un taxi pour l'aéroport."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu pego um táxi para o aeroporto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prendo un taxi per l'aeroporto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Taxin är här."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Таксі тут."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The taxi is here."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El taxi está aquí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Taxi ist da."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Taksówka jest tutaj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le taxi est là."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O táxi está aqui."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il taxi è qui."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Taxin kör snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Таксі їде швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The taxi is driving fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El taxi va rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Taxi fährt schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Taksówka jedzie szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le taxi roule vite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O táxi está andando rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il taxi va veloce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Taxin stannade vid hotellet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Таксі зупинилося біля готелю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The taxi stopped at the hotel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El taxi se detuvo en el hotel."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Taxi hielt am Hotel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Taksówka zatrzymała się przy hotelu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le taxi s'est arrêté à l'hôtel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O táxi parou no hotel."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il taxi si è fermato all'hotel."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tågvagn",
+        "translations": {
+            "ukrainian": "вагон",
+            "english": "train car",
+            "spanish": "vagón",
+            "german": "Waggon",
+            "polish": "wagon",
+            "french": "wagon",
+            "portuguese": "vagão",
+            "italian": "vagone"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tågvagnen är full av resenärer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вагон повний пасажирів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train car is full of passengers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vagón está lleno de pasajeros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Waggon ist voller Passagiere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wagon jest pełen pasażerów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le wagon est plein de passagers."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vagão está cheio de passageiros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vagone è pieno di passeggeri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tågvagnen är bekväm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вагон комфортний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train car is comfortable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vagón es cómodo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Waggon ist bequem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wagon jest wygodny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le wagon est confortable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vagão é confortável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vagone è comodo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tågvagnen har säten för 50 personer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У вагоні є місця для 50 осіб."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train car has seats for 50 people."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vagón tiene asientos para 50 personas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Waggon hat Sitze für 50 Personen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wagon ma miejsca dla 50 osób."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le wagon a des sièges pour 50 personnes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vagão tem assentos para 50 pessoas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vagone ha posti a sedere per 50 persone."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tågvagnen är luftkonditionerad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вагон має кондиціонер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The train car is air-conditioned."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vagón tiene aire acondicionado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Waggon ist klimatisiert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wagon jest klimatyzowany."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le wagon est climatisé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vagão é climatizado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vagone è climatizzato."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tunnelbana",
+        "translations": {
+            "ukrainian": "метро",
+            "english": "subway",
+            "spanish": "metro",
+            "german": "U-Bahn",
+            "polish": "metro",
+            "french": "métro",
+            "portuguese": "metrô",
+            "italian": "metropolitana"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tunnelbanan är snabb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Метро швидке."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The subway is fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El metro es rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die U-Bahn ist schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Metro jest szybkie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le métro est rapide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O metrô é rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La metropolitana è veloce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag åker tunnelbana till jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я їду на роботу метро."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I take the subway to work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy al trabajo en metro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fahre mit der U-Bahn zur Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jadę do pracy metrem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais au travail en métro."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou para o trabalho de metrô."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado al lavoro in metropolitana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tunnelbanan är full på morgonen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Метро переповнене вранці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The subway is crowded in the morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El metro está lleno por la mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die U-Bahn ist morgens voll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Metro jest zatłoczone rano."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le métro est bondé le matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O metrô está cheio de manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La metropolitana è affollata al mattino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tunnelbanan går var femte minut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Метро ходить кожні п'ять хвилин."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The subway runs every five minutes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El metro pasa cada cinco minutos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die U-Bahn fährt alle fünf Minuten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Metro jeździ co pięć minut."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le métro passe toutes les cinq minutes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O metrô passa a cada cinco minutos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La metropolitana passa ogni cinque minuti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "färja",
+        "translations": {
+            "ukrainian": "пором",
+            "english": "ferry",
+            "spanish": "ferry",
+            "german": "Fähre",
+            "polish": "prom",
+            "french": "ferry",
+            "portuguese": "balsa",
+            "italian": "traghetto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Färjan går till ön."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пором йде на острів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The ferry goes to the island."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferry va a la isla."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Fähre fährt zur Insel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Prom płynie na wyspę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ferry va à l'île."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A balsa vai para a ilha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traghetto va all'isola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Färjan är stor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пором великий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The ferry is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferry es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Fähre ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Prom jest duży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ferry est grand."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A balsa é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traghetto è grande."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Färjan tar bilar och passagerare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пором перевозить автомобілі та пасажирів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The ferry carries cars and passengers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferry lleva coches y pasajeros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Fähre transportiert Autos und Passagiere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Prom przewozi samochody i pasażerów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ferry transporte des voitures et des passagers."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A balsa transporta carros e passageiros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traghetto trasporta auto e passeggeri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Färjan avgår kl 12."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пором відправляється о 12 годині."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The ferry departs at 12."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferry sale a las 12."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Fähre fährt um 12 Uhr ab."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Prom odpływa o 12."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ferry part à 12 heures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A balsa sai às 12."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traghetto parte alle 12."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "helikopter",
+        "translations": {
+            "ukrainian": "гелікоптер",
+            "english": "helicopter",
+            "spanish": "helicóptero",
+            "german": "Helikopter",
+            "polish": "helikopter",
+            "french": "hélicoptère",
+            "portuguese": "helicóptero",
+            "italian": "elicottero"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Helikoptern flyger högt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гелікоптер летить високо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The helicopter flies high."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El helicóptero vuela alto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Helikopter fliegt hoch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Helikopter leci wysoko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'hélicoptère vole haut."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O helicóptero voa alto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'elicottero vola in alto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Helikoptern används för räddningsuppdrag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гелікоптер використовується для рятувальних операцій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The helicopter is used for rescue missions."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El helicóptero se usa para misiones de rescate."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Helikopter wird für Rettungseinsätze verwendet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Helikopter jest używany do misji ratunkowych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'hélicoptère est utilisé pour les missions de sauvetage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O helicóptero é usado para missões de resgate."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'elicottero è usato per missioni di salvataggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Helikoptern landar på taket."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гелікоптер приземляється на даху."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The helicopter lands on the roof."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El helicóptero aterriza en el techo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Helikopter landet auf dem Dach."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Helikopter ląduje na dachu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'hélicoptère atterrit sur le toit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O helicóptero pousa no telhado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'elicottero atterra sul tetto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Helikoptern är snabb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гелікоптер швидкий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The helicopter is fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El helicóptero es rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Helikopter ist schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Helikopter jest szybki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'hélicoptère est rapide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O helicóptero é rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'elicottero è veloce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "trafik",
+        "translations": {
+            "ukrainian": "рух",
+            "english": "traffic",
+            "spanish": "tráfico",
+            "german": "Verkehr",
+            "polish": "ruch",
+            "french": "trafic",
+            "portuguese": "trânsito",
+            "italian": "traffico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafiken är intensiv på morgonen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рух інтенсивний вранці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic is heavy in the morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tráfico es intenso por la mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Verkehr ist morgens stark."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ruch jest intensywny rano."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le trafic est intense le matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trânsito é intenso de manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traffico è intenso al mattino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafiken står still."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рух стоїть."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic is at a standstill."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tráfico está parado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Verkehr steht still."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ruch stoi w miejscu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le trafic est à l'arrêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trânsito está parado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traffico è fermo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafiken är lugn på natten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рух спокійний вночі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic is calm at night."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tráfico es tranquilo por la noche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Verkehr ist nachts ruhig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ruch jest spokojny w nocy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le trafic est calme la nuit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trânsito é calmo à noite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traffico è calmo di notte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafiken orsakar förseningar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рух спричиняє затримки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic causes delays."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tráfico causa retrasos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Verkehr verursacht Verzögerungen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ruch powoduje opóźnienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le trafic cause des retards."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O trânsito causa atrasos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il traffico causa ritardi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "väg",
+        "translations": {
+            "ukrainian": "дорога",
+            "english": "road",
+            "spanish": "carretera",
+            "german": "Straße",
+            "polish": "droga",
+            "french": "route",
+            "portuguese": "estrada",
+            "italian": "strada"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägen är smal."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорога вузька."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road is narrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La carretera es estrecha."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Straße ist schmal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Droga jest wąska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La route est étroite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A estrada é estreita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La strada è stretta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägen är halt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорога слизька."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road is slippery."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La carretera está resbaladiza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Straße ist glatt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Droga jest śliska."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La route est glissante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A estrada está escorregadia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La strada è scivolosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägen leder till staden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорога веде до міста."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road leads to the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La carretera lleva a la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Straße führt zur Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Droga prowadzi do miasta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La route mène à la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A estrada leva à cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La strada porta alla città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägen är under konstruktion."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорога будується."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road is under construction."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La carretera está en construcción."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Straße ist im Bau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Droga jest w budowie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La route est en construction."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A estrada está em construção."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La strada è in costruzione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "järnväg",
+        "translations": {
+            "ukrainian": "залізниця",
+            "english": "railway",
+            "spanish": "ferrocarril",
+            "german": "Eisenbahn",
+            "polish": "kolej",
+            "french": "chemin de fer",
+            "portuguese": "ferrovia",
+            "italian": "ferrovia"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Järnvägen går genom skogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Залізниця проходить через ліс."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The railway goes through the forest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferrocarril atraviesa el bosque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Eisenbahn führt durch den Wald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kolej przebiega przez las."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chemin de fer traverse la forêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A ferrovia atravessa a floresta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ferrovia attraversa la foresta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Järnvägen är viktig för transport."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Залізниця важлива для транспорту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The railway is important for transport."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferrocarril es importante para el transporte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Eisenbahn ist wichtig für den Transport."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kolej jest ważna dla transportu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chemin de fer est important pour le transport."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A ferrovia é importante para o transporte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ferrovia è importante per il trasporto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Järnvägen är snabb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Залізниця швидка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The railway is fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferrocarril es rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Eisenbahn ist schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kolej jest szybka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chemin de fer est rapide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A ferrovia é rápida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ferrovia è veloce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Järnvägen är modern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Залізниця сучасна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The railway is modern."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ferrocarril es moderno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Eisenbahn ist modern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kolej jest nowoczesna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chemin de fer est moderne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A ferrovia é moderna."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ferrovia è moderna."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vägskylt",
+        "translations": {
+            "ukrainian": "дорожній знак",
+            "english": "road sign",
+            "spanish": "señal de tráfico",
+            "german": "Verkehrsschild",
+            "polish": "znak drogowy",
+            "french": "panneau de signalisation",
+            "portuguese": "placa de trânsito",
+            "italian": "cartello stradale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägskylten visar vägen till staden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорожній знак показує дорогу до міста."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road sign shows the way to the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La señal de tráfico indica el camino a la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Verkehrsschild zeigt den Weg zur Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Znak drogowy wskazuje drogę do miasta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le panneau de signalisation indique le chemin vers la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A placa de trânsito mostra o caminho para a cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cartello stradale indica la strada per la città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägskylten är trasig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорожній знак зламаний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road sign is broken."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La señal de tráfico está rota."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Verkehrsschild ist kaputt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Znak drogowy jest zepsuty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le panneau de signalisation est cassé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A placa de trânsito está quebrada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cartello stradale è rotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägskylten varnar för faror."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорожній знак попереджає про небезпеку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road sign warns of dangers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La señal de tráfico advierte de peligros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Verkehrsschild warnt vor Gefahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Znak drogowy ostrzega przed niebezpieczeństwami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le panneau de signalisation avertit des dangers."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A placa de trânsito alerta sobre perigos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cartello stradale avverte dei pericoli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vägskylten är svår att läsa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дорожній знак важко читати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The road sign is hard to read."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La señal de tráfico es difícil de leer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Verkehrsschild ist schwer zu lesen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Znak drogowy jest trudny do odczytania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le panneau de signalisation est difficile à lire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A placa de trânsito é difícil de ler."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cartello stradale è difficile da leggere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "parkering",
+        "translations": {
+            "ukrainian": "парковка",
+            "english": "parking",
+            "spanish": "aparcamiento",
+            "german": "Parkplatz",
+            "polish": "parking",
+            "french": "parking",
+            "portuguese": "estacionamento",
+            "italian": "parcheggio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Parkeringen är full."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Парковка заповнена."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The parking is full."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aparcamiento está lleno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Parkplatz ist voll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Parking jest pełny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le parking est plein."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O estacionamento está cheio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il parcheggio è pieno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Parkeringen kostar 10 kronor per timme."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Парковка коштує 10 крон за годину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The parking costs 10 kronor per hour."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aparcamiento cuesta 10 coronas por hora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Parken kostet 10 Kronen pro Stunde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Parking kosztuje 10 koron za godzinę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le parking coûte 10 couronnes par heure."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O estacionamento custa 10 coroas por hora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il parcheggio costa 10 corone all'ora."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Parkeringen ligger nära affären."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Парковка знаходиться поруч із магазином."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The parking is near the store."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aparcamiento está cerca de la tienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Parkplatz liegt in der Nähe des Geschäfts."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Parking znajduje się blisko sklepu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le parking est près du magasin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O estacionamento fica perto da loja."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il parcheggio è vicino al negozio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Parkeringen är gratis på söndagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Парковка безкоштовна по неділях."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The parking is free on Sundays."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aparcamiento es gratuito los domingos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Parken ist sonntags kostenlos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Parking jest darmowy w niedziele."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le parking est gratuit le dimanche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O estacionamento é gratuito aos domingos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il parcheggio è gratuito la domenica."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bensinstation",
+        "translations": {
+            "ukrainian": "заправна станція",
+            "english": "gas station",
+            "spanish": "gasolinera",
+            "german": "Tankstelle",
+            "polish": "stacja benzynowa",
+            "french": "station-service",
+            "portuguese": "posto de gasolina",
+            "italian": "stazione di servizio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bensinstationen är öppen dygnet runt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Заправна станція працює цілодобово."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The gas station is open 24/7."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La gasolinera está abierta las 24 horas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tankstelle ist rund um die Uhr geöffnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stacja benzynowa jest otwarta całą dobę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La station-service est ouverte 24h/24."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O posto de gasolina está aberto 24 horas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stazione di servizio è aperta 24 ore su 24."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bensinstationen ligger vid motorvägen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Заправна станція знаходиться біля автомагістралі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The gas station is located by the highway."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La gasolinera está junto a la autopista."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tankstelle liegt an der Autobahn."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stacja benzynowa znajduje się przy autostradzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La station-service est située près de l'autoroute."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O posto de gasolina fica perto da rodovia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stazione di servizio si trova vicino all'autostrada."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bensinstationen säljer även mat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "На заправній станції також продають їжу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The gas station also sells food."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La gasolinera también vende comida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tankstelle verkauft auch Essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na stacji benzynowej sprzedają też jedzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La station-service vend aussi de la nourriture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O posto de gasolina também vende comida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stazione di servizio vende anche cibo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bensinstationen har höga priser."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "На заправній станції високі ціни."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The gas station has high prices."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La gasolinera tiene precios altos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tankstelle hat hohe Preise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stacja benzynowa ma wysokie ceny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La station-service a des prix élevés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O posto de gasolina tem preços altos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stazione di servizio ha prezzi alti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hållplats",
+        "translations": {
+            "ukrainian": "зупинка",
+            "english": "bus stop",
+            "spanish": "parada de autobús",
+            "german": "Bushaltestelle",
+            "polish": "przystanek",
+            "french": "arrêt de bus",
+            "portuguese": "ponto de ônibus",
+            "italian": "fermata dell'autobus"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hållplatsen ligger nära mitt hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зупинка знаходиться поруч із моїм будинком."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bus stop is near my house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La parada de autobús está cerca de mi casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bushaltestelle liegt in der Nähe meines Hauses."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przystanek znajduje się blisko mojego domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'arrêt de bus est près de chez moi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ponto de ônibus fica perto da minha casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La fermata dell'autobus è vicino a casa mia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hållplatsen är välskyltad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зупинка добре позначена."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bus stop is well-marked."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La parada de autobús está bien señalizada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bushaltestelle ist gut ausgeschildert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przystanek jest dobrze oznaczony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'arrêt de bus est bien indiqué."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ponto de ônibus é bem sinalizado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La fermata dell'autobus è ben segnalata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hållplatsen har en bänk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "На зупинці є лавка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bus stop has a bench."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La parada de autobús tiene un banco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bushaltestelle hat eine Bank."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przystanek ma ławkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'arrêt de bus a un banc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ponto de ônibus tem um banco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La fermata dell'autobus ha una panchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hållplatsen är täckt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зупинка захищена від дощу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bus stop is covered."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La parada de autobús está cubierta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bushaltestelle ist überdacht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przystanek jest zadaszony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'arrêt de bus est couvert."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ponto de ônibus é coberto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La fermata dell'autobus è coperta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "resenär",
+        "translations": {
+            "ukrainian": "пасажир",
+            "english": "passenger",
+            "spanish": "pasajero",
+            "german": "Passagier",
+            "polish": "pasażer",
+            "french": "passager",
+            "portuguese": "passageiro",
+            "italian": "passeggero"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Resenären väntar på tåget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир чекає на поїзд."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger is waiting for the train."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero está esperando el tren."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier wartet auf den Zug."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer czeka na pociąg."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager attend le train."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro está esperando o trem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero sta aspettando il treno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Resenären har en stor väska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир має велику сумку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger has a large bag."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero tiene una bolsa grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier hat eine große Tasche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer ma dużą torbę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager a un grand sac."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro tem uma bolsa grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero ha una borsa grande."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Resenären köpte en biljett."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир купив квиток."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger bought a ticket."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero compró un billete."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier hat ein Ticket gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer kupił bilet."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager a acheté un billet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro comprou uma passagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero ha comprato un biglietto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Resenären sitter vid fönstret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир сидить біля вікна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger is sitting by the window."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero está sentado junto a la ventana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier sitzt am Fenster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer siedzi przy oknie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager est assis près de la fenêtre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro está sentado perto da janela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero è seduto vicino alla finestra."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bilist",
+        "translations": {
+            "ukrainian": "водій",
+            "english": "driver",
+            "spanish": "conductor",
+            "german": "Autofahrer",
+            "polish": "kierowca",
+            "french": "conducteur",
+            "portuguese": "motorista",
+            "italian": "autista"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilisten kör försiktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій їде обережно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver is driving carefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor conduce con cuidado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Autofahrer fährt vorsichtig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca jedzie ostrożnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur conduit prudemment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista dirige com cuidado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista guida con prudenza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilisten stannade vid rödljuset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій зупинився на червоне світло."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver stopped at the red light."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor se detuvo en el semáforo en rojo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Autofahrer hielt bei der roten Ampel an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca zatrzymał się na czerwonym świetle."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur s'est arrêté au feu rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista parou no sinal vermelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista si è fermato al semaforo rosso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilisten är trött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій втомлений."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver is tired."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor está cansado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Autofahrer ist müde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca jest zmęczony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur est fatigué."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista está cansado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista è stanco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilisten körde för fort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій їхав занадто швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver was driving too fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor conducía demasiado rápido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Autofahrer fuhr zu schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca jechał za szybko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur roulait trop vite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista estava dirigindo muito rápido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista stava guidando troppo veloce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förare",
+        "translations": {
+            "ukrainian": "водій",
+            "english": "driver",
+            "spanish": "conductor",
+            "german": "Fahrer",
+            "polish": "kierowca",
+            "french": "conducteur",
+            "portuguese": "motorista",
+            "italian": "autista"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Föraren är erfaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій досвідчений."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver is experienced."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor es experimentado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Fahrer ist erfahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca jest doświadczony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur est expérimenté."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista é experiente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista è esperto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Föraren stannade vid övergångsstället."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій зупинився на пішохідному переході."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver stopped at the crosswalk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor se detuvo en el paso de peatones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Fahrer hielt am Zebrastreifen an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca zatrzymał się na przejściu dla pieszych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur s'est arrêté au passage piéton."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista parou na faixa de pedestres."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista si è fermato alle strisce pedonali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Föraren är vänlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій доброзичливий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver is friendly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor es amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Fahrer ist freundlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca jest przyjazny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur est aimable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista é amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista è gentile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Föraren körde försiktigt i regnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Водій їхав обережно під дощем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The driver drove carefully in the rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El conductor condujo con cuidado bajo la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Fahrer fuhr vorsichtig im Regen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kierowca jechał ostrożnie w deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le conducteur a conduit prudemment sous la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O motorista dirigiu com cuidado na chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'autista ha guidato con prudenza sotto la pioggia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "passagerare",
+        "translations": {
+            "ukrainian": "пасажир",
+            "english": "passenger",
+            "spanish": "pasajero",
+            "german": "Passagier",
+            "polish": "pasażer",
+            "french": "passager",
+            "portuguese": "passageiro",
+            "italian": "passeggero"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Passageraren satt längst fram."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир сидів попереду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger sat in the front."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero se sentó al frente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier saß vorne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer siedział z przodu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager était assis à l'avant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro sentou-se na frente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero era seduto davanti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Passageraren sov under resan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир спав під час подорожі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger slept during the trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero durmió durante el viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier schlief während der Fahrt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer spał podczas podróży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager a dormi pendant le voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro dormiu durante a viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero ha dormito durante il viaggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Passageraren läste en bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир читав книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger was reading a book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero estaba leyendo un libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier las ein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer czytał książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager lisait un livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro estava lendo um livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero stava leggendo un libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Passageraren pratade med föraren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пасажир розмовляв із водієм."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The passenger talked to the driver."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pasajero habló con el conductor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Passagier sprach mit dem Fahrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pasażer rozmawiał z kierowcą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le passager a parlé au conducteur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O passageiro conversou com o motorista."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il passeggero ha parlato con l'autista."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "biljetter",
+        "translations": {
+            "ukrainian": "квитки",
+            "english": "tickets",
+            "spanish": "boletos",
+            "german": "Tickets",
+            "polish": "bilety",
+            "french": "billets",
+            "portuguese": "bilhetes",
+            "italian": "biglietti"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Biljetterna är dyra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квитки дорогі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The tickets are expensive."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los boletos son caros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tickets sind teuer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bilety są drogie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les billets sont chers."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os bilhetes são caros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I biglietti sono costosi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Biljetterna köptes online."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квитки були куплені онлайн."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The tickets were bought online."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los boletos se compraron en línea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tickets wurden online gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bilety zostały kupione online."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les billets ont été achetés en ligne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os bilhetes foram comprados online."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I biglietti sono stati acquistati online."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Biljetterna är för imorgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квитки на завтра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The tickets are for tomorrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los boletos son para mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tickets sind für morgen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bilety są na jutro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les billets sont pour demain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os bilhetes são para amanhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I biglietti sono per domani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Biljetterna är elektroniska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квитки електронні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The tickets are electronic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los boletos son electrónicos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tickets sind elektronisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bilety są elektroniczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les billets sont électroniques."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os bilhetes são eletrônicos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I biglietti sono elettronici."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bilkö",
+        "translations": {
+            "ukrainian": "черга автомобілів",
+            "english": "traffic jam",
+            "spanish": "atasco",
+            "german": "Stau",
+            "polish": "korek",
+            "french": "embouteillage",
+            "portuguese": "engarrafamento",
+            "italian": "ingorgo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilkön är lång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Черга автомобілів довга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic jam is long."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El atasco es largo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Stau ist lang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Korek jest długi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'embouteillage est long."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O engarrafamento é longo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ingorgo è lungo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilkön orsakades av en olycka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чергу автомобілів спричинила аварія."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic jam was caused by an accident."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El atasco fue causado por un accidente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Stau wurde durch einen Unfall verursacht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Korek został spowodowany przez wypadek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'embouteillage a été causé par un accident."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O engarrafamento foi causado por um acidente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ingorgo è stato causato da un incidente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilkön rör sig långsamt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Черга автомобілів рухається повільно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic jam is moving slowly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El atasco se mueve lentamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Stau bewegt sich langsam."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Korek porusza się powoli."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'embouteillage avance lentement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O engarrafamento está se movendo lentamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ingorgo si muove lentamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilkön är frustrerande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Черга автомобілів дратує."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic jam is frustrating."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El atasco es frustrante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Stau ist frustrierend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Korek jest frustrujący."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'embouteillage est frustrant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O engarrafamento é frustrante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ingorgo è frustrante."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "trafikljus",
+        "translations": {
+            "ukrainian": "світлофор",
+            "english": "traffic light",
+            "spanish": "semáforo",
+            "german": "Ampel",
+            "polish": "sygnalizacja świetlna",
+            "french": "feu de circulation",
+            "portuguese": "semáforo",
+            "italian": "semaforo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafikljuset är rött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Світлофор червоний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic light is red."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El semáforo está en rojo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Ampel ist rot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sygnalizacja świetlna jest czerwona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le feu de circulation est rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O semáforo está vermelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il semaforo è rosso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafikljuset är trasigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Світлофор зламаний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic light is broken."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El semáforo está roto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Ampel ist kaputt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sygnalizacja świetlna jest zepsuta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le feu de circulation est cassé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O semáforo está quebrado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il semaforo è rotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafikljuset blinkar gult."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Світлофор блимає жовтим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic light is flashing yellow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El semáforo está parpadeando en amarillo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Ampel blinkt gelb."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sygnalizacja świetlna miga na żółto."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le feu de circulation clignote en jaune."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O semáforo está piscando em amarelo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il semaforo lampeggia giallo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trafikljuset styr trafiken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Світлофор регулює рух."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The traffic light controls the traffic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El semáforo controla el tráfico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Ampel regelt den Verkehr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sygnalizacja świetlna reguluje ruch."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le feu de circulation régule la circulation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O semáforo controla o trânsito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il semaforo regola il traffico."
+                    }
+                ]
+            }
+        ]
+    }
+]

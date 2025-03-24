@@ -1,0 +1,1927 @@
+[
+    {
+        "expression": "mysig",
+        "translations": {
+            "ukrainian": "затишний",
+            "english": "cozy",
+            "spanish": "acogedor",
+            "german": "gemütlich",
+            "polish": "przytulny",
+            "french": "confortable",
+            "portuguese": "aconchegante",
+            "italian": "accogliente"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rummet är mysigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кімната затишна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The room is cozy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La habitación es acogedora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Zimmer ist gemütlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pokój jest przytulny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pièce est confortable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O quarto é aconchegante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stanza è accogliente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi hade en mysig kväll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми провели затишний вечір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We had a cozy evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tuvimos una noche acogedora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hatten einen gemütlichen Abend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieliśmy przytulny wieczór."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons passé une soirée confortable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tivemos uma noite aconchegante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo passato una serata accogliente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är mysigt vid elden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Біля вогнища затишно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's cozy by the fire."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es acogedor junto al fuego."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist gemütlich am Feuer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przy ogniu jest przytulnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est confortable près du feu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É aconchegante perto do fogo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È accogliente vicino al fuoco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skapade en mysig atmosfär."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона створила затишну атмосферу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She created a cozy atmosphere."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella creó un ambiente acogedor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schuf eine gemütliche Atmosphäre."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stworzyła przytulną atmosferę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a créé une atmosphère confortable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela criou uma atmosfera aconchegante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha creato un'atmosfera accogliente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "livlig",
+        "translations": {
+            "ukrainian": "жвавий",
+            "english": "lively",
+            "spanish": "animado",
+            "german": "lebhaft",
+            "polish": "żywiołowy",
+            "french": "animé",
+            "portuguese": "animado",
+            "italian": "vivace"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Festivalen var mycket livlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фестиваль був дуже жвавим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The festival was very lively."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El festival fue muy animado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Festival war sehr lebhaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Festyn był bardzo żywiołowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le festival était très animé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O festival foi muito animado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il festival era molto vivace."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen är alltid livliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти завжди жваві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are always lively."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños siempre son animados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder sind immer lebhaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci są zawsze żywiołowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sont toujours animés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças são sempre animadas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono sempre vivaci."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Staden är känd för sin livliga nattliv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Місто відоме своїм жвавим нічним життям."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The city is known for its lively nightlife."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La ciudad es conocida por su animada vida nocturna."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Stadt ist für ihr lebhaftes Nachtleben bekannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miasto jest znane z żywiołowego życia nocnego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La ville est connue pour sa vie nocturne animée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cidade é conhecida por sua vida noturna animada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La città è nota per la sua vivace vita notturna."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Musiken gjorde festen livlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Музика зробила вечірку жвавою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The music made the party lively."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La música animó la fiesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Musik machte die Party lebhaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Muzyka ożywiła imprezę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La musique a animé la fête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A música animou a festa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La musica ha reso vivace la festa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "harmonisk",
+        "translations": {
+            "ukrainian": "гармонійний",
+            "english": "harmonious",
+            "spanish": "armonioso",
+            "german": "harmonisch",
+            "polish": "harmonijny",
+            "french": "harmonieux",
+            "portuguese": "harmonioso",
+            "italian": "armonioso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Deras förhållande är mycket harmoniskt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їхні стосунки дуже гармонійні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Their relationship is very harmonious."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su relación es muy armoniosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihre Beziehung ist sehr harmonisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ich związek jest bardzo harmonijny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Leur relation est très harmonieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O relacionamento deles é muito harmonioso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La loro relazione è molto armoniosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Musiken var harmonisk och vacker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Музика була гармонійною і красивою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The music was harmonious and beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La música era armoniosa y hermosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Musik war harmonisch und schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Muzyka była harmonijna i piękna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La musique était harmonieuse et belle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A música era harmoniosa e bonita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La musica era armoniosa e bella."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Teamet arbetade på ett harmoniskt sätt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Команда працювала гармонійно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The team worked in a harmonious way."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El equipo trabajó de manera armoniosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Team arbeitete auf harmonische Weise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zespół pracował w harmonijny sposób."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'équipe a travaillé de manière harmonieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A equipe trabalhou de forma harmoniosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il team ha lavorato in modo armonioso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Naturen var harmonisk och fridfull."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Природа була гармонійною і спокійною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The nature was harmonious and peaceful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La naturaleza era armoniosa y tranquila."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Natur war harmonisch und friedlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Natura była harmonijna i spokojna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nature était harmonieuse et paisible."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A natureza era harmoniosa e tranquila."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La natura era armoniosa e pacifica."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "energisk",
+        "translations": {
+            "ukrainian": "енергійний",
+            "english": "energetic",
+            "spanish": "enérgico",
+            "german": "energisch",
+            "polish": "energiczny",
+            "french": "énergique",
+            "portuguese": "enérgico",
+            "italian": "energico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en energisk person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він енергійна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an energetic person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona enérgica."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist eine energische Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest energiczną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est une personne énergique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa enérgica."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È una persona energica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon dansade energiskt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона танцювала енергійно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She danced energetically."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella bailó enérgicamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie tanzte energisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona tańczyła energicznie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a dansé énergiquement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela dançou energicamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha ballato energicamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Den energiska musiken fick alla att dansa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Енергійна музика змусила всіх танцювати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The energetic music made everyone dance."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La música enérgica hizo que todos bailaran."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die energische Musik brachte alle zum Tanzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Energetyczna muzyka sprawiła, że wszyscy tańczyli."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La musique énergique a fait danser tout le monde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A música enérgica fez todos dançarem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La musica energica ha fatto ballare tutti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Energiska människor är ofta mycket produktiva."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Енергійні люди часто дуже продуктивні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Energetic people are often very productive."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas enérgicas suelen ser muy productivas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Energische Menschen sind oft sehr produktiv."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Energetyczni ludzie są często bardzo produktywni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes énergiques sont souvent très productives."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas enérgicas são frequentemente muito produtivas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone energiche sono spesso molto produttive."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dyster",
+        "translations": {
+            "ukrainian": "похмурий",
+            "english": "gloomy",
+            "spanish": "sombrío",
+            "german": "düster",
+            "polish": "ponury",
+            "french": "sombre",
+            "portuguese": "sombrio",
+            "italian": "cupo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vädret är dystert idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Погода сьогодні похмура."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The weather is gloomy today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima está sombrío hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wetter ist heute düster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pogoda jest dziś ponura."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps est sombre aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo está sombrio hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo è cupo oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Filmen var dyster och melankolisk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фільм був похмурим і меланхолійним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The movie was gloomy and melancholic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La película era sombría y melancólica."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Film war düster und melancholisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Film był ponury i melancholijny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film était sombre et mélancolique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme era sombrio e melancólico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il film era cupo e malinconico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans ansiktsuttryck var dystert."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його вираз обличчя був похмурим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His facial expression was gloomy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su expresión facial era sombría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein Gesichtsausdruck war düster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego wyraz twarzy był ponury."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son expression faciale était sombre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A expressão facial dele era sombria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua espressione facciale era cupa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stämningen i rummet var dyster."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Атмосфера в кімнаті була похмурою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The atmosphere in the room was gloomy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ambiente en la habitación era sombrío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Stimmung im Raum war düster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Atmosfera w pokoju była ponura."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'atmosphère dans la pièce était sombre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ambiente no quarto era sombrio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'atmosfera nella stanza era cupa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tråkig",
+        "translations": {
+            "ukrainian": "нудний",
+            "english": "boring",
+            "spanish": "aburrido",
+            "german": "langweilig",
+            "polish": "nudny",
+            "french": "ennuyeux",
+            "portuguese": "chato",
+            "italian": "noioso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Föreläsningen var tråkig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лекція була нудною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The lecture was boring."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La conferencia fue aburrida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Vorlesung war langweilig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wykład był nudny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La conférence était ennuyeuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A palestra foi chata."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La lezione era noiosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Filmen var väldigt tråkig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фільм був дуже нудним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The movie was very boring."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La película fue muy aburrida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Film war sehr langweilig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Film był bardzo nudny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film était très ennuyeux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme foi muito chato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il film era molto noioso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är tråkigt att vänta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чекати нудно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's boring to wait."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es aburrido esperar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist langweilig zu warten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czekanie jest nudne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est ennuyeux d'attendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É chato esperar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È noioso aspettare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en tråkig person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він нудна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a boring person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona aburrida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein langweiliger Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest nudną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est une personne ennuyeuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa chata."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È una persona noiosa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tryckande",
+        "translations": {
+            "ukrainian": "гнітючий",
+            "english": "oppressive",
+            "spanish": "opresivo",
+            "german": "drückend",
+            "polish": "przytłaczający",
+            "french": "oppressant",
+            "portuguese": "opressivo",
+            "italian": "opprimente"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Värmen var tryckande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Спека була гнітючою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The heat was oppressive."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El calor era opresivo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Hitze war drückend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Upał był przytłaczający."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La chaleur était oppressante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O calor era opressivo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il caldo era opprimente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stämningen i rummet var tryckande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Атмосфера в кімнаті була гнітючою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The atmosphere in the room was oppressive."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ambiente en la habitación era opresivo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Stimmung im Raum war drückend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Atmosfera w pokoju była przytłaczająca."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'atmosphère dans la pièce était oppressante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ambiente no quarto era opressivo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'atmosfera nella stanza era opprimente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han kände en tryckande känsla av ansvar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він відчував гнітюче почуття відповідальності."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He felt an oppressive sense of responsibility."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él sintió una sensación opresiva de responsabilidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er spürte ein drückendes Gefühl der Verantwortung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuł przytłaczające poczucie odpowiedzialności."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il ressentait un sentiment oppressant de responsabilité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele sentiu uma sensação opressiva de responsabilidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sentiva un senso opprimente di responsabilità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tryckande tystnad fyllde rummet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гнітюча тиша заповнила кімнату."
+                    },
+                    {
+                        "language": "english",
+                        "text": "An oppressive silence filled the room."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Un silencio opresivo llenó la habitación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine drückende Stille erfüllte den Raum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przytłaczająca cisza wypełniła pokój."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un silence oppressant a rempli la pièce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um silêncio opressivo encheu o quarto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Un silenzio opprimente riempì la stanza."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "spänd",
+        "translations": {
+            "ukrainian": "напружений",
+            "english": "tense",
+            "spanish": "tenso",
+            "german": "angespannt",
+            "polish": "spięty",
+            "french": "tendu",
+            "portuguese": "tenso",
+            "italian": "teso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Stämningen var spänd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Атмосфера була напруженою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The atmosphere was tense."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ambiente estaba tenso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Stimmung war angespannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Atmosfera była spięta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'atmosphère était tendue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ambiente estava tenso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'atmosfera era tesa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var spänd inför mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був напружений перед зустріччю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was tense before the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él estaba tenso antes de la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war vor dem Treffen angespannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był spięty przed spotkaniem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il était tendu avant la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele estava tenso antes da reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era teso prima dell'incontro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Musklerna var spända efter träningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "М'язи були напружені після тренування."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The muscles were tense after the workout."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los músculos estaban tensos después del entrenamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Muskeln waren nach dem Training angespannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mięśnie były spięte po treningu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les muscles étaient tendus après l'entraînement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os músculos estavam tensos após o treino."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I muscoli erano tesi dopo l'allenamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var en spänd situation."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це була напружена ситуація."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was a tense situation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue una situación tensa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es war eine angespannte Situation."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To była spięta sytuacja."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était une situation tendue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi uma situação tensa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era una situazione tesa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "glad",
+        "translations": {
+            "ukrainian": "щасливий",
+            "english": "happy",
+            "spanish": "feliz",
+            "german": "glücklich",
+            "polish": "szczęśliwy",
+            "french": "heureux",
+            "portuguese": "feliz",
+            "italian": "felice"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är glad att se dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я щасливий бачити тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am happy to see you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy feliz de verte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich freue mich, dich zu sehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cieszę się, że cię widzę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis heureux de te voir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou feliz em te ver."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono felice di vederti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon såg glad ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядала щасливою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looked happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella parecía feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sah glücklich aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyglądała na szczęśliwą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait l'air heureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parecia feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembrava felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi hade en glad dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми провели щасливий день."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We had a happy day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tuvimos un día feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hatten einen glücklichen Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mieliśmy szczęśliwy dzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons passé une journée heureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tivemos um dia feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo passato una giornata felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Glad musik får mig att dansa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Щаслива музика змушує мене танцювати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Happy music makes me dance."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La música feliz me hace bailar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Fröhliche Musik bringt mich zum Tanzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wesoła muzyka sprawia, że tańczę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La musique joyeuse me fait danser."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Música feliz me faz dançar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La musica felice mi fa ballare."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "matt",
+        "translations": {
+            "ukrainian": "виснажений",
+            "english": "exhausted",
+            "spanish": "agotado",
+            "german": "erschöpft",
+            "polish": "wyczerpany",
+            "french": "épuisé",
+            "portuguese": "exausto",
+            "italian": "esausto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är matt efter träningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я виснажений після тренування."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am exhausted after the workout."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy agotado después del entrenamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin erschöpft nach dem Training."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem wyczerpany po treningu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis épuisé après l'entraînement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou exausto após o treino."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono esausto dopo l'allenamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han såg matt ut efter jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виглядав виснаженим після роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He looked exhausted after work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él parecía agotado después del trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sah nach der Arbeit erschöpft aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyglądał na wyczerpanego po pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il avait l'air épuisé après le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele parecia exausto após o trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembrava esausto dopo il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Efter resan kände jag mig matt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Після подорожі я почувався виснаженим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "After the trip, I felt exhausted."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Después del viaje, me sentí agotado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nach der Reise fühlte ich mich erschöpft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Po podróży czułem się wyczerpany."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Après le voyage, je me sentais épuisé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Após a viagem, me senti exausto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dopo il viaggio, mi sentivo esausto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Matt och utmattad gick han till sängs."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Виснажений і втомлений, він пішов спати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Exhausted and worn out, he went to bed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Agotado y cansado, se fue a la cama."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Erschöpft und ausgelaugt ging er ins Bett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyczerpany i zmęczony poszedł spać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Épuisé et fatigué, il est allé se coucher."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Exausto e cansado, ele foi para a cama."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Esausto e stanco, andò a letto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "frustrerad",
+        "translations": {
+            "ukrainian": "розчарований",
+            "english": "frustrated",
+            "spanish": "frustrado",
+            "german": "frustriert",
+            "polish": "sfrustrowany",
+            "french": "frustré",
+            "portuguese": "frustrado",
+            "italian": "frustrato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är frustrerad över situationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я розчарований ситуацією."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am frustrated with the situation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy frustrado con la situación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin frustriert über die Situation."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem sfrustrowany sytuacją."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis frustré par la situation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou frustrado com a situação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono frustrato dalla situazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han blev frustrerad när han inte lyckades."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він розчарувався, коли не зміг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He got frustrated when he didn't succeed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se frustró cuando no lo logró."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde frustriert, als er keinen Erfolg hatte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był sfrustrowany, gdy mu się nie udało."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est devenu frustré quand il n'a pas réussi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ficou frustrado quando não conseguiu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È diventato frustrato quando non ci è riuscito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Frustrerad över resultatet gav han upp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Розчарований результатом, він здався."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Frustrated with the result, he gave up."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Frustrado por el resultado, se rindió."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Frustriert über das Ergebnis gab er auf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sfrustrowany wynikiem, poddał się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Frustré par le résultat, il a abandonné."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Frustrado com o resultado, ele desistiu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Frustrato dal risultato, ha rinunciato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kände sig frustrerad över bristen på framsteg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона відчувала розчарування через відсутність прогресу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She felt frustrated by the lack of progress."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se sintió frustrada por la falta de progreso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie fühlte sich frustriert über den Mangel an Fortschritt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuła się sfrustrowana brakiem postępów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle se sentait frustrée par le manque de progrès."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela se sentiu frustrada com a falta de progresso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si sentiva frustrata dalla mancanza di progressi."
+                    }
+                ]
+            }
+        ]
+    }
+]

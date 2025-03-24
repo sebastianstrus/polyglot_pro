@@ -1,0 +1,2102 @@
+[
+    {
+        "expression": "en januari",
+        "translations": {
+            "ukrainian": "січень",
+            "english": "January",
+            "spanish": "enero",
+            "german": "Januar",
+            "polish": "styczeń",
+            "french": "janvier",
+            "portuguese": "janeiro",
+            "italian": "gennaio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Januari är den första månaden på året."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Січень - це перший місяць року."
+                    },
+                    {
+                        "language": "english",
+                        "text": "January is the first month of the year."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Enero es el primer mes del año."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Januar ist der erste Monat des Jahres."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Styczeń to pierwszy miesiąc roku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Janvier est le premier mois de l'année."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Janeiro é o primeiro mês do ano."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gennaio è il primo mese dell'anno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi firar nyår i januari."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми святкуємо Новий рік у січні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We celebrate New Year in January."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Celebramos el Año Nuevo en enero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir feiern Neujahr im Januar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Świętujemy Nowy Rok w styczniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous célébrons le Nouvel An en janvier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Celebramos o Ano Novo em janeiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Festa di Capodanno a gennaio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är kallt i januari."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У січні холодно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is cold in January."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace frío en enero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist kalt im Januar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W styczniu jest zimno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait froid en janvier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Faz frio em janeiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa freddo a gennaio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skolan börjar efter jul i januari."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Школа починається після Різдва у січні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "School starts after Christmas in January."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La escuela comienza después de Navidad en enero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Schule beginnt nach Weihnachten im Januar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szkoła zaczyna się po Bożym Narodzeniu w styczniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'école commence après Noël en janvier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A escola começa após o Natal em janeiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La scuola inizia dopo Natale a gennaio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en februari",
+        "translations": {
+            "ukrainian": "лютий",
+            "english": "February",
+            "spanish": "febrero",
+            "german": "Februar",
+            "polish": "luty",
+            "french": "février",
+            "portuguese": "fevereiro",
+            "italian": "febbraio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Februari är den kortaste månaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лютий - найкоротший місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "February is the shortest month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Febrero es el mes más corto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Februar ist der kürzeste Monat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Luty to najkrótszy miesiąc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Février est le mois le plus court."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Fevereiro é o mês mais curto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Febbraio è il mese più corto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Alla hjärtans dag är i februari."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "День святого Валентина у лютому."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Valentine's Day is in February."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El Día de San Valentín es en febrero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Valentinstag ist im Februar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Walentynki są w lutym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La Saint-Valentin est en février."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O Dia dos Namorados é em fevereiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "San Valentino è a febbraio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "I februari är det ofta snö."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У лютому часто лежить сніг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "There is often snow in February."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A menudo hay nieve en febrero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Im Februar gibt es oft Schnee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W lutym często jest śnieg."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il y a souvent de la neige en février."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Muitas vezes há neve em fevereiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Spesso c'è neve a febbraio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi åker skidor i februari."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми катаємося на лижах у лютому."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We go skiing in February."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos a esquiar en febrero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fahren im Februar Ski."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jeździmy na nartach w lutym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous faisons du ski en février."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos esquiar em fevereiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo a sciare a febbraio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en mars",
+        "translations": {
+            "ukrainian": "березень",
+            "english": "March",
+            "spanish": "marzo",
+            "german": "März",
+            "polish": "marzec",
+            "french": "mars",
+            "portuguese": "março",
+            "italian": "marzo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mars är den första vårmånaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Березень - це перший весняний місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "March is the first spring month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Marzo es el primer mes de primavera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "März ist der erste Frühlingsmonat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Marzec to pierwszy miesiąc wiosny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mars est le premier mois du printemps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Março é o primeiro mês da primavera."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Marzo è il primo mese di primavera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dagarna blir längre i mars."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дні стають довшими у березні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The days get longer in March."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los días se hacen más largos en marzo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tage werden im März länger."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dni stają się dłuższe w marcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les jours s'allongent en mars."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os dias ficam mais longos em março."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le giornate si allungano a marzo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi firar kvinnodagen i mars."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми святкуємо День жінок у березні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We celebrate Women's Day in March."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Celebramos el Día de la Mujer en marzo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir feiern den Frauentag im März."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Świętujemy Dzień Kobiet w marcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous célébrons la Journée des femmes en mars."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Celebramos o Dia da Mulher em março."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Festa della Donna a marzo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snön börjar smälta i mars."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сніг починає танути у березні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The snow starts to melt in March."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La nieve comienza a derretirse en marzo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Schnee beginnt im März zu schmelzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śnieg zaczyna topnieć w marcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La neige commence à fondre en mars."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A neve começa a derreter em março."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La neve inizia a sciogliersi a marzo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en april",
+        "translations": {
+            "ukrainian": "квітень",
+            "english": "April",
+            "spanish": "abril",
+            "german": "April",
+            "polish": "kwiecień",
+            "french": "avril",
+            "portuguese": "abril",
+            "italian": "aprile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "April har ofta mycket regn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У квітні часто йдуть дощі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "April often has a lot of rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Abril suele tener mucha lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Im April gibt es oft viel Regen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kwiecień często ma dużo deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Avril a souvent beaucoup de pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Abril costuma ter muita chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Aprile ha spesso molta pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "April är en vårmånad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квітень - це весняний місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "April is a spring month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Abril es un mes de primavera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "April ist ein Frühlingsmonat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kwiecień to wiosenny miesiąc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Avril est un mois de printemps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Abril é um mês de primavera."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Aprile è un mese di primavera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Påsken firas ibland i april."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Великдень іноді святкується у квітні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Easter is sometimes celebrated in April."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La Pascua a veces se celebra en abril."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ostern wird manchmal im April gefeiert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wielkanoc czasami obchodzimy w kwietniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pâques est parfois célébrée en avril."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A Páscoa às vezes é celebrada em abril."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La Pasqua a volte si celebra ad aprile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Träden får nya blad i april."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дерева отримують нове листя у квітні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The trees get new leaves in April."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los árboles tienen hojas nuevas en abril."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bäume bekommen im April neue Blätter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Drzewa mają nowe liście w kwietniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les arbres ont de nouvelles feuilles en avril."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As árvores ganham novas folhas em abril."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli alberi hanno nuove foglie ad aprile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en maj",
+        "translations": {
+            "ukrainian": "травень",
+            "english": "May",
+            "spanish": "mayo",
+            "german": "Mai",
+            "polish": "maj",
+            "french": "mai",
+            "portuguese": "maio",
+            "italian": "maggio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Maj är en vacker månad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Травень - це гарний місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "May is a beautiful month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mayo es un mes hermoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mai ist ein schöner Monat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Maj to piękny miesiąc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mai est un beau mois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Maio é um mês bonito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Maggio è un mese bellissimo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blommorna blommar i maj."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квіти цвітуть у травні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flowers bloom in May."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las flores florecen en mayo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Blumen blühen im Mai."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kwiaty kwitną w maju."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les fleurs fleurissent en mai."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As flores florescem em maio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I fiori sbocciano a maggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi firar första maj."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми святкуємо перше травня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We celebrate the first of May."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Celebramos el primero de mayo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir feiern den ersten Mai."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Świętujemy pierwszego maja."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous célébrons le premier mai."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Celebramos o primeiro de maio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Festa del Primo Maggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Solen skiner ofta i maj."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сонце часто світить у травні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sun often shines in May."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El sol brilla a menudo en mayo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Sonne scheint oft im Mai."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słońce często świeci w maju."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le soleil brille souvent en mai."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O sol brilha frequentemente em maio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sole splende spesso a maggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en juni",
+        "translations": {
+            "ukrainian": "червень",
+            "english": "June",
+            "spanish": "junio",
+            "german": "Juni",
+            "polish": "czerwiec",
+            "french": "juin",
+            "portuguese": "junho",
+            "italian": "giugno"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Juni är den första sommarmånaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Червень - це перший літній місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "June is the first summer month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Junio es el primer mes de verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Juni ist der erste Sommermonat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czerwiec to pierwszy miesiąc lata."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Juin est le premier mois d'été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Junho é o primeiro mês de verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Giugno è il primo mese d'estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi har skolavslutning i juni."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У червні в нас закінчується навчальний рік."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We have the end of the school year in June."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos el fin del año escolar en junio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben das Schuljahresende im Juni."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mamy koniec roku szkolnego w czerwcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons la fin de l'année scolaire en juin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Temos o fim do ano escolar em junho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo la fine dell'anno scolastico a giugno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Midsommar firas i juni."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Свято середини літа відзначається у червні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Midsummer is celebrated in June."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El solsticio de verano se celebra en junio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mittsommer wird im Juni gefeiert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Noc Świętojańska jest obchodzona w czerwcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le solstice d'été est célébré en juin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O solstício de verão é celebrado em junho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il solstizio d'estate si celebra a giugno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är varmt i juni."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У червні тепло."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is warm in June."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace calor en junio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist warm im Juni."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W czerwcu jest ciepło."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait chaud en juin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Faz calor em junho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa caldo a giugno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en juli",
+        "translations": {
+            "ukrainian": "липень",
+            "english": "July",
+            "spanish": "julio",
+            "german": "Juli",
+            "polish": "lipiec",
+            "french": "juillet",
+            "portuguese": "julho",
+            "italian": "luglio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Juli är den varmaste månaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Липень - найтепліший місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "July is the hottest month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Julio es el mes más caluroso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Juli ist der heißeste Monat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lipiec to najgorętszy miesiąc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Juillet est le mois le plus chaud."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Julho é o mês mais quente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Luglio è il mese più caldo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Många har semester i juli."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Багато людей мають відпустку у липні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Many people have vacation in July."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mucha gente tiene vacaciones en julio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Viele Leute haben im Juli Urlaub."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wiele osób ma wakacje w lipcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Beaucoup de gens ont des vacances en juillet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Muitas pessoas têm férias em julho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Molte persone hanno le vacanze a luglio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi badar i havet i juli."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми купаємося у морі в липні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We swim in the sea in July."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos bañamos en el mar en julio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir baden im Juli im Meer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kąpiemy się w morzu w lipcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous baignons dans la mer en juillet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nadamos no mar em julho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Facciamo il bagno in mare a luglio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blåbären mognar i juli."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чорниця дозріває у липні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The blueberries ripen in July."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los arándanos maduran en julio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Heidelbeeren reifen im Juli."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Borówki dojrzewają w lipcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les myrtilles mûrissent en juillet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os mirtilos amadurecem em julho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I mirtilli maturano a luglio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en augusti",
+        "translations": {
+            "ukrainian": "серпень",
+            "english": "August",
+            "spanish": "agosto",
+            "german": "August",
+            "polish": "sierpień",
+            "french": "août",
+            "portuguese": "agosto",
+            "italian": "agosto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Augusti är den sista sommarmånaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Серпень - останній літній місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "August is the last summer month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Agosto es el último mes de verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "August ist der letzte Sommermonat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sierpień to ostatni miesiąc lata."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Août est le dernier mois d'été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Agosto é o último mês de verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Agosto è l'ultimo mese d'estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skolan börjar i augusti."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Школа починається у серпні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "School starts in August."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La escuela comienza en agosto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Schule beginnt im August."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szkoła zaczyna się w sierpniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'école commence en août."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A escola começa em agosto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La scuola inizia ad agosto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi plockar svamp i augusti."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми збираємо гриби у серпні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We pick mushrooms in August."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Recogemos setas en agosto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sammeln im August Pilze."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zbieramy grzyby w sierpniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous cueillons des champignons en août."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Colhemos cogumelos em agosto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Raccogliamo funghi ad agosto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dagarna blir kortare i augusti."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дні стають коротшими у серпні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The days get shorter in August."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los días se hacen más cortos en agosto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tage werden im August kürzer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dni stają się krótsze w sierpniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les jours raccourcissent en août."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os dias ficam mais curtos em agosto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le giornate si accorciano ad agosto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en september",
+        "translations": {
+            "ukrainian": "вересень",
+            "english": "September",
+            "spanish": "septiembre",
+            "german": "September",
+            "polish": "wrzesień",
+            "french": "septembre",
+            "portuguese": "setembro",
+            "italian": "settembre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "September är den första höstmånaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вересень - це перший осінній місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "September is the first autumn month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Septiembre es el primer mes de otoño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "September ist der erste Herbstmonat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wrzesień to pierwszy miesiąc jesieni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Septembre est le premier mois d'automne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Setembro é o primeiro mês de outono."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Settembre è il primo mese d'autunno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Löven börjar falla i september."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Листя починає опадати у вересні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The leaves start to fall in September."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las hojas comienzan a caer en septiembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Blätter beginnen im September zu fallen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Liście zaczynają opadać we wrześniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les feuilles commencent à tomber en septembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As folhas começam a cair em setembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le foglie iniziano a cadere a settembre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi börjar skolan i september."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми починаємо навчання у вересні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We start school in September."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Empezamos la escuela en septiembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir beginnen die Schule im September."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zaczynamy szkołę we wrześniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous commençons l'école en septembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Começamos a escola em setembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Iniziamo la scuola a settembre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Äpplen mognar i september."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яблука дозрівають у вересні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Apples ripen in September."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las manzanas maduran en septiembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Äpfel reifen im September."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jabłka dojrzewają we wrześniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pommes mûrissent en septembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As maçãs amadurecem em setembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le mele maturano a settembre."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en oktober",
+        "translations": {
+            "ukrainian": "жовтень",
+            "english": "October",
+            "spanish": "octubre",
+            "german": "Oktober",
+            "polish": "październik",
+            "french": "octobre",
+            "portuguese": "outubro",
+            "italian": "ottobre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Oktober har vackra höstfärger."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У жовтні красиві осінні кольори."
+                    },
+                    {
+                        "language": "english",
+                        "text": "October has beautiful autumn colors."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Octubre tiene hermosos colores de otoño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Oktober hat schöne Herbstfarben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Październik ma piękne jesienne kolory."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Octobre a de belles couleurs d'automne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Outubro tem belas cores de outono."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ottobre ha bellissimi colori autunnali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Halloween firas i oktober."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гелловін святкується у жовтні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Halloween is celebrated in October."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Halloween se celebra en octubre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Halloween wird im Oktober gefeiert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Halloween obchodzimy w październiku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Halloween est célébré en octobre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O Halloween é celebrado em outubro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Halloween si celebra a ottobre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det blir kallare i oktober."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У жовтні стає холодніше."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It gets colder in October."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace más frío en octubre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es wird kälter im Oktober."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W październiku robi się zimniej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait plus froid en octobre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Fica mais frio em outubro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa più freddo a ottobre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi tänder ljus i oktober."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми запалюємо свічки у жовтні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We light candles in October."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Encendemos velas en octubre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir zünden Kerzen im Oktober an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zapalamy świece w październiku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allumons des bougies en octobre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Acendemos velas em outubro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Accendiamo candele a ottobre."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en november",
+        "translations": {
+            "ukrainian": "листопад",
+            "english": "November",
+            "spanish": "noviembre",
+            "german": "November",
+            "polish": "listopad",
+            "french": "novembre",
+            "portuguese": "novembro",
+            "italian": "novembre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "November är en mörk månad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Листопад - це темний місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "November is a dark month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Noviembre es un mes oscuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "November ist ein dunkler Monat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Listopad to ciemny miesiąc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Novembre est un mois sombre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Novembro é um mês escuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Novembre è un mese buio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det regnar ofta i november."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У листопаді часто йдуть дощі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It often rains in November."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A menudo llueve en noviembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es regnet oft im November."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W listopadzie często pada deszcz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il pleut souvent en novembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Chove frequentemente em novembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Piove spesso a novembre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi firar Alla helgons dag i november."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми святкуємо День усіх святих у листопаді."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We celebrate All Saints' Day in November."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Celebramos el Día de Todos los Santos en noviembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir feiern Allerheiligen im November."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obchodzimy Dzień Wszystkich Świętych w listopadzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous célébrons la Toussaint en novembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Celebramos o Dia de Todos os Santos em novembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Festa di Ognissanti a novembre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snön kan komma i november."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сніг може випасти у листопаді."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Snow can come in November."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La nieve puede llegar en noviembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schnee kann im November kommen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śnieg może spaść w listopadzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La neige peut arriver en novembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A neve pode chegar em novembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La neve può arrivare a novembre."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en december",
+        "translations": {
+            "ukrainian": "грудень",
+            "english": "December",
+            "spanish": "diciembre",
+            "german": "Dezember",
+            "polish": "grudzień",
+            "french": "décembre",
+            "portuguese": "dezembro",
+            "italian": "dicembre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "December är den sista månaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Грудень - це останній місяць."
+                    },
+                    {
+                        "language": "english",
+                        "text": "December is the last month."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Diciembre es el último mes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dezember ist der letzte Monat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Grudzień to ostatni miesiąc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Décembre est le dernier mois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Dezembro é o último mês."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dicembre è l'ultimo mese."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi firar jul i december."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми святкуємо Різдво у грудні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We celebrate Christmas in December."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Celebramos la Navidad en diciembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir feiern Weihnachten im Dezember."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obchodzimy Boże Narodzenie w grudniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous célébrons Noël en décembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Celebramos o Natal em dezembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Festa di Natale a dicembre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är kallt och mörkt i december."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У грудні холодно і темно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It is cold and dark in December."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace frío y está oscuro en diciembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist kalt und dunkel im Dezember."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W grudniu jest zimno i ciemno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait froid et sombre en décembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Faz frio e está escuro em dezembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa freddo e buio a dicembre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Nyårsafton är i december."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Новий рік святкується у грудні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "New Year's Eve is in December."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La Nochevieja es en diciembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Silvester ist im Dezember."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sylwester jest w grudniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le réveillon du Nouvel An est en décembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A véspera de Ano Novo é em dezembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La vigilia di Capodanno è a dicembre."
+                    }
+                ]
+            }
+        ]
+    }
+]

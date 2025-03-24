@@ -1,0 +1,1227 @@
+[
+    {
+        "expression": "en måndag",
+        "translations": {
+            "ukrainian": "понеділок",
+            "english": "Monday",
+            "spanish": "lunes",
+            "german": "Montag",
+            "polish": "poniedziałek",
+            "french": "lundi",
+            "portuguese": "segunda-feira",
+            "italian": "lunedì"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Måndag är veckans första dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Понеділок - це перший день тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Monday is the first day of the week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El lunes es el primer día de la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Montag ist der erste Tag der Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poniedziałek to pierwszy dzień tygodnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le lundi est le premier jour de la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Segunda-feira é o primeiro dia da semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lunedì è il primo giorno della settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi börjar jobba på måndag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми починаємо працювати в понеділок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We start working on Monday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Empezamos a trabajar el lunes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fangen am Montag an zu arbeiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zaczynamy pracować w poniedziałek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous commençons à travailler le lundi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Começamos a trabalhar na segunda-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Iniziamo a lavorare il lunedì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skolan börjar på måndag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Школа починається в понеділок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "School starts on Monday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La escuela comienza el lunes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Schule beginnt am Montag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szkoła zaczyna się w poniedziałek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'école commence le lundi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A escola começa na segunda-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La scuola inizia il lunedì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag går till gymmet på måndag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я йду до спортзалу в понеділок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I go to the gym on Monday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy al gimnasio el lunes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich gehe am Montag ins Fitnessstudio."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idę na siłownię w poniedziałek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais à la salle de sport le lundi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou à academia na segunda-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado in palestra il lunedì."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en tisdag",
+        "translations": {
+            "ukrainian": "вівторок",
+            "english": "Tuesday",
+            "spanish": "martes",
+            "german": "Dienstag",
+            "polish": "wtorek",
+            "french": "mardi",
+            "portuguese": "terça-feira",
+            "italian": "martedì"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tisdag är veckans andra dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вівторок - це другий день тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Tuesday is the second day of the week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El martes es el segundo día de la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dienstag ist der zweite Tag der Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wtorek to drugi dzień tygodnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le mardi est le deuxième jour de la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Terça-feira é o segundo dia da semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Martedì è il secondo giorno della settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi har möte på tisdag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми маємо зустріч у вівторок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We have a meeting on Tuesday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos una reunión el martes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben am Dienstag ein Meeting."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mamy spotkanie we wtorek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons une réunion le mardi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Temos uma reunião na terça-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo una riunione il martedì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska laga middag på tisdag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я готуватиму вечерю у вівторок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I will cook dinner on Tuesday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a cocinar la cena el martes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde am Dienstag Abendessen kochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będę gotować obiad we wtorek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais préparer le dîner le mardi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou cozinhar o jantar na terça-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cucinerò la cena il martedì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "På tisdag går jag till biblioteket."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У вівторок я йду до бібліотеки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "On Tuesday, I go to the library."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El martes voy a la biblioteca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Am Dienstag gehe ich in die Bibliothek."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "We wtorek idę do biblioteki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le mardi, je vais à la bibliothèque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Na terça-feira, vou à biblioteca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il martedì vado in biblioteca."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en onsdag",
+        "translations": {
+            "ukrainian": "середа",
+            "english": "Wednesday",
+            "spanish": "miércoles",
+            "german": "Mittwoch",
+            "polish": "środa",
+            "french": "mercredi",
+            "portuguese": "quarta-feira",
+            "italian": "mercoledì"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Onsdag är veckans tredje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Середа - це третій день тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Wednesday is the third day of the week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El miércoles es el tercer día de la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mittwoch ist der dritte Tag der Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Środa to trzeci dzień tygodnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le mercredi est le troisième jour de la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quarta-feira é o terceiro dia da semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mercoledì è il terzo giorno della settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har simning på onsdag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене плавання у середу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have swimming on Wednesday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo natación el miércoles."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe am Mittwoch Schwimmen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam pływanie w środę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai de la natation le mercredi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho natação na quarta-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho nuoto il mercoledì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi träffas på onsdag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми зустрічаємось у середу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We meet on Wednesday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos el miércoles."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir treffen uns am Mittwoch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spotykamy się w środę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous rencontrons le mercredi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nos encontramos na quarta-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo il mercoledì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Onsdag är en bra dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Середа - гарний день."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Wednesday is a good day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El miércoles es un buen día."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mittwoch ist ein guter Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Środa to dobry dzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le mercredi est un bon jour."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quarta-feira é um bom dia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mercoledì è un buon giorno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en torsdag",
+        "translations": {
+            "ukrainian": "четвер",
+            "english": "Thursday",
+            "spanish": "jueves",
+            "german": "Donnerstag",
+            "polish": "czwartek",
+            "french": "jeudi",
+            "portuguese": "quinta-feira",
+            "italian": "giovedì"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Torsdag är veckans fjärde dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Четвер - це четвертий день тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thursday is the fourth day of the week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El jueves es el cuarto día de la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Donnerstag ist der vierte Tag der Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czwartek to czwarty dzień tygodnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le jeudi est le quatrième jour de la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quinta-feira é o quarto dia da semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Giovedì è il quarto giorno della settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag går till tandläkaren på torsdag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я йду до стоматолога у четвер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I go to the dentist on Thursday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy al dentista el jueves."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich gehe am Donnerstag zum Zahnarzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idę do dentysty w czwartek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais chez le dentiste le jeudi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou ao dentista na quinta-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado dal dentista il giovedì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi har fotbollsträning på torsdag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нас тренування з футболу у четвер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We have football training on Thursday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tenemos entrenamiento de fútbol el jueves."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben am Donnerstag Fußballtraining."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mamy trening piłki nożnej w czwartek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons un entraînement de football le jeudi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Temos treino de futebol na quinta-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo allenamento di calcio il giovedì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Torsdag brukar vara lugn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Четвер зазвичай спокійний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thursday is usually calm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El jueves suele ser tranquilo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Donnerstag ist meistens ruhig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czwartek jest zazwyczaj spokojny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le jeudi est généralement calme."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quinta-feira costuma ser calma."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Giovedì è di solito tranquillo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en fredag",
+        "translations": {
+            "ukrainian": "п'ятниця",
+            "english": "Friday",
+            "spanish": "viernes",
+            "german": "Freitag",
+            "polish": "piątek",
+            "french": "vendredi",
+            "portuguese": "sexta-feira",
+            "italian": "venerdì"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fredag är veckans femte dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "П'ятниця - це п'ятий день тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Friday is the fifth day of the week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El viernes es el quinto día de la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Freitag ist der fünfte Tag der Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piątek to piąty dzień tygodnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vendredi est le cinquième jour de la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sexta-feira é o quinto dia da semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Venerdì è il quinto giorno della settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ser fram emot fredag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я з нетерпінням чекаю п'ятниці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I look forward to Friday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy deseando que llegue el viernes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich freue mich auf den Freitag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie mogę się doczekać piątku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai hâte que ce soit vendredi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou ansioso para sexta-feira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non vedo l'ora che sia venerdì."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "På fredag äter vi pizza."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У п'ятницю ми їмо піцу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "On Friday, we eat pizza."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El viernes comemos pizza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Am Freitag essen wir Pizza."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W piątek jemy pizzę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vendredi, nous mangeons de la pizza."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Na sexta-feira, comemos pizza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il venerdì mangiamo la pizza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fredag är min favoritdag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "П'ятниця - мій улюблений день."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Friday is my favorite day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El viernes es mi día favorito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Freitag ist mein Lieblingstag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piątek to mój ulubiony dzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vendredi est mon jour préféré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sexta-feira é o meu dia favorito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Venerdì è il mio giorno preferito."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en lördag",
+        "translations": {
+            "ukrainian": "субота",
+            "english": "Saturday",
+            "spanish": "sábado",
+            "german": "Samstag",
+            "polish": "sobota",
+            "french": "samedi",
+            "portuguese": "sábado",
+            "italian": "sabato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lördag är veckans sjätte dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Субота - це шостий день тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Saturday is the sixth day of the week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El sábado es el sexto día de la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Samstag ist der sechste Tag der Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sobota to szósty dzień tygodnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le samedi est le sixième jour de la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sábado é o sexto dia da semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sabato è il sesto giorno della settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vilar på lördag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я відпочиваю у суботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I rest on Saturday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Descanso el sábado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich ruhe mich am Samstag aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odpoczywam w sobotę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me repose le samedi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu descanso no sábado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi riposo il sabato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi går på bio på lördag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми йдемо в кіно у суботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We go to the cinema on Saturday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos al cine el sábado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir gehen am Samstag ins Kino."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idziemy do kina w sobotę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons au cinéma le samedi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos ao cinema no sábado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo al cinema il sabato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lördagar är lediga dagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Суботи - це вихідні дні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Saturdays are days off."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los sábados son días libres."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Samstage sind freie Tage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Soboty to dni wolne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les samedis sont des jours de repos."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os sábados são dias de folga."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I sabati sono giorni di riposo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en söndag",
+        "translations": {
+            "ukrainian": "неділя",
+            "english": "Sunday",
+            "spanish": "domingo",
+            "german": "Sonntag",
+            "polish": "niedziela",
+            "french": "dimanche",
+            "portuguese": "domingo",
+            "italian": "domenica"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Söndag är veckans sista dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Неділя - це останній день тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sunday is the last day of the week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El domingo es el último día de la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sonntag ist der letzte Tag der Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niedziela to ostatni dzień tygodnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le dimanche est le dernier jour de la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Domingo é o último dia da semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Domenica è l'ultimo giorno della settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi besöker familjen på söndag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми відвідуємо родину у неділю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We visit family on Sunday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Visitamos a la familia el domingo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir besuchen die Familie am Sonntag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odwiedzamy rodzinę w niedzielę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous rendons visite à la famille le dimanche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Visitamos a família no domingo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Visitiamo la famiglia la domenica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag läser en bok på söndag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я читаю книгу у неділю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I read a book on Sunday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Leo un libro el domingo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich lese am Sonntag ein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czytam książkę w niedzielę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je lis un livre le dimanche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu leio um livro no domingo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Leggo un libro la domenica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Söndag är en lugn dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Неділя - це спокійний день."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sunday is a calm day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El domingo es un día tranquilo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sonntag ist ein ruhiger Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niedziela to spokojny dzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le dimanche est un jour calme."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Domingo é um dia calmo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Domenica è un giorno tranquillo."
+                    }
+                ]
+            }
+        ]
+    }
+]

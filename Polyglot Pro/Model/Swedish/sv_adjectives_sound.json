@@ -1,0 +1,1577 @@
+[
+    {
+        "expression": "tyst",
+        "translations": {
+            "ukrainian": "тихий",
+            "english": "quiet",
+            "spanish": "tranquilo",
+            "german": "leise",
+            "polish": "cichy",
+            "french": "silencieux",
+            "portuguese": "silencioso",
+            "italian": "silenzioso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rummet är mycket tyst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кімната дуже тиха."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The room is very quiet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La habitación es muy tranquila."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Raum ist sehr leise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pokój jest bardzo cichy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pièce est très silencieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O quarto é muito silencioso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stanza è molto silenziosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen var tysta under lektionen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти були тихі під час уроку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children were quiet during the lesson."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños estaban tranquilos durante la lección."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder waren während der Stunde leise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci były ciche podczas lekcji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants étaient silencieux pendant le cours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estavam quietas durante a aula."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini erano silenziosi durante la lezione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon talade med en tyst röst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона говорила тихим голосом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She spoke in a quiet voice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella habló con una voz tranquila."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sprach mit leiser Stimme."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mówiła cichym głosem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a parlé d'une voix silencieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela falou com uma voz suave."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Parlava con una voce silenziosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skogen är tyst på vintern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ліс тихий взимку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The forest is quiet in winter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El bosque está tranquilo en invierno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Wald ist im Winter leise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Las jest cichy zimą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La forêt est silencieuse en hiver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A floresta é silenciosa no inverno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La foresta è silenziosa in inverno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "högljudd",
+        "translations": {
+            "ukrainian": "гучний",
+            "english": "loud",
+            "spanish": "ruidoso",
+            "german": "laut",
+            "polish": "głośny",
+            "french": "bruyant",
+            "portuguese": "barulhento",
+            "italian": "rumoroso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Festivalen var väldigt högljudd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Фестиваль був дуже гучним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The festival was very loud."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El festival fue muy ruidoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Festival war sehr laut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Festival był bardzo głośny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le festival était très bruyant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O festival foi muito barulhento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il festival era molto rumoroso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Högljudda bilar störde mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гучні машини мене турбували."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Loud cars disturbed me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los coches ruidosos me molestaban."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Laute Autos störten mich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Głośne samochody mnie niepokoiły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les voitures bruyantes me dérangeaient."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Carros barulhentos me incomodavam."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le macchine rumorose mi disturbavano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Högljudda barn lekte i parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гучні діти гралися в парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Loud children were playing in the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños ruidosos jugaban en el parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Laute Kinder spielten im Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Głośne dzieci bawiły się w parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants bruyants jouaient dans le parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Crianças barulhentas brincavam no parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini rumorosi giocavano nel parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Musiken var för högljudd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Музика була занадто гучною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The music was too loud."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La música estaba demasiado alta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Musik war zu laut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Muzyka była zbyt głośna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La musique était trop forte."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A música estava muito alta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La musica era troppo alta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skrikig",
+        "translations": {
+            "ukrainian": "крикливий",
+            "english": "shrill",
+            "spanish": "chillón",
+            "german": "schrill",
+            "polish": "krzykliwy",
+            "french": "criard",
+            "portuguese": "estridente",
+            "italian": "stridulo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hennes röst var skrikig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Її голос був крикливим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her voice was shrill."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su voz era chillona."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihre Stimme war schrill."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jej głos był krzykliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa voix était criarde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A voz dela era estridente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua voce era stridula."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skrikiga färger irriterar mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Крикливі кольори мене дратують."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Shrill colors irritate me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los colores chillones me irritan."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schrille Farben irritieren mich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Krzykliwe kolory mnie drażnią."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les couleurs criardes m'irritent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cores berrantes me irritam."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I colori striduli mi irritano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skrikiga fåglar störde lugnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Крикливі птахи порушили спокій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Shrill birds disturbed the peace."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los pájaros chillones perturbaban la paz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schrille Vögel störten die Ruhe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Krzykliwe ptaki zakłóciły spokój."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les oiseaux criards perturbaient la paix."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pássaros estridentes perturbavam a paz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli uccelli striduli disturbavano la pace."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skrikiga reklamer är irriterande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Криклива реклама дратує."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Shrill advertisements are annoying."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los anuncios chillones son molestos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schrille Werbung ist nervig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Krzykliwe reklamy są irytujące."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les publicités criardes sont agaçantes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Anúncios berrantes são irritantes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le pubblicità stridule sono fastidiose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dov",
+        "translations": {
+            "ukrainian": "глухий",
+            "english": "deaf",
+            "spanish": "sordo",
+            "german": "taub",
+            "polish": "głuchy",
+            "french": "sourd",
+            "portuguese": "surdo",
+            "italian": "sordo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är född dov."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він народився глухим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was born deaf."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él nació sordo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde taub geboren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On urodził się głuchy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est né sourd."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele nasceu surdo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È nato sordo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dova människor använder teckenspråk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Глухі люди використовують мову жестів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Deaf people use sign language."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas sordas usan el lenguaje de señas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Taube Menschen verwenden Gebärdensprache."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Głusi ludzie używają języka migowego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les sourds utilisent la langue des signes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas surdas usam linguagem de sinais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone sorde usano il linguaggio dei segni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev dov efter en olycka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона стала глухою після нещасного випадку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She became deaf after an accident."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se quedó sorda después de un accidente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde nach einem Unfall taub."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona stała się głucha po wypadku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est devenue sourde après un accident."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou surda após um acidente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È diventata sorda dopo un incidente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dova barn behöver extra stöd i skolan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Глухі діти потребують додаткової підтримки в школі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Deaf children need extra support in school."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños sordos necesitan apoyo adicional en la escuela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Taube Kinder brauchen zusätzliche Unterstützung in der Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Głuche dzieci potrzebują dodatkowego wsparcia w szkole."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sourds ont besoin d'un soutien supplémentaire à l'école."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Crianças surdas precisam de apoio extra na escola."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sordi hanno bisogno di un supporto extra a scuola."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "viskande",
+        "translations": {
+            "ukrainian": "шепотливий",
+            "english": "whispering",
+            "spanish": "susurrante",
+            "german": "flüsternd",
+            "polish": "szeptający",
+            "french": "chuchotant",
+            "portuguese": "sussurrante",
+            "italian": "sussurrante"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon talade med en viskande röst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона говорила шепотливим голосом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She spoke in a whispering voice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella habló con una voz susurrante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sprach mit flüsternder Stimme."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mówiła szeptającym głosem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a parlé d'une voix chuchotante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela falou com uma voz sussurrante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Parlava con una voce sussurrante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Viskande löv i vinden är lugnande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Шепотливе листя на вітрі заспокоює."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Whispering leaves in the wind are calming."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las hojas susurrantes en el viento son calmantes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Flüsternde Blätter im Wind sind beruhigend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szeptające liście na wietrze są uspokajające."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les feuilles chuchotantes dans le vent sont apaisantes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Folhas sussurrantes ao vento são calmantes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le foglie sussurranti nel vento sono calmanti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Viskande röster hördes i korridoren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У коридорі чулися шепотливі голоси."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Whispering voices were heard in the corridor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se escuchaban voces susurrantes en el pasillo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Flüsternde Stimmen waren im Korridor zu hören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W korytarzu słychać było szeptające głosy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Des voix chuchotantes se faisaient entendre dans le couloir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vozes sussurrantes eram ouvidas no corredor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voci sussurranti si sentivano nel corridoio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Viskande vatten strömmade i bäcken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Шепотлива вода текла в струмку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Whispering water flowed in the stream."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua susurrante fluía en el arroyo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Flüsterndes Wasser floss im Bach."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szeptająca woda płynęła w strumieniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau chuchotante coulait dans le ruisseau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Água sussurrante fluía no riacho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Acqua sussurrante scorreva nel ruscello."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "mörk",
+        "translations": {
+            "ukrainian": "темний",
+            "english": "dark",
+            "spanish": "oscuro",
+            "german": "dunkel",
+            "polish": "ciemny",
+            "french": "sombre",
+            "portuguese": "escuro",
+            "italian": "scuro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rummet är för mörkt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кімната занадто темна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The room is too dark."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La habitación está demasiado oscura."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Raum ist zu dunkel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pokój jest zbyt ciemny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pièce est trop sombre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O quarto está muito escuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stanza è troppo scura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mörka moln samlades på himlen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Темні хмари збиралися на небі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dark clouds gathered in the sky."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nubes oscuras se acumulaban en el cielo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dunkle Wolken sammelten sich am Himmel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ciemne chmury zbierały się na niebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Des nuages sombres s'accumulaient dans le ciel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nuvens escuras se acumulavam no céu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nuvole scure si accumulavano nel cielo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har mörkt hår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї темне волосся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has dark hair."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene el pelo oscuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat dunkles Haar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma ciemne włosy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a les cheveux sombres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem cabelo escuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha i capelli scuri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mörka skuggor syntes i skogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У лісі були видно темні тіні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dark shadows were seen in the forest."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se veían sombras oscuras en el bosque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dunkle Schatten waren im Wald zu sehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W lesie widoczne były ciemne cienie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Des ombres sombres étaient visibles dans la forêt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sombras escuras eram vistas na floresta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ombre scure erano visibili nella foresta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ljus",
+        "translations": {
+            "ukrainian": "світлий",
+            "english": "light",
+            "spanish": "claro",
+            "german": "hell",
+            "polish": "jasny",
+            "french": "clair",
+            "portuguese": "claro",
+            "italian": "chiaro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rummet är ljust och rymligt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кімната світла і простора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The room is light and spacious."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La habitación es clara y espaciosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Raum ist hell und geräumig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pokój jest jasny i przestronny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pièce est claire et spacieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O quarto é claro e espaçoso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La stanza è luminosa e spaziosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ljuset skiner genom fönstret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Світло світить через вікно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The light shines through the window."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La luz brilla a través de la ventana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Licht scheint durch das Fenster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Światło świeci przez okno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La lumière brille à travers la fenêtre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A luz brilha através da janela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La luce brilla attraverso la finestra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har ljust hår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї світле волосся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has light hair."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene el pelo claro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat helles Haar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma jasne włosy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a les cheveux clairs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem cabelo claro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha i capelli chiari."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ljuset från lampan är starkt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Світло від лампи яскраве."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The light from the lamp is bright."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La luz de la lámpara es brillante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Licht der Lampe ist hell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Światło z lampy jest jasne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La lumière de la lampe est vive."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A luz da lâmpada é brilhante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La luce della lampada è forte."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hes",
+        "translations": {
+            "ukrainian": "хрипкий",
+            "english": "hoarse",
+            "spanish": "ronco",
+            "german": "heiser",
+            "polish": "chrypliwy",
+            "french": "rauque",
+            "portuguese": "rouco",
+            "italian": "rauco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans röst blev hes efter konserten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його голос став хрипким після концерту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His voice became hoarse after the concert."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su voz se volvió ronca después del concierto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Seine Stimme wurde nach dem Konzert heiser."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego głos stał się chrypliwy po koncercie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa voix est devenue rauque après le concert."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A voz dele ficou rouca após o show."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua voce è diventata rauca dopo il concerto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hostade och blev hes."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона кашляла і стала хрипкою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She coughed and became hoarse."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tosió y se quedó ronca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hustete und wurde heiser."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kaszlała i stała się chrypliwą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a toussé et est devenue rauque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tossiu e ficou rouca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei tossì e divenne rauca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hes röst är svår att höra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хрипкий голос важко почути."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A hoarse voice is hard to hear."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Una voz ronca es difícil de escuchar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine heisere Stimme ist schwer zu hören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chrypliwy głos jest trudny do usłyszenia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Une voix rauque est difficile à entendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Uma voz rouca é difícil de ouvir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Una voce rauca è difficile da sentire."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han försökte tala trots sin hesa röst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він намагався говорити, незважаючи на свій хрипкий голос."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He tried to speak despite his hoarse voice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él intentó hablar a pesar de su voz ronca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er versuchte zu sprechen, trotz seiner heiseren Stimme."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Próbował mówić pomimo swojego chrypliwego głosu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a essayé de parler malgré sa voix rauque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tentou falar apesar da voz rouca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha cercato di parlare nonostante la voce rauca."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "klar",
+        "translations": {
+            "ukrainian": "ясний",
+            "english": "clear",
+            "spanish": "claro",
+            "german": "klar",
+            "polish": "jasny",
+            "french": "clair",
+            "portuguese": "claro",
+            "italian": "chiaro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vattnet är klart och rent."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вода чиста і прозора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The water is clear and clean."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua es clara y limpia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wasser ist klar und sauber."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Woda jest czysta i przejrzysta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau est claire et propre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A água é clara e limpa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'acqua è chiara e pulita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Himlen är klar idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні небо ясне."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sky is clear today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cielo está claro hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Himmel ist heute klar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niebo jest dziś jasne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ciel est clair aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O céu está claro hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cielo è sereno oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gav en klar förklaring."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дала чітке пояснення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave a clear explanation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dio una explicación clara."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gab eine klare Erklärung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dała jasne wyjaśnienie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a donné une explication claire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela deu uma explicação clara."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha dato una spiegazione chiara."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Klarhet är viktigt i kommunikation."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ясність важлива в комунікації."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Clarity is important in communication."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La claridad es importante en la comunicación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Klarheit ist wichtig in der Kommunikation."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jasność jest ważna w komunikacji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La clarté est importante dans la communication."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A clareza é importante na comunicação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La chiarezza è importante nella comunicazione."
+                    }
+                ]
+            }
+        ]
+    }
+]

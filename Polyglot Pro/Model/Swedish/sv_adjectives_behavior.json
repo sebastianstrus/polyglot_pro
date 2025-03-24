@@ -1,0 +1,2277 @@
+[
+    {
+        "expression": "artig",
+        "translations": {
+            "ukrainian": "ввічливий",
+            "english": "polite",
+            "spanish": "educado",
+            "german": "höflich",
+            "polish": "uprzejmy",
+            "french": "poli",
+            "portuguese": "educado",
+            "italian": "educato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är alltid artig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він завжди ввічливий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is always polite."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él siempre es educado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist immer höflich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest zawsze uprzejmy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est toujours poli."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é sempre educado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è sempre educato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var artig mot gästerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьте ввічливими з гостями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Be polite to the guests."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sé educado con los invitados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sei höflich zu den Gästen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bądź uprzejmy dla gości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Soyez poli avec les invités."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seja educado com os convidados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sii educato con gli ospiti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gav ett artigt svar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дала ввічливу відповідь."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave a polite answer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dio una respuesta educada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gab eine höfliche Antwort."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dała uprzejmą odpowiedź."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a donné une réponse polie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela deu uma resposta educada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha dato una risposta educata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Artiga barn är välkomna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ввічливі діти вітаються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Polite children are welcome."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños educados son bienvenidos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Höfliche Kinder sind willkommen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uprzejme dzieci są mile widziane."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants polis sont les bienvenus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Crianças educadas são bem-vindas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini educati sono i benvenuti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hjälpsam",
+        "translations": {
+            "ukrainian": "допитливий",
+            "english": "helpful",
+            "spanish": "servicial",
+            "german": "hilfsbereit",
+            "polish": "pomocny",
+            "french": "serviable",
+            "portuguese": "prestativo",
+            "italian": "disponibile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är mycket hjälpsam."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дуже допитлива."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is very helpful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es muy servicial."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist sehr hilfsbereit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest bardzo pomocna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est très serviable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é muito prestativa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è molto disponibile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var hjälpsam under flytten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був допитливий під час переїзду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was helpful during the move."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue servicial durante la mudanza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war hilfsbereit während des Umzugs."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był pomocny podczas przeprowadzki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a été serviable pendant le déménagement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi prestativo durante a mudança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato disponibile durante il trasloco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hjälpsamma människor är värdefulla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Допитливі люди є цінними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Helpful people are valuable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas serviciales son valiosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hilfsbereite Menschen sind wertvoll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomocni ludzie są cenni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes serviales sont précieuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas prestativas são valiosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone disponibili sono preziose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag försöker vara hjälpsam."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я намагаюся бути допитливим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I try to be helpful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Intento ser servicial."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich versuche hilfsbereit zu sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Staram się być pomocny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'essaie d'être serviable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tento ser prestativo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cerco di essere disponibile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "respektfull",
+        "translations": {
+            "ukrainian": "поважний",
+            "english": "respectful",
+            "spanish": "respetuoso",
+            "german": "respektvoll",
+            "polish": "szanujący",
+            "french": "respectueux",
+            "portuguese": "respeitoso",
+            "italian": "rispettoso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är alltid respektfull."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він завжди поважний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is always respectful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él siempre es respetuoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist immer respektvoll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest zawsze szanujący."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est toujours respectueux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é sempre respeitoso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è sempre rispettoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var respektfull mot andra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьте поважними до інших."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Be respectful to others."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sé respetuoso con los demás."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sei respektvoll gegenüber anderen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bądź szanujący wobec innych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Soyez respectueux envers les autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seja respeitoso com os outros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sii rispettoso verso gli altri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Respektfullt beteende är viktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поважна поведінка важлива."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Respectful behavior is important."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El comportamiento respetuoso es importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Respektvolles Verhalten ist wichtig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szanujące zachowanie jest ważne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un comportement respectueux est important."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O comportamento respeitoso é importante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il comportamento rispettoso è importante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon visade respektfullt tålamod."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона показала поважну терплячість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She showed respectful patience."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella mostró una paciencia respetuosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie zeigte respektvolle Geduld."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona okazała szanującą cierpliwość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a montré une patience respectueuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela mostrou uma paciência respeitosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha mostrato una pazienza rispettosa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ödmjuk",
+        "translations": {
+            "ukrainian": "скромний",
+            "english": "humble",
+            "spanish": "humilde",
+            "german": "bescheiden",
+            "polish": "skromny",
+            "french": "humble",
+            "portuguese": "humilde",
+            "italian": "umile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en ödmjuk man."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він скромна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a humble man."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un hombre humilde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein bescheidener Mann."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest skromnym człowiekiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un homme humble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um homem humilde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un uomo umile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ödmjukhet är en dygd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скромність – це чеснота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Humility is a virtue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La humildad es una virtud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bescheidenheit ist eine Tugend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skromność to cnota."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'humilité est une vertu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A humildade é uma virtude."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'umiltà è una virtù."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon tog emot priset på ett ödmjukt sätt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона прийняла нагороду скромно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She accepted the award in a humble way."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella aceptó el premio de manera humilde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie nahm den Preis auf bescheidene Weise an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona przyjęła nagrodę w skromny sposób."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a accepté le prix de manière humble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela aceitou o prêmio de maneira humilde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha accettato il premio in modo umile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ödmjuka människor är ofta uppskattade."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скромних людей часто цінують."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Humble people are often appreciated."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas humildes son a menudo apreciadas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bescheidene Menschen werden oft geschätzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skromni ludzie są często doceniani."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes humbles sont souvent appréciées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas humildes são frequentemente apreciadas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone umili sono spesso apprezzate."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "respektlös",
+        "translations": {
+            "ukrainian": "неповажний",
+            "english": "disrespectful",
+            "spanish": "irrespetuoso",
+            "german": "respektlos",
+            "polish": "nie szanujący",
+            "french": "irrespectueux",
+            "portuguese": "desrespeitoso",
+            "italian": "irrispettoso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var respektlös mot läraren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був неповажний до вчителя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was disrespectful to the teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue irrespetuoso con el profesor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war respektlos gegenüber dem Lehrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On był nie szanujący wobec nauczyciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a été irrespectueux envers le professeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi desrespeitoso com o professor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato irrispettoso verso l'insegnante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Respektlöst beteende är oacceptabelt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Неповажна поведінка неприйнятна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Disrespectful behavior is unacceptable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El comportamiento irrespetuoso es inaceptable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Respektloses Verhalten ist inakzeptabel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie szanujące zachowanie jest nie do przyjęcia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un comportement irrespectueux est inacceptable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O comportamento desrespeitoso é inaceitável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il comportamento irrispettoso è inaccettabile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev arg på hans respektlösa kommentar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона розлютилася через його неповажний коментар."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got angry at his disrespectful comment."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se enojó por su comentario irrespetuoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde wütend über seinen respektlosen Kommentar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona się rozzłościła na jego nie szanujący komentarz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est mise en colère à cause de son commentaire irrespectueux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou brava com o comentário desrespeitoso dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si è arrabbiata per il suo commento irrispettoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Respektlösa handlingar kan skada relationer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Неповажні вчинки можуть зашкодити стосункам."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Disrespectful actions can harm relationships."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las acciones irrespetuosas pueden dañar las relaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Respektlose Handlungen können Beziehungen schaden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie szanujące działania mogą zaszkodzić relacjom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les actions irrespectueuses peuvent nuire aux relations."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ações desrespeitosas podem prejudicar relacionamentos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Azioni irrispettose possono danneggiare le relazioni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "otrevlig",
+        "translations": {
+            "ukrainian": "неприємний",
+            "english": "unpleasant",
+            "spanish": "desagradable",
+            "german": "unangenehm",
+            "polish": "nieprzyjemny",
+            "french": "désagréable",
+            "portuguese": "desagradável",
+            "italian": "sgradevole"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var otrevlig mot kunderna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був неприємний до клієнтів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was unpleasant to the customers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue desagradable con los clientes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war unangenehm zu den Kunden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On był nieprzyjemny dla klientów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a été désagréable avec les clients."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi desagradável com os clientes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato sgradevole con i clienti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Otrevliga människor är svåra att hantera."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "З неприємними людьми важко мати справу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Unpleasant people are hard to deal with."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas desagradables son difíciles de tratar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Unangenehme Menschen sind schwer zu handhaben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieprzyjemni ludzie są trudni do zniesienia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes désagréables sont difficiles à gérer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas desagradáveis são difíceis de lidar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone sgradevoli sono difficili da gestire."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hade en otrevlig upplevelse."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона мала неприємний досвід."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She had an unpleasant experience."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tuvo una experiencia desagradable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hatte eine unangenehme Erfahrung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona miała nieprzyjemne doświadczenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a eu une expérience désagréable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela teve uma experiência desagradável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha avuto un'esperienza sgradevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Otrevliga kommentarer kan såra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Неприємні коментарі можуть зашкодити."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Unpleasant comments can hurt."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los comentarios desagradables pueden herir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Unangenehme Kommentare können verletzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieprzyjemne komentarze mogą zranić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les commentaires désagréables peuvent blesser."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comentários desagradáveis podem machucar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Commenti sgradevoli possono ferire."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "nonchalant",
+        "translations": {
+            "ukrainian": "байдужий",
+            "english": "nonchalant",
+            "spanish": "despreocupado",
+            "german": "nonchalant",
+            "polish": "nonszalancki",
+            "french": "nonchalant",
+            "portuguese": "despreocupado",
+            "italian": "nonchalant"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var nonchalant inför problemet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був байдужий до проблеми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was nonchalant about the problem."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue despreocupado ante el problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war nonchalant gegenüber dem Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On był nonszalancki wobec problemu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a été nonchalant face au problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi despreocupado com o problema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato nonchalant riguardo al problema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hade en nonchalant attityd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона мала байдужу ставку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She had a nonchalant attitude."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tenía una actitud despreocupada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hatte eine nonchalante Haltung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona miała nonszalancką postawę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait une attitude nonchalante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tinha uma atitude despreocupada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei aveva un atteggiamento nonchalant."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Nonchalant beteende kan vara irriterande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Байдужа поведінка може бути дратівливою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Nonchalant behavior can be irritating."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El comportamiento despreocupado puede ser irritante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nonchalantes Verhalten kann irritierend sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nonszalanckie zachowanie może być irytujące."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un comportement nonchalant peut être irritant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O comportamento despreocupado pode ser irritante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il comportamento nonchalant può essere irritante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han svarade nonchalant på frågan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він байдуже відповів на питання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He answered the question nonchalantly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él respondió a la pregunta con despreocupación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er antwortete nonchalant auf die Frage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odpowiedział nonszalancko na pytanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a répondu à la question de manière nonchalante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele respondeu à pergunta com despreocupação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha risposto alla domanda in modo nonchalant."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "aggressiv",
+        "translations": {
+            "ukrainian": "агресивний",
+            "english": "aggressive",
+            "spanish": "agresivo",
+            "german": "aggressiv",
+            "polish": "agresywny",
+            "french": "agressif",
+            "portuguese": "agressivo",
+            "italian": "aggressivo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden var aggressiv mot främlingar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака був агресивний до незнайомців."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog was aggressive towards strangers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro era agresivo con los extraños."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund war aggressiv gegenüber Fremden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies był agresywny wobec obcych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien était agressif envers les étrangers."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro era agressivo com estranhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane era aggressivo con gli estranei."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Aggressivt beteende kan vara skrämmande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Агресивна поведінка може бути страшною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Aggressive behavior can be frightening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El comportamiento agresivo puede ser aterrador."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Aggressives Verhalten kann erschreckend sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Agresywne zachowanie może być przerażające."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un comportement agressif peut être effrayant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O comportamento agressivo pode ser assustador."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il comportamento aggressivo può essere spaventoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han blev aggressiv under diskussionen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він став агресивним під час обговорення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He became aggressive during the discussion."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se volvió agresivo durante la discusión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde während der Diskussion aggressiv."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stał się agresywny podczas dyskusji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est devenu agressif pendant la discussion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ficou agressivo durante a discussão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È diventato aggressivo durante la discussione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Aggressiva människor kan vara farliga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Агресивні люди можуть бути небезпечними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Aggressive people can be dangerous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas agresivas pueden ser peligrosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Aggressive Menschen können gefährlich sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Agresywni ludzie mogą być niebezpieczni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes agressives peuvent être dangereuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas agressivas podem ser perigosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone aggressive possono essere pericolose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vänlig",
+        "translations": {
+            "ukrainian": "дружній",
+            "english": "friendly",
+            "spanish": "amable",
+            "german": "freundlich",
+            "polish": "przyjazny",
+            "french": "amical",
+            "portuguese": "amigável",
+            "italian": "amichevole"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en vänlig person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дружня людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a friendly person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una persona amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine freundliche Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest przyjazną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une personne amicale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pessoa amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una persona amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vänliga människor är lätt att prata med."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "З дружніми людьми легко спілкуватися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Friendly people are easy to talk to."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas amables son fáciles de hablar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Freundliche Menschen sind leicht zu sprechen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyjazni ludzie są łatwi do rozmowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes amicales sont faciles à parler."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas amigáveis são fáceis de conversar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone amichevoli sono facili da parlare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han gav ett vänligt leende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він подарував дружню посмішку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He gave a friendly smile."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él dio una sonrisa amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er gab ein freundliches Lächeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dał przyjazny uśmiech."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a donné un sourire amical."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele deu um sorriso amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha dato un sorriso amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vänlighet är en stor styrka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дружність – це велика сила."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Friendliness is a great strength."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La amabilidad es una gran fortaleza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Freundlichkeit ist eine große Stärke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyjazność to wielka siła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La gentillesse est une grande force."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A amizade é uma grande força."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La gentilezza è una grande forza."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "omtänksam",
+        "translations": {
+            "ukrainian": "турботливий",
+            "english": "thoughtful",
+            "spanish": "considerado",
+            "german": "rücksichtsvoll",
+            "polish": "troskliwy",
+            "french": "attentionné",
+            "portuguese": "atencioso",
+            "italian": "premuroso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en omtänksam vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона турботлива подруга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a thoughtful friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una amiga considerada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine rücksichtsvolle Freundin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest troskliwą przyjaciółką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une amie attentionnée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma amiga atenciosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è un'amica premurosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Omtänksamma handlingar uppskattas."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Турботливі вчинки цінуються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thoughtful actions are appreciated."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las acciones consideradas son apreciadas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rücksichtsvolle Handlungen werden geschätzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Troskliwe działania są doceniane."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les actions attentionnées sont appréciées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ações atenciosas são apreciadas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le azioni premurose sono apprezzate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han gav en omtänksam gåva."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він подарував турботливий подарунок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He gave a thoughtful gift."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él dio un regalo considerado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er gab ein rücksichtsvolles Geschenk."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dał troskliwy prezent."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a donné un cadeau attentionné."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele deu um presente atencioso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha dato un regalo premuroso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Omtänksamhet är en dygd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Турбота – це чеснота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thoughtfulness is a virtue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La consideración es una virtud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rücksichtnahme ist eine Tugend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Troskliwość to cnota."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'attention est une vertu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A atenção é uma virtude."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La premura è una virtù."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "taktfull",
+        "translations": {
+            "ukrainian": "тактичний",
+            "english": "tactful",
+            "spanish": "tacto",
+            "german": "taktvoll",
+            "polish": "taktowny",
+            "french": "tact",
+            "portuguese": "tato",
+            "italian": "tatto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en taktfull person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він тактична людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a tactful person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona con tacto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein taktvoller Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest taktowną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne avec tact."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa com tato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona con tatto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Taktfulla människor är uppskattade."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тактичні люди цінуються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Tactful people are appreciated."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas con tacto son apreciadas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Taktvolle Menschen werden geschätzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Taktowni ludzie są doceniani."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes avec tact sont appréciées."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas com tato são apreciadas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone con tatto sono apprezzate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gav ett taktfullt svar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дала тактичну відповідь."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave a tactful answer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella dio una respuesta con tacto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie gab eine taktvolle Antwort."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona dała taktowną odpowiedź."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a donné une réponse avec tact."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela deu uma resposta com tato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha dato una risposta con tatto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Taktfullhet är en konst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тактичність – це мистецтво."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Tactfulness is an art."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El tacto es un arte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Taktvoll zu sein ist eine Kunst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Taktowność to sztuka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le tact est un art."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tato é uma arte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tatto è un'arte."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "blyg",
+        "translations": {
+            "ukrainian": "сором'язливий",
+            "english": "shy",
+            "spanish": "tímido",
+            "german": "schüchtern",
+            "polish": "nieśmiały",
+            "french": "timide",
+            "portuguese": "tímido",
+            "italian": "timido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en blyg flicka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона сором'язлива дівчина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a shy girl."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una chica tímida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist ein schüchternes Mädchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest nieśmiałą dziewczyną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une fille timide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma garota tímida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una ragazza timida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blyga barn behöver stöd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сором'язливі діти потребують підтримки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Shy children need support."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños tímidos necesitan apoyo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schüchterne Kinder brauchen Unterstützung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieśmiałe dzieci potrzebują wsparcia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants timides ont besoin de soutien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Crianças tímidas precisam de apoio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini timidi hanno bisogno di sostegno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han blev blyg inför publiken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він став сором'язливим перед публікою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He became shy in front of the audience."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se volvió tímido frente al público."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde schüchtern vor dem Publikum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stał się nieśmiały przed publicznością."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est devenu timide devant le public."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ficou tímido na frente do público."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È diventato timido di fronte al pubblico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blyghet kan vara en utmaning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сором'язливість може бути викликом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Shyness can be a challenge."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La timidez puede ser un desafío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schüchternheit kann eine Herausforderung sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieśmiałość może być wyzwaniem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La timidité peut être un défi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A timidez pode ser um desafio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La timidezza può essere una sfida."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "snäll",
+        "translations": {
+            "ukrainian": "добрий",
+            "english": "kind",
+            "spanish": "amable",
+            "german": "nett",
+            "polish": "miły",
+            "french": "gentil",
+            "portuguese": "gentil",
+            "italian": "gentile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en snäll person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона добра людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a kind person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una persona amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine nette Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest miłą osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une personne gentille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pessoa gentil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una persona gentile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snälla människor är värdefulla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрі люди є цінними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Kind people are valuable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas amables son valiosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nette Menschen sind wertvoll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Milí ludzie są cenni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes gentilles sont précieuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas gentis são valiosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone gentili sono preziose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han gav ett snällt leende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він подарував добру посмішку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He gave a kind smile."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él dio una sonrisa amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er gab ein nettes Lächeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dał miły uśmiech."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a donné un sourire gentil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele deu um sorriso gentil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha dato un sorriso gentile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snällhet är en stor styrka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доброта – це велика сила."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Kindness is a great strength."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La amabilidad es una gran fortaleza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Freundlichkeit ist eine große Stärke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dobroć to wielka siła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La gentillesse est une grande force."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A gentileza é uma grande força."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La gentilezza è una grande forza."
+                    }
+                ]
+            }
+        ]
+    }
+]

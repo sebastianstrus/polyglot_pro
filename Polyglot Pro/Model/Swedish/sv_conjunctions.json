@@ -1,0 +1,4902 @@
+[
+    {
+        "expression": "och",
+        "translations": {
+            "ukrainian": "і",
+            "english": "and",
+            "spanish": "y",
+            "german": "und",
+            "polish": "i",
+            "french": "et",
+            "portuguese": "e",
+            "italian": "e"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar kaffe och te."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю каву і чай."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love coffee and tea."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encanta el café y el té."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe Kaffee und Tee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam kawę i herbatę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore le café et le thé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu amo café e chá."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Amo il caffè e il tè."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han läser böcker och tidskrifter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він читає книги та журнали."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He reads books and magazines."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él lee libros y revistas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er liest Bücher und Zeitschriften."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On czyta książki i czasopisma."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il lit des livres et des magazines."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele lê livros e revistas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Legge libri e riviste."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi åkte till Stockholm och Göteborg."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми поїхали до Стокгольма та Гетеборга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We went to Stockholm and Gothenburg."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fuimos a Estocolmo y Gotemburgo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir fuhren nach Stockholm und Göteborg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pojechaliśmy do Sztokholmu i Göteborga."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous sommes allés à Stockholm et Göteborg."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Fomos para Estocolmo e Gotemburgo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo andati a Stoccolma e Göteborg."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon sjunger och dansar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона співає і танцює."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She sings and dances."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella canta y baila."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie singt und tanzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona śpiewa i tańczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle chante et danse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela canta e dança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei canta e balla."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "men",
+        "translations": {
+            "ukrainian": "але",
+            "english": "but",
+            "spanish": "pero",
+            "german": "aber",
+            "polish": "ale",
+            "french": "mais",
+            "portuguese": "mas",
+            "italian": "ma"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill gå ut, men det regnar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу вийти, але йде дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to go out, but it's raining."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero salir, pero está lloviendo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte rausgehen, aber es regnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę wyjść, ale pada deszcz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux sortir, mais il pleut."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero sair, mas está chovendo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio uscire, ma piove."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är trött, men han kan inte sova."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він втомлений, але не може спати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is tired, but he can't sleep."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Está cansado, pero no puede dormir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist müde, aber er kann nicht schlafen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest zmęczony, ale nie może spać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est fatigué, mais il ne peut pas dormir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está cansado, mas não consegue dormir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stanco, ma non riesce a dormire."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ville köpa biljetter, men de var slutsålda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хотів купити квитки, але вони були продані."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I wanted to buy tickets, but they were sold out."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quería comprar entradas, pero estaban agotadas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wollte Tickets kaufen, aber sie waren ausverkauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chciałem kupić bilety, ale były wyprzedane."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je voulais acheter des billets, mais ils étaient épuisés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu queria comprar ingressos, mas estavam esgotados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Volevo comprare i biglietti, ma erano esauriti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är ung, men mycket erfaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона молода, але дуже досвідчена."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is young, but very experienced."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es joven, pero muy experimentada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist jung, aber sehr erfahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest młoda, ale bardzo doświadczona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est jeune, mais très expérimentée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é jovem, mas muito experiente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è giovane, ma molto esperta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "eller",
+        "translations": {
+            "ukrainian": "або",
+            "english": "or",
+            "spanish": "o",
+            "german": "oder",
+            "polish": "lub",
+            "french": "ou",
+            "portuguese": "ou",
+            "italian": "o"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vill du ha kaffe eller te?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти хочеш кави чи чаю?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Do you want coffee or tea?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Quieres café o té?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Möchtest du Kaffee oder Tee?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcesz kawę czy herbatę?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Veux-tu du café ou du thé?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você quer café ou chá?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vuoi caffè o tè?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ska vi gå på bio eller stanna hemma?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми підемо в кіно чи залишимося вдома?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Shall we go to the cinema or stay at home?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Vamos al cine o nos quedamos en casa?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sollen wir ins Kino gehen oder zu Hause bleiben?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pójdziemy do kina czy zostaniemy w domu?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Allons-nous au cinéma ou restons-nous à la maison?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos ao cinema ou ficamos em casa?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo al cinema o restiamo a casa?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Är du hungrig eller törstig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти голодний чи спраглий?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Are you hungry or thirsty?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Tienes hambre o sed?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bist du hungrig oder durstig?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jesteś głodny czy spragniony?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "As-tu faim ou soif?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você está com fome ou com sede?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Hai fame o sete?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ska vi åka till Spanien eller Italien?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми поїдемо до Іспанії чи Італії?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Shall we go to Spain or Italy?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Vamos a España o a Italia?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sollen wir nach Spanien oder Italien fahren?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pojedziemy do Hiszpanii czy Włoch?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Allons-nous en Espagne ou en Italie?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos para a Espanha ou para a Itália?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Andiamo in Spagna o in Italia?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "utan",
+        "translations": {
+            "ukrainian": "без",
+            "english": "without",
+            "spanish": "sin",
+            "german": "ohne",
+            "polish": "bez",
+            "french": "sans",
+            "portuguese": "sem",
+            "italian": "senza"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han gick ut utan paraply."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він вийшов без парасольки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He went out without an umbrella."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Salió sin paraguas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ging ohne Regenschirm aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyszedł bez parasola."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est sorti sans parapluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele saiu sem guarda-chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È uscito senza ombrello."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon klarade provet utan problem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона здала іспит без проблем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She passed the test without problems."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Aprobó el examen sin problemas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bestand die Prüfung ohne Probleme."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zdała egzamin bez problemów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a réussi l'examen sans problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela passou no teste sem problemas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha superato il test senza problemi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi kan inte leva utan vatten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми не можемо жити без води."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We cannot live without water."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No podemos vivir sin agua."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir können ohne Wasser nicht leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie możemy żyć bez wody."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous ne pouvons pas vivre sans eau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não podemos viver sem água."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non possiamo vivere senza acqua."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han klarade sig utan hjälp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він впорався без допомоги."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He managed without help."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se las arregló sin ayuda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kam ohne Hilfe zurecht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poradził sobie bez pomocy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il s'est débrouillé sans aide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele se virou sem ajuda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Se l'è cavata senza aiuto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "för",
+        "translations": {
+            "ukrainian": "для",
+            "english": "for",
+            "spanish": "para",
+            "german": "für",
+            "polish": "dla",
+            "french": "pour",
+            "portuguese": "para",
+            "italian": "per"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Detta är en present för dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це подарунок для тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This is a gift for you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este es un regalo para ti."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das ist ein Geschenk für dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest prezent dla ciebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est un cadeau pour toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este é um presente para você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questo è un regalo per te."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har köpt en bok för dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив книгу для тебе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a book for you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "He comprado un libro para ti."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein Buch für dich gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem książkę dla ciebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté un livre pour toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei um livro para você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato un libro per te."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi arbetar för en bättre framtid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми працюємо для кращого майбутнього."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We work for a better future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Trabajamos para un futuro mejor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir arbeiten für eine bessere Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pracujemy na lepszą przyszłość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous travaillons pour un avenir meilleur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Trabalhamos por um futuro melhor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lavoriamo per un futuro migliore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är för sent att ångra sig nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зараз уже пізно шкодувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's too late to regret now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es demasiado tarde para arrepentirse ahora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist zu spät, um jetzt zu bereuen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest już za późno, żeby żałować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est trop tard pour regretter maintenant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É tarde demais para se arrepender agora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È troppo tardi per pentirsi ora."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "så",
+        "translations": {
+            "ukrainian": "так",
+            "english": "so",
+            "spanish": "así",
+            "german": "so",
+            "polish": "tak",
+            "french": "ainsi",
+            "portuguese": "assim",
+            "italian": "così"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var så vackert att jag grät."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це було так красиво, що я заплакав."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was so beautiful that I cried."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Era tan hermoso que lloré."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es war so schön, dass ich geweint habe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Było tak pięknie, że płakałem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était si beau que j'ai pleuré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Era tão lindo que eu chorei."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era così bello che ho pianto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sprang så fort han kunde."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він біг так швидко, як міг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He ran as fast as he could."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Corrió tan rápido como pudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er lief so schnell er konnte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Biegł tak szybko, jak mógł."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a couru aussi vite qu'il a pu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele correu o mais rápido que pôde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Corse più veloce che poté."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Så härligt att se dig!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Так приємно тебе бачити!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "So nice to see you!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Qué gusto verte!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "So schön, dich zu sehen!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tak miło cię widzieć!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Si content de te voir!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Que bom te ver!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Che piacere vederti!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Så länge du är glad, är jag nöjd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доки ти щасливий, я задоволений."
+                    },
+                    {
+                        "language": "english",
+                        "text": "As long as you're happy, I'm satisfied."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mientras tú seas feliz, yo estoy satisfecho."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Solange du glücklich bist, bin ich zufrieden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dopóki jesteś szczęśliwy, jestem zadowolony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tant que tu es heureux, je suis satisfait."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Enquanto você estiver feliz, estou satisfeito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Finché sei felice, io sono soddisfatto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "eftersom",
+        "translations": {
+            "ukrainian": "оскільки",
+            "english": "because",
+            "spanish": "porque",
+            "german": "weil",
+            "polish": "ponieważ",
+            "french": "parce que",
+            "portuguese": "porque",
+            "italian": "perché"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag stannade hemma eftersom det regnade."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я залишився вдома, оскільки йшов дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I stayed home because it was raining."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me quedé en casa porque estaba lloviendo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich blieb zu Hause, weil es regnete."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zostałem w domu, ponieważ padało."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis resté à la maison parce qu'il pleuvait."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Fiquei em casa porque estava chovendo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono rimasto a casa perché pioveva."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han lyckades eftersom han arbetade hårt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він досяг успіху, оскільки багато працював."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He succeeded because he worked hard."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tuvo éxito porque trabajó duro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hatte Erfolg, weil er hart arbeitete."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odniósł sukces, ponieważ ciężko pracował."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a réussi parce qu'il a travaillé dur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele teve sucesso porque trabalhou duro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha avuto successo perché ha lavorato sodo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev försenade eftersom bussen var sen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми запізнилися, оскільки автобус запізнився."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We were late because the bus was late."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Llegamos tarde porque el autobús se retrasó."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir waren zu spät, weil der Bus Verspätung hatte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spóźniliśmy się, ponieważ autobus się spóźnił."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étions en retard parce que le bus était en retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estávamos atrasados porque o ônibus estava atrasado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Eravamo in ritardo perché l'autobus era in ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är trött eftersom hon inte sovit."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона втомлена, оскільки не спала."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is tired because she didn't sleep."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está cansada porque no durmió."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist müde, weil sie nicht geschlafen hat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest zmęczona, ponieważ nie spała."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est fatiguée parce qu'elle n'a pas dormi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está cansada porque não dormiu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stanca perché non ha dormito."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "därför",
+        "translations": {
+            "ukrainian": "тому",
+            "english": "therefore",
+            "spanish": "por lo tanto",
+            "german": "deshalb",
+            "polish": "dlatego",
+            "french": "donc",
+            "portuguese": "portanto",
+            "italian": "quindi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag var trött, därför gick jag tidigt till sängs."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я був втомлений, тому пішов рано спати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I was tired, therefore I went to bed early."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estaba cansado, por lo tanto me fui temprano a la cama."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich war müde, deshalb bin ich früh ins Bett gegangen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Byłem zmęczony, dlatego poszedłem wcześnie spać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'étais fatigué, donc je suis allé me coucher tôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu estava cansado, portanto fui para a cama cedo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ero stanco, quindi sono andato a letto presto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det regnade, därför stannade vi inne."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Йшов дощ, тому ми залишилися вдома."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was raining, therefore we stayed inside."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estaba lloviendo, por lo tanto nos quedamos adentro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es regnete, deshalb blieben wir drinnen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Padało, dlatego zostaliśmy w środku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il pleuvait, donc nous sommes restés à l'intérieur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estava chovendo, portanto ficamos dentro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Pioveva, quindi siamo rimasti dentro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han studerade hårt, därför klarade han provet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він багато вчився, тому склав іспит."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He studied hard, therefore he passed the exam."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estudió mucho, por lo tanto aprobó el examen."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er lernte hart, deshalb bestand er die Prüfung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uczył się ciężko, dlatego zdał egzamin."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a beaucoup étudié, donc il a réussi l'examen."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele estudou muito, portanto passou no exame."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha studiato molto, quindi ha superato l'esame."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hade ont i benet, därför kunde hon inte springa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У неї боліла нога, тому вона не могла бігти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her leg hurt, therefore she couldn't run."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Le dolía la pierna, por lo tanto no pudo correr."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Bein tat weh, deshalb konnte sie nicht laufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bolała ją noga, dlatego nie mogła biegać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait mal à la jambe, donc elle ne pouvait pas courir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela estava com dor na perna, portanto não pôde correr."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le faceva male la gamba, quindi non poteva correre."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "på grund av",
+        "translations": {
+            "ukrainian": "через",
+            "english": "due to",
+            "spanish": "debido a",
+            "german": "aufgrund",
+            "polish": "z powodu",
+            "french": "à cause de",
+            "portuguese": "devido a",
+            "italian": "a causa di"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Flyget blev inställt på grund av dåligt väder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рейс скасували через погану погоду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flight was canceled due to bad weather."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El vuelo fue cancelado debido al mal tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Flug wurde aufgrund des schlechten Wetters abgesagt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lot został odwołany z powodu złej pogody."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vol a été annulé à cause du mauvais temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O voo foi cancelado devido ao mau tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il volo è stato cancellato a causa del maltempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han kom för sent på grund av trafik."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він запізнився через пробки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was late due to traffic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Llegó tarde debido al tráfico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er kam zu spät aufgrund des Verkehrs."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spóźnił się z powodu ruchu ulicznego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il était en retard à cause de la circulation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele chegou atrasado devido ao trânsito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È arrivato in ritardo a causa del traffico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ställde in picknicken på grund av regn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми скасували пікнік через дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We canceled the picnic due to rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cancelamos el picnic debido a la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben das Picknick aufgrund des Regens abgesagt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odwołaliśmy piknik z powodu deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons annulé le pique-nique à cause de la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cancelamos o piquenique devido à chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo cancellato il picnic a causa della pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kunde inte delta på grund av sjukdom."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона не могла взяти участь через хворобу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She couldn't participate due to illness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No pudo participar debido a una enfermedad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie konnte aufgrund einer Krankheit nicht teilnehmen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie mogła uczestniczyć z powodu choroby."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle ne pouvait pas participer à cause d'une maladie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela não pôde participar devido a uma doença."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non poteva partecipare a causa di una malattia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "om",
+        "translations": {
+            "ukrainian": "якщо",
+            "english": "if",
+            "spanish": "si",
+            "german": "wenn",
+            "polish": "jeśli",
+            "french": "si",
+            "portuguese": "se",
+            "italian": "se"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Om det regnar, stannar vi hemma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Якщо буде дощ, ми залишимося вдома."
+                    },
+                    {
+                        "language": "english",
+                        "text": "If it rains, we'll stay home."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Si llueve, nos quedaremos en casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wenn es regnet, bleiben wir zu Hause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jeśli będzie padać, zostaniemy w domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "S'il pleut, nous resterons à la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Se chover, ficaremos em casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Se piove, resteremo a casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Om du vill, kan vi gå på bio."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Якщо хочеш, ми можемо піти в кіно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "If you want, we can go to the cinema."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Si quieres, podemos ir al cine."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wenn du willst, können wir ins Kino gehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jeśli chcesz, możemy iść do kina."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Si tu veux, nous pouvons aller au cinéma."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Se você quiser, podemos ir ao cinema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Se vuoi, possiamo andare al cinema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Om jag vinner, ska jag köpa en bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Якщо я виграю, я куплю машину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "If I win, I'll buy a car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Si gano, compraré un coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wenn ich gewinne, kaufe ich ein Auto."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jeśli wygram, kupię samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Si je gagne, j'achèterai une voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Se eu ganhar, vou comprar um carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Se vinco, comprerò una macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Om du inte kommer, ringer jag dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Якщо ти не прийдеш, я подзвоню тобі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "If you don't come, I'll call you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Si no vienes, te llamaré."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wenn du nicht kommst, rufe ich dich an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jeśli nie przyjdziesz, zadzwonię do ciebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Si tu ne viens pas, je t'appellerai."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Se você não vier, eu ligo para você."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Se non vieni, ti chiamo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ifall",
+        "translations": {
+            "ukrainian": "якщо",
+            "english": "in case",
+            "spanish": "en caso de que",
+            "german": "falls",
+            "polish": "w razie",
+            "french": "au cas où",
+            "portuguese": "caso",
+            "italian": "nel caso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ta med paraply ifall det regnar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Візьми парасольку, якщо буде дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Take an umbrella in case it rains."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Lleva un paraguas en caso de que llueva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nimm einen Regenschirm mit, falls es regnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Weź parasol w razie deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Prends un parapluie au cas où il pleuvrait."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Leve um guarda-chuva caso chova."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Porta un ombrello nel caso piova."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tar med extra pengar ifall vi behöver dem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я візьму додаткові гроші, якщо вони нам знадобляться."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I'll bring extra money in case we need it."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Llevaré dinero extra en caso de que lo necesitemos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich nehme zusätzliches Geld mit, falls wir es brauchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wezmę dodatkowe pieniądze w razie potrzeby."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je prendrai de l'argent supplémentaire au cas où nous en aurions besoin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou levar dinheiro extra caso precisemos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Porterò dei soldi extra nel caso ne avessimo bisogno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ifall du behöver hjälp, ring mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Якщо тобі потрібна допомога, подзвони мені."
+                    },
+                    {
+                        "language": "english",
+                        "text": "In case you need help, call me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "En caso de que necesites ayuda, llámame."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Falls du Hilfe brauchst, ruf mich an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W razie potrzeby pomocy, zadzwoń do mnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Au cas où tu aurais besoin d'aide, appelle-moi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Caso precise de ajuda, ligue para mim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nel caso tu abbia bisogno di aiuto, chiamami."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ifall du glömmer, skicka ett meddelande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Якщо забудеш, надішліть повідомлення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "In case you forget, send a message."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "En caso de que lo olvides, envía un mensaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Falls du es vergisst, schicke eine Nachricht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W razie zapomnienia, wyślij wiadomość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Au cas où tu oublierais, envoie un message."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Caso se esqueça, envie uma mensagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nel caso tu dimentichi, manda un messaggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "såvida",
+        "translations": {
+            "ukrainian": "якщо тільки",
+            "english": "unless",
+            "spanish": "a menos que",
+            "german": "es sei denn",
+            "polish": "chyba że",
+            "french": "à moins que",
+            "portuguese": "a menos que",
+            "italian": "a meno che"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kommer inte, såvida du inte vill."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не прийду, якщо тільки ти не захочеш."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I won't come unless you want me to."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No vendré a menos que quieras."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich komme nicht, es sei denn, du willst es."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie przyjdę, chyba że chcesz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne viendrai pas à moins que tu ne le veuilles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não vou a menos que você queira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non verrò a meno che tu non voglia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi går inte ut, såvida det inte slutar regna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми не підемо гуляти, якщо тільки дощ не припиниться."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We won't go out unless it stops raining."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No saldremos a menos que deje de llover."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir gehen nicht raus, es sei denn, es hört auf zu regnen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie wyjdziemy, chyba że przestanie padać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous ne sortirons pas à moins qu'il ne cesse de pleuvoir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não sairemos a menos que pare de chover."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non usciremo a meno che non smetta di piovere."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tar inte med mig jackan, såvida det inte blir kallt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не візьму куртку, якщо тільки не стане холодно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I won't bring my jacket unless it gets cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No llevaré mi chaqueta a menos que haga frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich nehme meine Jacke nicht mit, es sei denn, es wird kalt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie wezmę kurtki, chyba że zrobi się zimno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne prendrai pas ma veste à moins qu'il ne fasse froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não vou levar minha jaqueta a menos que esfrie."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non porterò la mia giacca a meno che non faccia freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi stannar inte, såvida du inte behöver en paus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми не зупинимося, якщо тільки тобі не потрібна перерва."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We won't stop unless you need a break."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No nos detendremos a menos que necesites un descanso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir halten nicht an, es sei denn, du brauchst eine Pause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie zatrzymamy się, chyba że potrzebujesz przerwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous ne nous arrêterons pas à moins que tu n'aies besoin d'une pause."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não vamos parar a menos que você precise de uma pausa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non ci fermeremo a meno che tu non abbia bisogno di una pausa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "innan",
+        "translations": {
+            "ukrainian": "перед тим як",
+            "english": "before",
+            "spanish": "antes de",
+            "german": "bevor",
+            "polish": "zanim",
+            "french": "avant que",
+            "portuguese": "antes de",
+            "italian": "prima di"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Innan vi åker, måste vi packa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перед тим як їхати, ми повинні спакувати речі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Before we leave, we need to pack."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Antes de irnos, tenemos que hacer las maletas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bevor wir fahren, müssen wir packen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zanim wyjedziemy, musimy się spakować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Avant de partir, nous devons faire nos valises."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Antes de irmos, precisamos fazer as malas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prima di partire, dobbiamo fare le valigie."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Innan du går, stäng av ljuset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перед тим як піти, вимкніть світло."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Before you leave, turn off the light."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Antes de irte, apaga la luz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bevor du gehst, mach das Licht aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zanim wyjdziesz, zgaś światło."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Avant de partir, éteins la lumière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Antes de sair, apague a luz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prima di andartene, spegni la luce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Innan vi börjar, måste vi planera."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перед тим як почати, ми повинні спланувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Before we start, we need to plan."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Antes de empezar, tenemos que planificar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bevor wir anfangen, müssen wir planen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zanim zaczniemy, musimy zaplanować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Avant de commencer, nous devons planifier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Antes de começarmos, precisamos planejar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prima di iniziare, dobbiamo pianificare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Innan du äter, tvätta händerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перед тим як їсти, помий руки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Before you eat, wash your hands."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Antes de comer, lávate las manos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bevor du isst, wasche deine Hände."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zanim zjesz, umyj ręce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Avant de manger, lave-toi les mains."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Antes de comer, lave as mãos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prima di mangiare, lavati le mani."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "medan",
+        "translations": {
+            "ukrainian": "поки",
+            "english": "while",
+            "spanish": "mientras",
+            "german": "während",
+            "polish": "podczas gdy",
+            "french": "pendant que",
+            "portuguese": "enquanto",
+            "italian": "mentre"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Medan jag läser, lyssnar jag på musik."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поки я читаю, я слухаю музику."
+                    },
+                    {
+                        "language": "english",
+                        "text": "While I read, I listen to music."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mientras leo, escucho música."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während ich lese, höre ich Musik."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas gdy czytam, słucham muzyki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant que je lis, j'écoute de la musique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Enquanto leio, escuto música."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mentre leggo, ascolto musica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Medan du lagar mat, kan jag duka bordet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поки ти готуєш, я можу накрити на стіл."
+                    },
+                    {
+                        "language": "english",
+                        "text": "While you cook, I can set the table."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mientras cocinas, puedo poner la mesa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während du kochst, kann ich den Tisch decken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas gdy gotujesz, mogę nakryć do stołu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant que tu cuisines, je peux mettre la table."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Enquanto você cozinha, eu posso pôr a mesa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mentre cucini, posso apparecchiare la tavola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Medan solen skiner, ska vi vara ute."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поки світить сонце, ми повинні бути на вулиці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "While the sun is shining, we should be outside."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mientras brilla el sol, deberíamos estar afuera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während die Sonne scheint, sollten wir draußen sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas gdy świeci słońce, powinniśmy być na zewnątrz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant que le soleil brille, nous devrions être dehors."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Enquanto o sol estiver brilhando, devemos estar lá fora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mentre il sole splende, dovremmo stare fuori."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Medan vi väntar, kan vi spela ett spel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Поки ми чекаємо, ми можемо зіграти в гру."
+                    },
+                    {
+                        "language": "english",
+                        "text": "While we wait, we can play a game."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mientras esperamos, podemos jugar un juego."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während wir warten, können wir ein Spiel spielen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas gdy czekamy, możemy zagrać w grę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant que nous attendons, nous pouvons jouer à un jeu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Enquanto esperamos, podemos jogar um jogo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mentre aspettiamo, possiamo giocare a un gioco."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "efter",
+        "translations": {
+            "ukrainian": "після",
+            "english": "after",
+            "spanish": "después de",
+            "german": "nach",
+            "polish": "po",
+            "french": "après",
+            "portuguese": "depois de",
+            "italian": "dopo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Efter maten gick vi på promenad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Після їжі ми пішли на прогулянку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "After the meal, we went for a walk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Después de la comida, fuimos a pasear."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nach dem Essen gingen wir spazieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Po posiłku poszliśmy na spacer."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Après le repas, nous sommes allés nous promener."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Depois da refeição, fomos dar um passeio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dopo il pasto, siamo andati a fare una passeggiata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Efter jobbet träffade vi vänner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Після роботи ми зустрілися з друзями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "After work, we met friends."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Después del trabajo, nos encontramos con amigos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nach der Arbeit trafen wir Freunde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Po pracy spotkaliśmy się z przyjaciółmi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Après le travail, nous avons rencontré des amis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Depois do trabalho, encontramos amigos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dopo il lavoro, abbiamo incontrato degli amici."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Efter skolan gick jag hem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Після школи я пішов додому."
+                    },
+                    {
+                        "language": "english",
+                        "text": "After school, I went home."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Después de la escuela, me fui a casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nach der Schule ging ich nach Hause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Po szkole poszedłem do domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Après l'école, je suis rentré à la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Depois da escola, fui para casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dopo la scuola, sono andato a casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Efter filmen pratade vi om den."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Після фільму ми поговорили про нього."
+                    },
+                    {
+                        "language": "english",
+                        "text": "After the movie, we talked about it."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Después de la película, hablamos sobre ella."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Nach dem Film haben wir darüber gesprochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Po filmie rozmawialiśmy o nim."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Après le film, nous en avons parlé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Depois do filme, conversamos sobre ele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dopo il film, ne abbiamo parlato."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tills",
+        "translations": {
+            "ukrainian": "до тих пір, поки",
+            "english": "until",
+            "spanish": "hasta que",
+            "german": "bis",
+            "polish": "dopóki",
+            "french": "jusqu'à ce que",
+            "portuguese": "até que",
+            "italian": "fino a quando"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag stannar här tills du kommer tillbaka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я залишуся тут, доки ти не повернешся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I'll stay here until you come back."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me quedaré aquí hasta que vuelvas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bleibe hier, bis du zurückkommst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zostanę tutaj, dopóki nie wrócisz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je resterai ici jusqu'à ce que tu reviennes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficarei aqui até que você volte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Resterò qui fino a quando non tornerai."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi väntar tills det blir mörkt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми будемо чекати, доки не стемніє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We'll wait until it gets dark."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esperaremos hasta que oscurezca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir warten, bis es dunkel wird."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będziemy czekać, dopóki nie zrobi się ciemno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous attendrons jusqu'à ce qu'il fasse nuit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vamos esperar até escurecer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Aspetteremo fino a quando non si fa buio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag arbetar tills jag är klar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я працюю, доки не закінчу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I work until I'm done."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Trabajo hasta que termino."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich arbeite, bis ich fertig bin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pracuję, dopóki nie skończę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je travaille jusqu'à ce que j'aie fini."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu trabalho até terminar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lavoro fino a quando non ho finito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi stannar tills solen går ner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми залишимося, доки сонце не зайде."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We'll stay until the sun sets."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos quedaremos hasta que se ponga el sol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir bleiben, bis die Sonne untergeht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zostaniemy, dopóki słońce nie zajdzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous resterons jusqu'à ce que le soleil se couche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficaremos até o sol se pôr."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Resteremo fino a quando il sole non tramonterà."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "under",
+        "translations": {
+            "ukrainian": "під час",
+            "english": "during",
+            "spanish": "durante",
+            "german": "während",
+            "polish": "podczas",
+            "french": "pendant",
+            "portuguese": "durante",
+            "italian": "durante"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Under semestern reste vi till Spanien."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Під час відпустки ми поїхали до Іспанії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "During the vacation, we traveled to Spain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Durante las vacaciones, viajamos a España."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während des Urlaubs reisten wir nach Spanien."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas wakacji pojechaliśmy do Hiszpanii."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant les vacances, nous avons voyagé en Espagne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Durante as férias, viajamos para a Espanha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Durante le vacanze, abbiamo viaggiato in Spagna."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Under mötet pratade vi om framtiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Під час зустрічі ми обговорили майбутнє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "During the meeting, we talked about the future."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Durante la reunión, hablamos sobre el futuro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während des Treffens sprachen wir über die Zukunft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas spotkania rozmawialiśmy o przyszłości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant la réunion, nous avons parlé de l'avenir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Durante a reunião, conversamos sobre o futuro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Durante la riunione, abbiamo parlato del futuro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Under vintern är det kallt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Під час зими холодно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "During the winter, it's cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Durante el invierno, hace frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während des Winters ist es kalt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas zimy jest zimno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant l'hiver, il fait froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Durante o inverno, faz frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Durante l'inverno, fa freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Under filmen grät jag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Під час фільму я плакав."
+                    },
+                    {
+                        "language": "english",
+                        "text": "During the movie, I cried."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Durante la película, lloré."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Während des Films habe ich geweint."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podczas filmu płakałem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pendant le film, j'ai pleuré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Durante o filme, eu chorei."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Durante il film, ho pianto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "för att",
+        "translations": {
+            "ukrainian": "щоб",
+            "english": "in order to",
+            "spanish": "para",
+            "german": "um",
+            "polish": "aby",
+            "french": "pour",
+            "portuguese": "para",
+            "italian": "per"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag studerar för att lära mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я вчуся, щоб навчитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I study in order to learn."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estudio para aprender."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich lerne, um zu lernen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uczę się, aby się nauczyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'étudie pour apprendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu estudo para aprender."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Studio per imparare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi tränar för att bli starkare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми тренуємося, щоб стати сильнішими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We train in order to get stronger."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Entrenamos para hacernos más fuertes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir trainieren, um stärker zu werden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Trenujemy, aby stać się silniejszymi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous entraînons pour devenir plus forts."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Treinamos para ficarmos mais fortes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci alleniamo per diventare più forti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han sparar pengar för att köpa en bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він заощаджує гроші, щоб купити машину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He saves money in order to buy a car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ahorra dinero para comprar un coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er spart Geld, um ein Auto zu kaufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oszczędza pieniądze, aby kupić samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il économise de l'argent pour acheter une voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele economiza dinheiro para comprar um carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Risparmia denaro per comprare una macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi reser för att uppleva nya kulturer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми подорожуємо, щоб познайомитися з новими культурами."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We travel in order to experience new cultures."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Viajamos para experimentar nuevas culturas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir reisen, um neue Kulturen kennenzulernen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Podróżujemy, aby poznać nowe kultury."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous voyageons pour découvrir de nouvelles cultures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Viajamos para experimentar novas culturas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Viaggiamo per conoscere nuove culture."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "som",
+        "translations": {
+            "ukrainian": "як",
+            "english": "as",
+            "spanish": "como",
+            "german": "wie",
+            "polish": "jak",
+            "french": "comme",
+            "portuguese": "como",
+            "italian": "come"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är lika snabb som en hjort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він такий же швидкий, як олень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is as fast as a deer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es tan rápido como un ciervo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist so schnell wie ein Hirsch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest tak szybki jak jeleń."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est aussi rapide qu'un cerf."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é tão rápido quanto um cervo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È veloce come un cervo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon sjunger som en fågel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона співає, як пташка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She sings like a bird."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella canta como un pájaro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie singt wie ein Vogel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona śpiewa jak ptak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle chante comme un oiseau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela canta como um pássaro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei canta come un uccello."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är lika enkelt som att räkna till tre."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це так само просто, як рахувати до трьох."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's as easy as counting to three."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Es tan fácil como contar hasta tres."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist so einfach wie bis drei zu zählen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest tak proste jak liczenie do trzech."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est aussi simple que de compter jusqu'à trois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "É tão fácil quanto contar até três."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È facile come contare fino a tre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han arbetar som en lärare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він працює вчителем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He works as a teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él trabaja como profesor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er arbeitet als Lehrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On pracuje jako nauczyciel."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il travaille comme professeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele trabalha como professor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui lavora come insegnante."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "liksom",
+        "translations": {
+            "ukrainian": "як",
+            "english": "like",
+            "spanish": "como",
+            "german": "wie",
+            "polish": "jak",
+            "french": "comme",
+            "portuguese": "como",
+            "italian": "come"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon dansar liksom en älva."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона танцює, як фея."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She dances like a fairy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella baila como un hada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie tanzt wie eine Fee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona tańczy jak wróżka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle danse comme une fée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela dança como uma fada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei balla come una fata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han springer liksom en våghals."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він бігає, як сорвиголова."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He runs like a daredevil."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él corre como un temerario."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er läuft wie ein Draufgänger."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On biega jak szaleniec."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il court comme un casse-cou."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele corre como um temerário."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui corre come un temerario."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det smakar liksom choklad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "На смак це нагадує шоколад."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It tastes like chocolate."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sabe a chocolate."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es schmeckt wie Schokolade."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Smakuje jak czekolada."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ça a le goût du chocolat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tem gosto de chocolate."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sa di cioccolato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han ser ut liksom en filmstjärna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виглядає, як кінозірка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He looks like a movie star."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él parece una estrella de cine."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sieht aus wie ein Filmstar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wygląda jak gwiazda filmowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il ressemble à une star de cinéma."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele parece uma estrela de cinema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui sembra una star del cinema."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ju … desto",
+        "translations": {
+            "ukrainian": "чим … тим",
+            "english": "the … the",
+            "spanish": "cuanto … más",
+            "german": "je … desto",
+            "polish": "im … tym",
+            "french": "plus … plus",
+            "portuguese": "quanto … mais",
+            "italian": "più … più"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ju mer du övar, desto bättre blir du."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чим більше ти тренуєшся, тим кращим ти стаєш."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The more you practice, the better you get."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cuanto más practicas, mejor te vuelves."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Je mehr du übst, desto besser wirst du."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Im więcej ćwiczysz, tym lepszy się stajesz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Plus tu t'entraînes, plus tu deviens bon."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanto mais você pratica, melhor você fica."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Più ti alleni, meglio diventi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ju tidigare du kommer, desto bättre plats får du."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чим раніше ти прийдеш, тим краще місце ти отримаєш."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The earlier you come, the better seat you get."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cuanto más temprano llegues, mejor asiento obtendrás."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Je früher du kommst, desto besserer Platz bekommst du."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Im wcześniej przyjdziesz, tym lepsze miejsce dostaniesz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Plus tu arrives tôt, plus tu auras une bonne place."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanto mais cedo você chegar, melhor lugar você terá."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Più presto arrivi, migliore sarà il posto che otterrai."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ju mer du äter, desto mer vill du ha."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чим більше ти їси, тим більше хочеш."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The more you eat, the more you want."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cuanto más comes, más quieres."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Je mehr du isst, desto mehr willst du."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Im więcej jesz, tym więcej chcesz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Plus tu manges, plus tu veux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanto mais você come, mais você quer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Più mangi, più vuoi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ju högre du klättrar, desto vackrare är utsikten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чим вище ти піднімаєшся, тим кращий вид."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The higher you climb, the more beautiful the view."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cuanto más alto subes, más hermosa es la vista."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Je höher du kletterst, desto schöner ist die Aussicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Im wyżej się wspinasz, tym piękniejszy jest widok."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Plus tu montes haut, plus la vue est belle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanto mais alto você sobe, mais bonita é a vista."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Più sali, più bella è la vista."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fastän",
+        "translations": {
+            "ukrainian": "хоча",
+            "english": "although",
+            "spanish": "aunque",
+            "german": "obwohl",
+            "polish": "chociaż",
+            "french": "bien que",
+            "portuguese": "embora",
+            "italian": "sebbene"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fastän det regnade, gick vi ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хоча йшов дощ, ми вийшли."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Although it was raining, we went out."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Aunque estaba lloviendo, salimos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Obwohl es regnete, gingen wir raus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chociaż padało, wyszliśmy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bien qu'il pleuvait, nous sommes sortis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Embora estivesse chovendo, saímos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sebbene piovesse, siamo usciti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fastän han var trött, fortsatte han arbeta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хоча він був втомлений, він продовжував працювати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Although he was tired, he continued working."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Aunque estaba cansado, siguió trabajando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Obwohl er müde war, arbeitete er weiter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chociaż był zmęczony, kontynuował pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bien qu'il était fatigué, il a continué à travailler."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Embora estivesse cansado, ele continuou trabalhando."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sebbene fosse stanco, ha continuato a lavorare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fastän det var sent, ringde jag honom."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хоча було пізно, я зателефонував йому."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Although it was late, I called him."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Aunque era tarde, lo llamé."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Obwohl es spät war, rief ich ihn an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chociaż było późno, zadzwoniłem do niego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bien qu'il était tard, je l'ai appelé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Embora fosse tarde, liguei para ele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sebbene fosse tardi, l'ho chiamato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fastän det var kallt, gick hon utan jacka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хоча було холодно, вона пішла без куртки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Although it was cold, she went without a jacket."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Aunque hacía frío, salió sin chaqueta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Obwohl es kalt war, ging sie ohne Jacke raus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chociaż było zimno, wyszła bez kurtki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bien qu'il faisait froid, elle est sortie sans veste."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Embora estivesse frio, ela saiu sem casaco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sebbene facesse freddo, è uscita senza giacca."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "trots",
+        "translations": {
+            "ukrainian": "незважаючи на",
+            "english": "despite",
+            "spanish": "a pesar de",
+            "german": "trotz",
+            "polish": "pomimo",
+            "french": "malgré",
+            "portuguese": "apesar de",
+            "italian": "nonostante"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trots regnet gick vi på promenad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Незважаючи на дощ, ми пішли на прогулянку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Despite the rain, we went for a walk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A pesar de la lluvia, fuimos a pasear."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trotz des Regens gingen wir spazieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomimo deszczu poszliśmy na spacer."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Malgré la pluie, nous sommes allés nous promener."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Apesar da chuva, fomos dar um passeio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nonostante la pioggia, siamo andati a fare una passeggiata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trots varningarna gick han nära kanten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Незважаючи на попередження, він підійшов близько до краю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Despite the warnings, he went close to the edge."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A pesar de las advertencias, se acercó al borde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trotz der Warnungen ging er nah an den Rand."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomimo ostrzeżeń podszedł blisko krawędzi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Malgré les avertissements, il s'est approché du bord."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Apesar dos avisos, ele se aproximou da borda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nonostante gli avvertimenti, si è avvicinato al bordo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trots motgångarna gav han inte upp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Незважаючи на невдачі, він не здався."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Despite the setbacks, he didn't give up."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A pesar de los contratiempos, no se rindió."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trotz der Rückschläge gab er nicht auf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomimo niepowodzeń nie poddał się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Malgré les revers, il n'a pas abandonné."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Apesar dos contratempos, ele não desistiu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nonostante le battute d'arresto, non si è arreso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Trots sjukdomen var han på jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Незважаючи на хворобу, він був на роботі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Despite the illness, he was at work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "A pesar de la enfermedad, estuvo en el trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trotz der Krankheit war er bei der Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomimo choroby był w pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Malgré la maladie, il était au travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Apesar da doença, ele estava no trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nonostante la malattia, era al lavoro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "även om",
+        "translations": {
+            "ukrainian": "навіть якщо",
+            "english": "even if",
+            "spanish": "incluso si",
+            "german": "auch wenn",
+            "polish": "nawet jeśli",
+            "french": "même si",
+            "portuguese": "mesmo se",
+            "italian": "anche se"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Även om det är svårt, ska jag försöka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Навіть якщо це важко, я спробую."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Even if it's hard, I will try."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Incluso si es difícil, lo intentaré."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Auch wenn es schwer ist, werde ich es versuchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nawet jeśli to trudne, spróbuję."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Même si c'est difficile, je vais essayer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Mesmo se for difícil, vou tentar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Anche se è difficile, proverò."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Även om jag är trött, ska jag stanna uppe."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Навіть якщо я втомлений, я залишуся неспаним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Even if I'm tired, I will stay up."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Incluso si estoy cansado, me quedaré despierto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Auch wenn ich müde bin, bleibe ich wach."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nawet jeśli jestem zmęczony, zostanę na nogach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Même si je suis fatigué, je vais rester debout."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Mesmo se estiver cansado, vou ficar acordado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Anche se sono stanco, rimarrò sveglio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Även om det tar tid, är det värt det."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Навіть якщо це займе час, це того варте."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Even if it takes time, it's worth it."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Incluso si lleva tiempo, vale la pena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Auch wenn es Zeit braucht, lohnt es sich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nawet jeśli to zajmie czas, jest tego warte."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Même si ça prend du temps, ça vaut le coup."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Mesmo se levar tempo, vale a pena."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Anche se ci vuole tempo, ne vale la pena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Även om jag inte vinner, är jag nöjd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Навіть якщо я не виграю, я задоволений."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Even if I don't win, I am satisfied."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Incluso si no gano, estoy satisfecho."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Auch wenn ich nicht gewinne, bin ich zufrieden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nawet jeśli nie wygram, jestem zadowolony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Même si je ne gagne pas, je suis satisfait."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Mesmo se eu não ganhar, estou satisfeito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Anche se non vinco, sono soddisfatto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "antingen ... eller",
+        "translations": {
+            "ukrainian": "або ... або",
+            "english": "either ... or",
+            "spanish": "o ... o",
+            "german": "entweder ... oder",
+            "polish": "albo ... albo",
+            "french": "soit ... soit",
+            "portuguese": "ou ... ou",
+            "italian": "o ... o"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Antingen går vi på bio eller så stannar vi hemma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Або ми підемо в кіно, або залишимося вдома."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Either we go to the cinema or we stay at home."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "O vamos al cine o nos quedamos en casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entweder gehen wir ins Kino oder wir bleiben zu Hause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Albo idziemy do kina, albo zostajemy w domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Soit nous allons au cinéma, soit nous restons à la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ou vamos ao cinema ou ficamos em casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "O andiamo al cinema o restiamo a casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Antingen äter vi ute eller lagar vi mat hemma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Або ми їмо в ресторані, або готуємо вдома."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Either we eat out or we cook at home."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "O comemos fuera o cocinamos en casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entweder essen wir auswärts oder wir kochen zu Hause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Albo jemy na mieście, albo gotujemy w domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Soit nous mangeons au restaurant, soit nous cuisinons à la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ou comemos fora ou cozinhamos em casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "O mangiamo fuori o cuciniamo a casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Antingen tar vi bussen eller så går vi till fots."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Або ми їдемо автобусом, або йдемо пішки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Either we take the bus or we walk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "O tomamos el autobús o vamos a pie."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entweder nehmen wir den Bus oder wir gehen zu Fuß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Albo jedziemy autobusem, albo idziemy pieszo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Soit nous prenons le bus, soit nous marchons."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ou pegamos o ônibus ou vamos a pé."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "O prendiamo l'autobus o andiamo a piedi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Antingen vinner vi eller så förlorar vi."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Або ми виграємо, або програємо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Either we win or we lose."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "O ganamos o perdemos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entweder gewinnen wir oder wir verlieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Albo wygrywamy, albo przegrywamy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Soit nous gagnons, soit nous perdons."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ou ganhamos ou perdemos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "O vinciamo o perdiamo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "varken ... eller",
+        "translations": {
+            "ukrainian": "ні ... ні",
+            "english": "neither ... nor",
+            "spanish": "ni ... ni",
+            "german": "weder ... noch",
+            "polish": "ani ... ani",
+            "french": "ni ... ni",
+            "portuguese": "nem ... nem",
+            "italian": "né ... né"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varken jag eller min bror gillar kaffe."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ні я, ні мій брат не любимо каву."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Neither I nor my brother likes coffee."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ni a mí ni a mi hermano nos gusta el café."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weder ich noch mein Bruder mögen Kaffee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ani ja, ani mój brat nie lubimy kawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ni moi ni mon frère n'aimons le café."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nem eu nem meu irmão gostamos de café."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Né io né mio fratello amiamo il caffè."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varken katten eller hunden var hemma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ні кіт, ні собака не були вдома."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Neither the cat nor the dog was at home."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ni el gato ni el perro estaban en casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weder die Katze noch der Hund waren zu Hause."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ani kot, ani pies nie byli w domu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ni le chat ni le chien n'étaient à la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nem o gato nem o cachorro estavam em casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Né il gatto né il cane erano a casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varken hon eller jag visste svaret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ні вона, ні я не знали відповіді."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Neither she nor I knew the answer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ni ella ni yo sabíamos la respuesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weder sie noch ich kannten die Antwort."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ani ona, ani ja nie znaliśmy odpowiedzi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ni elle ni moi ne connaissions la réponse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nem ela nem eu sabíamos a resposta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Né lei né io sapevamo la risposta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varken solen eller månen syntes."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ні сонце, ні місяць не були видно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Neither the sun nor the moon was visible."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ni el sol ni la luna se veían."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Weder die Sonne noch der Mond waren zu sehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ani słońce, ani księżyc nie były widoczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ni le soleil ni la lune n'étaient visibles."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nem o sol nem a lua estavam visíveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Né il sole né la luna erano visibili."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "både ... och",
+        "translations": {
+            "ukrainian": "і ... і",
+            "english": "both ... and",
+            "spanish": "tanto ... como",
+            "german": "sowohl ... als auch",
+            "polish": "zarówno ... jak i",
+            "french": "à la fois ... et",
+            "portuguese": "tanto ... quanto",
+            "italian": "sia ... che"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Både jag och min syster älskar att resa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "І я, і моя сестра любимо подорожувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Both I and my sister love to travel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tanto yo como mi hermana amamos viajar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sowohl ich als auch meine Schwester lieben es zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarówno ja, jak i moja siostra uwielbiamy podróżować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À la fois moi et ma sœur aimons voyager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tanto eu quanto minha irmã adoramos viajar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sia io che mia sorella amiamo viaggiare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Både katten och hunden sov i soffan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "І кіт, і собака спали на дивані."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Both the cat and the dog were sleeping on the couch."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tanto el gato como el perro dormían en el sofá."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sowohl die Katze als auch der Hund schliefen auf dem Sofa."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarówno kot, jak i pies spali na kanapie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À la fois le chat et le chien dormaient sur le canapé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tanto o gato quanto o cachorro estavam dormindo no sofá."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sia il gatto che il cane dormivano sul divano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Både solen och månen syntes på himlen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "І сонце, і місяць були видно на небі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Both the sun and the moon were visible in the sky."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tanto el sol como la luna se veían en el cielo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sowohl die Sonne als auch der Mond waren am Himmel zu sehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarówno słońce, jak i księżyc były widoczne na niebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À la fois le soleil et la lune étaient visibles dans le ciel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tanto o sol quanto a lua estavam visíveis no céu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sia il sole che la luna erano visibili nel cielo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Både läraren och eleverna var nöjda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "І вчитель, і учні були задоволені."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Both the teacher and the students were satisfied."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tanto el profesor como los estudiantes estaban satisfechos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sowohl der Lehrer als auch die Schüler waren zufrieden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarówno nauczyciel, jak i uczniowie byli zadowoleni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À la fois le professeur et les élèves étaient satisfaits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tanto o professor quanto os alunos estavam satisfeitos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sia l'insegnante che gli studenti erano soddisfatti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dels ... dels",
+        "translations": {
+            "ukrainian": "частково ... частково",
+            "english": "partly ... partly",
+            "spanish": "en parte ... en parte",
+            "german": "teilweise ... teilweise",
+            "polish": "częściowo ... częściowo",
+            "french": "en partie ... en partie",
+            "portuguese": "em parte ... em parte",
+            "italian": "in parte ... in parte"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dels var jag trött, dels hade jag inte tid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Частково я був втомлений, частково у мене не було часу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Partly I was tired, partly I didn't have time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "En parte estaba cansado, en parte no tenía tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Teilweise war ich müde, teilweise hatte ich keine Zeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Częściowo byłem zmęczony, częściowo nie miałem czasu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "En partie j'étais fatigué, en partie je n'avais pas le temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Em parte eu estava cansado, em parte não tinha tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "In parte ero stanco, in parte non avevo tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dels var det dyrt, dels var det inte bra kvalitet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Частково це було дорого, частково це було не дуже якісно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Partly it was expensive, partly it wasn't good quality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "En parte era caro, en parte no era de buena calidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Teilweise war es teuer, teilweise war es nicht guter Qualität."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Częściowo było drogie, częściowo nie było dobrej jakości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "En partie c'était cher, en partie ce n'était pas de bonne qualité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Em parte era caro, em parte não era de boa qualidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "In parte era costoso, in parte non era di buona qualità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dels var det varmt, dels var det fuktigt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Частково було спекотно, частково було волого."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Partly it was hot, partly it was humid."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "En parte hacía calor, en parte estaba húmedo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Teilweise war es heiß, teilweise war es feucht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Częściowo było gorąco, częściowo było wilgotno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "En partie il faisait chaud, en partie il faisait humide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Em parte estava quente, em parte estava úmido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "In parte faceva caldo, in parte era umido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dels var jag glad, dels var jag lite orolig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Частково я був радий, частково я був трохи стурбований."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Partly I was happy, partly I was a little worried."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "En parte estaba feliz, en parte estaba un poco preocupado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Teilweise war ich glücklich, teilweise war ich ein bisschen besorgt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Częściowo byłem szczęśliwy, częściowo byłem trochę zmartwiony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "En partie j'étais heureux, en partie j'étais un peu inquiet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Em parte eu estava feliz, em parte eu estava um pouco preocupado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "In parte ero felice, in parte ero un po' preoccupato."
+                    }
+                ]
+            }
+        ]
+    }
+]

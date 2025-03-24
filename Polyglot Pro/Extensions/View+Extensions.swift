@@ -221,7 +221,6 @@ extension View {
                 }.allowsHitTesting(false)
                     .frame(width: 94)
             )
-        
             .padding()
             .background(
                 LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .leading, endPoint: .trailing)

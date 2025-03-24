@@ -1,0 +1,1052 @@
+[
+    {
+        "expression": "kunna",
+        "translations": {
+            "ukrainian": "могти",
+            "english": "can",
+            "spanish": "poder",
+            "german": "können",
+            "polish": "móc",
+            "french": "pouvoir",
+            "portuguese": "poder",
+            "italian": "potere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kan tala svenska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я можу говорити шведською."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I can speak Swedish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Puedo hablar sueco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich kann Schwedisch sprechen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mogę mówić po szwedzku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je peux parler suédois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu posso falar sueco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Posso parlare svedese."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kunde tala svenska när jag var barn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я міг говорити шведською, коли був дитиною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I could speak Swedish when I was a child."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Podía hablar sueco cuando era niño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich konnte Schwedisch sprechen, als ich ein Kind war."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mogłem mówić po szwedzku, gdy byłem dzieckiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je pouvais parler suédois quand j'étais enfant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu podia falar sueco quando era criança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Potevo parlare svedese quando ero bambino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har kunnat tala svenska länge."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я давно міг говорити шведською."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have been able to speak Swedish for a long time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "He podido hablar sueco durante mucho tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich konnte schon lange Schwedisch sprechen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Od dawna mogłem mówić po szwedzku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai pu parler suédois depuis longtemps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho podido falar sueco há muito tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho potuto parlare svedese per molto tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill kunna tala svenska flytande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу могти говорити шведською вільно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to be able to speak Swedish fluently."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero poder hablar sueco con fluidez."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte fließend Schwedisch sprechen können."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę móc płynnie mówić po szwedzku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux pouvoir parler suédois couramment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero poder falar sueco fluentemente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio poter parlare svedese fluentemente."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vilja",
+        "translations": {
+            "ukrainian": "хотіти",
+            "english": "want",
+            "spanish": "querer",
+            "german": "wollen",
+            "polish": "chcieć",
+            "french": "vouloir",
+            "portuguese": "querer",
+            "italian": "volere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill resa till Sverige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу подорожувати до Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to travel to Sweden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero viajar a Suecia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich will nach Schweden reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę podróżować do Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux voyager en Suède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero viajar para a Suécia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio viaggiare in Svezia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ville resa till Sverige förra året."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хотів подорожувати до Швеції минулого року."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I wanted to travel to Sweden last year."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quería viajar a Suecia el año pasado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wollte letztes Jahr nach Schweden reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chciałem podróżować do Szwecji w zeszłym roku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je voulais voyager en Suède l'année dernière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu queria viajar para a Suécia no ano passado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Volevo viaggiare in Svezia l'anno scorso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har velat resa till Sverige länge."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я давно хотів подорожувати до Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have wanted to travel to Sweden for a long time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "He querido viajar a Suecia durante mucho tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wollte schon lange nach Schweden reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Od dawna chciałem podróżować do Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je voulais voyager en Suède depuis longtemps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho querido viajar para a Suécia há muito tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Volevo viaggiare in Svezia da molto tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag försöker vilja resa mer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я намагаюся хотіти подорожувати більше."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am trying to want to travel more."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy tratando de querer viajar más."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich versuche, mehr reisen zu wollen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Próbuję chcieć więcej podróżować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'essaie de vouloir voyager plus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou tentando querer viajar mais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto cercando di voler viaggiare di più."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "måste",
+        "translations": {
+            "ukrainian": "повинен",
+            "english": "must",
+            "spanish": "deber",
+            "german": "müssen",
+            "polish": "musieć",
+            "french": "devoir",
+            "portuguese": "dever",
+            "italian": "dovere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag måste arbeta idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я повинен працювати сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I must work today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Debo trabajar hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich muss heute arbeiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Muszę pracować dzisiaj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je dois travailler aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu devo trabalhar hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Devo lavorare oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag måste arbeta igår också."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я повинен був працювати вчора також."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I had to work yesterday too."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tuve que trabajar ayer también."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich musste gestern auch arbeiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musiałem pracować wczoraj też."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai dû travailler hier aussi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tive que trabalhar ontem também."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho dovuto lavorare anche ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har måst arbeta hela veckan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я повинен був працювати весь тиждень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have had to work all week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "He tenido que trabajar toda la semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich musste die ganze Woche arbeiten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musiałem pracować cały tydzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai dû travailler toute la semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tive que trabalhar a semana toda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho dovuto lavorare tutta la settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag försöker inte måsta arbeta så mycket."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я намагаюся не бути змушеним працювати так багато."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am trying not to have to work so much."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy tratando de no tener que trabajar tanto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich versuche, nicht so viel arbeiten zu müssen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Próbuję nie musieć pracować tak dużo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'essaie de ne pas avoir à travailler autant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou tentando não ter que trabalhar tanto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto cercando di non dover lavorare così tanto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "få",
+        "translations": {
+            "ukrainian": "мати дозвіл",
+            "english": "may",
+            "spanish": "poder",
+            "german": "dürfen",
+            "polish": "móc",
+            "french": "pouvoir",
+            "portuguese": "poder",
+            "italian": "potere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag får gå ut nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я маю дозвіл вийти зараз."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I may go out now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Puedo salir ahora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich darf jetzt rausgehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mogę teraz wyjść."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je peux sortir maintenant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu posso sair agora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Posso uscire adesso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag fick gå ut igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я мав дозвіл вийти вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I was allowed to go out yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Pude salir ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich durfte gestern rausgehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mogłem wyjść wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai pu sortir hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu pude sair ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho potuto uscire ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har fått gå ut varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я мав дозвіл виходити щодня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have been allowed to go out every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "He podido salir todos los días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich durfte jeden Tag rausgehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mogłem wychodzić codziennie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai pu sortir tous les jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho podido sair todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho potuto uscire ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill få gå ut när jag vill."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу мати дозвіл виходити, коли хочу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to be allowed to go out when I want."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero poder salir cuando quiera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte rausgehen dürfen, wann ich will."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę móc wychodzić, kiedy chcę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux pouvoir sortir quand je veux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu quero poder sair quando eu quiser."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio poter uscire quando voglio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ska",
+        "translations": {
+            "ukrainian": "мати намір",
+            "english": "shall",
+            "spanish": "deber",
+            "german": "sollen",
+            "polish": "mieć zamiar",
+            "french": "devoir",
+            "portuguese": "dever",
+            "italian": "dovere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska resa imorgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я маю намір подорожувати завтра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I shall travel tomorrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Debo viajar mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich soll morgen reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam zamiar podróżować jutro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je dois voyager demain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu devo viajar amanhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Devo viaggiare domani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag skulle resa förra veckan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я мав намір подорожувати минулого тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I was supposed to travel last week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Debía viajar la semana pasada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich sollte letzte Woche reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miałem zamiar podróżować w zeszłym tygodniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je devais voyager la semaine dernière."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu devia viajar na semana passada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dovevo viaggiare la scorsa settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har skolat resa flera gånger."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я мав намір подорожувати багато разів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have intended to travel several times."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "He tenido la intención de viajar varias veces."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe mehrmals vor, zu reisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miałem zamiar podróżować wiele razy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai eu l'intention de voyager plusieurs fois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tive a intenção de viajar várias vezes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho avuto l'intenzione di viaggiare più volte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag försöker skola resa oftare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я намагаюся мати намір подорожувати частіше."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am trying to intend to travel more often."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy tratando de tener la intención de viajar más a menudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich versuche, öfter reisen zu wollen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Próbuję mieć zamiar podróżować częściej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'essaie d'avoir l'intention de voyager plus souvent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou tentando ter a intenção de viajar mais vezes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto cercando di avere l'intenzione di viaggiare più spesso."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "böra",
+        "translations": {
+            "ukrainian": "слід",
+            "english": "should",
+            "spanish": "deber",
+            "german": "sollen",
+            "polish": "powinien",
+            "french": "devoir",
+            "portuguese": "dever",
+            "italian": "dovere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du bör vila mer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тобі слід більше відпочивати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You should rest more."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Deberías descansar más."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du solltest dich mehr ausruhen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powinieneś więcej odpoczywać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu devrais te reposer plus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você deveria descansar mais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dovresti riposare di più."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du borde vila igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тобі слід було відпочити вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You should have rested yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Deberías haber descansado ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du hättest dich gestern ausruhen sollen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powinieneś był odpocząć wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu aurais dû te reposer hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você deveria ter descansado ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Avresti dovuto riposare ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du har bort vila mer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тобі слід було більше відпочивати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You should have rested more."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Deberías haber descansado más."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du hättest dich mehr ausruhen sollen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powinieneś był więcej odpoczywać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu aurais dû te reposer plus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você deveria ter descansado mais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Avresti dovuto riposare di più."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag försöker böra vila mer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я намагаюся мати звичку відпочивати більше."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am trying to get into the habit of resting more."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy tratando de acostumbrarme a descansar más."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich versuche, mich daran zu gewöhnen, mich mehr auszuruhen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Próbuję przyzwyczaić się do większego odpoczynku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'essaie de prendre l'habitude de me reposer plus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou tentando me acostumar a descansar mais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto cercando di abituarmi a riposare di più."
+                    }
+                ]
+            }
+        ]
+    }
+]

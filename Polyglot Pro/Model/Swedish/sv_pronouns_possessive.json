@@ -1,0 +1,1927 @@
+[
+    {
+        "expression": "min",
+        "translations": {
+            "ukrainian": "мій",
+            "english": "my",
+            "spanish": "mi",
+            "german": "mein",
+            "polish": "mój",
+            "french": "mon",
+            "portuguese": "meu",
+            "italian": "mio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det här är min bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це моя книга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This is my book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este es mi libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das ist mein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest moja książka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est mon livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este é o meu livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questo è il mio libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Min bil är ny."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Моя машина нова."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My car is new."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mi coche es nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mein Auto ist neu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mój samochód jest nowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ma voiture est neuve."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meu carro é novo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La mia macchina è nuova."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar min familj."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю свою сім'ю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love my family."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Amo a mi familia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe meine Familie."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kocham moją rodzinę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime ma famille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu amo minha família."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Amo la mia famiglia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Min vän bor i Sverige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мій друг живе у Швеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My friend lives in Sweden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mi amigo vive en Suecia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mein Freund wohnt in Schweden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mój przyjaciel mieszka w Szwecji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mon ami vit en Suède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meu amigo mora na Suécia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mio amico vive in Svezia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "din",
+        "translations": {
+            "ukrainian": "твій",
+            "english": "your",
+            "spanish": "tu",
+            "german": "dein",
+            "polish": "twój",
+            "french": "ton",
+            "portuguese": "seu",
+            "italian": "tuo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Är det din väska?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це твоя сумка?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Is this your bag?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Es esta tu bolsa?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ist das deine Tasche?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy to jest twoja torba?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Est-ce ton sac ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta é a sua bolsa?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa è la tua borsa?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Din hund är söt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Твій пес милий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Your dog is cute."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tu perro es lindo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dein Hund ist süß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Twój pies jest słodki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ton chien est mignon."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu cachorro é fofo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tuo cane è carino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar din klänning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається твоя сукня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like your dress."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta tu vestido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag dein Kleid."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię twoją sukienkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime ta robe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto do seu vestido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace il tuo vestito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Din lärare är snäll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Твій вчитель добрий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Your teacher is kind."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tu profesor es amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Dein Lehrer ist nett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Twój nauczyciel jest miły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ton professeur est gentil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu professor é gentil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tuo insegnante è gentile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hans",
+        "translations": {
+            "ukrainian": "його",
+            "english": "his",
+            "spanish": "su",
+            "german": "sein",
+            "polish": "jego",
+            "french": "son",
+            "portuguese": "seu",
+            "italian": "suo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är hans hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це його будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This is his house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta es su casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das ist sein Haus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest jego dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est sa maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta é a sua casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa è la sua casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans bil är röd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його машина червона."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His car is red."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su coche es rojo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein Auto ist rot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego samochód jest czerwony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa voiture est rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu carro é vermelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua macchina è rossa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag träffade hans vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я зустрів його друга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I met his friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Conocí a su amigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich traf seinen Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poznałem jego przyjaciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai rencontré son ami."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu conheci seu amigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho incontrato il suo amico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans bok är intressant."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його книга цікава."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His book is interesting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su libro es interesante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein Buch ist interessant."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego książka jest interesująca."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son livre est intéressant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu livro é interessante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo libro è interessante."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hennes",
+        "translations": {
+            "ukrainian": "її",
+            "english": "her",
+            "spanish": "su",
+            "german": "ihr",
+            "polish": "jej",
+            "french": "son",
+            "portuguese": "sua",
+            "italian": "suo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är hennes katt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це її кіт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This is her cat."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este es su gato."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das ist ihre Katze."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest jej kot."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est son chat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este é o seu gato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questo è il suo gatto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hennes klänning är vacker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Її сукня гарна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her dress is beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su vestido es hermoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Kleid ist schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jej sukienka jest piękna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa robe est belle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu vestido é lindo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo vestito è bellissimo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar hennes stil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається її стиль."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like her style."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta su estilo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag ihren Stil."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jej styl."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime son style."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto do estilo dela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace il suo stile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hennes hus är stort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Її будинок великий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her house is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su casa es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Haus ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jej dom jest duży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa maison est grande."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sua casa é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua casa è grande."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dess",
+        "translations": {
+            "ukrainian": "його/її",
+            "english": "its",
+            "spanish": "su",
+            "german": "sein/ihr",
+            "polish": "jego/jej",
+            "french": "son/sa",
+            "portuguese": "seu/sua",
+            "italian": "suo/sua"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dess färg är blå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його/її колір синій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Its color is blue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su color es azul."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Seine/Ihre Farbe ist blau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego/Jej kolor jest niebieski."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa couleur est bleue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sua cor é azul."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo colore è blu."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar dess smak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається його/її смак."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like its taste."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta su sabor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag seinen/ihren Geschmack."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jego/jej smak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime son goût."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto do seu sabor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace il suo sapore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dess storlek är perfekt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його/її розмір ідеальний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Its size is perfect."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su tamaño es perfecto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Seine/Ihre Größe ist perfekt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego/Jej rozmiar jest idealny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa taille est parfaite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu tamanho é perfeito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sua dimensione è perfetta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Dess namn är okänt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його/її назва невідома."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Its name is unknown."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su nombre es desconocido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sein/Ihr Name ist unbekannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego/Jej nazwa jest nieznana."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son nom est inconnu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu nome é desconhecido."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo nome è sconosciuto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vår",
+        "translations": {
+            "ukrainian": "наш",
+            "english": "our",
+            "spanish": "nuestro",
+            "german": "unser",
+            "polish": "nasz",
+            "french": "notre",
+            "portuguese": "nosso",
+            "italian": "nostro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är vår bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це наша машина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This is our car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Este es nuestro coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das ist unser Auto."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest nasz samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est notre voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este é o nosso carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa è la nostra macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vår lärare är snäll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Наш вчитель добрий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Our teacher is kind."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nuestro profesor es amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Unser Lehrer ist nett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nasz nauczyciel jest miły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Notre professeur est gentil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nosso professor é gentil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il nostro insegnante è gentile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi älskar vår stad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми любимо наше місто."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We love our city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Amamos nuestra ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lieben unsere Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kochamy nasze miasto."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous aimons notre ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós amamos nossa cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Amiamo la nostra città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vår hund är stor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Наш пес великий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Our dog is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nuestro perro es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Unser Hund ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nasz pies jest duży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Notre chien est grand."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nosso cachorro é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il nostro cane è grande."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "er",
+        "translations": {
+            "ukrainian": "ваш",
+            "english": "your",
+            "spanish": "vuestro",
+            "german": "euer",
+            "polish": "wasz",
+            "french": "votre",
+            "portuguese": "vosso",
+            "italian": "vostro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Är det er hund?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це ваш пес?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Is this your dog?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Es este vuestro perro?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ist das euer Hund?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy to jest wasz pies?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Est-ce votre chien ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Este é o vosso cachorro?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È questo il vostro cane?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Er lägenhet är stor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ваша квартира велика."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Your apartment is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vuestro apartamento es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eure Wohnung ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wasze mieszkanie jest duże."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Votre appartement est grand."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vosso apartamento é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vostro appartamento è grande."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar er bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається ваша машина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like your car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta vuestro coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag euer Auto."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię wasz samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime votre voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto do vosso carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace la vostra macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Er trädgård är vacker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ваш сад гарний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Your garden is beautiful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vuestro jardín es hermoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Euer Garten ist schön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wasz ogród jest piękny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Votre jardin est beau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vosso jardim é lindo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vostro giardino è bellissimo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "deras",
+        "translations": {
+            "ukrainian": "їхній",
+            "english": "their",
+            "spanish": "su",
+            "german": "ihr",
+            "polish": "ich",
+            "french": "leur",
+            "portuguese": "seu/sua",
+            "italian": "loro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är deras hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це їхній будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "This is their house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Esta es su casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das ist ihr Haus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To jest ich dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est leur maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Esta é a sua casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Questa è la loro casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Deras barn är snälla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їхні діти добрі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Their children are kind."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sus hijos son amables."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihre Kinder sind nett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ich dzieci są miłe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Leurs enfants sont gentils."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seus filhos são gentis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I loro figli sono gentili."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar deras bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їхня машина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like their car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta su coche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag ihr Auto."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię ich samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime leur voiture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto do seu carro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace la loro macchina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Deras trädgård är stor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їхній сад великий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Their garden is big."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su jardín es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Garten ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ich ogród jest duży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Leur jardin est grand."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Seu jardim é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il loro giardino è grande."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sin",
+        "translations": {
+            "ukrainian": "свій",
+            "english": "one's own",
+            "spanish": "su",
+            "german": "sein/ihr",
+            "polish": "swój",
+            "french": "son/sa",
+            "portuguese": "seu/sua",
+            "italian": "proprio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han läser sin bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він читає свою книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is reading his own book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está leyendo su libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er liest sein eigenes Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On czyta swoją książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il lit son propre livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está lendo seu próprio livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta leggendo il suo libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon tar sin väska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона бере свою сумку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is taking her own bag."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está tomando su bolso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie nimmt ihre eigene Tasche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona bierze swoją torbę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle prend son propre sac."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está pegando sua própria bolsa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta prendendo la sua borsa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han älskar sin hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він любить свого пса."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He loves his own dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él ama a su perro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er liebt seinen eigenen Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On kocha swojego psa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il aime son propre chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ama seu próprio cachorro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ama il suo cane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skriver sin läxa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пише своє домашнє завдання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is writing her own homework."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está escribiendo su tarea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreibt ihre eigenen Hausaufgaben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pisze swoją pracę domową."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle écrit ses propres devoirs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está escrevendo sua própria lição de casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta scrivendo i suoi compiti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sitt",
+        "translations": {
+            "ukrainian": "свій",
+            "english": "one's own",
+            "spanish": "su",
+            "german": "sein/ihr",
+            "polish": "swój",
+            "french": "son/sa",
+            "portuguese": "seu/sua",
+            "italian": "proprio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han äter sitt äpple."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він їсть своє яблуко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is eating his own apple."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está comiendo su manzana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er isst seinen eigenen Apfel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On je swoje jabłko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il mange sa propre pomme."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está comendo sua própria maçã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta mangiando la sua mela."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon läser sitt brev."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона читає свого листа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is reading her own letter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está leyendo su carta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie liest ihren eigenen Brief."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona czyta swój list."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle lit sa propre lettre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está lendo sua própria carta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta leggendo la sua lettera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnet leker med sitt leksak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дитина грається зі своєю іграшкою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The child is playing with their own toy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El niño está jugando con su juguete."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kind spielt mit seinem eigenen Spielzeug."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziecko bawi się swoją zabawką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'enfant joue avec son propre jouet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A criança está brincando com seu próprio brinquedo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il bambino sta giocando con il suo giocattolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden skakar sitt huvud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака трясе своєю головою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is shaking its own head."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro está sacudiendo su cabeza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund schüttelt seinen eigenen Kopf."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies potrząsa swoją głową."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien secoue sa propre tête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro está balançando a própria cabeça."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane sta scuotendo la sua testa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sina",
+        "translations": {
+            "ukrainian": "свої",
+            "english": "one's own",
+            "spanish": "sus",
+            "german": "seine/ihre",
+            "polish": "swoje",
+            "french": "ses",
+            "portuguese": "seus/suas",
+            "italian": "propri"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han tvättar sina händer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він миє свої руки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is washing his own hands."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él está lavando sus manos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wäscht seine eigenen Hände."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On myje swoje ręce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il lave ses propres mains."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele está lavando suas próprias mãos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta lavando le sue mani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon packar sina saker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пакує свої речі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is packing her own things."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está empacando sus cosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie packt ihre eigenen Sachen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pakuje swoje rzeczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle emballe ses propres affaires."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está arrumando suas próprias coisas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sta preparando le sue cose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De älskar sina barn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони люблять своїх дітей."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They love their own children."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos aman a sus hijos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lieben ihre eigenen Kinder."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni kochają swoje dzieci."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils aiment leurs propres enfants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles amam seus próprios filhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Amano i loro figli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen leker med sina leksaker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти граються зі своїми іграшками."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are playing with their own toys."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños están jugando con sus juguetes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder spielen mit ihren eigenen Spielzeugen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci bawią się swoimi zabawkami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants jouent avec leurs propres jouets."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estão brincando com seus próprios brinquedos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini stanno giocando con i loro giocattoli."
+                    }
+                ]
+            }
+        ]
+    }
+]

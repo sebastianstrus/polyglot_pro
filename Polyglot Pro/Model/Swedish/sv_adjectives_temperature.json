@@ -1,0 +1,1577 @@
+[
+    {
+        "expression": "varm",
+        "translations": {
+            "ukrainian": "гарячий",
+            "english": "hot",
+            "spanish": "caliente",
+            "german": "heiß",
+            "polish": "gorący",
+            "french": "chaud",
+            "portuguese": "quente",
+            "italian": "caldo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är varmt ute idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні на вулиці гаряче."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's hot outside today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace calor afuera hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist heute heiß draußen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zewnątrz jest dziś gorąco."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait chaud dehors aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está quente lá fora hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fuori fa caldo oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag dricker varmt te."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я п'ю гарячий чай."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I drink hot tea."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Bebo té caliente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich trinke heißen Tee."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piję gorącą herbatę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je bois du thé chaud."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu bebo chá quente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Bevo tè caldo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Solen gör dagen varm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сонце робить день гарячим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sun makes the day hot."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El sol hace que el día sea caliente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Sonne macht den Tag heiß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słońce sprawia, że dzień jest gorący."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le soleil rend la journée chaude."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O sol faz o dia ficar quente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sole rende la giornata calda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varm choklad är god på vintern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гарячий шоколад смачний взимку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hot chocolate is good in winter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El chocolate caliente es bueno en invierno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Heiße Schokolade ist im Winter gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gorąca czekolada jest dobra zimą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chocolat chaud est bon en hiver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Chocolate quente é bom no inverno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cioccolata calda è buona in inverno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "het",
+        "translations": {
+            "ukrainian": "спекотний",
+            "english": "scorching",
+            "spanish": "sofocante",
+            "german": "glühend",
+            "polish": "upalny",
+            "french": "brûlant",
+            "portuguese": "escaldante",
+            "italian": "rovente"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är hetare idag än igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні спекотніше, ніж учора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's hotter today than yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace más calor hoy que ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist heute heißer als gestern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziś jest goręcej niż wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait plus chaud aujourd'hui qu'hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está mais quente hoje do que ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa più caldo oggi rispetto a ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Solen är het mitt på dagen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сонце спекотне в полудень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sun is scorching at noon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El sol es sofocante al mediodía."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Sonne ist mittags glühend heiß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słońce jest upalne w południe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le soleil est brûlant à midi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O sol é escaldante ao meio-dia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sole è rovente a mezzogiorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Het luft strömmar in genom fönstret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Спекотне повітря надходить через вікно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Scorching air flows in through the window."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire sofocante entra por la ventana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glühend heiße Luft strömt durch das Fenster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Upał wpływa przez okno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air brûlant entre par la fenêtre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar escaldante entra pela janela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria rovente entra dalla finestra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Het sand brände mina fötter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гарячий пісок обпік мої ноги."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The scorching sand burned my feet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La arena sofocante quemó mis pies."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der glühend heiße Sand verbrannte meine Füße."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gorący piasek poparzył moje stopy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le sable brûlant a brûlé mes pieds."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A areia escaldante queimou meus pés."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La sabbia rovente mi ha bruciato i piedi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kall",
+        "translations": {
+            "ukrainian": "холодний",
+            "english": "cold",
+            "spanish": "frío",
+            "german": "kalt",
+            "polish": "zimny",
+            "french": "froid",
+            "portuguese": "frio",
+            "italian": "freddo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är kallt ute idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні на вулиці холодно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's cold outside today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace frío afuera hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist heute kalt draußen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zewnątrz jest dziś zimno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait froid dehors aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está frio lá fora hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fuori fa freddo oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag dricker kallt vatten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я п'ю холодну воду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I drink cold water."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Bebo agua fría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich trinke kaltes Wasser."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piję zimną wodę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je bois de l'eau froide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu bebo água fria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Bevo acqua fredda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vinden är kall i december."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вітер холодний у грудні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The wind is cold in December."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El viento es frío en diciembre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Wind ist im Dezember kalt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wiatr jest zimny w grudniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le vent est froid en décembre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vento é frio em dezembro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il vento è freddo a dicembre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kallt väder gör mig trött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Холодна погода мене втомлює."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cold weather makes me tired."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima frío me cansa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kaltes Wetter macht mich müde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zimna pogoda mnie męczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps froid me fatigue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo frio me cansa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il freddo mi stanca."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sval",
+        "translations": {
+            "ukrainian": "прохолодний",
+            "english": "cool",
+            "spanish": "fresco",
+            "german": "kühl",
+            "polish": "chłodny",
+            "french": "frais",
+            "portuguese": "fresco",
+            "italian": "fresco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är svalt i skuggan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У тіні прохолодно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's cool in the shade."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hace fresco en la sombra."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist kühl im Schatten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W cieniu jest chłodno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait frais à l'ombre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está fresco na sombra."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa fresco all'ombra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "En sval bris blåser från havet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Прохолодний вітерець дме з моря."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A cool breeze blows from the sea."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Una brisa fresca sopla desde el mar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine kühle Brise weht vom Meer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chłodna bryza wieje od morza."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Une brise fraîche souffle de la mer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Uma brisa fresca sopra do mar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Una brezza fresca soffia dal mare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar svala sommardagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобаються прохолодні літні дні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like cool summer days."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gustan los días frescos de verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag kühle Sommertage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię chłodne letnie dni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime les journées fraîches d'été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto de dias frescos de verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piacciono le giornate fresche d'estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sval luft är skön efter en het dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Прохолодне повітря приємне після спекотного дня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cool air is nice after a hot day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire fresco es agradable después de un día caluroso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kühle Luft ist angenehm nach einem heißen Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chłodne powietrze jest przyjemne po upalnym dniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air frais est agréable après une journée chaude."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar fresco é agradável depois de um dia quente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria fresca è piacevole dopo una giornata calda."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ljummen",
+        "translations": {
+            "ukrainian": "теплуватий",
+            "english": "lukewarm",
+            "spanish": "tibio",
+            "german": "lauwarm",
+            "polish": "letni",
+            "french": "tiède",
+            "portuguese": "morno",
+            "italian": "tiepido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vattnet är ljummet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вода теплувата."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The water is lukewarm."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua está tibia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wasser ist lauwarm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Woda jest letnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau est tiède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A água está morna."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'acqua è tiepida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag föredrar ljummen mjölk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я віддаю перевагу теплуватому молоку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I prefer lukewarm milk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Prefiero la leche tibia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bevorzuge lauwarme Milch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wolę letnie mleko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je préfère le lait tiède."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu prefiro leite morno."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Preferisco il latte tiepido."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ljummet te är inte gott."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Теплуватий чай не смачний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Lukewarm tea is not good."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El té tibio no es bueno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lauwarmer Tee ist nicht gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Letnia herbata nie jest dobra."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le thé tiède n'est pas bon."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Chá morno não é bom."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tè tiepido non è buono."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ljummen luft strömmar in genom fönstret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Теплувате повітря надходить через вікно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Lukewarm air flows in through the window."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire tibio entra por la ventana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lauwarme Luft strömt durch das Fenster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Letnie powietrze wpływa przez okno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air tiède entre par la fenêtre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar morno entra pela janela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria tiepida entra dalla finestra."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "iskall",
+        "translations": {
+            "ukrainian": "льодяний",
+            "english": "ice-cold",
+            "spanish": "helado",
+            "german": "eiskalt",
+            "polish": "lodowaty",
+            "french": "glacial",
+            "portuguese": "gelado",
+            "italian": "gelido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vattnet i sjön är iskallt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вода в озері льодяна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The water in the lake is ice-cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El agua del lago está helada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wasser im See ist eiskalt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Woda w jeziorze jest lodowata."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'eau du lac est glaciale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A água do lago está gelada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'acqua del lago è gelida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag dricker iskallt vatten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я п'ю льодяну воду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I drink ice-cold water."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Bebo agua helada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich trinke eiskaltes Wasser."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piję lodowatą wodę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je bois de l'eau glaciale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu bebo água gelada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Bevo acqua gelida."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Iskall vind blåser från norr."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Льодяний вітер дме з півночі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "An ice-cold wind blows from the north."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Un viento helado sopla desde el norte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ein eiskalter Wind weht aus dem Norden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lodowaty wiatr wieje z północy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un vent glacial souffle du nord."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um vento gelado sopra do norte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Un vento gelido soffia da nord."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Iskallt väder gör mig frusen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Льодяна погода мене морозить."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Ice-cold weather makes me cold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima helado me hace sentir frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eiskaltes Wetter macht mich frieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lodowata pogoda sprawia, że jest mi zimno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps glacial me fait froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo gelado me deixa com frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo gelido mi fa sentire freddo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kvav",
+        "translations": {
+            "ukrainian": "душний",
+            "english": "stuffy",
+            "spanish": "sofocante",
+            "german": "schwül",
+            "polish": "duszny",
+            "french": "étouffant",
+            "portuguese": "abafado",
+            "italian": "afoso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är kvavt i rummet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У кімнаті душно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's stuffy in the room."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Está sofocante en la habitación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist schwül im Zimmer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "W pokoju jest duszno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il fait étouffant dans la pièce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está abafado no quarto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Fa afoso nella stanza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kvav luft gör det svårt att andas."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Душне повітря ускладнює дихання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stuffy air makes it hard to breathe."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire sofocante dificulta la respiración."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schwüle Luft macht das Atmen schwer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Duszne powietrze utrudnia oddychanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air étouffant rend la respiration difficile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar abafado dificulta a respiração."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria afosa rende difficile respirare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kvav väder är vanligt på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Душна погода часто буває влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stuffy weather is common in summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima sofocante es común en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schwüles Wetter ist im Sommer häufig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Duszna pogoda jest częsta latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps étouffant est courant en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo abafado é comum no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo afoso è comune in estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag öppnade fönstret för att släppa ut den kvava luften."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я відкрив вікно, щоб випустити душне повітря."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I opened the window to let out the stuffy air."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Abrí la ventana para dejar salir el aire sofocante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich öffnete das Fenster, um die schwüle Luft hinauszulassen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Otworzyłem okno, aby wypuścić duszne powietrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai ouvert la fenêtre pour laisser sortir l'air étouffant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu abri a janela para deixar sair o ar abafado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho aperto la finestra per far uscire l'aria afosa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fuktig",
+        "translations": {
+            "ukrainian": "вологість",
+            "english": "humid",
+            "spanish": "húmedo",
+            "german": "feucht",
+            "polish": "wilgotny",
+            "french": "humide",
+            "portuguese": "úmido",
+            "italian": "umido"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Luften är fuktig efter regnet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повітря вологе після дощу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The air is humid after the rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire está húmedo después de la lluvia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Luft ist feucht nach dem Regen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powietrze jest wilgotne po deszczu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air est humide après la pluie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar está úmido depois da chuva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria è umida dopo la pioggia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fuktig väder gör mig trött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вологість мене втомлює."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Humid weather makes me tired."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima húmedo me cansa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Feuchtes Wetter macht mich müde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wilgotna pogoda mnie męczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps humide me fatigue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo úmido me cansa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo umido mi stanca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fuktiga handdukar tar lång tid att torka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вологі рушники довго сохнуть."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Humid towels take a long time to dry."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las toallas húmedas tardan mucho en secarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Feuchte Handtücher brauchen lange zum Trocknen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wilgotne ręczniki długo schną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les serviettes humides mettent longtemps à sécher."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Toalhas úmidas demoram para secar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli asciugamani umidi impiegano molto tempo ad asciugarsi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fuktig luft är vanlig i tropiska områden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вологість часто зустрічається в тропічних районах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Humid air is common in tropical areas."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire húmedo es común en áreas tropicales."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Feuchte Luft ist in tropischen Gebieten üblich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wilgotne powietrze jest powszechne w obszarach tropikalnych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air humide est courant dans les zones tropicales."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar úmido é comum em áreas tropicais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria umida è comune nelle aree tropicali."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "torr",
+        "translations": {
+            "ukrainian": "сухий",
+            "english": "dry",
+            "spanish": "seco",
+            "german": "trocken",
+            "polish": "suchy",
+            "french": "sec",
+            "portuguese": "seco",
+            "italian": "secco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Luften är torr i öknen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повітря сухе в пустелі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The air is dry in the desert."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire es seco en el desierto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Luft ist trocken in der Wüste."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powietrze jest suche na pustyni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air est sec dans le désert."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar é seco no deserto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria è secca nel deserto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Torrt väder är bra för att torka kläder."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Суха погода добра для сушіння одягу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dry weather is good for drying clothes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima seco es bueno para secar la ropa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trockenes Wetter ist gut zum Trocknen von Kleidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sucha pogoda jest dobra do suszenia ubrań."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps sec est bon pour sécher les vêtements."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo seco é bom para secar roupas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo secco è buono per asciugare i vestiti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Torra löv ligger på marken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сухе листя лежить на землі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dry leaves lie on the ground."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las hojas secas están en el suelo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trockene Blätter liegen auf dem Boden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Suche liście leżą na ziemi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les feuilles sèches sont sur le sol."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Folhas secas estão no chão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le foglie secche sono a terra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Torr luft kan ge torr hud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сухе повітря може викликати сухість шкіри."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dry air can cause dry skin."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El aire seco puede causar piel seca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Trockene Luft kann trockene Haut verursachen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Suche powietrze może powodować suchą skórę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'air sec peut causer une peau sèche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ar seco pode causar pele seca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aria secca può causare pelle secca."
+                    }
+                ]
+            }
+        ]
+    }
+]

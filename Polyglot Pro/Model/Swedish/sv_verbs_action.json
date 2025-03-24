@@ -1,0 +1,2452 @@
+[
+    {
+        "expression": "arbeta",
+        "translations": {
+            "ukrainian": "працювати",
+            "english": "work",
+            "spanish": "trabajar",
+            "german": "arbeiten",
+            "polish": "pracować",
+            "french": "travailler",
+            "portuguese": "trabalhar",
+            "italian": "lavorare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag arbetar på ett kontor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я працюю в офісі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I work in an office."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Trabajo en una oficina."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich arbeite in einem Büro."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pracuję w biurze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je travaille dans un bureau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu trabalho em um escritório."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lavoro in un ufficio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han arbetar som lärare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він працює вчителем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He works as a teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él trabaja como profesor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er arbeitet als Lehrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On pracuje jako nauczyciel."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il travaille comme professeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele trabalha como professor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui lavora come insegnante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi arbetar tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми працюємо разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We work together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Trabajamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir arbeiten zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pracujemy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous travaillons ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós trabalhamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lavoriamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De arbetar hårt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони працюють важко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They work hard."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos trabajan duro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie arbeiten hart."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni ciężko pracują."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils travaillent dur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles trabalham duro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro lavorano sodo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "städa",
+        "translations": {
+            "ukrainian": "прибирати",
+            "english": "clean",
+            "spanish": "limpiar",
+            "german": "putzen",
+            "polish": "sprzątać",
+            "french": "nettoyer",
+            "portuguese": "limpar",
+            "italian": "pulire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag städar mitt rum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я прибираю свою кімнату."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I clean my room."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Yo limpio mi habitación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich putze mein Zimmer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sprzątam swój pokój."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je nettoie ma chambre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu limpo meu quarto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Pulisco la mia stanza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon städar köket varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона прибирає кухню щодня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She cleans the kitchen every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella limpia la cocina todos los días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie putzt die Küche jeden Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona sprząta kuchnię codziennie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle nettoie la cuisine tous les jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela limpa a cozinha todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei pulisce la cucina ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi städar huset på lördagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми прибираємо будинок по суботах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We clean the house on Saturdays."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nosotros limpiamos la casa los sábados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir putzen das Haus samstags."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sprzątamy dom w soboty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nettoyons la maison le samedi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós limpamos a casa aos sábados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Puliamo la casa il sabato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De städar tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони прибирають разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They clean together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos limpian juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie putzen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni sprzątają razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils nettoient ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles limpam juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro puliscono insieme."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "läsa",
+        "translations": {
+            "ukrainian": "читати",
+            "english": "read",
+            "spanish": "leer",
+            "german": "lesen",
+            "polish": "czytać",
+            "french": "lire",
+            "portuguese": "ler",
+            "italian": "leggere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag läser en bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я читаю книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am reading a book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy leyendo un libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich lese ein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czytam książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je lis un livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou lendo um livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto leggendo un libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon läser tidningen varje morgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона читає газету кожного ранку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She reads the newspaper every morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lee el periódico cada mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie liest jeden Morgen die Zeitung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona czyta gazetę każdego ranka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle lit le journal chaque matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela lê o jornal todas as manhãs."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei legge il giornale ogni mattina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi läser barnböcker tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми читаємо дитячі книжки разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We read children's books together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Leemos libros infantiles juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir lesen Kinderbücher zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czytamy książki dla dzieci razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous lisons des livres pour enfants ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós lemos livros infantis juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Leggiamo libri per bambini insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De läser mycket på fritiden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони багато читають у вільний час."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They read a lot in their free time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos leen mucho en su tiempo libre."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie lesen viel in ihrer Freizeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni dużo czytają w wolnym czasie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils lisent beaucoup pendant leur temps libre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles leem muito no tempo livre."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro leggono molto nel tempo libero."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skriva",
+        "translations": {
+            "ukrainian": "писати",
+            "english": "write",
+            "spanish": "escribir",
+            "german": "schreiben",
+            "polish": "pisać",
+            "french": "écrire",
+            "portuguese": "escrever",
+            "italian": "scrivere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag skriver ett brev."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я пишу листа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am writing a letter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy escribiendo una carta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich schreibe einen Brief."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piszę list."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'écris une lettre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou escrevendo uma carta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto scrivendo una lettera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skriver en roman."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона пише роман."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is writing a novel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está escribiendo una novela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreibt einen Roman."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pisze powieść."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle écrit un roman."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está escrevendo um romance."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta scrivendo un romanzo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skriver en uppsats."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми пишемо есе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are writing an essay."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos escribiendo un ensayo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir schreiben einen Aufsatz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Piszemy esej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous écrivons une dissertation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos escrevendo um ensaio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo scrivendo un saggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De skriver dagligen i sina dagböcker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони щодня пишуть у своїх щоденниках."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They write daily in their diaries."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos escriben diariamente en sus diarios."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie schreiben täglich in ihre Tagebücher."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni codziennie piszą w swoich dziennikach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils écrivent quotidiennement dans leurs journaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles escrevem diariamente em seus diários."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro scrivono quotidianamente nei loro diari."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rita",
+        "translations": {
+            "ukrainian": "малювати",
+            "english": "draw",
+            "spanish": "dibujar",
+            "german": "zeichnen",
+            "polish": "rysować",
+            "french": "dessiner",
+            "portuguese": "desenhar",
+            "italian": "disegnare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ritar en bild."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я малюю картину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am drawing a picture."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy dibujando una imagen."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich zeichne ein Bild."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rysuję obraz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je dessine une image."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou desenhando uma imagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto disegnando un'immagine."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ritar en hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона малює собаку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is drawing a dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está dibujando un perro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie zeichnet einen Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona rysuje psa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle dessine un chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está desenhando um cachorro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta disegnando un cane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ritar tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми малюємо разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We draw together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Dibujamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir zeichnen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rysujemy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous dessinons ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós desenhamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Disegniamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ritar landskap."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони малюють пейзажі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They draw landscapes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos dibujan paisajes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie zeichnen Landschaften."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni rysują krajobrazy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils dessinent des paysages."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles desenham paisagens."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro disegnano paesaggi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sjunga",
+        "translations": {
+            "ukrainian": "співати",
+            "english": "sing",
+            "spanish": "cantar",
+            "german": "singen",
+            "polish": "śpiewać",
+            "french": "chanter",
+            "portuguese": "cantar",
+            "italian": "cantare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag sjunger i kören."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я співаю в хорі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I sing in the choir."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Canto en el coro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich singe im Chor."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śpiewam w chórze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je chante dans la chorale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu canto no coral."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Canto nel coro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon sjunger vackert."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона гарно співає."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She sings beautifully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella canta hermosamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie singt wunderschön."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona pięknie śpiewa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle chante magnifiquement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela canta lindamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei canta magnificamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi sjunger tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми співаємо разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We sing together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cantamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir singen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śpiewamy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous chantons ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cantamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cantiamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De sjunger på konserten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони співають на концерті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They sing at the concert."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos cantan en el concierto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie singen beim Konzert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni śpiewają na koncercie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils chantent au concert."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles cantam no concerto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro cantano al concerto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dansa",
+        "translations": {
+            "ukrainian": "танцювати",
+            "english": "dance",
+            "spanish": "bailar",
+            "german": "tanzen",
+            "polish": "tańczyć",
+            "french": "danser",
+            "portuguese": "dançar",
+            "italian": "ballare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag dansar på festen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я танцюю на вечірці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I dance at the party."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Bailo en la fiesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich tanze auf der Party."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tańczę na imprezie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je danse à la fête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu danço na festa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ballo alla festa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon dansar balett."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона танцює балет."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She dances ballet."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella baila ballet."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie tanzt Ballett."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona tańczy balet."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle danse le ballet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela dança balé."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei balla il balletto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi dansar tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми танцюємо разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We dance together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Bailamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir tanzen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Tańczymy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous dansons ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós dançamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Balliamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De dansar på klubben."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони танцюють у клубі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They dance at the club."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos bailan en el club."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie tanzen im Club."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni tańczą w klubie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils dansent au club."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles dançam no clube."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro ballano al club."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "bygga",
+        "translations": {
+            "ukrainian": "будувати",
+            "english": "build",
+            "spanish": "construir",
+            "german": "bauen",
+            "polish": "budować",
+            "french": "construire",
+            "portuguese": "construir",
+            "italian": "costruire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag bygger ett hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я будую будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am building a house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy construyendo una casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich baue ein Haus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Buduję dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je construis une maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou construindo uma casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto costruendo una casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon bygger en bro."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона будує міст."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is building a bridge."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está construyendo un puente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie baut eine Brücke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona buduje most."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle construit un pont."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está construindo uma ponte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta costruendo un ponte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi bygger en stad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми будуємо місто."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are building a city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos construyendo una ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir bauen eine Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Budujemy miasto."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous construisons une ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos construindo uma cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo costruendo una città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De bygger en skola."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будують школу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are building a school."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están construyendo una escuela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bauen eine Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni budują szkołę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils construisent une école."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão construindo uma escola."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno costruendo una scuola."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "måla",
+        "translations": {
+            "ukrainian": "фарбувати",
+            "english": "paint",
+            "spanish": "pintar",
+            "german": "malen",
+            "polish": "malować",
+            "french": "peindre",
+            "portuguese": "pintar",
+            "italian": "dipingere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag målar ett porträtt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я малюю портрет."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am painting a portrait."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy pintando un retrato."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich male ein Porträt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Maluję portret."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je peins un portrait."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou pintando um retrato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto dipingendo un ritratto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon målar en tavla."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона малює картину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is painting a picture."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está pintando un cuadro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie malt ein Bild."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona maluje obraz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle peint un tableau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está pintando um quadro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta dipingendo un quadro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi målar huset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми фарбуємо будинок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are painting the house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos pintando la casa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir malen das Haus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Malujemy dom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous peignons la maison."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos pintando a casa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo dipingendo la casa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De målar en mural."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони малюють мурал."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are painting a mural."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están pintando un mural."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie malen ein Wandgemälde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni malują mural."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils peignent une fresque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão pintando um mural."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno dipingendo un murale."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "laga",
+        "translations": {
+            "ukrainian": "готувати",
+            "english": "cook",
+            "spanish": "cocinar",
+            "german": "kochen",
+            "polish": "gotować",
+            "french": "cuisiner",
+            "portuguese": "cozinhar",
+            "italian": "cucinare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag lagar middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я готую вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am cooking dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy cocinando la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich koche Abendessen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gotuję obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je prépare le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou cozinhando o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto cucinando la cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lagar soppa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона готує суп."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is cooking soup."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está cocinando sopa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kocht Suppe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona gotuje zupę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle prépare de la soupe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está cozinhando sopa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta cucinando la zuppa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lagar mat tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми готуємо їжу разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We cook together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cocinamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir kochen zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gotujemy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous cuisinons ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cozinhamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cuciniamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De lagar en festmåltid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони готують святкову страву."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are cooking a feast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están cocinando un banquete."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kochen ein Festmahl."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni gotują ucztę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils préparent un festin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão cozinhando um banquete."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno cucinando un banchetto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "spela",
+        "translations": {
+            "ukrainian": "грати",
+            "english": "play",
+            "spanish": "jugar",
+            "german": "spielen",
+            "polish": "grać",
+            "french": "jouer",
+            "portuguese": "jogar",
+            "italian": "giocare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag spelar fotboll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я граю у футбол."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I play football."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Juego al fútbol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich spiele Fußball."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gram w piłkę nożną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je joue au football."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu jogo futebol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gioco a calcio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon spelar piano."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона грає на піаніно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She plays the piano."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella toca el piano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie spielt Klavier."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona gra na pianinie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle joue du piano."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela toca piano."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei suona il piano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi spelar ett spel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми граємо в гру."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are playing a game."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos jugando un juego."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir spielen ein Spiel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gramy w grę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous jouons à un jeu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos jogando um jogo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo giocando a un gioco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De spelar schack."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони грають у шахи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They play chess."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos juegan al ajedrez."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie spielen Schach."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni grają w szachy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils jouent aux échecs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles jogam xadrez."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro giocano a scacchi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "torka",
+        "translations": {
+            "ukrainian": "витирати",
+            "english": "wipe",
+            "spanish": "limpiar",
+            "german": "wischen",
+            "polish": "wycierać",
+            "french": "essuyer",
+            "portuguese": "limpar",
+            "italian": "asciugare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag torkar bordet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я витираю стіл."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am wiping the table."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy limpiando la mesa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wische den Tisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wycieram stół."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'essuie la table."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou limpando a mesa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto asciugando il tavolo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon torkar golvet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона витирає підлогу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is wiping the floor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está limpiando el suelo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wischt den Boden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wyciera podłogę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle essuie le sol."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está limpando o chão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta asciugando il pavimento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi torkar fönstren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми витираємо вікна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are wiping the windows."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estamos limpiando las ventanas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wischen die Fenster."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wycieramy okna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous essuyons les fenêtres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estamos limpando as janelas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stiamo asciugando le finestre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De torkar händerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони витирають руки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are wiping their hands."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos están limpiando sus manos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wischen ihre Hände."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni wycierają ręce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils essuient leurs mains."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estão limpando as mãos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro stanno asciugando le mani."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "studera",
+        "translations": {
+            "ukrainian": "вчитися",
+            "english": "study",
+            "spanish": "estudiar",
+            "german": "studieren",
+            "polish": "studiować",
+            "french": "étudier",
+            "portuguese": "estudar",
+            "italian": "studiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag studerar svenska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я вчу шведську."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am studying Swedish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy estudiando sueco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich studiere Schwedisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uczę się szwedzkiego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'étudie le suédois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou estudando sueco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sto studiando svedese."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon studerar medicin."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона вивчає медицину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is studying medicine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella está estudiando medicina."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie studiert Medizin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona studiuje medycynę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle étudie la médecine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está estudando medicina."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sta studiando medicina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi studerar tillsammans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми вчимося разом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We study together."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estudiamos juntos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir studieren zusammen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Studiujemy razem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étudions ensemble."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós estudamos juntos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Studiamo insieme."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De studerar historia."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони вивчають історію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They study history."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos estudian historia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie studieren Geschichte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni studiują historię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils étudient l'histoire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles estudam história."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro studiano storia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "leka",
+        "translations": {
+            "ukrainian": "гратися",
+            "english": "play",
+            "spanish": "jugar",
+            "german": "spielen",
+            "polish": "bawić się",
+            "french": "jouer",
+            "portuguese": "brincar",
+            "italian": "giocare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag leker med min hund."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я граюся зі своїм собакою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I play with my dog."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Juego con mi perro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich spiele mit meinem Hund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bawię się z moim psem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je joue avec mon chien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu brinco com meu cachorro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gioco con il mio cane."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon leker med sina vänner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона грається зі своїми друзями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She plays with her friends."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella juega con sus amigos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie spielt mit ihren Freunden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona bawi się ze swoimi przyjaciółmi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle joue avec ses amis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela brinca com seus amigos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei gioca con i suoi amici."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi leker i parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми граємося в парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We play in the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Jugamos en el parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir spielen im Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bawimy się w parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous jouons dans le parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós brincamos no parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Giochiamo nel parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De leker lekar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони грають у лікарів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They play doctors."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos juegan a los médicos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie spielen Ärzte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oni bawią się w lekarzy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils jouent aux médecins."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles brincam de médicos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro giocano ai dottori."
+                    }
+                ]
+            }
+        ]
+    }
+]

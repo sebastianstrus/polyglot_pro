@@ -1,0 +1,2977 @@
+[
+    {
+        "expression": "vänlig",
+        "translations": {
+            "ukrainian": "дружній",
+            "english": "friendly",
+            "spanish": "amable",
+            "german": "freundlich",
+            "polish": "przyjazny",
+            "french": "aimable",
+            "portuguese": "amigável",
+            "italian": "amichevole"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en vänlig person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дружня людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a friendly person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una persona amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine freundliche Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest przyjazną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une personne aimable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pessoa amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una persona amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han gav mig ett vänligt leende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він подарував мені дружню посмішку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He gave me a friendly smile."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él me dio una sonrisa amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er schenkte mir ein freundliches Lächeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On obdarzył mnie przyjaznym uśmiechem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il m'a offert un sourire aimable."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele me deu um sorriso amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi ha regalato un sorriso amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De var mycket vänliga mot mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони були дуже дружні до мене."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They were very friendly to me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fueron muy amables conmigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie waren sehr freundlich zu mir."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Byli bardzo przyjaźni wobec mnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils ont été très aimables avec moi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles foram muito amigáveis comigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono stati molto amichevoli con me."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vänliga människor gör världen bättre."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дружні люди роблять світ кращим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Friendly people make the world better."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas amables hacen el mundo mejor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Freundliche Menschen machen die Welt besser."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyjaźni ludzie czynią świat lepszym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes aimables rendent le monde meilleur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas amigáveis tornam o mundo melhor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone amichevoli rendono il mondo migliore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "generös",
+        "translations": {
+            "ukrainian": "щедрий",
+            "english": "generous",
+            "spanish": "generoso",
+            "german": "großzügig",
+            "polish": "hojny",
+            "french": "généreux",
+            "portuguese": "generoso",
+            "italian": "generoso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en generös donator."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він щедрий донор."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a generous donor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un donante generoso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein großzügiger Spender."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest hojnym darczyńcą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un donateur généreux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um doador generoso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un donatore generoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är alltid generös med sin tid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона завжди щедра зі своїм часом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is always generous with her time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella siempre es generosa con su tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist immer großzügig mit ihrer Zeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest zawsze hojna ze swoim czasem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est toujours généreuse avec son temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é sempre generosa com seu tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è sempre generosa con il suo tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "En generös gåva kan göra stor skillnad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Щедрий подарунок може зробити велику різницю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A generous gift can make a big difference."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Un regalo generoso puede hacer una gran diferencia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ein großzügiges Geschenk kann einen großen Unterschied machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Hojny prezent może zrobić dużą różnicę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un cadeau généreux peut faire une grande différence."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um presente generoso pode fazer uma grande diferença."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Un regalo generoso può fare una grande differenza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Generösa människor delar gärna med sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Щедрі люди люблять ділитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Generous people like to share."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas generosas les gusta compartir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Großzügige Menschen teilen gerne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Hojni ludzie lubią się dzielić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes généreuses aiment partager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas generosas gostam de compartilhar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone generose amano condividere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "modig",
+        "translations": {
+            "ukrainian": "сміливий",
+            "english": "brave",
+            "spanish": "valiente",
+            "german": "mutig",
+            "polish": "odważny",
+            "french": "courageux",
+            "portuguese": "corajoso",
+            "italian": "coraggioso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en modig kvinna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона смілива жінка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a brave woman."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una mujer valiente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine mutige Frau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest odważną kobietą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une femme courageuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma mulher corajosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una donna coraggiosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det krävs modiga beslut för att förändra världen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Потрібні сміливі рішення, щоб змінити світ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Brave decisions are needed to change the world."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se necesitan decisiones valientes para cambiar el mundo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mutige Entscheidungen sind nötig, um die Welt zu verändern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odważne decyzje są potrzebne, aby zmienić świat."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Des décisions courageuses sont nécessaires pour changer le monde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Decisões corajosas são necessárias para mudar o mundo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono necessarie decisioni coraggiose per cambiare il mondo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var modig nog att stå upp för sina övertygelser."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був достатньо сміливим, щоб відстоювати свої переконання."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was brave enough to stand up for his beliefs."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue lo suficientemente valiente para defender sus creencias."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war mutig genug, für seine Überzeugungen einzustehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był na tyle odważny, by bronić swoich przekonań."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il était assez courageux pour défendre ses convictions."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi corajoso o suficiente para defender suas crenças."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era abbastanza coraggioso da difendere le sue convinzioni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Modiga människor inspirerar andra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сміливі люди надихають інших."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Brave people inspire others."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas valientes inspiran a otros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mutige Menschen inspirieren andere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Odważni ludzie inspirują innych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes courageuses inspirent les autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas corajosas inspiram outras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone coraggiose ispirano gli altri."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tålmodig",
+        "translations": {
+            "ukrainian": "терплячий",
+            "english": "patient",
+            "spanish": "paciente",
+            "german": "geduldig",
+            "polish": "cierpliwy",
+            "french": "patient",
+            "portuguese": "paciente",
+            "italian": "paziente"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "En lärare måste vara tålmodig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вчитель повинен бути терплячим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A teacher must be patient."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Un profesor debe ser paciente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ein Lehrer muss geduldig sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nauczyciel musi być cierpliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Un enseignant doit être patient."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Um professor deve ser paciente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Un insegnante deve essere paziente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tålmodighet är en dygd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Терпіння – це чеснота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Patience is a virtue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La paciencia es una virtud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Geduld ist eine Tugend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cierpliwość to cnota."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La patience est une vertu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A paciência é uma virtude."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pazienza è una virtù."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var tålmodig nog att vänta i timmar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був достатньо терплячим, щоб чекати годинами."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was patient enough to wait for hours."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue lo suficientemente paciente para esperar horas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war geduldig genug, um stundenlang zu warten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był na tyle cierpliwy, by czekać godzinami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il était assez patient pour attendre des heures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi paciente o suficiente para esperar horas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era abbastanza paziente da aspettare per ore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tålmodiga människor får ofta bättre resultat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Терплячі люди часто отримують кращі результати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Patient people often get better results."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas pacientes suelen obtener mejores resultados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Geduldige Menschen erzielen oft bessere Ergebnisse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cierpliwi ludzie często osiągają lepsze rezultaty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les patients obtiennent souvent de meilleurs résultats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas pacientes costumam obter melhores resultados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone pazienti spesso ottengono risultati migliori."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hjälpsam",
+        "translations": {
+            "ukrainian": "допитливий",
+            "english": "helpful",
+            "spanish": "servicial",
+            "german": "hilfsbereit",
+            "polish": "pomocny",
+            "french": "serviable",
+            "portuguese": "prestativo",
+            "italian": "disponibile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är alltid hjälpsam mot sina grannar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона завжди допитлива до своїх сусідів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is always helpful to her neighbors."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella siempre es servicial con sus vecinos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist immer hilfsbereit gegenüber ihren Nachbarn."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest zawsze pomocna wobec swoich sąsiadów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est toujours serviable envers ses voisins."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é sempre prestativa com seus vizinhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è sempre disponibile con i suoi vicini."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "En hjälpsam person är värdefull i ett team."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Допитлива людина цінна в команді."
+                    },
+                    {
+                        "language": "english",
+                        "text": "A helpful person is valuable in a team."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Una persona servicial es valiosa en un equipo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Eine hilfsbereite Person ist in einem Team wertvoll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomocna osoba jest cenna w zespole."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Une personne serviable est précieuse dans une équipe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Uma pessoa prestativa é valiosa em uma equipe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Una persona disponibile è preziosa in una squadra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var hjälpsam nog att bära mina väskor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був достатньо допитливим, щоб нести мої сумки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was helpful enough to carry my bags."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue lo suficientemente servicial para llevar mis maletas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war hilfsbereit genug, um meine Taschen zu tragen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był na tyle pomocny, by nieść moje torby."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il était assez serviable pour porter mes valises."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi prestativo o suficiente para carregar minhas malas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era abbastanza disponibile da portare le mie borse."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hjälpsamma människor gör världen bättre."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Допитливі люди роблять світ кращим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Helpful people make the world better."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas serviciales hacen el mundo mejor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hilfsbereite Menschen machen die Welt besser."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomocni ludzie czynią świat lepszym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes serviantes rendent le monde meilleur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas prestativas tornam o mundo melhor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone disponibili rendono il mondo migliore."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "intelligent",
+        "translations": {
+            "ukrainian": "розумний",
+            "english": "intelligent",
+            "spanish": "inteligente",
+            "german": "intelligent",
+            "polish": "inteligentny",
+            "french": "intelligent",
+            "portuguese": "inteligente",
+            "italian": "intelligente"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en intelligent student."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він розумний студент."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an intelligent student."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un estudiante inteligente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein intelligenter Student."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest inteligentnym studentem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un étudiant intelligent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um estudante inteligente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è uno studente intelligente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Intelligenta människor löser problem snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Розумні люди швидко вирішують проблеми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Intelligent people solve problems quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas inteligentes resuelven problemas rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Intelligente Menschen lösen Probleme schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Inteligentni ludzie szybko rozwiązują problemy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes intelligentes résolvent les problèmes rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas inteligentes resolvem problemas rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone intelligenti risolvono i problemi rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en intelligent lösning på problemet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона має розумне рішення проблеми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has an intelligent solution to the problem."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una solución inteligente al problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine intelligente Lösung für das Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma inteligentne rozwiązanie problemu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une solution intelligente au problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma solução inteligente para o problema."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una soluzione intelligente al problema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Intelligenta val leder till framgång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Розумний вибір веде до успіху."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Intelligent choices lead to success."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las elecciones inteligentes conducen al éxito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Intelligente Entscheidungen führen zum Erfolg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Inteligentne wybory prowadzą do sukcesu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les choix intelligents mènent au succès."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Escolhas inteligentes levam ao sucesso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Scelte intelligenti portano al successo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "självisk",
+        "translations": {
+            "ukrainian": "егоїстичний",
+            "english": "selfish",
+            "spanish": "egoísta",
+            "german": "egoistisch",
+            "polish": "samolubny",
+            "french": "égoïste",
+            "portuguese": "egoísta",
+            "italian": "egoista"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en självisk person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він егоїстична людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a selfish person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona egoísta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein egoistischer Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest samolubną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne égoïste."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa egoísta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona egoista."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Själviska handlingar kan skada andra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Егоїстичні вчинки можуть зашкодити іншим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Selfish actions can harm others."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las acciones egoístas pueden dañar a otros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Egoistische Handlungen können anderen schaden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samolubne działania mogą zaszkodzić innym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les actions égoïstes peuvent nuire aux autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ações egoístas podem prejudicar os outros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le azioni egoiste possono danneggiare gli altri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var för självisk för att dela med sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була занадто егоїстичною, щоб ділитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was too selfish to share."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella era demasiado egoísta para compartir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war zu egoistisch, um zu teilen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Była zbyt samolubna, by się dzielić."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était trop égoïste pour partager."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela era muito egoísta para compartilhar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei era troppo egoista per condividere."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Själviskhet kan leda till ensamhet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Егоїзм може призвести до самотності."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Selfishness can lead to loneliness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El egoísmo puede llevar a la soledad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Egoismus kann zu Einsamkeit führen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samolubstwo może prowadzić do samotności."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'égoïsme peut mener à la solitude."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O egoísmo pode levar à solidão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'egoismo può portare alla solitudine."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "arrogant",
+        "translations": {
+            "ukrainian": "зарозумілий",
+            "english": "arrogant",
+            "spanish": "arrogante",
+            "german": "arrogant",
+            "polish": "arogancki",
+            "french": "arrogant",
+            "portuguese": "arrogante",
+            "italian": "arrogante"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en arrogant person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він зарозуміла людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an arrogant person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona arrogante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein arroganter Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest arogancką osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne arrogante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa arrogante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona arrogante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Arroganta människor tror att de är bättre än andra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зарозумілі люди вважають, що вони кращі за інших."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Arrogant people think they are better than others."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas arrogantes creen que son mejores que los demás."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Arrogante Menschen denken, sie seien besser als andere."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Aroganccy ludzie uważają, że są lepsi od innych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes arrogantes pensent qu'elles sont meilleures que les autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas arrogantes acham que são melhores que os outros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone arroganti pensano di essere migliori degli altri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hans arroganta attityd gör honom impopulär."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Його зарозуміла поведінка робить його непопулярним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "His arrogant attitude makes him unpopular."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su actitud arrogante lo hace impopular."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Seine arrogante Haltung macht ihn unbeliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jego arogancka postawa czyni go niepopularnym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Son attitude arrogante le rend impopulaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sua atitude arrogante o torna impopular."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo atteggiamento arrogante lo rende impopolare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Arrogans kan skada relationer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Зарозумілість може зашкодити стосункам."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Arrogance can harm relationships."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La arrogancia puede dañar las relaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Arroganz kann Beziehungen schaden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Arogancja może zaszkodzić relacjom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'arrogance peut nuire aux relations."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A arrogância pode prejudicar relacionamentos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'arroganza può danneggiare le relazioni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lat",
+        "translations": {
+            "ukrainian": "лінивий",
+            "english": "lazy",
+            "spanish": "perezoso",
+            "german": "faul",
+            "polish": "leniwy",
+            "french": "paresseux",
+            "portuguese": "preguiçoso",
+            "italian": "pigro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är för lat för att städa sitt rum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він занадто лінивий, щоб прибрати свою кімнату."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is too lazy to clean his room."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es demasiado perezoso para limpiar su habitación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist zu faul, um sein Zimmer aufzuräumen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest zbyt leniwy, by posprzątać swój pokój."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est trop paresseux pour nettoyer sa chambre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é muito preguiçoso para limpar seu quarto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è troppo pigro per pulire la sua stanza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lata människor undviker arbete."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ліниві люди уникають роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Lazy people avoid work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas perezosas evitan el trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Faule Menschen meiden Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Leniwy ludzie unikają pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes paresseuses évitent le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas preguiçosas evitam o trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone pigre evitano il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var för lat för att gå till gymmet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була занадто лінивою, щоб піти в спортзал."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was too lazy to go to the gym."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella era demasiado perezosa para ir al gimnasio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war zu faul, um ins Fitnessstudio zu gehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była zbyt leniwa, by pójść na siłownię."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était trop paresseuse pour aller à la salle de sport."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela era muito preguiçosa para ir à academia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei era troppo pigra per andare in palestra."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lata dagar kan vara avkopplande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ліниві дні можуть бути розслаблюючими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Lazy days can be relaxing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los días perezosos pueden ser relajantes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Faule Tage können entspannend sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Leniwy dni mogą być relaksujące."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les jours paresseux peuvent être relaxants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Dias preguiçosos podem ser relaxantes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I giorni pigri possono essere rilassanti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "oärlig",
+        "translations": {
+            "ukrainian": "нечесний",
+            "english": "dishonest",
+            "spanish": "deshonesto",
+            "german": "unehrlich",
+            "polish": "nieuczciwy",
+            "french": "malhonnête",
+            "portuguese": "desonesto",
+            "italian": "disonesto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en oärlig försäljare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він нечесний продавець."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a dishonest salesman."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un vendedor deshonesto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein unehrlicher Verkäufer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest nieuczciwym sprzedawcą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un vendeur malhonnête."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um vendedor desonesto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un venditore disonesto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Oärliga människor förlorar tilliten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нечесні люди втрачають довіру."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dishonest people lose trust."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas deshonestas pierden la confianza."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Unehrliche Menschen verlieren das Vertrauen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieuczciwi ludzie tracą zaufanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes malhonnêtes perdent la confiance."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas desonestas perdem a confiança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone disoneste perdono la fiducia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var oärlig om sina avsikter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була нечесною щодо своїх намірів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was dishonest about her intentions."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella fue deshonesta sobre sus intenciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war unehrlich über ihre Absichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była nieuczciwa co do swoich intencji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a été malhonnête sur ses intentions."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela foi desonesta sobre suas intenções."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è stata disonesta sulle sue intenzioni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Oärlighet kan skada relationer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нечесність може зашкодити стосункам."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Dishonesty can harm relationships."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La deshonestidad puede dañar las relaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Unehrlichkeit kann Beziehungen schaden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nieuczciwość może zaszkodzić relacjom."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La malhonnêteté peut nuire aux relations."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A desonestidade pode prejudicar relacionamentos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La disonestà può danneggiare le relazioni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "envis",
+        "translations": {
+            "ukrainian": "впертий",
+            "english": "stubborn",
+            "spanish": "terco",
+            "german": "stur",
+            "polish": "uparty",
+            "french": "têtu",
+            "portuguese": "teimoso",
+            "italian": "ostinato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en envis person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він вперта людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a stubborn person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona terca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein sturer Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest upartą osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne têtue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa teimosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona ostinata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Envishet kan vara både en styrka och en svaghet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Впертість може бути як силою, так і слабкістю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stubbornness can be both a strength and a weakness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La terquedad puede ser tanto una fortaleza como una debilidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sturheit kann sowohl eine Stärke als auch eine Schwäche sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Upartość może być zarówno siłą, jak i słabością."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'entêtement peut être à la fois une force et une faiblesse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A teimosia pode ser tanto uma força quanto uma fraqueza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ostinazione può essere sia una forza che una debolezza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var för envis för att ändra sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була занадто впертою, щоб змінити свою думку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was too stubborn to change her mind."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella era demasiado terca para cambiar de opinión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war zu stur, um ihre Meinung zu ändern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była zbyt uparta, by zmienić zdanie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était trop têtue pour changer d'avis."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela era muito teimosa para mudar de ideia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei era troppo ostinata per cambiare idea."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Envisa människor kan vara svåra att övertala."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Впертих людей важко переконати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Stubborn people can be hard to persuade."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas tercas pueden ser difíciles de persuadir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sture Menschen können schwer zu überzeugen sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uparty ludzie mogą być trudni do przekonania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes têtues peuvent être difficiles à persuader."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas teimosas podem ser difíceis de persuadir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone ostinate possono essere difficili da persuadere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "impulsiv",
+        "translations": {
+            "ukrainian": "імпульсивний",
+            "english": "impulsive",
+            "spanish": "impulsivo",
+            "german": "impulsiv",
+            "polish": "impulsywny",
+            "french": "impulsif",
+            "portuguese": "impulsivo",
+            "italian": "impulsivo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en impulsiv person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він імпульсивна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an impulsive person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona impulsiva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein impulsiver Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest impulsywną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne impulsive."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa impulsiva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona impulsiva."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Impulsiva beslut kan leda till problem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Імпульсивні рішення можуть призвести до проблем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Impulsive decisions can lead to problems."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las decisiones impulsivas pueden llevar a problemas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Impulsive Entscheidungen können zu Problemen führen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Impulsywne decyzje mogą prowadzić do problemów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les décisions impulsives peuvent mener à des problèmes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Decisões impulsivas podem levar a problemas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le decisioni impulsive possono portare a problemi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon köpte en bil på ett impulsivt beslut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона купила машину через імпульсивне рішення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She bought a car on an impulsive decision."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella compró un coche por una decisión impulsiva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie kaufte ein Auto aufgrund einer impulsiven Entscheidung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiła samochód w wyniku impulsywnej decyzji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a acheté une voiture suite à une décision impulsive."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela comprou um carro por uma decisão impulsiva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha comprato una macchina per una decisione impulsiva."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Impulsivitet kan vara både en styrka och en svaghet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Імпульсивність може бути як силою, так і слабкістю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Impulsiveness can be both a strength and a weakness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La impulsividad puede ser tanto una fortaleza como una debilidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Impulsivität kann sowohl eine Stärke als auch eine Schwäche sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Impulsywność może być zarówno siłą, jak i słabością."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'impulsivité peut être à la fois une force et une faiblesse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A impulsividade pode ser tanto uma força quanto uma fraqueza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'impulsività può essere sia una forza che una debolezza."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tystlåten",
+        "translations": {
+            "ukrainian": "мовчазний",
+            "english": "quiet",
+            "spanish": "callado",
+            "german": "schweigsam",
+            "polish": "cichy",
+            "french": "silencieux",
+            "portuguese": "quieto",
+            "italian": "silenzioso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en tystlåten person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він мовчазна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a quiet person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona callada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein schweigsamer Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest cichą osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne silencieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa quieta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona silenziosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tystlåtna människor är ofta bra lyssnare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мовчазні люди часто є хорошими слухачами."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Quiet people are often good listeners."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas calladas suelen ser buenas oyentes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schweigsame Menschen sind oft gute Zuhörer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cichy ludzie często są dobrymi słuchaczami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes silencieuses sont souvent de bons auditeurs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas quietas costumam ser boas ouvintes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone silenziose sono spesso buoni ascoltatori."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var tystlåten under mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була мовчазною під час зустрічі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was quiet during the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estuvo callada durante la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war schweigsam während des Treffens."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była cicha podczas spotkania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était silencieuse pendant la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou quieta durante a reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è stata silenziosa durante la riunione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tystlåtenhet kan vara en styrka i vissa situationer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мовчазність може бути силою в певних ситуаціях."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Quietness can be a strength in certain situations."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El silencio puede ser una fortaleza en ciertas situaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schweigsamkeit kann in bestimmten Situationen eine Stärke sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cisza może być siłą w niektórych sytuacjach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le silence peut être une force dans certaines situations."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A quietude pode ser uma força em certas situações."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il silenzio può essere una forza in certe situazioni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "försiktig",
+        "translations": {
+            "ukrainian": "обережний",
+            "english": "cautious",
+            "spanish": "cauteloso",
+            "german": "vorsichtig",
+            "polish": "ostrożny",
+            "french": "prudent",
+            "portuguese": "cauteloso",
+            "italian": "cauto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en försiktig förare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він обережний водій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a cautious driver."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un conductor cauteloso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein vorsichtiger Fahrer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest ostrożnym kierowcą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un conducteur prudent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um motorista cauteloso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un conducente cauto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Försiktiga människor undviker risker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Обережні люди уникають ризиків."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cautious people avoid risks."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas cautelosas evitan los riesgos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vorsichtige Menschen meiden Risiken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ostrożni ludzie unikają ryzyka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes prudentes évitent les risques."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas cautelosas evitam riscos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone caute evitano i rischi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var försiktig när hon gick över gatan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була обережною, коли переходила дорогу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was cautious when crossing the street."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella fue cautelosa al cruzar la calle."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war vorsichtig, als sie die Straße überquerte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była ostrożna, przechodząc przez ulicę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était prudente en traversant la rue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela foi cautelosa ao atravessar a rua."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è stata cauta attraversando la strada."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Försiktighet är viktigt vid farliga situationer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Обережність важлива в небезпечних ситуаціях."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Caution is important in dangerous situations."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cautela es importante en situaciones peligrosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vorsicht ist wichtig in gefährlichen Situationen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ostrożność jest ważna w niebezpiecznych sytuacjach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La prudence est importante dans les situations dangereuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cautela é importante em situações perigosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cautela è importante in situazioni pericolose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "allvarlig",
+        "translations": {
+            "ukrainian": "серйозний",
+            "english": "serious",
+            "spanish": "serio",
+            "german": "ernst",
+            "polish": "poważny",
+            "french": "sérieux",
+            "portuguese": "sério",
+            "italian": "serio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en allvarlig person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він серйозна людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a serious person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona seria."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein ernster Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest poważną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne sérieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa séria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona seria."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Allvarliga situationer kräver allvarliga beslut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Серйозні ситуації вимагають серйозних рішень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Serious situations require serious decisions."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las situaciones serias requieren decisiones serias."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ernste Situationen erfordern ernste Entscheidungen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poważne sytuacje wymagają poważnych decyzji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les situations sérieuses nécessitent des décisions sérieuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Situações sérias exigem decisões sérias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le situazioni serie richiedono decisioni serie."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon tog ett allvarligt ansiktsuttryck."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона прийняла серйозний вираз обличчя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She took on a serious expression."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella adoptó una expresión seria."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie nahm einen ernsten Gesichtsausdruck an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona przyjęła poważny wyraz twarzy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a pris une expression sérieuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela adotou uma expressão séria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha assunto un'espressione seria."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Allvarliga problem kräver omedelbar uppmärksamhet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Серйозні проблеми вимагають негайної уваги."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Serious problems require immediate attention."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los problemas serios requieren atención inmediata."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ernste Probleme erfordern sofortige Aufmerksamkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poważne problemy wymagają natychmiastowej uwagi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les problèmes sérieux nécessitent une attention immédiate."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Problemas sérios exigem atenção imediata."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I problemi seri richiedono attenzione immediata."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "noggrann",
+        "translations": {
+            "ukrainian": "ретельний",
+            "english": "thorough",
+            "spanish": "minucioso",
+            "german": "sorgfältig",
+            "polish": "dokładny",
+            "french": "méticuleux",
+            "portuguese": "minucioso",
+            "italian": "accurato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en noggrann arbetare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він ретельний працівник."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a thorough worker."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un trabajador minucioso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein sorgfältiger Arbeiter."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest dokładnym pracownikiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un travailleur méticuleux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um trabalhador minucioso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un lavoratore accurato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Noggrannhet är viktigt i vetenskapligt arbete."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ретельність важлива в науковій роботі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thoroughness is important in scientific work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La minuciosidad es importante en el trabajo científico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sorgfalt ist wichtig in der wissenschaftlichen Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dokładność jest ważna w pracy naukowej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La méticulosité est importante dans le travail scientifique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A minúcia é importante no trabalho científico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'accuratezza è importante nel lavoro scientifico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var noggrann med att kontrollera alla detaljer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була ретельною, перевіряючи всі деталі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was thorough in checking all the details."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella fue minuciosa al revisar todos los detalles."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war sorgfältig darin, alle Details zu überprüfen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona była dokładna, sprawdzając wszystkie szczegóły."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a été méticuleuse en vérifiant tous les détails."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela foi minuciosa ao verificar todos os detalhes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è stata accurata nel controllare tutti i dettagli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Noggranna människor gör sällan misstag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ретельні люди рідко роблять помилки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thorough people rarely make mistakes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas minuciosas rara vez cometen errores."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sorgfältige Menschen machen selten Fehler."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dokładni ludzie rzadko popełniają błędy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes méticuleuses font rarement des erreurs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas minuciosas raramente cometem erros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone accurate raramente commettono errori."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "realistisk",
+        "translations": {
+            "ukrainian": "реалістичний",
+            "english": "realistic",
+            "spanish": "realista",
+            "german": "realistisch",
+            "polish": "realistyczny",
+            "french": "réaliste",
+            "portuguese": "realista",
+            "italian": "realistico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en realistisk person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він реалістична людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a realistic person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona realista."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein realistischer Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest realistyczną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne réaliste."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa realista."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona realistica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Realistiska mål är lättare att uppnå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Реалістичні цілі легше досягти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Realistic goals are easier to achieve."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los objetivos realistas son más fáciles de alcanzar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Realistische Ziele sind leichter zu erreichen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Realistyczne cele są łatwiejsze do osiągnięcia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les objectifs réalistes sont plus faciles à atteindre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Objetivos realistas são mais fáceis de alcançar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli obiettivi realistici sono più facili da raggiungere."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har en realistisk syn på livet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона має реалістичний погляд на життя."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has a realistic view of life."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene una visión realista de la vida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat eine realistische Sicht auf das Leben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma realistyczne spojrzenie na życie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a une vision réaliste de la vie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem uma visão realista da vida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha una visione realistica della vita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Realistiska förväntningar leder till mindre besvikelse."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Реалістичні очікування призводять до меншого розчарування."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Realistic expectations lead to less disappointment."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las expectativas realistas conducen a menos decepciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Realistische Erwartungen führen zu weniger Enttäuschungen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Realistyczne oczekiwania prowadzą do mniejszego rozczarowania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les attentes réalistes mènent à moins de déception."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Expectativas realistas levam a menos decepções."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le aspettative realistiche portano a meno delusioni."
+                    }
+                ]
+            }
+        ]
+    }
+]

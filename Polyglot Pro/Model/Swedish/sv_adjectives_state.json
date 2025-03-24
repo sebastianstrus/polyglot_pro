@@ -1,0 +1,2102 @@
+[
+    {
+        "expression": "trött",
+        "translations": {
+            "ukrainian": "втомлений",
+            "english": "tired",
+            "spanish": "cansado",
+            "german": "müde",
+            "polish": "zmęczony",
+            "french": "fatigué",
+            "portuguese": "cansado",
+            "italian": "stanco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är trött efter jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я втомлений після роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am tired after work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy cansado después del trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin müde nach der Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem zmęczony po pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis fatigué après le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou cansado depois do trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono stanco dopo il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen blev trötta efter leken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти втомилися після гри."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children got tired after playing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños se cansaron después de jugar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder wurden müde nach dem Spielen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci zmęczyły się po zabawie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants étaient fatigués après avoir joué."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças ficaram cansadas depois de brincar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini si sono stancati dopo aver giocato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon såg trött ut på morgonen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядала втомленою вранці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looked tired in the morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella parecía cansada por la mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sah morgens müde aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyglądała na zmęczoną rano."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait l'air fatiguée ce matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parecia cansada de manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembrava stanca la mattina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig trött efter resan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся втомленим після подорожі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel tired after the trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento cansado después del viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich müde nach der Reise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się zmęczony po podróży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens fatigué après le voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou cansado depois da viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento stanco dopo il viaggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "pigg",
+        "translations": {
+            "ukrainian": "бадьорий",
+            "english": "energetic",
+            "spanish": "enérgico",
+            "german": "energisch",
+            "polish": "energiczny",
+            "french": "énergique",
+            "portuguese": "energético",
+            "italian": "energico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig pigg idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся бадьорим сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel energetic today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento enérgico hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich heute energisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się dziś energiczny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens énergique aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou me sentindo energético hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento energico oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen är pigga på morgonen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти бадьорі вранці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are energetic in the morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños están enérgicos por la mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder sind morgens energisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci są energiczne rano."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sont énergiques le matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estão energéticas de manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono energici al mattino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är alltid pigg efter träningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона завжди бадьора після тренування."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is always energetic after the workout."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella siempre está enérgica después del entrenamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist immer energisch nach dem Training."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest zawsze energiczna po treningu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est toujours énergique après l'entraînement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela está sempre energética depois do treino."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è sempre energica dopo l'allenamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag blev pigg av kaffet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я став бадьорим від кави."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I became energetic from the coffee."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me puse enérgico por el café."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich wurde durch den Kaffee energisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stałem się energiczny od kawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis devenu énergique grâce au café."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Fiquei energético com o café."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono diventato energico grazie al caffè."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sjuk",
+        "translations": {
+            "ukrainian": "хворий",
+            "english": "sick",
+            "spanish": "enfermo",
+            "german": "krank",
+            "polish": "chory",
+            "french": "malade",
+            "portuguese": "doente",
+            "italian": "malato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är sjuk idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хворий сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am sick today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy enfermo hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin heute krank."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem chory dziś."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis malade aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou doente hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono malato oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev sjuk under semestern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона захворіла під час відпустки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got sick during the vacation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se enfermó durante las vacaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde während des Urlaubs krank."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zachorowała podczas wakacji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est tombée malade pendant les vacances."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou doente durante as férias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è ammalata durante le vacanze."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen är sjuka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти хворі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are sick."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños están enfermos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder sind krank."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci są chore."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sont malades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estão doentes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono malati."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han känner sig sjuk."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він почувається хворим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He feels sick."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se siente enfermo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er fühlt sich krank."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On czuje się chory."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il se sent malade."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele se sente doente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si sente malato."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "frisk",
+        "translations": {
+            "ukrainian": "здоровий",
+            "english": "healthy",
+            "spanish": "saludable",
+            "german": "gesund",
+            "polish": "zdrowy",
+            "french": "en bonne santé",
+            "portuguese": "saudável",
+            "italian": "sano"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är frisk igen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я знову здоровий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am healthy again."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy saludable de nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin wieder gesund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem znowu zdrowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis de nouveau en bonne santé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou saudável novamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono di nuovo sano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon ser frisk ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядає здоровою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looks healthy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se ve saludable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sieht gesund aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona wygląda na zdrową."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a l'air en bonne santé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parece saudável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei sembra sana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen är friska och leker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти здорові і граються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children are healthy and playing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños están saludables y jugando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder sind gesund und spielen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci są zdrowe i bawią się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sont en bonne santé et jouent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças estão saudáveis e brincando."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono sani e stanno giocando."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Maten är frisk och god."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Їжа здорова і смачна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The food is healthy and tasty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La comida es saludable y sabrosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Essen ist gesund und lecker."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jedzenie jest zdrowe i smaczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nourriture est saine et savoureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A comida é saudável e saborosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cibo è sano e gustoso."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sömnig",
+        "translations": {
+            "ukrainian": "сонний",
+            "english": "sleepy",
+            "spanish": "soñoliento",
+            "german": "schläfrig",
+            "polish": "senny",
+            "french": "somnolent",
+            "portuguese": "sonolento",
+            "italian": "assonnato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är sömnig på morgonen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я сонний вранці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am sleepy in the morning."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy soñoliento por la mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin morgens schläfrig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem senny rano."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis somnolent le matin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou sonolento de manhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono assonnato la mattina."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Barnen blev sömniga efter filmen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Діти стали сонними після фільму."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The children got sleepy after the movie."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los niños se pusieron soñolientos después de la película."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kinder wurden nach dem Film schläfrig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzieci stały się senne po filmie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les enfants sont devenus somnolents après le film."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As crianças ficaram sonolentas depois do filme."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I bambini sono diventati assonnati dopo il film."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon såg sömnig ut efter middagen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядала сонною після вечері."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looked sleepy after dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella parecía soñolienta después de la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sah nach dem Abendessen schläfrig aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyglądała na senną po kolacji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait l'air somnolente après le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parecia sonolenta depois do jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembrava assonnata dopo cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig sömnig efter lunchen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся сонним після обіду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel sleepy after lunch."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento soñoliento después del almuerzo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich nach dem Mittagessen schläfrig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się senny po obiedzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens somnolent après le déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou sonolento depois do almoço."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento assonnato dopo pranzo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "utmattad",
+        "translations": {
+            "ukrainian": "виснажений",
+            "english": "exhausted",
+            "spanish": "agotado",
+            "german": "erschöpft",
+            "polish": "wyczerpany",
+            "french": "épuisé",
+            "portuguese": "exausto",
+            "italian": "esausto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är utmattad efter träningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я виснажений після тренування."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am exhausted after the workout."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy agotado después del entrenamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin erschöpft nach dem Training."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem wyczerpany po treningu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis épuisé après l'entraînement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou exausto depois do treino."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono esausto dopo l'allenamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon såg utmattad ut efter jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядала виснаженою після роботи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looked exhausted after work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella parecía agotada después del trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sah nach der Arbeit erschöpft aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyglądała na wyczerpaną po pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait l'air épuisée après le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parecia exausta depois do trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembrava esausta dopo il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev utmattade efter vandringen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми виснажилися після походу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We got exhausted after the hike."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos quedamos agotados después de la caminata."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wurden nach der Wanderung erschöpft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Staliśmy się wyczerpani po wędrówce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étions épuisés après la randonnée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficamos exaustos depois da caminhada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo diventati esausti dopo l'escursione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han kände sig utmattad efter resan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він почувався виснаженим після подорожі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He felt exhausted after the trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se sintió agotado después del viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er fühlte sich nach der Reise erschöpft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuł się wyczerpany po podróży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il se sentait épuisé après le voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele se sentiu exausto depois da viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si sentiva esausto dopo il viaggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "svettig",
+        "translations": {
+            "ukrainian": "спітнілий",
+            "english": "sweaty",
+            "spanish": "sudoroso",
+            "german": "verschwitzt",
+            "polish": "spocony",
+            "french": "en sueur",
+            "portuguese": "suado",
+            "italian": "sudato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är svettig efter träningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я спітнілий після тренування."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am sweaty after the workout."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy sudoroso después del entrenamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin verschwitzt nach dem Training."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem spocony po treningu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis en sueur après l'entraînement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou suado depois do treino."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono sudato dopo l'allenamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han blev svettig av värmen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він спітнів від спеки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He got sweaty from the heat."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se puso sudoroso por el calor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er wurde durch die Hitze verschwitzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spocił się od upału."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est devenu en sueur à cause de la chaleur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele ficou suado por causa do calor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È diventato sudato a causa del caldo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon var svettig efter dansen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона була спітніла після танців."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She was sweaty after dancing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella estaba sudorosa después de bailar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie war nach dem Tanzen verschwitzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Była spocona po tańcu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle était en sueur après avoir dansé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela estava suada depois de dançar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era sudata dopo aver ballato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev svettiga av att springa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми спітніли від бігу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We got sweaty from running."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos pusimos sudorosos de correr."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wurden vom Laufen verschwitzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spociliśmy się od biegania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étions en sueur après avoir couru."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficamos suados de correr."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo diventati sudati correndo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "stressad",
+        "translations": {
+            "ukrainian": "стресований",
+            "english": "stressed",
+            "spanish": "estresado",
+            "german": "gestresst",
+            "polish": "zestresowany",
+            "french": "stressé",
+            "portuguese": "estressado",
+            "italian": "stressato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är stressad inför provet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я стресований перед іспитом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am stressed about the exam."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy estresado por el examen."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin wegen der Prüfung gestresst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem zestresowany przed egzaminem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis stressé à cause de l'examen."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou estressado com a prova."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono stressato per l'esame."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev stressad av jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона стала стресованою через роботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got stressed from work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se estresó por el trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde durch die Arbeit gestresst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zestresowała się przez pracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est devenue stressée à cause du travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou estressada com o trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è stressata per il lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han ser stressad ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виглядає стресованим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He looks stressed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él parece estresado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sieht gestresst aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wygląda na zestresowanego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a l'air stressé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele parece estressado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembra stressato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev stressade av att hinna med tåget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми стресонулися через те, що поспішали на потяг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We got stressed trying to catch the train."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos estresamos por llegar al tren."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wurden gestresst, weil wir den Zug erreichen wollten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zestresowaliśmy się, próbując zdążyć na pociąg."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étions stressés en essayant d'attraper le train."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficamos estressados tentando pegar o trem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo stressati cercando di prendere il treno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "avslappnad",
+        "translations": {
+            "ukrainian": "розслаблений",
+            "english": "relaxed",
+            "spanish": "relajado",
+            "german": "entspannt",
+            "polish": "zrelaksowany",
+            "french": "détendu",
+            "portuguese": "relaxado",
+            "italian": "rilassato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig avslappnad efter badet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся розслабленим після ванни."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel relaxed after the bath."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento relajado después del baño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich nach dem Bad entspannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się zrelaksowany po kąpieli."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens détendu après le bain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou relaxado depois do banho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento rilassato dopo il bagno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon såg avslappnad ut på semestern."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона виглядала розслабленою під час відпустки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She looked relaxed on vacation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella parecía relajada en las vacaciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sah im Urlaub entspannt aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wyglądała na zrelaksowaną na wakacjach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle avait l'air détendue en vacances."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela parecia relaxada nas férias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembrava rilassata in vacanza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev avslappnade efter massagen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розслабилися після масажу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We got relaxed after the massage."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos relajamos después del masaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wurden nach der Massage entspannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrelaksowaliśmy się po masażu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étions détendus après le massage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficamos relaxados depois da massagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo rilassati dopo il massaggio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han kände sig avslappnad efter yogaträningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він почувався розслабленим після заняття йогою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He felt relaxed after the yoga session."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se sintió relajado después de la sesión de yoga."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er fühlte sich nach der Yogastunde entspannt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuł się zrelaksowany po sesji jogi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il se sentait détendu après la séance de yoga."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele se sentiu relaxado depois da sessão de ioga."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si sentiva rilassato dopo la sessione di yoga."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "nervös",
+        "translations": {
+            "ukrainian": "нервовий",
+            "english": "nervous",
+            "spanish": "nervioso",
+            "german": "nervös",
+            "polish": "nerwowy",
+            "french": "nerveux",
+            "portuguese": "nervoso",
+            "italian": "nervoso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är nervös inför presentationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я нервую перед презентацією."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am nervous about the presentation."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy nervioso por la presentación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin nervös wegen der Präsentation."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem nerwowy przed prezentacją."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis nerveux à cause de la présentation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou nervoso com a apresentação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono nervoso per la presentazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev nervös inför flygresan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона занервувала перед польотом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got nervous before the flight."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se puso nerviosa antes del vuelo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde vor dem Flug nervös."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zestresowała się przed lotem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est devenue nerveuse avant le vol."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ficou nervosa antes do voo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è innervosita prima del volo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han ser nervös ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виглядає нервовим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He looks nervous."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él parece nervioso."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sieht nervös aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wygląda na nerwowego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a l'air nerveux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele parece nervoso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembra nervoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev nervösa inför mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми занервували перед зустріччю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We got nervous before the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos pusimos nerviosos antes de la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wurden vor dem Meeting nervös."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zestresowaliśmy się przed spotkaniem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous étions nerveux avant la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ficamos nervosos antes da reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo innervositi prima della riunione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fokuserad",
+        "translations": {
+            "ukrainian": "зосереджений",
+            "english": "focused",
+            "spanish": "concentrado",
+            "german": "konzentriert",
+            "polish": "skupiony",
+            "french": "concentré",
+            "portuguese": "concentrado",
+            "italian": "concentrato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är fokuserad på arbetet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я зосереджений на роботі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am focused on the work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy concentrado en el trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin auf die Arbeit konzentriert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem skupiony na pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis concentré sur le travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou concentrado no trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono concentrato sul lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev fokuserad under mötet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зосередилася під час зустрічі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got focused during the meeting."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se concentró durante la reunión."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie konzentrierte sich während des Meetings."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skupiła się podczas spotkania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est concentrée pendant la réunion."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela se concentrou durante a reunião."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è concentrata durante la riunione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han ser fokuserad ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виглядає зосередженим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He looks focused."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él parece concentrado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sieht konzentriert aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wygląda na skupionego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a l'air concentré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele parece concentrado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembra concentrato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev fokuserade på uppgiften."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми зосередилися на завданні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We got focused on the task."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos concentramos en la tarea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir konzentrierten uns auf die Aufgabe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skupiliśmy się na zadaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous sommes concentrés sur la tâche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nos concentramos na tarefa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo concentrati sul compito."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "distraherad",
+        "translations": {
+            "ukrainian": "розсіяний",
+            "english": "distracted",
+            "spanish": "distraído",
+            "german": "abgelenkt",
+            "polish": "rozproszony",
+            "french": "distrait",
+            "portuguese": "distraído",
+            "italian": "distratto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag är distraherad av ljuden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я розсіяний через звуки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am distracted by the sounds."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Estoy distraído por los sonidos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bin durch die Geräusche abgelenkt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jestem rozproszony przez dźwięki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je suis distrait par les bruits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Estou distraído com os sons."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sono distratto dai rumori."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon blev distraherad av telefonen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона відволіклася через телефон."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She got distracted by the phone."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se distrajo con el teléfono."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie wurde durch das Telefon abgelenkt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozproszyła się przez telefon."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a été distraite par le téléphone."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela se distraiu com o telefone."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si è distratta con il telefono."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han ser distraherad ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він виглядає розсіяним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He looks distracted."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él parece distraído."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sieht abgelenkt aus."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wygląda na rozproszonego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a l'air distrait."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele parece distraído."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Sembra distratto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi blev distraherade av pratet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми відволіклися через розмову."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We got distracted by the talking."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos distrajimos por la conversación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir wurden durch das Gespräch abgelenkt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozproszyliśmy się przez rozmowę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons été distraits par la conversation."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nos distraímos com a conversa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo distratti con la conversazione."
+                    }
+                ]
+            }
+        ]
+    }
+]

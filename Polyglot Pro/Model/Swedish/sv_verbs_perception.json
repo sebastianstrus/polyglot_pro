@@ -1,0 +1,3852 @@
+[
+    {
+        "expression": "se",
+        "translations": {
+            "ukrainian": "бачити",
+            "english": "see",
+            "spanish": "ver",
+            "german": "sehen",
+            "polish": "widzieć",
+            "french": "voir",
+            "portuguese": "ver",
+            "italian": "vedere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ser en fågel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я бачу птаха."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I see a bird."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Veo un pájaro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich sehe einen Vogel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Widzę ptaka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vois un oiseau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vejo um pássaro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vedo un uccello."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ser du mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти мене бачиш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Do you see me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Me ves?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Siehst du mich?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Widzisz mnie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu me vois?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você me vê?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi vedi?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi såg en film igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми подивилися фільм вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We watched a movie yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vimos una película ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben gestern einen Film gesehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obejrzeliśmy film wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons regardé un film hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós assistimos a um filme ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo visto un film ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att se solnedgången."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони побачать захід сонця."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to see the sunset."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a ver el atardecer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden den Sonnenuntergang sehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zobaczą zachód słońca."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont voir le coucher du soleil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão ver o pôr do sol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro vedranno il tramonto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "titta",
+        "translations": {
+            "ukrainian": "дивитися",
+            "english": "look",
+            "spanish": "mirar",
+            "german": "schauen",
+            "polish": "patrzeć",
+            "french": "regarder",
+            "portuguese": "olhar",
+            "italian": "guardare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Titta på den där fågeln!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Подивись на того птаха!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Look at that bird!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Mira ese pájaro!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schau dir diesen Vogel an!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Spójrz na tego ptaka!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Regarde cet oiseau !"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olhe aquele pássaro!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Guarda quell'uccello!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Titta inte på mig så där."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Не дивись на мене так."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Don't look at me like that."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No me mires así."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schau mich nicht so an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie patrz na mnie w ten sposób."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ne me regarde pas comme ça."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não olhe para mim assim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non guardarmi così."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi tittade på en film igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми подивилися фільм вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We watched a movie yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vimos una película ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben gestern einen Film geschaut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obejrzeliśmy film wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons regardé un film hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós assistimos a um filme ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo guardato un film ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att titta på fotbollsmatch."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть дивитися футбольний матч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to watch a football match."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a ver un partido de fútbol."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden ein Fußballspiel anschauen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą oglądać mecz piłki nożnej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont regarder un match de football."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão assistir a um jogo de futebol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro guarderanno una partita di calcio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "betrakta",
+        "translations": {
+            "ukrainian": "розглядати",
+            "english": "consider",
+            "spanish": "considerar",
+            "german": "betrachten",
+            "polish": "rozważać",
+            "french": "considérer",
+            "portuguese": "considerar",
+            "italian": "considerare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag betraktar honom som en vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я розглядаю його як друга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I consider him a friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Lo considero un amigo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich betrachte ihn als einen Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uważam go za przyjaciela."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je le considère comme un ami."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu o considero um amigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo considero un amico."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon betraktade situationen noggrant."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона уважно розглянула ситуацію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She considered the situation carefully."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella consideró la situación cuidadosamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie betrachtete die Situation sorgfältig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dokładnie rozważyła sytuację."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a examiné la situation attentivement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela considerou a situação cuidadosamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha considerato la situazione attentamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi betraktar detta som en möjlighet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми розглядаємо це як можливість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We consider this an opportunity."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Consideramos esto una oportunidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir betrachten dies als eine Gelegenheit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uważamy to za okazję."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous considérons cela comme une opportunité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós consideramos isso uma oportunidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Consideriamo questo un'opportunità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att betrakta ditt förslag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони розглянуть вашу пропозицію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to consider your proposal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a considerar tu propuesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden Ihren Vorschlag betrachten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rozważą twoją propozycję."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont considérer votre proposition."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão considerar sua proposta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro considereranno la tua proposta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "observera",
+        "translations": {
+            "ukrainian": "спостерігати",
+            "english": "observe",
+            "spanish": "observar",
+            "german": "beobachten",
+            "polish": "obserwować",
+            "french": "observer",
+            "portuguese": "observar",
+            "italian": "osservare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag observerade fåglarna i parken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я спостерігав за птахами в парку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I observed the birds in the park."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Observé a los pájaros en el parque."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich beobachtete die Vögel im Park."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obserwowałem ptaki w parku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai observé les oiseaux dans le parc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu observei os pássaros no parque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho osservato gli uccelli nel parco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon observerade en förändring i hans beteende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона помітила зміну в його поведінці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She observed a change in his behavior."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella observó un cambio en su comportamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie beobachtete eine Veränderung in seinem Verhalten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zaobserwowała zmianę w jego zachowaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a observé un changement dans son comportement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela observou uma mudança no comportamento dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha osservato un cambiamento nel suo comportamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi observerade stjärnorna på natten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми спостерігали зірки вночі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We observed the stars at night."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Observamos las estrellas por la noche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir beobachteten die Sterne in der Nacht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obserwowaliśmy gwiazdy w nocy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons observé les étoiles la nuit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós observamos as estrelas à noite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo osservato le stelle di notte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att observera experimentet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть спостерігати за експериментом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to observe the experiment."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a observar el experimento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden das Experiment beobachten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą obserwować eksperyment."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont observer l'expérience."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão observar o experimento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro osserveranno l'esperimento."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "märka",
+        "translations": {
+            "ukrainian": "помічати",
+            "english": "notice",
+            "spanish": "notar",
+            "german": "bemerken",
+            "polish": "zauważyć",
+            "french": "remarquer",
+            "portuguese": "notar",
+            "italian": "notare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag märkte en förändring i hans humör."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я помітив зміну в його настрої."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I noticed a change in his mood."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Noté un cambio en su estado de ánimo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bemerkte eine Veränderung in seiner Stimmung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyłem zmianę w jego nastroju."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai remarqué un changement dans son humeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu notei uma mudança no humor dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho notato un cambiamento nel suo umore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon märkte att något var fel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона помітила, що щось не так."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She noticed that something was wrong."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella notó que algo estaba mal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bemerkte, dass etwas nicht stimmte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyła, że coś jest nie tak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a remarqué que quelque chose n'allait pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela percebeu que algo estava errado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha notato che qualcosa non andava."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi märkte en skillnad i kvaliteten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми помітили різницю в якості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We noticed a difference in quality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Notamos una diferencia en la calidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir bemerkten einen Unterschied in der Qualität."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyliśmy różnicę w jakości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons remarqué une différence dans la qualité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós notamos uma diferença na qualidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo notato una differenza nella qualità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att märka förändringen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони помітять зміну."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to notice the change."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a notar el cambio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden die Veränderung bemerken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważą zmianę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont remarquer le changement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão notar a mudança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro noteranno il cambiamento."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "skåda",
+        "translations": {
+            "ukrainian": "споглядати",
+            "english": "behold",
+            "spanish": "contemplar",
+            "german": "erblicken",
+            "polish": "oglądać",
+            "french": "contempler",
+            "portuguese": "contemplar",
+            "italian": "contemplare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag skådade solnedgången."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я споглядав захід сонця."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I beheld the sunset."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Contemplé el atardecer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich erblickte den Sonnenuntergang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oglądałem zachód słońca."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai contemplé le coucher du soleil."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu contemplei o pôr do sol."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho contemplato il tramonto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon skådade landskapet med förundran."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона споглядала пейзаж із захопленням."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She beheld the landscape with wonder."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella contempló el paisaje con asombro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erblickte die Landschaft mit Staunen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oglądała krajobraz z zachwytem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a contemplé le paysage avec émerveillement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela contemplou a paisagem com admiração."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei contemplò il paesaggio con meraviglia."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi skådade konstverket med beundran."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми споглядали твір мистецтва з захопленням."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We beheld the artwork with admiration."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Contemplamos la obra de arte con admiración."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erblickten das Kunstwerk mit Bewunderung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oglądaliśmy dzieło sztuki z podziwem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons contemplé l'œuvre d'art avec admiration."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós contemplamos a obra de arte com admiração."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo contemplato l'opera d'arte con ammirazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att skåda den nya byggnaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть споглядати нову будівлю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to behold the new building."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a contemplar el nuevo edificio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden das neue Gebäude erblicken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą oglądać nowy budynek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont contempler le nouveau bâtiment."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão contemplar o novo edifício."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro contempleranno il nuovo edificio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "höra",
+        "translations": {
+            "ukrainian": "чути",
+            "english": "hear",
+            "spanish": "oír",
+            "german": "hören",
+            "polish": "słyszeć",
+            "french": "entendre",
+            "portuguese": "ouvir",
+            "italian": "sentire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag hörde en fågel sjunga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я чув, як співає птах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I heard a bird singing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escuché un pájaro cantar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich hörte einen Vogel singen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słyszałem śpiew ptaka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai entendu un oiseau chanter."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu ouvi um pássaro cantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho sentito un uccello cantare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon hörde ett konstigt ljud."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона почула дивний звук."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She heard a strange sound."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella escuchó un sonido extraño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hörte ein seltsames Geräusch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Usłyszała dziwny dźwięk."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a entendu un bruit étrange."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela ouviu um som estranho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha sentito un suono strano."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi hörde musik från grannens hus."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми чули музику з сусіднього будинку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We heard music from the neighbor's house."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escuchamos música de la casa del vecino."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hörten Musik vom Haus des Nachbarn."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słyszeliśmy muzykę z domu sąsiada."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons entendu de la musique venant de la maison du voisin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós ouvimos música da casa do vizinho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo sentito musica dalla casa del vicino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att höra nyheten snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони почують новину скоро."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to hear the news soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a escuchar la noticia pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden die Nachricht bald hören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Usłyszą wiadomość wkrótce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont entendre la nouvelle bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão ouvir a notícia em breve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro sentiranno la notizia presto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lyssna",
+        "translations": {
+            "ukrainian": "слухати",
+            "english": "listen",
+            "spanish": "escuchar",
+            "german": "zuhören",
+            "polish": "słuchać",
+            "french": "écouter",
+            "portuguese": "escutar",
+            "italian": "ascoltare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag lyssnar på musik varje dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я слухаю музику кожного дня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I listen to music every day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escucho música todos los días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich höre jeden Tag Musik."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słucham muzyki każdego dnia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'écoute de la musique tous les jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu escuto música todos os dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ascolto musica ogni giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lyssnade på hans råd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона слухала його поради."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She listened to his advice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella escuchó sus consejos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hörte auf seinen Rat."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słuchała jego rad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a écouté ses conseils."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela escutou os conselhos dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha ascoltato i suoi consigli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lyssnade på föreläsningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми слухали лекцію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We listened to the lecture."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escuchamos la conferencia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hörten den Vortrag an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słuchaliśmy wykładu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons écouté la conférence."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós escutamos a palestra."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo ascoltato la lezione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att lyssna på ditt förslag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть слухати вашу пропозицію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to listen to your proposal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a escuchar tu propuesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden Ihren Vorschlag anhören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą słuchać twojej propozycji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont écouter votre proposition."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão escutar sua proposta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro ascolteranno la tua proposta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lyssna på",
+        "translations": {
+            "ukrainian": "слухати (щось конкретне)",
+            "english": "listen to (something specific)",
+            "spanish": "escuchar (algo específico)",
+            "german": "zuhören (etwas Bestimmtes)",
+            "polish": "słuchać (czegoś konkretnego)",
+            "french": "écouter (quelque chose de spécifique)",
+            "portuguese": "escutar (algo específico)",
+            "italian": "ascoltare (qualcosa di specifico)"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag lyssnar på radion."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я слухаю радіо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I listen to the radio."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escucho la radio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich höre Radio."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słucham radia."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'écoute la radio."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu escuto o rádio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ascolto la radio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon lyssnade på en podd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона слухала подкаст."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She listened to a podcast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella escuchó un podcast."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hörte einen Podcast."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słuchała podcastu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a écouté un podcast."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela escutou um podcast."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha ascoltato un podcast."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi lyssnade på en föreläsning."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми слухали лекцію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We listened to a lecture."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Escuchamos una conferencia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir hörten einen Vortrag an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słuchaliśmy wykładu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons écouté une conférence."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós escutamos uma palestra."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo ascoltato una lezione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att lyssna på ditt förslag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть слухати вашу пропозицію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to listen to your proposal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a escuchar tu propuesta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden Ihren Vorschlag anhören."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą słuchać twojej propozycji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont écouter votre proposition."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão escutar sua proposta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro ascolteranno la tua proposta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "känna",
+        "translations": {
+            "ukrainian": "відчувати",
+            "english": "feel",
+            "spanish": "sentir",
+            "german": "fühlen",
+            "polish": "czuć",
+            "french": "sentir",
+            "portuguese": "sentir",
+            "italian": "sentire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag känner mig glad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я почуваюся щасливим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I feel happy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me siento feliz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich fühle mich glücklich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czuję się szczęśliwy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me sens heureux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me sinto feliz."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sento felice."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kände en kall vind."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона відчула холодний вітер."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She felt a cold wind."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella sintió un viento frío."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie spürte einen kalten Wind."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poczuła zimny wiatr."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a senti un vent froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela sentiu um vento frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha sentito un vento freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi kände en stark lukt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми відчули сильний запах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We felt a strong smell."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Sentimos un olor fuerte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir spürten einen starken Geruch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Poczułiśmy silny zapach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons senti une forte odeur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós sentimos um cheiro forte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo sentito un odore forte."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att känna sig trötta efter resan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть почуватися втомленими після подорожі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to feel tired after the trip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a sentirse cansados después del viaje."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden sich nach der Reise müde fühlen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą czuć się zmęczeni po podróży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont se sentir fatigués après le voyage."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão se sentir cansados após a viagem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si sentiranno stanchi dopo il viaggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "känna på",
+        "translations": {
+            "ukrainian": "відчувати (на дотик)",
+            "english": "feel (by touch)",
+            "spanish": "tocar",
+            "german": "befühlen",
+            "polish": "dotykać",
+            "french": "toucher",
+            "portuguese": "tocar",
+            "italian": "toccare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag kände på tyget för att känna kvaliteten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я відчув тканину, щоб оцінити якість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I felt the fabric to assess the quality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Toqué la tela para evaluar la calidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich befühlte den Stoff, um die Qualität zu beurteilen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dotknąłem materiału, aby ocenić jakość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai touché le tissu pour évaluer la qualité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu toquei o tecido para avaliar a qualidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho toccato il tessuto per valutarne la qualità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon kände på väggen för att hitta strömbrytaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона торкнулася стіни, щоб знайти вимикач."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She felt the wall to find the light switch."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tocó la pared para encontrar el interruptor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie befühlte die Wand, um den Lichtschalter zu finden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dotknęła ściany, aby znaleźć włącznik."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a touché le mur pour trouver l'interrupteur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tocou a parede para encontrar o interruptor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha toccato il muro per trovare l'interruttore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi kände på frukten för att se om den var mogen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми торкнулися фрукта, щоб перевірити, чи він стиглий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We felt the fruit to see if it was ripe."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tocamos la fruta para ver si estaba madura."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir befühlten die Frucht, um zu sehen, ob sie reif war."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dotknęliśmy owocu, aby sprawdzić, czy jest dojrzały."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons touché le fruit pour voir s'il était mûr."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós tocamos a fruta para ver se estava madura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo toccato la frutta per vedere se era matura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att känna på materialet innan de köper det."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони будуть торкатися матеріалу перед тим, як купити його."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to feel the material before buying it."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a tocar el material antes de comprarlo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden das Material befühlen, bevor sie es kaufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą dotykać materiału przed zakupem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont toucher le matériau avant de l'acheter."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão tocar o material antes de comprá-lo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro toccheranno il materiale prima di acquistarlo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "smaka",
+        "translations": {
+            "ukrainian": "смакувати",
+            "english": "taste",
+            "spanish": "saborear",
+            "german": "schmecken",
+            "polish": "smakować",
+            "french": "goûter",
+            "portuguese": "saborear",
+            "italian": "assaggiare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag smakade på soppan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я скуштував суп."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I tasted the soup."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Probé la sopa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe die Suppe probiert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztowałem zupy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai goûté la soupe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu provei a sopa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho assaggiato la zuppa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon smakade på vinet för att känna dess smak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона скуштувала вино, щоб відчути його смак."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She tasted the wine to feel its flavor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella probó el vino para sentir su sabor."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie probierte den Wein, um seinen Geschmack zu spüren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztowała wina, aby poczuć jego smak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a goûté le vin pour en sentir le goût."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela provou o vinho para sentir seu sabor."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha assaggiato il vino per sentirne il sapore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi smakade på olika ostar på marknaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми скуштували різні сири на ринку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We tasted different cheeses at the market."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Probamos diferentes quesos en el mercado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir probierten verschiedene Käse auf dem Markt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztowaliśmy różnych serów na rynku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons goûté différents fromages au marché."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós provamos diferentes queijos no mercado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo assaggiato diversi formaggi al mercato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att smaka på den nya rätten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони скуштують нову страву."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to taste the new dish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a probar el nuevo plato."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden das neue Gericht probieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztują nowej potrawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont goûter le nouveau plat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão provar o novo prato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro assaggeranno il nuovo piatto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "smaka på",
+        "translations": {
+            "ukrainian": "скуштувати",
+            "english": "taste (something specific)",
+            "spanish": "probar (algo específico)",
+            "german": "probieren (etwas Bestimmtes)",
+            "polish": "skosztować (czegoś konkretnego)",
+            "french": "goûter (quelque chose de spécifique)",
+            "portuguese": "provar (algo específico)",
+            "italian": "assaggiare (qualcosa di specifico)"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag smakade på den nya kakan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я скуштував нове печиво."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I tasted the new cookie."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Probé la nueva galleta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe den neuen Keks probiert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztowałem nowego ciastka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai goûté le nouveau biscuit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu provei o novo biscoito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho assaggiato il nuovo biscotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon smakade på vinet och log."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона скуштувала вино і посміхнулася."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She tasted the wine and smiled."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella probó el vino y sonrió."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie probierte den Wein und lächelte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztowała wina i uśmiechnęła się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a goûté le vin et a souri."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela provou o vinho e sorriu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha assaggiato il vino e ha sorriso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi smakade på den lokala specialiteten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми скуштували місцеву спеціальність."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We tasted the local specialty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Probamos la especialidad local."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir probierten die lokale Spezialität."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztowaliśmy lokalnego specjału."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons goûté la spécialité locale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós provamos a especialidade local."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo assaggiato la specialità locale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att smaka på den nya rätten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони скуштують нову страву."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to taste the new dish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a probar el nuevo plato."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden das neue Gericht probieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skosztują nowej potrawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont goûter le nouveau plat."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão provar o novo prato."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro assaggeranno il nuovo piatto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lukta",
+        "translations": {
+            "ukrainian": "нюхати",
+            "english": "smell",
+            "spanish": "oler",
+            "german": "riechen",
+            "polish": "wąchać",
+            "french": "sentir",
+            "portuguese": "cheirar",
+            "italian": "annusare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag luktade på blommorna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я понюхав квіти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I smelled the flowers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Olí las flores."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich roch an den Blumen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachniałem kwiatami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai senti les fleurs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu cheirei as flores."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho annusato i fiori."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon luktade på maten för att se om den var god."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона понюхала їжу, щоб перевірити, чи вона смачна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She smelled the food to see if it was tasty."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella olió la comida para ver si estaba sabrosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie roch an dem Essen, um zu sehen, ob es lecker war."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachniała jedzeniem, aby sprawdzić, czy jest smaczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a senti la nourriture pour voir si elle était savoureuse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela cheirou a comida para ver se estava saborosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha annusato il cibo per vedere se era gustoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi luktade på den nya parfymen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми понюхали нові духи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We smelled the new perfume."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Olimos el nuevo perfume."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir rochen das neue Parfüm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachnieliśmy nowymi perfumami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons senti le nouveau parfum."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cheiramos o novo perfume."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo annusato il nuovo profumo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att lukta på de nya kryddorna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони понюхають нові спеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to smell the new spices."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a oler las nuevas especias."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden die neuen Gewürze riechen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą wąchać nowe przyprawy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont sentir les nouvelles épices."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão cheirar as novas especiarias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro annuseranno le nuove spezie."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lukta på",
+        "translations": {
+            "ukrainian": "понюхати (щось конкретне)",
+            "english": "smell (something specific)",
+            "spanish": "oler (algo específico)",
+            "german": "riechen (etwas Bestimmtes)",
+            "polish": "wąchać (coś konkretnego)",
+            "french": "sentir (quelque chose de spécifique)",
+            "portuguese": "cheirar (algo específico)",
+            "italian": "annusare (qualcosa di specifico)"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag luktade på blommorna i trädgården."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я понюхав квіти в саду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I smelled the flowers in the garden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Olí las flores en el jardín."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich roch an den Blumen im Garten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachniałem kwiatami w ogrodzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai senti les fleurs dans le jardin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu cheirei as flores no jardim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho annusato i fiori nel giardino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon luktade på den nya parfymen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона понюхала нові духи."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She smelled the new perfume."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella olió el nuevo perfume."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie roch an dem neuen Parfüm."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachniała nowymi perfumami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a senti le nouveau parfum."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela cheirou o novo perfume."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha annusato il nuovo profumo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi luktade på de färska kryddorna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми понюхали свіжі спеції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We smelled the fresh spices."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Olimos las especias frescas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir rochen an den frischen Gewürzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pachnieliśmy świeżymi przyprawami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons senti les épices fraîches."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós cheiramos as especiarias frescas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo annusato le spezie fresche."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att lukta på de nya blommorna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони понюхають нові квіти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to smell the new flowers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a oler las nuevas flores."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden die neuen Blumen riechen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą wąchać nowe kwiaty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont sentir les nouvelles fleurs."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão cheirar as novas flores."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro annuseranno i nuovi fiori."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "uppfatta",
+        "translations": {
+            "ukrainian": "сприймати",
+            "english": "perceive",
+            "spanish": "percibir",
+            "german": "wahrnehmen",
+            "polish": "postrzegać",
+            "french": "percevoir",
+            "portuguese": "perceber",
+            "italian": "percepire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag uppfattade en förändring i hans röst."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я сприйняв зміну в його голосі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I perceived a change in his voice."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Percibí un cambio en su voz."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich nahm eine Veränderung in seiner Stimme wahr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyłem zmianę w jego głosie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai perçu un changement dans sa voix."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu percebi uma mudança na voz dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho percepito un cambiamento nella sua voce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon uppfattade en oro i hans ögon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона сприйняла тривогу в його очах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She perceived anxiety in his eyes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella percibió ansiedad en sus ojos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie nahm Angst in seinen Augen wahr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostrzegła niepokój w jego oczach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a perçu de l'anxiété dans ses yeux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela percebeu ansiedade nos olhos dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha percepito ansia nei suoi occhi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi uppfattade en positiv förändring i atmosfären."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми сприйняли позитивну зміну в атмосфері."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We perceived a positive change in the atmosphere."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Percibimos un cambio positivo en el ambiente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir nahmen eine positive Veränderung in der Atmosphäre wahr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyliśmy pozytywną zmianę w atmosferze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons perçu un changement positif dans l'atmosphère."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós percebemos uma mudança positiva na atmosfera."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo percepito un cambiamento positivo nell'atmosfera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att uppfatta skillnaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони сприймуть різницю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to perceive the difference."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a percibir la diferencia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden den Unterschied wahrnehmen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważą różnicę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont percevoir la différence."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão perceber a diferença."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro percepiranno la differenza."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "ana",
+        "translations": {
+            "ukrainian": "відчувати (інтуїтивно)",
+            "english": "sense (intuitively)",
+            "spanish": "intuir",
+            "german": "ahnen",
+            "polish": "przeczuwać",
+            "french": "pressentir",
+            "portuguese": "pressentir",
+            "italian": "intuire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag anade att något var fel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я відчув, що щось не так."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I sensed that something was wrong."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Intuí que algo estaba mal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich ahnte, dass etwas nicht stimmte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przeczuwałem, że coś jest nie tak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai pressenti que quelque chose n'allait pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu pressenti que algo estava errado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intuito che qualcosa non andava."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon anade att det skulle bli regn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона відчула, що буде дощ."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She sensed that it would rain."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella intuyó que iba a llover."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ahnte, dass es regnen würde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przeczuwała, że będzie padać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a pressenti qu'il allait pleuvoir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela pressentiu que ia chover."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha intuito che avrebbe piovuto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi anade att något stort skulle hända."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми відчули, що щось велике має статися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We sensed that something big was going to happen."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Intuimos que algo grande iba a suceder."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir ahnten, dass etwas Großes passieren würde."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przeczuwaliśmy, że coś wielkiego się wydarzy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons pressenti que quelque chose de grand allait se produire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós pressentimos que algo grande ia acontecer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo intuito che qualcosa di grande stava per accadere."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att ana att något är på gång."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони відчують, що щось готується."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to sense that something is going on."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a intuir que algo está pasando."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden ahnen, dass etwas im Gange ist."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Będą przeczuwać, że coś się dzieje."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont pressentir que quelque chose se passe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão pressentir que algo está acontecendo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro intuiranno che qualcosa sta succedendo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "notera",
+        "translations": {
+            "ukrainian": "помічати",
+            "english": "note",
+            "spanish": "notar",
+            "german": "bemerken",
+            "polish": "zauważyć",
+            "french": "noter",
+            "portuguese": "notar",
+            "italian": "notare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag noterade en förändring i hans beteende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я помітив зміну в його поведінці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I noted a change in his behavior."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Noté un cambio en su comportamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich bemerkte eine Veränderung in seinem Verhalten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyłem zmianę w jego zachowaniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai noté un changement dans son comportement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu notei uma mudança no comportamento dele."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho notato un cambiamento nel suo comportamento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon noterade att något var annorlunda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона помітила, що щось було інакше."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She noted that something was different."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella notó que algo era diferente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie bemerkte, dass etwas anders war."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyła, że coś było inaczej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a noté que quelque chose était différent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela notou que algo estava diferente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha notato che qualcosa era diverso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi noterade en ökning i försäljningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми помітили збільшення продажів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We noted an increase in sales."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Notamos un aumento en las ventas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir bemerkten einen Anstieg der Verkäufe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważyliśmy wzrost sprzedaży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons noté une augmentation des ventes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós notamos um aumento nas vendas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo notato un aumento delle vendite."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att notera skillnaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони помітять різницю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to note the difference."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a notar la diferencia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden den Unterschied bemerken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zauważą różnicę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont noter la différence."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão notar a diferença."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro noteranno la differenza."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "registrera",
+        "translations": {
+            "ukrainian": "реєструвати",
+            "english": "register",
+            "spanish": "registrar",
+            "german": "registrieren",
+            "polish": "rejestrować",
+            "french": "enregistrer",
+            "portuguese": "registrar",
+            "italian": "registrare"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag registrerade en ny användare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я зареєстрував нового користувача."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I registered a new user."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Registré un nuevo usuario."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe einen neuen Benutzer registriert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarejestrowałem nowego użytkownika."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai enregistré un nouvel utilisateur."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu registrei um novo usuário."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho registrato un nuovo utente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon registrerade en ökning i temperaturen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зареєструвала підвищення температури."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She registered an increase in temperature."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella registró un aumento en la temperatura."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie registrierte einen Temperaturanstieg."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarejestrowała wzrost temperatury."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a enregistré une augmentation de la température."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela registrou um aumento na temperatura."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha registrato un aumento della temperatura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi registrerade en minskning i försäljningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми зареєстрували зниження продажів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We registered a decrease in sales."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Registramos una disminución en las ventas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir registrierten einen Rückgang der Verkäufe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarejestrowaliśmy spadek sprzedaży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons enregistré une baisse des ventes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós registramos uma diminuição nas vendas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo registrato una diminuzione delle vendite."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att registrera förändringen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони зареєструють зміну."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to register the change."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a registrar el cambio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden die Veränderung registrieren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zarejestrują zmianę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont enregistrer le changement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão registrar a mudança."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro registreranno il cambiamento."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "erfara",
+        "translations": {
+            "ukrainian": "дізнаватися",
+            "english": "learn",
+            "spanish": "aprender",
+            "german": "erfahren",
+            "polish": "dowiedzieć się",
+            "french": "apprendre",
+            "portuguese": "aprender",
+            "italian": "apprendere"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag erför att han hade flyttat till utlandet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я дізнався, що він переїхав за кордон."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I learned that he had moved abroad."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Aprendí que se había mudado al extranjero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich erfuhr, dass er ins Ausland gezogen war."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dowiedziałem się, że przeprowadził się za granicę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai appris qu'il avait déménagé à l'étranger."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu soube que ele tinha se mudado para o exterior."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho appreso che si era trasferito all'estero."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon erför sanningen först sent på kvällen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дізналася правду лише пізно ввечері."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She learned the truth only late in the evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella supo la verdad solo tarde en la noche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erfuhr die Wahrheit erst spät am Abend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dowiedziała się prawdy dopiero późnym wieczorem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a appris la vérité seulement tard dans la soirée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela soube a verdade apenas tarde da noite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha appreso la verità solo a tarda sera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi erför att tåget var försenat."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми дізналися, що потяг запізнюється."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We learned that the train was delayed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos enteramos de que el tren estaba retrasado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erfuhren, dass der Zug Verspätung hatte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dowiedzieliśmy się, że pociąg jest opóźniony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons appris que le train était en retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós soubemos que o trem estava atrasado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo appreso che il treno era in ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att erfara resultatet snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони дізнаються результат незабаром."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to learn the result soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a saber el resultado pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden das Ergebnis bald erfahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dowiedzą się wyniku wkrótce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont apprendre le résultat bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão saber o resultado em breve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro apprenderanno il risultato presto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "inse",
+        "translations": {
+            "ukrainian": "усвідомлювати",
+            "english": "realize",
+            "spanish": "darse cuenta",
+            "german": "erkennen",
+            "polish": "uświadamiać sobie",
+            "french": "réaliser",
+            "portuguese": "perceber",
+            "italian": "rendersi conto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag insåg att jag hade glömt nycklarna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я усвідомив, що забув ключі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I realized that I had forgotten the keys."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me di cuenta de que había olvidado las llaves."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich erkannte, dass ich die Schlüssel vergessen hatte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uświadomiłem sobie, że zapomniałem kluczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai réalisé que j'avais oublié les clés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu percebi que tinha esquecido as chaves."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sono reso conto di aver dimenticato le chiavi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon insåg sitt misstag för sent."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона усвідомила свою помилку надто пізно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She realized her mistake too late."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se dio cuenta de su error demasiado tarde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie erkannte ihren Fehler zu spät."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zdała sobie sprawę ze swojego błędu za późno."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a réalisé son erreur trop tard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela percebeu seu erro tarde demais."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si è resa conto del suo errore troppo tardi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi insåg att vi behövde mer tid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми усвідомили, що нам потрібно більше часу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We realized that we needed more time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos dimos cuenta de que necesitábamos más tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erkannten, dass wir mehr Zeit brauchten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uświadomiliśmy sobie, że potrzebujemy więcej czasu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons réalisé que nous avions besoin de plus de temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós percebemos que precisávamos de mais tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo resi conto che avevamo bisogno di più tempo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att inse vikten av att spara pengar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони усвідомлять важливість заощадження грошей."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to realize the importance of saving money."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a darse cuenta de la importancia de ahorrar dinero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden die Bedeutung des Geldsparens erkennen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zdadzą sobie sprawę z wagi oszczędzania pieniędzy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont réaliser l'importance d'économiser de l'argent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão perceber a importância de economizar dinheiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro si renderanno conto dell'importanza di risparmiare denaro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "förstå",
+        "translations": {
+            "ukrainian": "розуміти",
+            "english": "understand",
+            "spanish": "entender",
+            "german": "verstehen",
+            "polish": "rozumieć",
+            "french": "comprendre",
+            "portuguese": "entender",
+            "italian": "capire"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag förstår inte vad du menar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я не розумію, що ти маєш на увазі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I don't understand what you mean."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No entiendo lo que quieres decir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich verstehe nicht, was du meinst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie rozumiem, co masz na myśli."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je ne comprends pas ce que tu veux dire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu não entendo o que você quer dizer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non capisco cosa intendi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon förstod att hon hade fel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зрозуміла, що помилялася."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She understood that she was wrong."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella entendió que estaba equivocada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie verstand, dass sie falsch lag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrozumiała, że się myliła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a compris qu'elle avait tort."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela entendeu que estava errada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha capito che aveva torto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi förstod inte instruktionerna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми не зрозуміли інструкцій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We didn't understand the instructions."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No entendimos las instrucciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben die Anweisungen nicht verstanden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie zrozumieliśmy instrukcji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous n'avons pas compris les instructions."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós não entendemos as instruções."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non abbiamo capito le istruzioni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De kommer att förstå situationen snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони зрозуміють ситуацію незабаром."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to understand the situation soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ellos van a entender la situación pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden die Situation bald verstehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zrozumieją sytuację wkrótce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont comprendre la situation bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão entender a situação em breve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Loro capiranno la situazione presto."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1052 @@
+[
+    {
+        "expression": "mig",
+        "translations": {
+            "ukrainian": "себе",
+            "english": "myself",
+            "spanish": "mí mismo",
+            "german": "mich",
+            "polish": "siebie",
+            "french": "moi-même",
+            "portuguese": "a mim mesmo",
+            "italian": "me stesso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ser mig i spegeln."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я бачу себе в дзеркалі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I see myself in the mirror."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me veo en el espejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich sehe mich im Spiegel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Widzę siebie w lustrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me vois dans le miroir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu me vejo no espelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi vedo nello specchio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en present till mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив собі подарунок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a present for myself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me compré un regalo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe mir ein Geschenk gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem sobie prezent."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je me suis acheté un cadeau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu comprei um presente para mim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi sono comprato un regalo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tar med mig en bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я беру з собою книгу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am taking a book with me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me llevo un libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich nehme ein Buch mit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zabieram ze sobą książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je prends un livre avec moi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu levo um livro comigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Porto con me un libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska tvätta mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся помитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to wash myself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a lavarme."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde mich waschen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam zamiar się umyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais me laver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou me lavar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi laverò."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "dig",
+        "translations": {
+            "ukrainian": "себе",
+            "english": "yourself",
+            "spanish": "tí mismo",
+            "german": "dich",
+            "polish": "siebie",
+            "french": "toi-même",
+            "portuguese": "a ti mesmo",
+            "italian": "te stesso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ser du dig i spegeln?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти бачиш себе в дзеркалі?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Do you see yourself in the mirror?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Te ves en el espejo?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Siehst du dich im Spiegel?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Widzisz siebie w lustrze?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Te vois-tu dans le miroir?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você se vê no espelho?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti vedi nello specchio?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du måste ta hand om dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти повинен піклуватися про себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You must take care of yourself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Debes cuidarte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du musst auf dich aufpassen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musisz zadbać o siebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu dois prendre soin de toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você deve cuidar de si mesmo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Devi prenderti cura di te stesso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du köpte en present till dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти купив собі подарунок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You bought a present for yourself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Te compraste un regalo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du hast dir ein Geschenk gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłeś sobie prezent."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu t'es acheté un cadeau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você comprou um presente para si mesmo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti sei comprato un regalo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Du ska tvätta dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ти збираєшся помитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You are going to wash yourself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vas a lavarte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Du wirst dich waschen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Masz zamiar się umyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Tu vas te laver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Você vai se lavar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ti laverai."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sig",
+        "translations": {
+            "ukrainian": "себе",
+            "english": "himself/herself/itself",
+            "spanish": "sí mismo",
+            "german": "sich",
+            "polish": "siebie",
+            "french": "lui-même/elle-même",
+            "portuguese": "a si mesmo",
+            "italian": "se stesso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han ser sig i spegeln."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він бачить себе в дзеркалі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He sees himself in the mirror."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él se ve en el espejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er sieht sich im Spiegel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On widzi siebie w lustrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il se voit dans le miroir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele se vê no espelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui si vede nello specchio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon köpte en present till sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона купила собі подарунок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She bought a present for herself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella se compró un regalo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat sich ein Geschenk gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona kupiła sobie prezent."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle s'est acheté un cadeau."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela comprou um presente para si mesma."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei si è comprata un regalo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De måste ta hand om sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони повинні піклуватися про себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They must take care of themselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Deben cuidarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie müssen auf sich aufpassen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Muszą zadbać o siebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils doivent prendre soin d'eux-mêmes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles devem cuidar de si mesmos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Devono prendersi cura di se stessi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden skakar sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака трясе себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog shakes itself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro se sacude."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund schüttelt sich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies się trzęsie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien se secoue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro se sacode."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane si scuote."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "oss",
+        "translations": {
+            "ukrainian": "себе",
+            "english": "ourselves",
+            "spanish": "nosotros mismos",
+            "german": "uns",
+            "polish": "siebie",
+            "french": "nous-mêmes",
+            "portuguese": "a nós mesmos",
+            "italian": "noi stessi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ser oss i spegeln."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми бачимо себе в дзеркалі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We see ourselves in the mirror."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos en el espejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns im Spiegel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Widzimy siebie w lustrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous voyons dans le miroir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós nos vemos no espelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo nello specchio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi måste ta hand om oss."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми повинні піклуватися про себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We must take care of ourselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Debemos cuidarnos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir müssen auf uns aufpassen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musimy zadbać o siebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous devons prendre soin de nous."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Devemos cuidar de nós mesmos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dobbiamo prenderci cura di noi stessi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi köpte presenter till oss."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми купили собі подарунки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We bought presents for ourselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos compramos regalos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir haben uns Geschenke gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiliśmy sobie prezenty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous nous sommes acheté des cadeaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós compramos presentes para nós mesmos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci siamo comprati dei regali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ska tvätta oss."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми збираємося помитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We are going to wash ourselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Vamos a lavarnos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir werden uns waschen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mamy zamiar się umyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous allons nous laver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Nós vamos nos lavar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci laveremo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "er",
+        "translations": {
+            "ukrainian": "себе",
+            "english": "yourselves",
+            "spanish": "ustedes mismos",
+            "german": "euch",
+            "polish": "siebie",
+            "french": "vous-mêmes",
+            "portuguese": "a vocês mesmos",
+            "italian": "voi stessi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ni ser er i spegeln."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ви бачите себе в дзеркалі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You see yourselves in the mirror."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se ven en el espejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr seht euch im Spiegel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Widzicie siebie w lustrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Vous vous voyez dans le miroir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vocês se veem no espelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vi vedete nello specchio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ni måste ta hand om er."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ви повинні піклуватися про себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You must take care of yourselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Deben cuidarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr müsst auf euch aufpassen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Musicie zadbać o siebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Vous devez prendre soin de vous."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vocês devem cuidar de si mesmos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dovete prendervi cura di voi stessi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ni köpte presenter till er."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ви купили собі подарунки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You bought presents for yourselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se compraron regalos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr habt euch Geschenke gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiliście sobie prezenty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Vous vous êtes acheté des cadeaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vocês compraram presentes para si mesmos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vi siete comprati dei regali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ni ska tvätta er."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ви збираєтеся помитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You are going to wash yourselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Van a lavarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr werdet euch waschen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Macie zamiar się umyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Vous allez vous laver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vocês vão se lavar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vi laverete."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "sig",
+        "translations": {
+            "ukrainian": "себе",
+            "english": "themselves",
+            "spanish": "ellos mismos",
+            "german": "sich",
+            "polish": "siebie",
+            "french": "eux-mêmes",
+            "portuguese": "a si mesmos",
+            "italian": "se stessi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ser sig i spegeln."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони бачать себе в дзеркалі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They see themselves in the mirror."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se ven en el espejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie sehen sich im Spiegel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Widzą siebie w lustrze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils se voient dans le miroir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles se veem no espelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si vedono nello specchio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De måste ta hand om sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони повинні піклуватися про себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They must take care of themselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Deben cuidarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie müssen auf sich aufpassen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Muszą zadbać o siebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils doivent prendre soin d'eux-mêmes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles devem cuidar de si mesmos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Devono prendersi cura di se stessi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De köpte presenter till sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони купили собі подарунки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They bought presents for themselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Se compraron regalos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie haben sich Geschenke gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupili sobie prezenty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils se sont acheté des cadeaux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles compraram presentes para si mesmos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si sono comprati dei regali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "De ska tvätta sig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вони збираються помитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "They are going to wash themselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Van a lavarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie werden sich waschen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mają zamiar się umyć."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ils vont se laver."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eles vão se lavar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Si laveranno."
+                    }
+                ]
+            }
+        ]
+    }
+]

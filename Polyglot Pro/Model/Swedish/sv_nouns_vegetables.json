@@ -1,0 +1,4552 @@
+[
+    {
+        "expression": "en potatis",
+        "translations": {
+            "ukrainian": "картопля",
+            "english": "potato",
+            "spanish": "patata",
+            "german": "Kartoffel",
+            "polish": "ziemniak",
+            "french": "pomme de terre",
+            "portuguese": "batata",
+            "italian": "patata"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska koka potatis till middagen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся варити картоплю на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to boil potatoes for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hervir patatas para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Kartoffeln zum Abendessen kochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam ugotować ziemniaki na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire bouillir des pommes de terre pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou cozinhar batatas para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di bollire le patate per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Potatis är en viktig ingrediens i många rätter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Картопля є важливим інгредієнтом у багатьох стравах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Potatoes are an important ingredient in many dishes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La patata es un ingrediente importante en muchos platos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kartoffeln sind eine wichtige Zutat in vielen Gerichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ziemniaki są ważnym składnikiem wielu potraw."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La pomme de terre est un ingrédient important dans de nombreux plats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A batata é um ingrediente importante em muitos pratos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le patate sono un ingrediente importante in molti piatti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att ägnas potatis till grillen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається готувати картоплю на грилі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to grill potatoes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta asar patatas en la parrilla."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Kartoffeln zu grillen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię grillować ziemniaki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime faire griller des pommes de terre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de grelhar batatas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace grigliare le patate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Potatismos är en klassisk rätt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Картопляне пюре - це класична страва."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Mashed potatoes are a classic dish."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El puré de patatas es un plato clásico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kartoffelpüree ist ein klassisches Gericht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ziemniaczane puree to klasyczne danie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La purée de pommes de terre est un plat classique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Purê de batata é um prato clássico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il purè di patate è un piatto classico."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en morot",
+        "translations": {
+            "ukrainian": "морква",
+            "english": "carrot",
+            "spanish": "zanahoria",
+            "german": "Karotte",
+            "polish": "marchewka",
+            "french": "carotte",
+            "portuguese": "cenoura",
+            "italian": "carota"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Morötter är bra för synen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Морква корисна для зору."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Carrots are good for the eyes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las zanahorias son buenas para la vista."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Karotten sind gut für die Augen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Marchewki są dobre dla wzroku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les carottes sont bonnes pour la vue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cenouras são boas para a visão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le carote sono buone per la vista."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska skära morötter till soppan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся нарізати моркву для супу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to chop carrots for the soup."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a cortar zanahorias para la sopa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Karotten für die Suppe schneiden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam pokroić marchewki do zupy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais couper des carottes pour la soupe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou cortar cenouras para a sopa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di tagliare le carote per la zuppa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Morötter är söta och saftiga."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Морква солодка і соковита."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Carrots are sweet and juicy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las zanahorias son dulces y jugosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Karotten sind süß und saftig."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Marchewki są słodkie i soczyste."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les carottes sont sucrées et juteuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cenouras são doces e suculentas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le carote sono dolci e succose."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta morötter råa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти сиру моркву."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat carrots raw."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer zanahorias crudas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Karotten roh zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść surowe marchewki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger des carottes crues."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer cenouras cruas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare le carote crude."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en lök",
+        "translations": {
+            "ukrainian": "цибуля",
+            "english": "onion",
+            "spanish": "cebolla",
+            "german": "Zwiebel",
+            "polish": "cebula",
+            "french": "oignon",
+            "portuguese": "cebola",
+            "italian": "cipolla"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lök är en viktig ingrediens i många rätter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цибуля є важливим інгредієнтом у багатьох стравах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Onion is an important ingredient in many dishes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cebolla es un ingrediente importante en muchos platos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zwiebeln sind eine wichtige Zutat in vielen Gerichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cebula jest ważnym składnikiem wielu potraw."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'oignon est un ingrédient important dans de nombreux plats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cebola é um ingrediente importante em muitos pratos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cipolla è un ingrediente importante in molti piatti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska hacka lök till maten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся нарізати цибулю для їжі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to chop onions for the meal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a picar cebollas para la comida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Zwiebeln für das Essen hacken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam posiekać cebulę do posiłku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais hacher des oignons pour le repas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou picar cebolas para a refeição."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di tritare le cipolle per il pasto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lök kan göra dig att gråta när du skär den."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цибуля може змусити вас плакати, коли ви її ріжете."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Onions can make you cry when you cut them."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las cebollas pueden hacerte llorar cuando las cortas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zwiebeln können dich zum Weinen bringen, wenn du sie schneidest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cebula może sprawić, że płaczesz, gdy ją kroisz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les oignons peuvent vous faire pleurer lorsque vous les coupez."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cebolas podem fazer você chorar ao cortá-las."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le cipolle possono farti piangere quando le tagli."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar stekt lök till korv."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається смажена цибуля до ковбаси."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like fried onions with sausage."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta la cebolla frita con salchicha."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag gebratene Zwiebeln zu Wurst."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię smażoną cebulę z kiełbasą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime les oignons frits avec de la saucisse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de cebola frita com salsicha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piacciono le cipolle fritte con la salsiccia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en vitlök",
+        "translations": {
+            "ukrainian": "часник",
+            "english": "garlic",
+            "spanish": "ajo",
+            "german": "Knoblauch",
+            "polish": "czosnek",
+            "french": "ail",
+            "portuguese": "alho",
+            "italian": "aglio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vitlök ger maten en stark smak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Часник надає їжі сильного смаку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Garlic gives food a strong flavor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ajo le da un sabor fuerte a la comida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Knoblauch verleiht dem Essen einen starken Geschmack."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czosnek nadaje potrawie mocny smak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'ail donne une saveur forte à la nourriture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O alho dá um sabor forte à comida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aglio dà un sapore forte al cibo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag använder vitlök i nästan alla mina rätter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я використовую часник майже у всіх своїх стравах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I use garlic in almost all my dishes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Uso ajo en casi todos mis platos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich verwende Knoblauch in fast allen meinen Gerichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Używam czosnku w prawie wszystkich moich daniach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'utilise de l'ail dans presque tous mes plats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu uso alho em quase todos os meus pratos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Uso l'aglio in quasi tutti i miei piatti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vitlök är bra för immunförsvaret."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Часник корисний для імунітету."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Garlic is good for the immune system."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El ajo es bueno para el sistema inmunológico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Knoblauch ist gut für das Immunsystem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czosnek jest dobry dla układu odpornościowego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'ail est bon pour le système immunitaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O alho é bom para o sistema imunológico."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'aglio è buono per il sistema immunitario."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att steka vitlök i olja."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається смажити часник в олії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to fry garlic in oil."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta freír ajo en aceite."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Knoblauch in Öl zu braten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię smażyć czosnek w oleju."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime faire frire de l'ail dans l'huile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de fritar alho no azeite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace friggere l'aglio nell'olio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en purjolök",
+        "translations": {
+            "ukrainian": "порей",
+            "english": "leek",
+            "spanish": "puerro",
+            "german": "Lauch",
+            "polish": "por",
+            "french": "poireau",
+            "portuguese": "alho-poró",
+            "italian": "porro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Purjolök är en populär ingrediens i soppor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Порей є популярним інгредієнтом у супах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Leek is a popular ingredient in soups."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El puerro es un ingrediente popular en las sopas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lauch ist eine beliebte Zutat in Suppen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Por to popularny składnik zup."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le poireau est un ingrédient populaire dans les soupes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O alho-poró é um ingrediente popular em sopas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il porro è un ingrediente popolare nelle zuppe."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska använda purjolök i min gratäng."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся використовувати порей у своїй запіканці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to use leek in my gratin."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a usar puerro en mi gratinado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Lauch in meinem Gratin verwenden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam użyć pora w moim zapiekanku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais utiliser du poireau dans mon gratin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou usar alho-poró no meu gratinado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di usare il porro nella mia gratin."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Purjolök är mildare i smaken än vanlig lök."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Порей має м'якший смак, ніж звичайна цибуля."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Leek has a milder taste than regular onion."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El puerro tiene un sabor más suave que la cebolla común."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Lauch hat einen milderen Geschmack als normale Zwiebeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Por ma łagodniejszy smak niż zwykła cebula."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le poireau a un goût plus doux que l'oignon ordinaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O alho-poró tem um sabor mais suave que a cebola comum."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il porro ha un sapore più delicato della cipolla comune."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att steka purjolök med potatis."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається смажити порей з картоплею."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to fry leek with potatoes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta freír puerro con patatas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Lauch mit Kartoffeln zu braten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię smażyć pora z ziemniakami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime faire frire du poireau avec des pommes de terre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de fritar alho-poró com batatas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace friggere il porro con le patate."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en tomat",
+        "translations": {
+            "ukrainian": "помідор",
+            "english": "tomato",
+            "spanish": "tomate",
+            "german": "Tomate",
+            "polish": "pomidor",
+            "french": "tomate",
+            "portuguese": "tomate",
+            "italian": "pomodoro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tomater är en viktig ingrediens i många sallader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Помідори є важливим інгредієнтом у багатьох салатах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Tomatoes are an important ingredient in many salads."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los tomates son un ingrediente importante en muchas ensaladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Tomaten sind eine wichtige Zutat in vielen Salaten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomidory są ważnym składnikiem wielu sałatek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les tomates sont un ingrédient important dans de nombreuses salades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os tomates são um ingrediente importante em muitas saladas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I pomodori sono un ingrediente importante in molte insalate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska göra en tomatsoppa till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся приготувати томатний суп на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to make tomato soup for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hacer una sopa de tomate para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde eine Tomatensuppe zum Abendessen machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam zrobić zupę pomidorową na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire une soupe à la tomate pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fazer uma sopa de tomate para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di fare una zuppa di pomodoro per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tomater är saftiga och goda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Помідори соковиті та смачні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Tomatoes are juicy and delicious."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los tomates son jugosos y deliciosos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Tomaten sind saftig und lecker."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomidory są soczyste i smaczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les tomates sont juteuses et délicieuses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os tomates são suculentos e deliciosos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I pomodori sono succosi e deliziosi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta tomater råa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти сирі помідори."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat tomatoes raw."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer tomates crudos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Tomaten roh zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść surowe pomidory."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger des tomates crues."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer tomates crus."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare i pomodori crudi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en gurka",
+        "translations": {
+            "ukrainian": "огірок",
+            "english": "cucumber",
+            "spanish": "pepino",
+            "german": "Gurke",
+            "polish": "ogórek",
+            "french": "concombre",
+            "portuguese": "pepino",
+            "italian": "cetriolo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gurka är en populär ingrediens i sallader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Огірок є популярним інгредієнтом у салатах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cucumber is a popular ingredient in salads."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pepino es un ingrediente popular en las ensaladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gurke ist eine beliebte Zutat in Salaten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ogórek to popularny składnik sałatek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le concombre est un ingrédient populaire dans les salades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pepino é um ingrediente popular em saladas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cetriolo è un ingrediente popolare nelle insalate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska skära gurka till smörgåsarna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся нарізати огірок для бутербродів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to slice cucumber for the sandwiches."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a cortar pepino para los sándwiches."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Gurken für die Sandwiches schneiden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam pokroić ogórka do kanapek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais couper du concombre pour les sandwiches."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fatiar pepino para os sanduíches."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di affettare il cetriolo per i panini."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gurka är uppfriskande på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Огірок освіжає влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cucumber is refreshing in the summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pepino es refrescante en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gurken sind im Sommer erfrischend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ogórek jest orzeźwiający latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le concombre est rafraîchissant en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pepino é refrescante no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cetriolo è rinfrescante in estate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta gurka med dip."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти огірок з соусом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat cucumber with dip."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer pepino con salsa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Gurken mit Dip zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść ogórka z dipem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du concombre avec de la trempette."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer pepino com molho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare il cetriolo con la salsa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en paprika",
+        "translations": {
+            "ukrainian": "паприка",
+            "english": "bell pepper",
+            "spanish": "pimiento",
+            "german": "Paprika",
+            "polish": "papryka",
+            "french": "poivron",
+            "portuguese": "pimentão",
+            "italian": "peperone"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Paprika finns i olika färger som röd, gul och grön."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Паприка буває різних кольорів, таких як червоний, жовтий і зелений."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bell peppers come in different colors like red, yellow, and green."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pimiento viene en diferentes colores como rojo, amarillo y verde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Paprika gibt es in verschiedenen Farben wie rot, gelb und grün."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Papryka występuje w różnych kolorach, takich jak czerwony, żółty i zielony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le poivron existe en différentes couleurs comme rouge, jaune et vert."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pimentão vem em diferentes cores como vermelho, amarelo e verde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il peperone è disponibile in diversi colori come rosso, giallo e verde."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska fylla paprika med köttfärs."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся начинити паприку м'ясним фаршем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to stuff bell peppers with minced meat."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a rellenar pimientos con carne picada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Paprika mit Hackfleisch füllen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam nadziać paprykę mięsem mielonym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais farcir des poivrons avec de la viande hachée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou rechear pimentões com carne moída."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di farcire i peperoni con carne macinata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Paprika är en bra källa till vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Паприка є хорошим джерелом вітаміну С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bell peppers are a good source of vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pimiento es una buena fuente de vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Paprika ist eine gute Quelle für Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Papryka jest dobrym źródłem witaminy C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le poivron est une bonne source de vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pimentão é uma boa fonte de vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il peperone è una buona fonte di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta paprika rå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти сиру паприку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat bell peppers raw."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer pimiento crudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Paprika roh zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść surową paprykę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du poivron cru."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer pimentão cru."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare il peperone crudo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en zucchini",
+        "translations": {
+            "ukrainian": "цукіні",
+            "english": "zucchini",
+            "spanish": "calabacín",
+            "german": "Zucchini",
+            "polish": "cukinia",
+            "french": "courgette",
+            "portuguese": "abobrinha",
+            "italian": "zucchina"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Zucchini är en mångsidig grönsak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цукіні - це універсальний овоч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Zucchini is a versatile vegetable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El calabacín es una verdura versátil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zucchini ist ein vielseitiges Gemüse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cukinia to wszechstronne warzywo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La courgette est un légume polyvalent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A abobrinha é um vegetal versátil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La zucchina è un ortaggio versatile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska grilla zucchini till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся грилювати цукіні на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to grill zucchini for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a asar calabacín para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Zucchini zum Abendessen grillen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam grillować cukinię na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais griller des courgettes pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou grelhar abobrinha para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di grigliare le zucchine per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Zucchini är lätt att odla i trädgården."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Цукіні легко вирощувати в саду."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Zucchini is easy to grow in the garden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El calabacín es fácil de cultivar en el jardín."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zucchini ist einfach im Garten anzubauen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cukinia jest łatwa w uprawie w ogrodzie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La courgette est facile à cultiver dans le jardin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A abobrinha é fácil de cultivar no jardim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La zucchina è facile da coltivare in giardino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att använda zucchini i pasta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається використовувати цукіні в пасті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to use zucchini in pasta."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta usar calabacín en la pasta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Zucchini in Pasta zu verwenden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię używać cukinii w makaronie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime utiliser des courgettes dans les pâtes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de usar abobrinha no macarrão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace usare le zucchine nella pasta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en aubergine",
+        "translations": {
+            "ukrainian": "баклажан",
+            "english": "eggplant",
+            "spanish": "berenjena",
+            "german": "Aubergine",
+            "polish": "bakłażan",
+            "french": "aubergine",
+            "portuguese": "berinjela",
+            "italian": "melanzana"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Aubergine är en populär ingrediens i medelhavskosten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Баклажан є популярним інгредієнтом у середземноморській кухні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Eggplant is a popular ingredient in Mediterranean cuisine."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La berenjena es un ingrediente popular en la cocina mediterránea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Aubergine ist eine beliebte Zutat in der mediterranen Küche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bakłażan to popularny składnik kuchni śródziemnomorskiej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'aubergine est un ingrédient populaire dans la cuisine méditerranéenne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A berinjela é um ingrediente popular na culinária mediterrânea."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La melanzana è un ingrediente popolare nella cucina mediterranea."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska göra moussaka med aubergine."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся приготувати мусаку з баклажанів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to make moussaka with eggplant."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hacer moussaka con berenjena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Moussaka mit Aubergine machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam zrobić musakę z bakłażanem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire de la moussaka avec de l'aubergine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fazer moussaka com berinjela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di fare la moussaka con la melanzana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Aubergine har en mild och len smak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Баклажан має м'який і ніжний смак."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Eggplant has a mild and smooth taste."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La berenjena tiene un sabor suave y delicado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Aubergine hat einen milden und glatten Geschmack."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Bakłażan ma łagodny i delikatny smak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'aubergine a un goût doux et lisse."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A berinjela tem um sabor suave e delicado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La melanzana ha un sapore delicato e vellutato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att grilla aubergine."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається грилювати баклажани."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to grill eggplant."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta asar berenjena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Aubergine zu grillen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię grillować bakłażana."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime griller de l'aubergine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de grelhar berinjela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace grigliare la melanzana."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en sallad",
+        "translations": {
+            "ukrainian": "салат",
+            "english": "salad",
+            "spanish": "ensalada",
+            "german": "Salat",
+            "polish": "sałatka",
+            "french": "salade",
+            "portuguese": "salada",
+            "italian": "insalata"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sallad är en hälsosam måltid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Салат - це здорова їжа."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Salad is a healthy meal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La ensalada es una comida saludable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Salat ist eine gesunde Mahlzeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sałatka to zdrowy posiłek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La salade est un repas sain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A salada é uma refeição saudável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'insalata è un pasto salutare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska göra en sallad till lunch."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся приготувати салат на обід."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to make a salad for lunch."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hacer una ensalada para el almuerzo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde einen Salat zum Mittagessen machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam zrobić sałatkę na lunch."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire une salade pour le déjeuner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fazer uma salada para o almoço."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di fare un'insalata per pranzo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sallad kan innehålla många olika grönsaker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Салат може містити багато різних овочів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Salad can contain many different vegetables."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La ensalada puede contener muchas verduras diferentes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Salat kann viele verschiedene Gemüsesorten enthalten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sałatka może zawierać wiele różnych warzyw."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La salade peut contenir de nombreux légumes différents."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A salada pode conter muitos vegetais diferentes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'insalata può contenere molte verdure diverse."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta sallad med olivolja."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти салат з оливковою олією."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat salad with olive oil."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer ensalada con aceite de oliva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Salat mit Olivenöl zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść sałatkę z oliwą z oliwek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger de la salade avec de l'huile d'olive."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer salada com azeite de oliva."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare l'insalata con l'olio d'oliva."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en spenat",
+        "translations": {
+            "ukrainian": "шпинат",
+            "english": "spinach",
+            "spanish": "espinaca",
+            "german": "Spinat",
+            "polish": "szpinak",
+            "french": "épinard",
+            "portuguese": "espinafre",
+            "italian": "spinaci"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Spenat är rikt på järn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Шпинат багатий на залізо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Spinach is rich in iron."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La espinaca es rica en hierro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Spinat ist reich an Eisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szpinak jest bogaty w żelazo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les épinards sont riches en fer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O espinafre é rico em ferro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli spinaci sono ricchi di ferro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska laga en spenatpaj till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся приготувати шпинатний пиріг на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to make a spinach pie for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hacer una tarta de espinacas para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde einen Spinatkuchen zum Abendessen machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam zrobić szpinakową tartę na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire une tarte aux épinards pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fazer uma torta de espinafre para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di fare una torta di spinaci per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Spenat är en bra källa till vitaminer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Шпинат є хорошим джерелом вітамінів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Spinach is a good source of vitamins."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La espinaca es una buena fuente de vitaminas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Spinat ist eine gute Quelle für Vitamine."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szpinak jest dobrym źródłem witamin."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les épinards sont une bonne source de vitamines."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O espinafre é uma boa fonte de vitaminas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Gli spinaci sono una buona fonte di vitamine."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta spenat i sallader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти шпинат у салатах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat spinach in salads."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer espinacas en ensaladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Spinat in Salaten zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść szpinak w sałatkach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger des épinards dans les salades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer espinafre em saladas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare spinaci nelle insalate."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en grönkål",
+        "translations": {
+            "ukrainian": "капуста кале",
+            "english": "kale",
+            "spanish": "col rizada",
+            "german": "Grünkohl",
+            "polish": "jarmuż",
+            "french": "chou frisé",
+            "portuguese": "couve",
+            "italian": "cavolo riccio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Grönkål är en näringsrik grönsak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Капуста кале - це поживний овоч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Kale is a nutritious vegetable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La col rizada es una verdura nutritiva."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Grünkohl ist ein nahrhaftes Gemüse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jarmuż to pożywne warzywo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chou frisé est un légume nutritif."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A couve é um vegetal nutritivo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cavolo riccio è un ortaggio nutriente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska blanda grönkål i min smoothie."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся додати капусту кале до свого смузі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to mix kale into my smoothie."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a mezclar col rizada en mi batido."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Grünkohl in meinen Smoothie mischen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam zmieszać jarmuż w moim smoothie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais mélanger du chou frisé dans mon smoothie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou misturar couve no meu smoothie."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di mescolare il cavolo riccio nel mio frullato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Grönkål är en bra källa till vitamin K."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Капуста кале є хорошим джерелом вітаміну К."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Kale is a good source of vitamin K."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La col rizada es una buena fuente de vitamina K."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Grünkohl ist eine gute Quelle für Vitamin K."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jarmuż jest dobrym źródłem witaminy K."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chou frisé est une bonne source de vitamine K."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A couve é uma boa fonte de vitamina K."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cavolo riccio è una buona fonte di vitamina K."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att steka grönkål med vitlök."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається смажити капусту кале з часником."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to fry kale with garlic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta freír col rizada con ajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Grünkohl mit Knoblauch zu braten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię smażyć jarmuż z czosnkiem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime faire frire du chou frisé avec de l'ail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de fritar couve com alho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace friggere il cavolo riccio con l'aglio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en broccoli",
+        "translations": {
+            "ukrainian": "броколі",
+            "english": "broccoli",
+            "spanish": "brócoli",
+            "german": "Brokkoli",
+            "polish": "brokuł",
+            "french": "brocoli",
+            "portuguese": "brócolis",
+            "italian": "broccolo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Broccoli är en hälsosam grönsak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Броколі - це здоровий овоч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Broccoli is a healthy vegetable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El brócoli es una verdura saludable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Brokkoli ist ein gesundes Gemüse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Brokuł to zdrowe warzywo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le brocoli est un légume sain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O brócolis é um vegetal saudável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il broccolo è un ortaggio salutare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska koka broccoli till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся варити броколі на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to boil broccoli for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hervir brócoli para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Brokkoli zum Abendessen kochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam ugotować brokuła na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire bouillir du brocoli pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou cozinhar brócolis para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di bollire i broccoli per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Broccoli är rik på vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Броколі багатий на вітамін С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Broccoli is rich in vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El brócoli es rico en vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Brokkoli ist reich an Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Brokuł jest bogaty w witaminę C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le brocoli est riche en vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O brócolis é rico em vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il broccolo è ricco di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta broccoli med sås."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти броколі з соусом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat broccoli with sauce."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer brócoli con salsa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Brokkoli mit Soße zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść brokuła z sosem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du brocoli avec de la sauce."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer brócolis com molho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare i broccoli con la salsa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en blomkål",
+        "translations": {
+            "ukrainian": "капуста цвітна",
+            "english": "cauliflower",
+            "spanish": "coliflor",
+            "german": "Blumenkohl",
+            "polish": "kalafior",
+            "french": "chou-fleur",
+            "portuguese": "couve-flor",
+            "italian": "cavolfiore"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blomkål är en mångsidig grönsak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Капуста цвітна - це універсальний овоч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cauliflower is a versatile vegetable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La coliflor es una verdura versátil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Blumenkohl ist ein vielseitiges Gemüse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kalafior to wszechstronne warzywo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chou-fleur est un légume polyvalent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A couve-flor é um vegetal versátil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cavolfiore è un ortaggio versatile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska göra blomkålspuré till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся приготувати пюре з цвітної капусти на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to make cauliflower puree for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hacer puré de coliflor para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Blumenkohlpüree zum Abendessen machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam zrobić puree z kalafiora na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire de la purée de chou-fleur pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fazer purê de couve-flor para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di fare il purè di cavolfiore per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blomkål är en bra källa till vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Капуста цвітна є хорошим джерелом вітаміну С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cauliflower is a good source of vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La coliflor es una buena fuente de vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Blumenkohl ist eine gute Quelle für Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kalafior jest dobrym źródłem witaminy C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chou-fleur est une bonne source de vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A couve-flor é uma boa fonte de vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cavolfiore è una buona fonte di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta blomkål rå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти сиру цвітну капусту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat cauliflower raw."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer coliflor cruda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Blumenkohl roh zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść surowego kalafiora."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du chou-fleur cru."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer couve-flor crua."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare il cavolfiore crudo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en ärta",
+        "translations": {
+            "ukrainian": "горох",
+            "english": "pea",
+            "spanish": "guisante",
+            "german": "Erbse",
+            "polish": "groch",
+            "french": "pois",
+            "portuguese": "ervilha",
+            "italian": "pisello"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ärtor är en populär ingrediens i soppor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Горох є популярним інгредієнтом у супах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Peas are a popular ingredient in soups."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los guisantes son un ingrediente popular en las sopas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Erbsen sind eine beliebte Zutat in Suppen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Groch to popularny składnik zup."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pois sont un ingrédient populaire dans les soupes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As ervilhas são um ingrediente popular em sopas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I piselli sono un ingrediente popolare nelle zuppe."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska koka ärtsoppa till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся варити гороховий суп на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to make pea soup for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hacer sopa de guisantes para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Erbsensuppe zum Abendessen machen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam ugotować grochówkę na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire de la soupe aux pois pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fazer sopa de ervilhas para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di fare la zuppa di piselli per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ärtor är en bra källa till protein."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Горох є хорошим джерелом білка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Peas are a good source of protein."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los guisantes son una buena fuente de proteínas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Erbsen sind eine gute Quelle für Protein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Groch jest dobrym źródłem białka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les pois sont une bonne source de protéines."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As ervilhas são uma boa fonte de proteínas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I piselli sono una buona fonte di proteine."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta ärtor i sallader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти горох у салатах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat peas in salads."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer guisantes en ensaladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Erbsen in Salaten zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść groch w sałatkach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger des pois dans les salades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer ervilhas em saladas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare i piselli nelle insalate."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en böna",
+        "translations": {
+            "ukrainian": "квасоля",
+            "english": "bean",
+            "spanish": "frijol",
+            "german": "Bohne",
+            "polish": "fasola",
+            "french": "haricot",
+            "portuguese": "feijão",
+            "italian": "fagiolo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bönor är en viktig ingrediens i många rätter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квасоля є важливим інгредієнтом у багатьох стравах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Beans are an important ingredient in many dishes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los frijoles son un ingrediente importante en muchos platos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bohnen sind eine wichtige Zutat in vielen Gerichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Fasola jest ważnym składnikiem wielu potraw."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les haricots sont un ingrédient important dans de nombreux plats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os feijões são um ingrediente importante em muitos pratos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I fagioli sono un ingrediente importante in molti piatti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska koka bönor till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся варити квасолю на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to cook beans for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a cocinar frijoles para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Bohnen zum Abendessen kochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam ugotować fasolę na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais cuisiner des haricots pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou cozinhar feijão para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di cucinare fagioli per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bönor är en bra källa till fibrer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квасоля є хорошим джерелом клітковини."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Beans are a good source of fiber."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los frijoles son una buena fuente de fibra."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bohnen sind eine gute Quelle für Ballaststoffe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Fasola jest dobrym źródłem błonnika."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les haricots sont une bonne source de fibres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os feijões são uma boa fonte de fibras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I fagioli sono una buona fonte di fibre."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta bönor i chili."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти квасолю в чілі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat beans in chili."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer frijoles en chili."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Bohnen in Chili zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść fasolę w chili."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger des haricots dans le chili."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer feijão no chili."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare i fagioli nel chili."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en majs",
+        "translations": {
+            "ukrainian": "кукурудза",
+            "english": "corn",
+            "spanish": "maíz",
+            "german": "Mais",
+            "polish": "kukurydza",
+            "french": "maïs",
+            "portuguese": "milho",
+            "italian": "mais"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Majs är en populär ingrediens i många rätter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кукурудза є популярним інгредієнтом у багатьох стравах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Corn is a popular ingredient in many dishes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El maíz es un ingrediente popular en muchos platos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mais ist eine beliebte Zutat in vielen Gerichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kukurydza to popularny składnik wielu potraw."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le maïs est un ingrédient populaire dans de nombreux plats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O milho é um ingrediente popular em muitos pratos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mais è un ingrediente popolare in molti piatti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska grilla majs till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся грилювати кукурудзу на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to grill corn for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a asar maíz para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Mais zum Abendessen grillen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam grillować kukurydzę na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais griller du maïs pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou grelhar milho para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di grigliare il mais per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Majs är en bra källa till kolhydrater."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кукурудза є хорошим джерелом вуглеводів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Corn is a good source of carbohydrates."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El maíz es una buena fuente de carbohidratos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mais ist eine gute Quelle für Kohlenhydrate."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kukurydza jest dobrym źródłem węglowodanów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le maïs est une bonne source de glucides."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O milho é uma boa fonte de carboidratos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mais è una buona fonte di carboidrati."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta majs på kolven."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти кукурудзу на качані."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat corn on the cob."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer maíz en la mazorca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Mais am Kolben zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść kukurydzę na kolbie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du maïs en épi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer milho na espiga."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare il mais sulla pannocchia."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en selleri",
+        "translations": {
+            "ukrainian": "селера",
+            "english": "celery",
+            "spanish": "apio",
+            "german": "Sellerie",
+            "polish": "seler",
+            "french": "céleri",
+            "portuguese": "aipo",
+            "italian": "sedano"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Selleri är en hälsosam grönsak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Селера - це здоровий овоч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Celery is a healthy vegetable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El apio es una verdura saludable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sellerie ist ein gesundes Gemüse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Seler to zdrowe warzywo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le céleri est un légume sain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O aipo é um vegetal saudável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sedano è un ortaggio salutare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska använda selleri i min soppa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся використовувати селеру в своєму супі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to use celery in my soup."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a usar apio en mi sopa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Sellerie in meiner Suppe verwenden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam użyć selera w mojej zupie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais utiliser du céleri dans ma soupe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou usar aipo na minha sopa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di usare il sedano nella mia zuppa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Selleri är en bra källa till vitamin K."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Селера є хорошим джерелом вітаміну К."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Celery is a good source of vitamin K."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El apio es una buena fuente de vitamina K."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sellerie ist eine gute Quelle für Vitamin K."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Seler jest dobrym źródłem witaminy K."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le céleri est une bonne source de vitamine K."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O aipo é uma boa fonte de vitamina K."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sedano è una buona fonte di vitamina K."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta selleri med jordnötssmör."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти селеру з арахісовим маслом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat celery with peanut butter."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer apio con mantequilla de maní."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Sellerie mit Erdnussbutter zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść seler z masłem orzechowym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du céleri avec du beurre de cacahuète."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer aipo com manteiga de amendoim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare il sedano con il burro di arachidi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en sparris",
+        "translations": {
+            "ukrainian": "спаржа",
+            "english": "asparagus",
+            "spanish": "espárrago",
+            "german": "Spargel",
+            "polish": "szparag",
+            "french": "asperge",
+            "portuguese": "aspargo",
+            "italian": "asparago"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sparris är en delikatess."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Спаржа - це делікатес."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Asparagus is a delicacy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El espárrago es un manjar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Spargel ist eine Delikatesse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szparagi to przysmak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'asperge est un délice."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O aspargo é uma iguaria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'asparago è una prelibatezza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska steka sparris till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся смажити спаржу на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to fry asparagus for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a freír espárragos para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Spargel zum Abendessen braten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam usmażyć szparagi na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire frire des asperges pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fritar aspargos para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di friggere gli asparagi per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Sparris är en bra källa till vitamin K."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Спаржа є хорошим джерелом вітаміну К."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Asparagus is a good source of vitamin K."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El espárrago es una buena fuente de vitamina K."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Spargel ist eine gute Quelle für Vitamin K."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Szparagi są dobrym źródłem witaminy K."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'asperge est une bonne source de vitamine K."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O aspargo é uma boa fonte de vitamina K."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'asparago è una buona fonte di vitamina K."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta sparris med hollandaise."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти спаржу з голландським соусом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat asparagus with hollandaise."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer espárragos con salsa holandesa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Spargel mit Hollandaise zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść szparagi z sosem holenderskim."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger des asperges avec de la sauce hollandaise."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer aspargos com molho holandês."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare gli asparagi con la salsa olandese."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en svamp",
+        "translations": {
+            "ukrainian": "гриб",
+            "english": "mushroom",
+            "spanish": "champiñón",
+            "german": "Pilz",
+            "polish": "grzyb",
+            "french": "champignon",
+            "portuguese": "cogumelo",
+            "italian": "fungo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Svamp är en populär ingrediens i många rätter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гриби є популярним інгредієнтом у багатьох стравах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Mushrooms are a popular ingredient in many dishes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los champiñones son un ingrediente popular en muchos platos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Pilze sind eine beliebte Zutat in vielen Gerichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Grzyby to popularny składnik wielu potraw."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les champignons sont un ingrédient populaire dans de nombreux plats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os cogumelos são um ingrediente popular em muitos pratos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I funghi sono un ingrediente popolare in molti piatti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska steka svamp till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся смажити гриби на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to fry mushrooms for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a freír champiñones para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Pilze zum Abendessen braten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam usmażyć grzyby na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire frire des champignons pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fritar cogumelos para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di friggere i funghi per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Svamp är en bra källa till vitamin D."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гриби є хорошим джерелом вітаміну D."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Mushrooms are a good source of vitamin D."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los champiñones son una buena fuente de vitamina D."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Pilze sind eine gute Quelle für Vitamin D."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Grzyby są dobrym źródłem witaminy D."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les champignons sont une bonne source de vitamine D."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os cogumelos são uma boa fonte de vitamina D."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I funghi sono una buona fonte di vitamina D."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta svamp i soppor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти гриби в супах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat mushrooms in soups."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer champiñones en sopas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Pilze in Suppen zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść grzyby w zupach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger des champignons dans les soupes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer cogumelos em sopas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare i funghi nelle zuppe."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en rödbeta",
+        "translations": {
+            "ukrainian": "буряк",
+            "english": "beetroot",
+            "spanish": "remolacha",
+            "german": "Rote Bete",
+            "polish": "burak",
+            "french": "betterave",
+            "portuguese": "beterraba",
+            "italian": "barbabietola"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rödbetor är en populär ingrediens i sallader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Буряк є популярним інгредієнтом у салатах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Beetroot is a popular ingredient in salads."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La remolacha es un ingrediente popular en ensaladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rote Bete ist eine beliebte Zutat in Salaten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Buraki to popularny składnik sałatek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La betterave est un ingrédient populaire dans les salades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A beterraba é um ingrediente popular em saladas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La barbabietola è un ingrediente popolare nelle insalate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska koka rödbetor till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся варити буряк на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to cook beetroot for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a cocinar remolacha para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Rote Bete zum Abendessen kochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam ugotować buraki na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais cuisiner de la betterave pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou cozinhar beterraba para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di cucinare la barbabietola per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rödbetor är en bra källa till järn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Буряк є хорошим джерелом заліза."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Beetroot is a good source of iron."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La remolacha es una buena fuente de hierro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rote Bete ist eine gute Quelle für Eisen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Buraki są dobrym źródłem żelaza."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La betterave est une bonne source de fer."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A beterraba é uma boa fonte de ferro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La barbabietola è una buona fonte di ferro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta rödbetor i smoothies."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти буряк у смузі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat beetroot in smoothies."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer remolacha en batidos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Rote Bete in Smoothies zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść buraki w smoothie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger de la betterave dans les smoothies."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer beterraba em smoothies."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare la barbabietola nei frullati."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en kålrot",
+        "translations": {
+            "ukrainian": "бруква",
+            "english": "rutabaga",
+            "spanish": "nabo sueco",
+            "german": "Kohlrübe",
+            "polish": "brukiew",
+            "french": "rutabaga",
+            "portuguese": "nabo",
+            "italian": "rapa"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kålrot är en traditionell svensk grönsak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бруква - це традиційний шведський овоч."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Rutabaga is a traditional Swedish vegetable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El nabo sueco es una verdura tradicional sueca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kohlrübe ist ein traditionelles schwedisches Gemüse."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Brukiew to tradycyjne szwedzkie warzywo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le rutabaga est un légume traditionnel suédois."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O nabo é um vegetal tradicional sueco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La rapa è un ortaggio tradizionale svedese."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska koka kålrot till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся варити брукву на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to cook rutabaga for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a cocinar nabo sueco para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Kohlrübe zum Abendessen kochen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam ugotować brukiew na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais cuisiner du rutabaga pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou cozinhar nabo para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di cucinare la rapa per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kålrot är en bra källa till vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бруква є хорошим джерелом вітаміну С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Rutabaga is a good source of vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El nabo sueco es una buena fuente de vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kohlrübe ist eine gute Quelle für Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Brukiew jest dobrym źródłem witaminy C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le rutabaga est une bonne source de vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O nabo é uma boa fonte de vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La rapa è una buona fonte di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta kålrot i grytor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти брукву в рагу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat rutabaga in stews."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer nabo sueco en guisos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Kohlrübe in Eintöpfen zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść brukiew w gulaszach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du rutabaga dans les ragoûts."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer nabo em ensopados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare la rapa negli stufati."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en rättika",
+        "translations": {
+            "ukrainian": "редиска",
+            "english": "radish",
+            "spanish": "rábano",
+            "german": "Rettich",
+            "polish": "rzodkiewka",
+            "french": "radis",
+            "portuguese": "rabanete",
+            "italian": "ravanello"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rättika är en populär ingrediens i sallader."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Редиска є популярним інгредієнтом у салатах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Radish is a popular ingredient in salads."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El rábano es un ingrediente popular en ensaladas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rettich ist eine beliebte Zutat in Salaten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rzodkiewka to popularny składnik sałatek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le radis est un ingrédient populaire dans les salades."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O rabanete é um ingrediente popular em saladas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il ravanello è un ingrediente popolare nelle insalate."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska skära rättika till salladen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся нарізати редиску для салату."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to slice radish for the salad."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a cortar rábano para la ensalada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Rettich für den Salat schneiden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam pokroić rzodkiewkę do sałatki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais couper du radis pour la salade."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou fatiar rabanete para a salada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di affettare il ravanello per l'insalata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rättika är en bra källa till vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Редиска є хорошим джерелом вітаміну С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Radish is a good source of vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El rábano es una buena fuente de vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Rettich ist eine gute Quelle für Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rzodkiewka jest dobrym źródłem witaminy C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le radis est une bonne source de vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O rabanete é uma boa fonte de vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il ravanello è una buona fonte di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta rättika rå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти сиру редиску."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat radish raw."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer rábano crudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Rettich roh zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść surową rzodkiewkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du radis cru."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer rabanete cru."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare il ravanello crudo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en chili",
+        "translations": {
+            "ukrainian": "чилі",
+            "english": "chili",
+            "spanish": "chile",
+            "german": "Chili",
+            "polish": "chili",
+            "french": "piment",
+            "portuguese": "pimenta",
+            "italian": "peperoncino"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Chili ger maten en stark smak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чилі надає їжі гострого смаку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Chili gives food a spicy flavor."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El chile le da un sabor picante a la comida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Chili verleiht dem Essen einen scharfen Geschmack."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chili nadaje potrawie ostry smak."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le piment donne une saveur épicée à la nourriture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A pimenta dá um sabor picante à comida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il peperoncino dà un sapore piccante al cibo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska använda chili i min soppa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся використовувати чилі в своєму супі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to use chili in my soup."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a usar chile en mi sopa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde Chili in meiner Suppe verwenden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam użyć chili w mojej zupie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais utiliser du piment dans ma soupe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou usar pimenta na minha sopa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di usare il peperoncino nella mia zuppa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Chili är en bra källa till vitamin C."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чилі є хорошим джерелом вітаміну С."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Chili is a good source of vitamin C."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El chile es una buena fuente de vitamina C."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Chili ist eine gute Quelle für Vitamin C."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chili jest dobrym źródłem witaminy C."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le piment est une bonne source de vitamine C."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A pimenta é uma boa fonte de vitamina C."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il peperoncino è una buona fonte di vitamina C."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta chili i tacos."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти чилі в тако."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat chili in tacos."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer chile en tacos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Chili in Tacos zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść chili w tacos."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger du piment dans les tacos."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer pimenta em tacos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare il peperoncino nei tacos."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "en pumpa",
+        "translations": {
+            "ukrainian": "гарбуз",
+            "english": "pumpkin",
+            "spanish": "calabaza",
+            "german": "Kürbis",
+            "polish": "dynia",
+            "french": "citrouille",
+            "portuguese": "abóbora",
+            "italian": "zucca"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Pumpa är en populär ingrediens i höstens rätter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гарбуз є популярним інгредієнтом у осінніх стравах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pumpkin is a popular ingredient in autumn dishes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La calabaza es un ingrediente popular en los platos de otoño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kürbis ist eine beliebte Zutat in Herbstgerichten."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dynia to popularny składnik dań jesiennych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La citrouille est un ingrédient populaire dans les plats d'automne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A abóbora é um ingrediente popular em pratos de outono."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La zucca è un ingrediente popolare nei piatti autunnali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ska baka en pumpapaj till middag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я збираюся спекти гарбузовий пиріг на вечерю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to bake a pumpkin pie for dinner."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a hornear una tarta de calabaza para la cena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich werde einen Kürbiskuchen zum Abendessen backen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zamierzam upiec dyniowe ciasto na obiad."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais faire une tarte à la citrouille pour le dîner."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Vou assar uma torta de abóbora para o jantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho intenzione di cuocere una torta di zucca per cena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Pumpa är en bra källa till vitamin A."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гарбуз є хорошим джерелом вітаміну А."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pumpkin is a good source of vitamin A."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La calabaza es una buena fuente de vitamina A."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kürbis ist eine gute Quelle für Vitamin A."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dynia jest dobrym źródłem witaminy A."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La citrouille est une bonne source de vitamine A."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A abóbora é uma boa fonte de vitamina A."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La zucca è una buona fonte di vitamina A."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar att äta pumpa i soppor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобається їсти гарбуз у супах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like to eat pumpkin in soups."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gusta comer calabaza en sopas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag es, Kürbis in Suppen zu essen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię jeść dynię w zupach."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime manger de la citrouille dans les soupes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Gosto de comer abóbora em sopas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piace mangiare la zucca nelle zuppe."
+                    }
+                ]
+            }
+        ]
+    }
+]

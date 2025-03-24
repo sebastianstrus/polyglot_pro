@@ -1,0 +1,1752 @@
+[
+    {
+        "expression": "vänlig",
+        "translations": {
+            "ukrainian": "дружній",
+            "english": "friendly",
+            "spanish": "amable",
+            "german": "freundlich",
+            "polish": "przyjazny",
+            "french": "amical",
+            "portuguese": "amigável",
+            "italian": "amichevole"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en vänlig person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дружня людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a friendly person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una persona amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine freundliche Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest przyjazną osobą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une personne amicale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pessoa amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una persona amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden är mycket vänlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака дуже дружній."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is very friendly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro es muy amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund ist sehr freundlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies jest bardzo przyjazny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien est très amical."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro é muito amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane è molto amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi fick ett vänligt bemötande."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми отримали дружній прийом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We received a friendly reception."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Recibimos una recepción amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir erhielten einen freundlichen Empfang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Otrzymaliśmy przyjazne przyjęcie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous avons reçu un accueil amical."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Recebemos uma recepção amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Abbiamo ricevuto un'accoglienza amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han gav mig ett vänligt leende."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він подарував мені дружню посмішку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He gave me a friendly smile."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él me dio una sonrisa amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er gab mir ein freundliches Lächeln."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On dał mi przyjazny uśmiech."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il m'a donné un sourire amical."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele me deu um sorriso amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi ha regalato un sorriso amichevole."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "charmig",
+        "translations": {
+            "ukrainian": "чарівний",
+            "english": "charming",
+            "spanish": "encantador",
+            "german": "charmant",
+            "polish": "uroczy",
+            "french": "charmant",
+            "portuguese": "encantador",
+            "italian": "affascinante"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en charmig kvinna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона чарівна жінка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a charming woman."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una mujer encantadora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine charmante Frau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest uroczą kobietą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une femme charmante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma mulher encantadora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una donna affascinante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Staden är mycket charmig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Місто дуже чарівне."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The city is very charming."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La ciudad es muy encantadora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Stadt ist sehr charmant."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miasto jest bardzo urocze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La ville est très charmante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A cidade é muito encantadora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La città è molto affascinante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han har en charmig personlighet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У нього чарівна особистість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He has a charming personality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él tiene una personalidad encantadora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er hat eine charmante Persönlichkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On ma urokliwą osobowość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a une personnalité charmante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele tem uma personalidade encantadora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui ha una personalità affascinante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var en charmig liten by."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це було чарівне маленьке містечко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was a charming little town."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Era un pueblo pequeño y encantador."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es war ein charmantes kleines Städtchen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To było urocze małe miasteczko."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était un charmant petit village."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Era uma cidadezinha encantadora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era un paesino affascinante."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "utåtriktad",
+        "translations": {
+            "ukrainian": "екстравертований",
+            "english": "extroverted",
+            "spanish": "extrovertido",
+            "german": "extrovertiert",
+            "polish": "ekstrawertyczny",
+            "french": "extraverti",
+            "portuguese": "extrovertido",
+            "italian": "estroverso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en utåtriktad person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він екстравертована людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an extroverted person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona extrovertida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein extrovertierter Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest osobą ekstrawertyczną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne extravertie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa extrovertida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona estroversa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Utåtriktade människor älskar att vara sociala."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Екстравертовані люди люблять бути соціальними."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Extroverted people love to be social."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas extrovertidas aman ser sociales."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Extrovertierte Menschen lieben es, sozial zu sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ekstrawertycy uwielbiają być towarzyscy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes extraverties aiment être sociales."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas extrovertidas adoram ser sociáveis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone estroverse amano essere sociali."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är mycket utåtriktad och pratar gärna med främlingar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона дуже екстравертована і любить розмовляти з незнайомцями."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is very extroverted and enjoys talking to strangers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es muy extrovertida y le gusta hablar con extraños."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist sehr extrovertiert und spricht gerne mit Fremden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest bardzo ekstrawertyczna i lubi rozmawiać z nieznajomymi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est très extravertie et aime parler à des inconnus."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é muito extrovertida e gosta de conversar com estranhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è molto estroversa e le piace parlare con gli sconosciuti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Utåtriktade människor får energi av att vara med andra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Екстравертовані люди отримують енергію від спілкування з іншими."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Extroverted people get energy from being with others."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas extrovertidas obtienen energía al estar con otros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Extrovertierte Menschen bekommen Energie, wenn sie mit anderen zusammen sind."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ekstrawertycy czerpią energię z przebywania z innymi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes extraverties tirent de l'énergie en étant avec les autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas extrovertidas ganham energia ao estar com outras pessoas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone estroverse traggono energia dall'essere con gli altri."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "empatisk",
+        "translations": {
+            "ukrainian": "емпатичний",
+            "english": "empathetic",
+            "spanish": "empático",
+            "german": "einfühlsam",
+            "polish": "empatyczny",
+            "french": "empathique",
+            "portuguese": "empático",
+            "italian": "empatico"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en empatisk person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона емпатична людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is an empathetic person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una persona empática."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine einfühlsame Person."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest osobą empatyczną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une personne empathique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma pessoa empática."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è una persona empatica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Empatiska människor förstår andras känslor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Емпатичні люди розуміють почуття інших."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Empathetic people understand others' feelings."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas empáticas entienden los sentimientos de los demás."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Einfühlsame Menschen verstehen die Gefühle anderer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Empatyczni ludzie rozumieją uczucia innych."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes empathiques comprennent les sentiments des autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas empáticas entendem os sentimentos dos outros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone empatiche capiscono i sentimenti degli altri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han visade en empatisk reaktion på hennes problem."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він показав емпатичну реакцію на її проблему."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He showed an empathetic reaction to her problem."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él mostró una reacción empática ante su problema."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er zeigte eine einfühlsame Reaktion auf ihr Problem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On wykazał empatyczną reakcję na jej problem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a montré une réaction empathique à son problème."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele mostrou uma reação empática ao problema dela."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha mostrato una reazione empatica al suo problema."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Empatiska ledare är ofta mycket uppskattade."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Емпатичні лідери часто дуже цінуються."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Empathetic leaders are often highly appreciated."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los líderes empáticos suelen ser muy apreciados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Einfühlsame Führungskräfte werden oft sehr geschätzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Empatyczni liderzy są często bardzo doceniani."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les leaders empathiques sont souvent très appréciés."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Líderes empáticos são frequentemente muito apreciados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I leader empatici sono spesso molto apprezzati."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "introvert",
+        "translations": {
+            "ukrainian": "інтровертований",
+            "english": "introverted",
+            "spanish": "introvertido",
+            "german": "introvertiert",
+            "polish": "introwertyczny",
+            "french": "introverti",
+            "portuguese": "introvertido",
+            "italian": "introverso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en introvert person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він інтровертована людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is an introverted person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona introvertida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein introvertierter Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest osobą introwertyczną."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne introvertie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa introvertida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona introversa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Introverta människor föredrar att vara ensamma."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Інтровертовані люди воліють бути наодинці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Introverted people prefer to be alone."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas introvertidas prefieren estar solas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Introvertierte Menschen bevorzugen es, allein zu sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Introwertycy wolą być sami."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes introverties préfèrent être seules."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas introvertidas preferem ficar sozinhas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone introverse preferiscono stare da sole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är introvert men mycket kreativ."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона інтровертована, але дуже творча."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is introverted but very creative."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es introvertida pero muy creativa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist introvertiert, aber sehr kreativ."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest introwertyczna, ale bardzo kreatywna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est introvertie mais très créative."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é introvertida, mas muito criativa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è introversa ma molto creativa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Introverta människor behöver tid för sig själva."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Інтровертовані люди потребують часу для себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Introverted people need time for themselves."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas introvertidas necesitan tiempo para sí mismas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Introvertierte Menschen brauchen Zeit für sich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Introwertycy potrzebują czasu dla siebie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes introverties ont besoin de temps pour elles-mêmes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas introvertidas precisam de tempo para si mesmas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone introverse hanno bisogno di tempo per sé stesse."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "reserverad",
+        "translations": {
+            "ukrainian": "стриманий",
+            "english": "reserved",
+            "spanish": "reservado",
+            "german": "zurückhaltend",
+            "polish": "powściągliwy",
+            "french": "réservé",
+            "portuguese": "reservado",
+            "italian": "riservato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en reserverad person."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він стримана людина."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a reserved person."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es una persona reservada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein zurückhaltender Mensch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest osobą powściągliwą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est une personne réservée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é uma pessoa reservada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è una persona riservata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är reserverad men mycket vänlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона стримана, але дуже дружня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is reserved but very friendly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es reservada pero muy amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist zurückhaltend, aber sehr freundlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest powściągliwa, ale bardzo przyjazna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est réservée mais très amicale."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é reservada, mas muito amigável."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è riservata ma molto amichevole."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Reserverade människor öppnar sig sällan för andra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стримані люди рідко відкриваються іншим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Reserved people rarely open up to others."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas reservadas rara vez se abren a los demás."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Zurückhaltende Menschen öffnen sich selten anderen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Powściągliwi ludzie rzadko otwierają się przed innymi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes réservées s'ouvrent rarement aux autres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas reservadas raramente se abrem para os outros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone riservate raramente si aprono agli altri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är reserverad men mycket lojal."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він стриманий, але дуже лояльний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is reserved but very loyal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es reservado pero muy leal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist zurückhaltend, aber sehr loyal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest powściągliwy, ale bardzo lojalny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est réservé mais très loyal."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é reservado, mas muito leal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è riservato ma molto leale."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kylig",
+        "translations": {
+            "ukrainian": "холодний",
+            "english": "cold",
+            "spanish": "frío",
+            "german": "kühl",
+            "polish": "chłodny",
+            "french": "froid",
+            "portuguese": "frio",
+            "italian": "freddo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vädret är kyligt idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні погода холодна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The weather is cold today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El clima está frío hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Wetter ist heute kühl."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziś pogoda jest chłodna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le temps est froid aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tempo está frio hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tempo è freddo oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon gav mig en kylig blick."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона кинула на мене холодний погляд."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She gave me a cold look."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella me lanzó una mirada fría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie warf mir einen kalten Blick zu."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rzuciła mi chłodne spojrzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle m'a lancé un regard froid."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela me deu um olhar frio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi ha lanciato uno sguardo freddo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var en kylig kväll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це був холодний вечір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was a cold evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue una noche fría."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es war ein kühler Abend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To był chłodny wieczór."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était une soirée froide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi uma noite fria."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Era una serata fredda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är kylig men professionell."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він холодний, але професійний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is cold but professional."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es frío pero profesional."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist kühl, aber professionell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest chłodny, ale profesjonalny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est froid mais professionnel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é frio, mas profissional."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è freddo ma professionale."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "fientlig",
+        "translations": {
+            "ukrainian": "ворожий",
+            "english": "hostile",
+            "spanish": "hostil",
+            "german": "feindselig",
+            "polish": "wrogi",
+            "french": "hostile",
+            "portuguese": "hostil",
+            "italian": "ostile"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han var fientlig mot mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він був ворожий до мене."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He was hostile towards me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él fue hostil hacia mí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er war feindselig mir gegenüber."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Był wrogi wobec mnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il était hostile envers moi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele foi hostil comigo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui era ostile verso di me."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Miljön var fientlig och ogästvänlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Середовище було ворожим і негостинним."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The environment was hostile and inhospitable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El entorno era hostil e inhóspito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Umgebung war feindselig und unwirtlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Środowisko było wrogie i niegościnne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'environnement était hostile et inhospitalier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ambiente era hostil e inóspito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'ambiente era ostile e inospitale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Fientliga handlingar kan leda till konflikter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ворожі дії можуть призвести до конфліктів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hostile actions can lead to conflicts."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las acciones hostiles pueden llevar a conflictos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Feindselige Handlungen können zu Konflikten führen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wrogie działania mogą prowadzić do konfliktów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les actions hostiles peuvent conduire à des conflits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ações hostis podem levar a conflitos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le azioni ostili possono portare a conflitti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon mötte honom med en fientlig attityd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона зустріла його з ворожою поведінкою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She met him with a hostile attitude."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella lo recibió con una actitud hostil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie begegnete ihm mit einer feindseligen Haltung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przywitała go z wrogą postawą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle l'a accueilli avec une attitude hostile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela o recebeu com uma atitude hostil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei lo ha accolto con un atteggiamento ostile."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lojal",
+        "translations": {
+            "ukrainian": "лояльний",
+            "english": "loyal",
+            "spanish": "leal",
+            "german": "loyal",
+            "polish": "lojalny",
+            "french": "loyal",
+            "portuguese": "leal",
+            "italian": "leale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är en lojal vän."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він лояльний друг."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is a loyal friend."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es un amigo leal."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist ein loyaler Freund."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest lojalnym przyjacielem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est un ami loyal."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é um amigo leal."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è un amico leale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är lojal mot sitt företag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона лояльна до своєї компанії."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is loyal to her company."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es leal a su empresa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist ihrem Unternehmen gegenüber loyal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest lojalna wobec swojej firmy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est loyale envers son entreprise."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é leal à sua empresa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è leale alla sua azienda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Lojalitet är en viktig egenskap."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Лояльність – важлива риса."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Loyalty is an important trait."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La lealtad es una cualidad importante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Loyalität ist eine wichtige Eigenschaft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lojalność to ważna cecha."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La loyauté est une qualité importante."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A lealdade é uma qualidade importante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La lealtà è una qualità importante."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han visade lojalitet genom att stanna kvar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він показав лояльність, залишившись."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He showed loyalty by staying."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él mostró lealtad al quedarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er zeigte Loyalität, indem er blieb."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pokazał lojalność, zostając."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il a montré sa loyauté en restant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele mostrou lealdade ao ficar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ha mostrato lealtà rimanendo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "tålmodig",
+        "translations": {
+            "ukrainian": "терплячий",
+            "english": "patient",
+            "spanish": "paciente",
+            "german": "geduldig",
+            "polish": "cierpliwy",
+            "french": "patient",
+            "portuguese": "paciente",
+            "italian": "paziente"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon är en tålmodig lärare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона терплячий вчитель."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She is a patient teacher."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella es una maestra paciente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie ist eine geduldige Lehrerin."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona jest cierpliwą nauczycielką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle est une enseignante patiente."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela é uma professora paciente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei è un'insegnante paziente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tålmodighet är en dygd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Терпіння – це чеснота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Patience is a virtue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La paciencia es una virtud."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Geduld ist eine Tugend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cierpliwość to cnota."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La patience est une vertu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A paciência é uma virtude."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pazienza è una virtù."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Han är tålmodig med barn."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Він терплячий з дітьми."
+                    },
+                    {
+                        "language": "english",
+                        "text": "He is patient with children."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Él es paciente con los niños."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Er ist geduldig mit Kindern."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "On jest cierpliwy z dziećmi."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Il est patient avec les enfants."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ele é paciente com as crianças."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lui è paziente con i bambini."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tålmodiga människor är ofta framgångsrika."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Терплячі люди часто досягають успіху."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Patient people are often successful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las personas pacientes suelen tener éxito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Geduldige Menschen sind oft erfolgreich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cierpliwi ludzie często odnoszą sukcesy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les personnes patientes réussissent souvent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Pessoas pacientes costumam ter sucesso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le persone pazienti spesso hanno successo."
+                    }
+                ]
+            }
+        ]
+    }
+]

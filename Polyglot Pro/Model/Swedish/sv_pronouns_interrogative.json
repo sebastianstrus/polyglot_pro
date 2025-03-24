@@ -1,0 +1,2277 @@
+[
+    {
+        "expression": "vem",
+        "translations": {
+            "ukrainian": "хто",
+            "english": "who",
+            "spanish": "quién",
+            "german": "wer",
+            "polish": "kto",
+            "french": "qui",
+            "portuguese": "quem",
+            "italian": "chi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vem är du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хто ти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Who are you?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Quién eres?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wer bist du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kim jesteś?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Qui es-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quem é você?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Chi sei?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vem vann tävlingen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хто виграв змагання?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Who won the competition?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Quién ganó la competencia?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wer hat den Wettbewerb gewonnen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kto wygrał zawody?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Qui a gagné la compétition ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quem ganhou a competição?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Chi ha vinto la competizione?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vem ringer du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кому ти телефонуєш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Who are you calling?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿A quién estás llamando?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wen rufst du an?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do kogo dzwonisz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Qui appelles-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Para quem você está ligando?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Chi stai chiamando?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vem bor i detta hus?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Хто живе в цьому будинку?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Who lives in this house?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Quién vive en esta casa?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wer wohnt in diesem Haus?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kto mieszka w tym domu?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Qui vit dans cette maison ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quem mora nesta casa?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Chi vive in questa casa?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vad",
+        "translations": {
+            "ukrainian": "що",
+            "english": "what",
+            "spanish": "qué",
+            "german": "was",
+            "polish": "co",
+            "french": "quoi",
+            "portuguese": "o que",
+            "italian": "cosa"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad heter du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Як тебе звати?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What is your name?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cómo te llamas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie heißt du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jak masz na imię?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Comment tu t'appelles ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Qual é o seu nome?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Come ti chiami?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad gör du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Що ти робиш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What are you doing?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué estás haciendo?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was machst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Co robisz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Qu'est-ce que tu fais ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O que você está fazendo?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cosa stai facendo?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad är det där?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Що це таке?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What is that?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué es eso?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was ist das?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Co to jest?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Qu'est-ce que c'est ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O que é isso?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cos'è quello?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad vill du äta?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Що ти хочеш їсти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What do you want to eat?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué quieres comer?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was möchtest du essen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Co chcesz zjeść?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Que veux-tu manger ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O que você quer comer?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cosa vuoi mangiare?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "var",
+        "translations": {
+            "ukrainian": "де",
+            "english": "where",
+            "spanish": "dónde",
+            "german": "wo",
+            "polish": "gdzie",
+            "french": "où",
+            "portuguese": "onde",
+            "italian": "dove"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var är du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Де ти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where are you?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Dónde estás?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wo bist du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gdzie jesteś?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où es-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Onde você está?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove sei?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var ligger banken?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Де знаходиться банк?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where is the bank?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Dónde está el banco?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wo ist die Bank?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gdzie jest bank?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où est la banque ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Onde fica o banco?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove si trova la banca?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var bor du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Де ти живеш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where do you live?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Dónde vives?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wo wohnst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gdzie mieszkasz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où habites-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Onde você mora?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove vivi?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Var är min bok?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Де моя книга?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where is my book?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Dónde está mi libro?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wo ist mein Buch?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gdzie jest moja książka?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où est mon livre ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Onde está o meu livro?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove è il mio libro?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vart",
+        "translations": {
+            "ukrainian": "куди",
+            "english": "where to",
+            "spanish": "adónde",
+            "german": "wohin",
+            "polish": "dokąd",
+            "french": "où",
+            "portuguese": "para onde",
+            "italian": "dove"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vart ska du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Куди ти йдеш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where are you going?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Adónde vas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wohin gehst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dokąd idziesz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où vas-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Para onde você vai?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove stai andando?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vart reser ni i sommar?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Куди ви подорожуєте цього літа?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where are you traveling this summer?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Adónde viajan este verano?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wohin reist ihr diesen Sommer?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dokąd podróżujecie tego lata?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où voyagez-vous cet été ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Para onde vocês vão viajar neste verão?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove viaggiate quest'estate?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vart flyttade de?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Куди вони переїхали?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where did they move to?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Adónde se mudaron?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wohin sind sie gezogen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dokąd się przeprowadzili?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où ont-ils déménagé ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Para onde eles se mudaram?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove si sono trasferiti?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vart går den här bussen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Куди їде цей автобус?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where is this bus going?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Adónde va este autobús?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wohin fährt dieser Bus?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dokąd jedzie ten autobus?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Où va ce bus ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Para onde vai este ônibus?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Dove va questo autobus?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "varifrån",
+        "translations": {
+            "ukrainian": "звідки",
+            "english": "from where",
+            "spanish": "de dónde",
+            "german": "woher",
+            "polish": "skąd",
+            "french": "d'où",
+            "portuguese": "de onde",
+            "italian": "da dove"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varifrån kommer du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Звідки ти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where are you from?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De dónde eres?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Woher kommst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skąd jesteś?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "D'où viens-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De onde você é?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Da dove vieni?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varifrån fick du denna information?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Звідки ти отримав цю інформацію?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where did you get this information from?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De dónde obtuviste esta información?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Woher hast du diese Information?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skąd masz tę informację?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "D'où as-tu obtenu cette information ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De onde você obteve essa informação?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Da dove hai ottenuto questa informazione?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varifrån är den här bilen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Звідки ця машина?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where is this car from?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De dónde es este coche?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Woher ist dieses Auto?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skąd jest ten samochód?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "D'où vient cette voiture ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De onde é este carro?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Da dove viene questa macchina?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varifrån reser du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Звідки ти подорожуєш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Where are you traveling from?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De dónde viajas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Woher reist du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Skąd podróżujesz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "D'où voyages-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De onde você está viajando?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Da dove stai viaggiando?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "när",
+        "translations": {
+            "ukrainian": "коли",
+            "english": "when",
+            "spanish": "cuándo",
+            "german": "wann",
+            "polish": "kiedy",
+            "french": "quand",
+            "portuguese": "quando",
+            "italian": "quando"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "När börjar filmen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Коли починається фільм?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "When does the movie start?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuándo empieza la película?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wann beginnt der Film?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiedy zaczyna się film?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quand commence le film ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quando começa o filme?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quando inizia il film?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "När är ditt födelsedatum?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Коли у тебе день народження?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "When is your birthday?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuándo es tu cumpleaños?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wann ist dein Geburtstag?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiedy masz urodziny?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quand est ton anniversaire ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quando é o seu aniversário?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quando è il tuo compleanno?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "När träffades ni?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Коли ви зустрілися?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "When did you meet?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuándo se conocieron?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wann habt ihr euch kennengelernt?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiedy się poznaliście?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quand vous êtes-vous rencontrés ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quando vocês se conheceram?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quando vi siete incontrati?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "När öppnar butiken?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Коли відкривається магазин?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "When does the store open?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuándo abre la tienda?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wann öffnet der Laden?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiedy otwiera się sklep?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quand ouvre le magasin ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quando a loja abre?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quando apre il negozio?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "varför",
+        "translations": {
+            "ukrainian": "чому",
+            "english": "why",
+            "spanish": "por qué",
+            "german": "warum",
+            "polish": "dlaczego",
+            "french": "pourquoi",
+            "portuguese": "por que",
+            "italian": "perché"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varför är du sen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чому ти запізнився?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Why are you late?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Por qué llegas tarde?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Warum bist du spät?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dlaczego się spóźniłeś?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pourquoi es-tu en retard ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Por que você está atrasado?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Perché sei in ritardo?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varför studerar du svenska?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чому ти вчиш шведську?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Why are you studying Swedish?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Por qué estudias sueco?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Warum lernst du Schwedisch?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dlaczego uczysz się szwedzkiego?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pourquoi étudies-tu le suédois ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Por que você está estudando sueco?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Perché stai studiando svedese?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varför skrattar du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чому ти смієшся?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Why are you laughing?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Por qué te ríes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Warum lachst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dlaczego się śmiejesz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pourquoi ris-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Por que você está rindo?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Perché stai ridendo?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varför är han arg?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чому він сердитий?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Why is he angry?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Por qué está enojado?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Warum ist er wütend?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dlaczego jest zły?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pourquoi est-il en colère ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Por que ele está bravo?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Perché è arrabbiato?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hur",
+        "translations": {
+            "ukrainian": "як",
+            "english": "how",
+            "spanish": "cómo",
+            "german": "wie",
+            "polish": "jak",
+            "french": "comment",
+            "portuguese": "como",
+            "italian": "come"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur mår du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Як ти себе почуваєш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How are you feeling?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cómo te sientes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie fühlst du dich?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jak się czujesz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Comment te sens-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Como você está se sentindo?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Come ti senti?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur fungerar det?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Як це працює?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How does it work?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cómo funciona?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie funktioniert es?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jak to działa?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Comment ça marche ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Como isso funciona?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Come funziona?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur gammal är du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки тобі років?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How old are you?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuántos años tienes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie alt bist du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile masz lat?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quel âge as-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quantos anos você tem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanti anni hai?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur långt är det till stationen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Як далеко до станції?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How far is it to the station?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué tan lejos está la estación?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie weit ist es bis zum Bahnhof?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jak daleko jest do stacji?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À quelle distance est la gare ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quão longe fica a estação?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanto dista la stazione?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hur mycket",
+        "translations": {
+            "ukrainian": "скільки",
+            "english": "how much",
+            "spanish": "cuánto",
+            "german": "wie viel",
+            "polish": "ile",
+            "french": "combien",
+            "portuguese": "quanto",
+            "italian": "quanto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur mycket kostar det?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки це коштує?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How much does it cost?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuánto cuesta?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viel kostet es?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile to kosztuje?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien ça coûte ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanto custa?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanto costa?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur mycket tid har vi?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки у нас часу?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How much time do we have?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuánto tiempo tenemos?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viel Zeit haben wir?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile mamy czasu?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien de temps avons-nous ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanto tempo temos?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanto tempo abbiamo?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur mycket socker vill du ha?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки цукру ти хочеш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How much sugar do you want?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuánto azúcar quieres?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viel Zucker möchtest du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile cukru chcesz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien de sucre veux-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanto açúcar você quer?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanto zucchero vuoi?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur mycket vatten dricker du per dag?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки води ти п'єш на день?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How much water do you drink per day?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuánta agua bebes al día?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viel Wasser trinkst du pro Tag?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile wody pijesz dziennie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien d'eau bois-tu par jour ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quanta água você bebe por dia?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanta acqua bevi al giorno?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hur många",
+        "translations": {
+            "ukrainian": "скільки (лічильний)",
+            "english": "how many",
+            "spanish": "cuántos",
+            "german": "wie viele",
+            "polish": "ile",
+            "french": "combien",
+            "portuguese": "quantos",
+            "italian": "quanti"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur många syskon har du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки у тебе братів і сестер?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How many siblings do you have?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuántos hermanos tienes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viele Geschwister hast du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile masz rodzeństwa?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien de frères et sœurs as-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quantos irmãos você tem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanti fratelli hai?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur många böcker har du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки у тебе книг?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How many books do you have?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuántos libros tienes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viele Bücher hast du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile masz książek?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien de livres as-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quantos livros você tem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanti libri hai?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur många timmar tar resan?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки годин триває подорож?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How many hours does the trip take?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuántas horas dura el viaje?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viele Stunden dauert die Reise?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile godzin trwa podróż?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien d'heures dure le voyage ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quantas horas dura a viagem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quante ore dura il viaggio?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hur många elever är i klassen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Скільки учнів у класі?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "How many students are in the class?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuántos alumnos hay en la clase?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wie viele Schüler sind in der Klasse?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ile uczniów jest w klasie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Combien d'élèves y a-t-il dans la classe ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quantos alunos há na classe?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quanti studenti ci sono in classe?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vilken",
+        "translations": {
+            "ukrainian": "який",
+            "english": "which",
+            "spanish": "cuál",
+            "german": "welcher",
+            "polish": "który",
+            "french": "quel",
+            "portuguese": "qual",
+            "italian": "quale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vilken bok vill du läsa?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яку книгу ти хочеш прочитати?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Which book do you want to read?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuál libro quieres leer?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Welches Buch möchtest du lesen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Którą książkę chcesz przeczytać?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quel livre veux-tu lire ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Qual livro você quer ler?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quale libro vuoi leggere?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vilket språk talar du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Якою мовою ти говориш?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Which language do you speak?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuál idioma hablas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Welche Sprache sprichst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Którym językiem mówisz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quelle langue parles-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Qual idioma você fala?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quale lingua parli?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vilka länder har du besökt?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Які країни ти відвідав?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Which countries have you visited?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuáles países has visitado?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Welche Länder hast du besucht?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Które kraje odwiedziłeś?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quels pays as-tu visités ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quais países você visitou?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quali paesi hai visitato?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vilken färg tycker du om?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Який колір тобі подобається?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Which color do you like?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuál color te gusta?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Welche Farbe magst du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Który kolor lubisz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quelle couleur aimes-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Qual cor você gosta?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Quale colore ti piace?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vems",
+        "translations": {
+            "ukrainian": "чий",
+            "english": "whose",
+            "spanish": "de quién",
+            "german": "wessen",
+            "polish": "czyj",
+            "french": "à qui",
+            "portuguese": "de quem",
+            "italian": "di chi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vems bil är det?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чия це машина?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Whose car is that?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De quién es ese coche?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wessen Auto ist das?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czyj to samochód?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À qui est cette voiture ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De quem é esse carro?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Di chi è quella macchina?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vems bok ligger här?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чия книга тут лежить?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Whose book is lying here?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De quién es este libro?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wessen Buch liegt hier?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czyja książka tu leży?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À qui est ce livre ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De quem é este livro?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Di chi è questo libro?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vems idé var det?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чия це була ідея?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Whose idea was that?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De quién fue esa idea?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wessen Idee war das?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czyj to był pomysł?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À qui était cette idée ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De quem foi essa ideia?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Di chi era quell'idea?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vems hund är det?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чий це собака?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Whose dog is that?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿De quién es ese perro?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wessen Hund ist das?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czyj to pies?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À qui est ce chien ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De quem é esse cachorro?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Di chi è quel cane?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hurdan",
+        "translations": {
+            "ukrainian": "який",
+            "english": "what kind of",
+            "spanish": "qué tipo de",
+            "german": "was für ein",
+            "polish": "jaki",
+            "french": "quel genre de",
+            "portuguese": "que tipo de",
+            "italian": "che tipo di"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hurdan är din nya lägenhet?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яка твоя нова квартира?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What kind of apartment is your new one?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué tipo de apartamento es tu nuevo?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was für eine Wohnung ist deine neue?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jaki jest twój nowy apartament?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quel genre d'appartement est ton nouveau ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Que tipo de apartamento é o seu novo?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Che tipo di appartamento è il tuo nuovo?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hurdant väder är det idag?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яка сьогодні погода?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What kind of weather is it today?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué tipo de clima hace hoy?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was für ein Wetter ist es heute?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jaka jest dzisiaj pogoda?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quel genre de temps fait-il aujourd'hui ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Que tipo de tempo está hoje?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Che tempo fa oggi?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hurdana är dina vänner?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Які твої друзі?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What kind of friends do you have?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué tipo de amigos tienes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was für Freunde hast du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jacy są twoi przyjaciele?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quel genre d'amis as-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Que tipo de amigos você tem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Che tipo di amici hai?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hurdan är din bil?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яка твоя машина?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What kind of car do you have?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Qué tipo de coche tienes?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was für ein Auto hast du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jaki jest twój samochód?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quel genre de voiture as-tu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Que tipo de carro você tem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Che tipo di macchina hai?"
+                    }
+                ]
+            }
+        ]
+    }
+]

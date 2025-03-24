@@ -1,0 +1,4727 @@
+[
+    {
+        "expression": "butik",
+        "translations": {
+            "ukrainian": "магазин",
+            "english": "shop",
+            "spanish": "tienda",
+            "german": "Geschäft",
+            "polish": "sklep",
+            "french": "boutique",
+            "portuguese": "loja",
+            "italian": "negozio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag går till butiken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я йду до магазину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I am going to the shop."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Voy a la tienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich gehe zum Geschäft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Idę do sklepu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je vais à la boutique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu vou para a loja."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Vado al negozio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Butiken är öppen till 20:00."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Магазин працює до 20:00."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shop is open until 8 PM."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tienda está abierta hasta las 20:00."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Geschäft ist bis 20:00 Uhr geöffnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sklep jest otwarty do 20:00."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La boutique est ouverte jusqu'à 20h00."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja está aberta até às 20:00."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il negozio è aperto fino alle 20:00."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Butiken har många varor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У магазині багато товарів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shop has many products."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tienda tiene muchos productos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Geschäft hat viele Produkte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sklep ma wiele produktów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La boutique a beaucoup de produits."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja tem muitos produtos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il negozio ha molti prodotti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Butiken ligger i centrum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Магазин знаходиться в центрі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shop is located in the center."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tienda está en el centro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Geschäft liegt im Zentrum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sklep znajduje się w centrum."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La boutique est située au centre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja está localizada no centro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il negozio si trova nel centro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "affär",
+        "translations": {
+            "ukrainian": "магазин",
+            "english": "store",
+            "spanish": "tienda",
+            "german": "Laden",
+            "polish": "sklep",
+            "french": "magasin",
+            "portuguese": "loja",
+            "italian": "negozio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Affären har bra priser."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У магазині хороші ціни."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The store has good prices."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tienda tiene buenos precios."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Laden hat gute Preise."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sklep ma dobre ceny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le magasin a de bons prix."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja tem bons preços."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il negozio ha buoni prezzi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en tröja i affären."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив светр у магазині."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a sweater in the store."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré un suéter en la tienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe einen Pullover im Laden gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem sweter w sklepie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté un pull dans le magasin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei um suéter na loja."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato un maglione nel negozio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Affären har stängt på söndagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Магазин зачинений по неділях."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The store is closed on Sundays."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tienda está cerrada los domingos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Laden ist sonntags geschlossen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sklep jest zamknięty w niedziele."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le magasin est fermé le dimanche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja está fechada aos domingos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il negozio è chiuso la domenica."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Affären ligger nära stationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Магазин знаходиться біля станції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The store is near the station."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tienda está cerca de la estación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Laden liegt in der Nähe des Bahnhofs."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sklep znajduje się blisko stacji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le magasin est près de la gare."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja fica perto da estação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il negozio è vicino alla stazione."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "marknad",
+        "translations": {
+            "ukrainian": "ринок",
+            "english": "market",
+            "spanish": "mercado",
+            "german": "Markt",
+            "polish": "rynek",
+            "french": "marché",
+            "portuguese": "mercado",
+            "italian": "mercato"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte frukt på marknaden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив фруктів на ринку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought fruit at the market."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré fruta en el mercado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe Obst auf dem Markt gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem owoce na rynku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté des fruits au marché."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei frutas no mercado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato frutta al mercato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Marknaden är öppen på lördagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ринок працює по суботах."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The market is open on Saturdays."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mercado está abierto los sábados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Markt ist samstags geöffnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rynek jest otwarty w soboty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le marché est ouvert le samedi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mercado está aberto aos sábados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mercato è aperto il sabato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Marknaden ligger i centrum."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ринок знаходиться в центрі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The market is located in the center."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mercado está en el centro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Markt liegt im Zentrum."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rynek znajduje się w centrum."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le marché est situé au centre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mercado está localizado no centro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mercato si trova nel centro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Marknaden har många stånd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "На ринку багато кіосків."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The market has many stalls."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mercado tiene muchos puestos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Markt hat viele Stände."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rynek ma wiele stoisk."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le marché a de nombreux stands."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mercado tem muitas barracas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mercato ha molte bancarelle."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "köpcenter",
+        "translations": {
+            "ukrainian": "торговий центр",
+            "english": "shopping center",
+            "spanish": "centro comercial",
+            "german": "Einkaufszentrum",
+            "polish": "centrum handlowe",
+            "french": "centre commercial",
+            "portuguese": "shopping",
+            "italian": "centro commerciale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Köpcentret har många butiker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У торговому центрі багато магазинів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shopping center has many stores."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El centro comercial tiene muchas tiendas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Einkaufszentrum hat viele Geschäfte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Centrum handlowe ma wiele sklepów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le centre commercial a de nombreux magasins."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O shopping tem muitas lojas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il centro commerciale ha molti negozi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi åkte till köpcentret igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ми поїхали до торгового центру вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "We went to the shopping center yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fuimos al centro comercial ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sind gestern ins Einkaufszentrum gefahren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pojechaliśmy do centrum handlowego wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Nous sommes allés au centre commercial hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Fomos ao shopping ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Siamo andati al centro commerciale ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Köpcentret ligger utanför stan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Торговий центр знаходиться за містом."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shopping center is located outside the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El centro comercial está fuera de la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Einkaufszentrum liegt außerhalb der Stadt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Centrum handlowe znajduje się poza miastem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le centre commercial est situé en dehors de la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O shopping fica fora da cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il centro commerciale si trova fuori città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Köpcentret har en stor parkeringsplats."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У торгового центру велика парковка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shopping center has a large parking lot."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El centro comercial tiene un gran estacionamiento."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Einkaufszentrum hat einen großen Parkplatz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Centrum handlowe ma duży parking."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le centre commercial a un grand parking."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O shopping tem um grande estacionamento."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il centro commerciale ha un grande parcheggio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "varuhus",
+        "translations": {
+            "ukrainian": "універмаг",
+            "english": "department store",
+            "spanish": "grandes almacenes",
+            "german": "Kaufhaus",
+            "polish": "dom towarowy",
+            "french": "grand magasin",
+            "portuguese": "loja de departamentos",
+            "italian": "grande magazzino"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varuhuset har många avdelningar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Універмаг має багато відділів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The department store has many sections."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los grandes almacenes tienen muchas secciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kaufhaus hat viele Abteilungen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dom towarowy ma wiele działów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le grand magasin a de nombreuses sections."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja de departamentos tem muitas seções."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il grande magazzino ha molte sezioni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en jacka i varuhuset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив куртку в універмазі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a jacket in the department store."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré una chaqueta en los grandes almacenes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe eine Jacke im Kaufhaus gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem kurtkę w domu towarowym."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté une veste dans le grand magasin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei uma jaqueta na loja de departamentos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato una giacca nel grande magazzino."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varuhuset ligger mitt i stan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Універмаг знаходиться в центрі міста."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The department store is located in the city center."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los grandes almacenes están en el centro de la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kaufhaus liegt in der Stadtmitte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dom towarowy znajduje się w centrum miasta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le grand magasin est situé au centre-ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja de departamentos fica no centro da cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il grande magazzino si trova nel centro della città."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varuhuset har öppet till 21:00."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Універмаг працює до 21:00."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The department store is open until 9 PM."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los grandes almacenes están abiertos hasta las 21:00."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Kaufhaus ist bis 21:00 Uhr geöffnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dom towarowy jest otwarty do 21:00."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le grand magasin est ouvert jusqu'à 21h00."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A loja de departamentos está aberta até às 21:00."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il grande magazzino è aperto fino alle 21:00."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kiosk",
+        "translations": {
+            "ukrainian": "кіоск",
+            "english": "kiosk",
+            "spanish": "quiosco",
+            "german": "Kiosk",
+            "polish": "kiosk",
+            "french": "kiosque",
+            "portuguese": "quiosque",
+            "italian": "chiosco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en tidning på kiosken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив газету в кіоску."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a newspaper at the kiosk."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré un periódico en el quiosco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe eine Zeitung am Kiosk gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem gazetę w kiosku."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté un journal au kiosque."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei um jornal no quiosque."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato un giornale al chiosco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kiosken säljer glass."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У кіоску продають морозиво."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The kiosk sells ice cream."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El quiosco vende helados."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kiosk verkauft Eis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiosk sprzedaje lody."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le kiosque vend des glaces."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O quiosque vende sorvete."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il chiosco vende gelati."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kiosken ligger vid stationen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кіоск знаходиться біля станції."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The kiosk is located near the station."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El quiosco está cerca de la estación."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kiosk liegt in der Nähe des Bahnhofs."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiosk znajduje się przy stacji."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le kiosque est près de la gare."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O quiosque fica perto da estação."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il chiosco si trova vicino alla stazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kiosken har öppet till 22:00."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кіоск працює до 22:00."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The kiosk is open until 10 PM."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El quiosco está abierto hasta las 22:00."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kiosk ist bis 22:00 Uhr geöffnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kiosk jest otwarty do 22:00."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le kiosque est ouvert jusqu'à 22h00."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O quiosque está aberto até às 22:00."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il chiosco è aperto fino alle 22:00."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hylla",
+        "translations": {
+            "ukrainian": "полиця",
+            "english": "shelf",
+            "spanish": "estante",
+            "german": "Regal",
+            "polish": "półka",
+            "french": "étagère",
+            "portuguese": "prateleira",
+            "italian": "scaffale"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Böckerna står på hyllan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Книжки стоять на полиці."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The books are on the shelf."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los libros están en el estante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Bücher stehen im Regal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Książki stoją na półce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les livres sont sur l'étagère."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os livros estão na prateleira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I libri sono sullo scaffale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ställde glaset på hyllan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я поставив склянку на полицю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I put the glass on the shelf."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Puse el vaso en el estante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich stellte das Glas ins Regal."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Postawiłem szklankę na półce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai mis le verre sur l'étagère."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Coloquei o copo na prateleira."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho messo il bicchiere sullo scaffale."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hyllan är full av böcker."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Полиця повна книжок."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shelf is full of books."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El estante está lleno de libros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Regal ist voller Bücher."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Półka jest pełna książek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'étagère est pleine de livres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A prateleira está cheia de livros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo scaffale è pieno di libri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hyllan är för hög för mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Полиця занадто висока для мене."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shelf is too high for me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El estante es demasiado alto para mí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Regal ist zu hoch für mich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Półka jest dla mnie za wysoka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'étagère est trop haute pour moi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A prateleira é muito alta para mim."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo scaffale è troppo alto per me."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kundvagn",
+        "translations": {
+            "ukrainian": "кошик для покупок",
+            "english": "shopping cart",
+            "spanish": "carrito de compras",
+            "german": "Einkaufswagen",
+            "polish": "wózek sklepowy",
+            "french": "chariot de courses",
+            "portuguese": "carrinho de compras",
+            "italian": "carrello della spesa"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tog en kundvagn vid ingången."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я взяв кошик для покупок біля входу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I took a shopping cart at the entrance."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tomé un carrito de compras en la entrada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich nahm einen Einkaufswagen am Eingang."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wziąłem wózek sklepowy przy wejściu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai pris un chariot à l'entrée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Peguei um carrinho de compras na entrada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho preso un carrello della spesa all'ingresso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kundvagnen är full."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кошик для покупок повний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shopping cart is full."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El carrito de compras está lleno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Einkaufswagen ist voll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wózek sklepowy jest pełny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chariot est plein."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carrinho de compras está cheio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il carrello della spesa è pieno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kundvagnen har trasigt hjul."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У кошика для покупок зламане колесо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shopping cart has a broken wheel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El carrito de compras tiene una rueda rota."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Einkaufswagen hat ein kaputtes Rad."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wózek sklepowy ma zepsute koło."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chariot a une roue cassée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carrinho de compras tem uma roda quebrada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il carrello della spesa ha una ruota rotta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kundvagnen är lätt att skjuta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кошик для покупок легко штовхати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shopping cart is easy to push."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El carrito de compras es fácil de empujar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Einkaufswagen ist leicht zu schieben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wózek sklepowy jest łatwy do pchania."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chariot est facile à pousser."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carrinho de compras é fácil de empurrar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il carrello della spesa è facile da spingere."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "varor",
+        "translations": {
+            "ukrainian": "товари",
+            "english": "goods",
+            "spanish": "productos",
+            "german": "Waren",
+            "polish": "towary",
+            "french": "marchandises",
+            "portuguese": "produtos",
+            "italian": "merci"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varorna är på rea."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Товари на розпродажі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The goods are on sale."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los productos están en oferta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Waren sind im Angebot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Towary są na wyprzedaży."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les marchandises sont en solde."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os produtos estão em promoção."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le merci sono in saldo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte många varor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив багато товарів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought many goods."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré muchos productos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe viele Waren gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem wiele towarów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté beaucoup de marchandises."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Comprei muitos produtos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato molte merci."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varorna är av hög kvalitet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Товари високої якості."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The goods are of high quality."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los productos son de alta calidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Waren sind von hoher Qualität."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Towary są wysokiej jakości."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les marchandises sont de haute qualité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os produtos são de alta qualidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le merci sono di alta qualità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varorna är dyra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Товари дорогі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The goods are expensive."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los productos son caros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Waren sind teuer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Towary są drogie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les marchandises sont chères."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os produtos são caros."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le merci sono costose."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "pris",
+        "translations": {
+            "ukrainian": "ціна",
+            "english": "price",
+            "spanish": "precio",
+            "german": "Preis",
+            "polish": "cena",
+            "french": "prix",
+            "portuguese": "preço",
+            "italian": "prezzo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Priset är för högt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ціна занадто висока."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The price is too high."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El precio es demasiado alto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Preis ist zu hoch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cena jest za wysoka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le prix est trop élevé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O preço é muito alto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il prezzo è troppo alto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vad är priset?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Яка ціна?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "What is the price?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Cuál es el precio?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Was ist der Preis?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jaka jest cena?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Quel est le prix ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Qual é o preço?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Qual è il prezzo?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Priset har gått ner."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ціна знизилася."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The price has gone down."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El precio ha bajado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Preis ist gesunken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cena spadła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le prix a baissé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O preço caiu."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il prezzo è sceso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Priset är bra."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ціна гарна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The price is good."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El precio es bueno."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Preis ist gut."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cena jest dobra."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le prix est bon."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O preço é bom."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il prezzo è buono."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rabatt",
+        "translations": {
+            "ukrainian": "знижка",
+            "english": "discount",
+            "spanish": "descuento",
+            "german": "Rabatt",
+            "polish": "rabat",
+            "french": "réduction",
+            "portuguese": "desconto",
+            "italian": "sconto"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag fick rabatt på jackan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я отримав знижку на куртку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I got a discount on the jacket."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Obtuve un descuento en la chaqueta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe einen Rabatt auf die Jacke bekommen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostałem rabat na kurtkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai eu une réduction sur la veste."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Recebi um desconto na jaqueta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho ottenuto uno sconto sulla giacca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rabatten är 20%."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Знижка 20%."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The discount is 20%."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El descuento es del 20%."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Rabatt beträgt 20%."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rabat wynosi 20%."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réduction est de 20%."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O desconto é de 20%."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo sconto è del 20%."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rabatten gäller endast idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Знижка діє лише сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The discount is valid only today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El descuento es válido solo hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Rabatt gilt nur heute."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rabat obowiązuje tylko dzisiaj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réduction est valable seulement aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O desconto é válido apenas hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo sconto è valido solo oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rabatten är för tidiga köpare."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Знижка для ранніх покупців."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The discount is for early buyers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El descuento es para los compradores tempranos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Rabatt ist für frühe Käufer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Rabat jest dla wczesnych kupujących."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réduction est pour les acheteurs précoces."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O desconto é para compradores antecipados."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lo sconto è per gli acquirenti precoci."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "erbjudande",
+        "translations": {
+            "ukrainian": "пропозиція",
+            "english": "offer",
+            "spanish": "oferta",
+            "german": "Angebot",
+            "polish": "oferta",
+            "french": "offre",
+            "portuguese": "oferta",
+            "italian": "offerta"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Erbjudandet gäller endast denna vecka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пропозиція діє лише цього тижня."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The offer is valid only this week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La oferta es válida solo esta semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Angebot gilt nur diese Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oferta obowiązuje tylko w tym tygodniu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'offre est valable seulement cette semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A oferta é válida apenas esta semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'offerta è valida solo questa settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tog emot erbjudandet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я прийняв пропозицію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I accepted the offer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Acepté la oferta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe das Angebot angenommen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przyjąłem ofertę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai accepté l'offre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Aceitei a oferta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho accettato l'offerta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Erbjudandet är för bra för att vara sant."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пропозиція занадто хороша, щоб бути правдою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The offer is too good to be true."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La oferta es demasiado buena para ser verdad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Angebot ist zu gut, um wahr zu sein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oferta jest zbyt dobra, aby była prawdziwa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'offre est trop belle pour être vraie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A oferta é boa demais para ser verdade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'offerta è troppo bella per essere vera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Erbjudandet inkluderar fri leverans."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пропозиція включає безкоштовну доставку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The offer includes free delivery."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La oferta incluye envío gratis."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Angebot beinhaltet kostenlose Lieferung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Oferta obejmuje darmową dostawę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'offre comprend la livraison gratuite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A oferta inclui entrega grátis."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'offerta include la consegna gratuita."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kampanj",
+        "translations": {
+            "ukrainian": "акція",
+            "english": "campaign",
+            "spanish": "campaña",
+            "german": "Kampagne",
+            "polish": "kampania",
+            "french": "campagne",
+            "portuguese": "campanha",
+            "italian": "campagna"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kampanjen startar imorgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Акція розпочнеться завтра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The campaign starts tomorrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La campaña comienza mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kampagne startet morgen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kampania rozpoczyna się jutro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La campagne commence demain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A campanha começa amanhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La campagna inizia domani."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kampanjen varar i en vecka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Акція триватиме тиждень."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The campaign lasts for a week."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La campaña dura una semana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kampagne dauert eine Woche."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kampania trwa tydzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La campagne dure une semaine."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A campanha dura uma semana."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La campagna dura una settimana."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kampanjen inkluderar rabatter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Акція включає знижки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The campaign includes discounts."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La campaña incluye descuentos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kampagne beinhaltet Rabatte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kampania obejmuje rabaty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La campagne comprend des réductions."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A campanha inclui descontos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La campagna include sconti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kampanjen är mycket populär."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Акція дуже популярна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The campaign is very popular."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La campaña es muy popular."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kampagne ist sehr beliebt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kampania jest bardzo popularna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La campagne est très populaire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A campanha é muito popular."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La campagna è molto popolare."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "påse",
+        "translations": {
+            "ukrainian": "пакет",
+            "english": "bag",
+            "spanish": "bolsa",
+            "german": "Tüte",
+            "polish": "torba",
+            "french": "sac",
+            "portuguese": "saco",
+            "italian": "borsa"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag behöver en påse."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені потрібен пакет."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I need a bag."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Necesito una bolsa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich brauche eine Tüte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Potrzebuję torby."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai besoin d'un sac."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Preciso de um saco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho bisogno di una borsa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Påsen är full."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пакет повний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bag is full."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La bolsa está llena."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tüte ist voll."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Torba jest pełna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le sac est plein."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O saco está cheio."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La borsa è piena."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Påsen är trasig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пакет порваний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bag is torn."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La bolsa está rota."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tüte ist kaputt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Torba jest rozdarta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le sac est déchiré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O saco está rasgado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La borsa è strappata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Påsen är tillverkad av papper."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Пакет зроблений з паперу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bag is made of paper."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La bolsa está hecha de papel."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Tüte ist aus Papier."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Torba jest wykonana z papieru."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le sac est en papier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O saco é feito de papel."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La borsa è fatta di carta."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "leverans",
+        "translations": {
+            "ukrainian": "доставка",
+            "english": "delivery",
+            "spanish": "entrega",
+            "german": "Lieferung",
+            "polish": "dostawa",
+            "french": "livraison",
+            "portuguese": "entrega",
+            "italian": "consegna"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Leveransen är gratis."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка безкоштовна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The delivery is free."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega es gratuita."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Lieferung ist kostenlos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa jest darmowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison est gratuite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega é gratuita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna è gratuita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Leveransen tar två dagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка займає два дні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The delivery takes two days."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega tarda dos días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Lieferung dauert zwei Tage."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa zajmuje dwa dni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison prend deux jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega leva dois dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna richiede due giorni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Leveransen är försenad."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка затримується."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The delivery is delayed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega está retrasada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Lieferung ist verspätet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa jest opóźniona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison est retardée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega está atrasada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna è in ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Leveransen kommer imorgon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка прибуде завтра."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The delivery will arrive tomorrow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega llegará mañana."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Lieferung kommt morgen an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa przyjdzie jutro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison arrivera demain."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega chegará amanhã."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna arriverà domani."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "etikett",
+        "translations": {
+            "ukrainian": "етикетка",
+            "english": "label",
+            "spanish": "etiqueta",
+            "german": "Etikett",
+            "polish": "etykieta",
+            "french": "étiquette",
+            "portuguese": "etiqueta",
+            "italian": "etichetta"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Etiketten är trasig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Етикетка порвана."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The label is torn."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La etiqueta está rota."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Etikett ist kaputt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Etykieta jest rozdarta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'étiquette est déchirée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A etiqueta está rasgada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'etichetta è strappata."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Etiketten är för liten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Етикетка занадто мала."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The label is too small."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La etiqueta es demasiado pequeña."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Etikett ist zu klein."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Etykieta jest za mała."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'étiquette est trop petite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A etiqueta é muito pequena."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'etichetta è troppo piccola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Etiketten är oläslig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Етикетка нечитабельна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The label is unreadable."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La etiqueta es ilegible."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Etikett ist unleserlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Etykieta jest nieczytelna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'étiquette est illisible."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A etiqueta é ilegível."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'etichetta è illeggibile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Etiketten visar priset."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Етикетка показує ціну."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The label shows the price."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La etiqueta muestra el precio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Etikett zeigt den Preis."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Etykieta pokazuje cenę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'étiquette indique le prix."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A etiqueta mostra o preço."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'etichetta mostra il prezzo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "hemleverans",
+        "translations": {
+            "ukrainian": "доставка додому",
+            "english": "home delivery",
+            "spanish": "entrega a domicilio",
+            "german": "Hauslieferung",
+            "polish": "dostawa do domu",
+            "french": "livraison à domicile",
+            "portuguese": "entrega em casa",
+            "italian": "consegna a domicilio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hemleveransen är gratis."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка додому безкоштовна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Home delivery is free."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega a domicilio es gratuita."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Hauslieferung ist kostenlos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa do domu jest darmowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison à domicile est gratuite."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega em casa é gratuita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna a domicilio è gratuita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hemleveransen tar en dag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка додому займає один день."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Home delivery takes one day."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega a domicilio tarda un día."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Hauslieferung dauert einen Tag."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa do domu zajmuje jeden dzień."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison à domicile prend un jour."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega em casa leva um dia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna a domicilio richiede un giorno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hemleveransen är bekväm."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка додому зручна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Home delivery is convenient."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega a domicilio es conveniente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Hauslieferung ist bequem."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa do domu jest wygodna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison à domicile est pratique."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega em casa é conveniente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna a domicilio è comoda."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hemleveransen är tillgänglig i hela staden."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доставка додому доступна по всьому місту."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Home delivery is available throughout the city."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La entrega a domicilio está disponible en toda la ciudad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Hauslieferung ist in der ganzen Stadt verfügbar."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dostawa do domu jest dostępna w całym mieście."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La livraison à domicile est disponible dans toute la ville."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A entrega em casa está disponível em toda a cidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La consegna a domicilio è disponibile in tutta la città."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "provrum",
+        "translations": {
+            "ukrainian": "приміркова кімната",
+            "english": "fitting room",
+            "spanish": "probador",
+            "german": "Umkleidekabine",
+            "polish": "przymierzalnia",
+            "french": "cabine d'essayage",
+            "portuguese": "provador",
+            "italian": "camerino"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Provrummet är upptaget."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Приміркова кімната зайнята."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fitting room is occupied."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El probador está ocupado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Umkleidekabine ist besetzt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przymierzalnia jest zajęta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La cabine d'essayage est occupée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O provador está ocupado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camerino è occupato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Provrummet är stort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Приміркова кімната велика."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fitting room is large."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El probador es grande."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Umkleidekabine ist groß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przymierzalnia jest duża."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La cabine d'essayage est grande."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O provador é grande."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camerino è grande."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Provrummet har en spegel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У примірковій кімнаті є дзеркало."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fitting room has a mirror."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El probador tiene un espejo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Umkleidekabine hat einen Spiegel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przymierzalnia ma lustro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La cabine d'essayage a un miroir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O provador tem um espelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camerino ha uno specchio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Provrummet är rent."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Приміркова кімната чиста."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The fitting room is clean."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El probador está limpio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Umkleidekabine ist sauber."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przymierzalnia jest czysta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La cabine d'essayage est propre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O provador está limpo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il camerino è pulito."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kassörska",
+        "translations": {
+            "ukrainian": "касирка",
+            "english": "cashier",
+            "spanish": "cajera",
+            "german": "Kassiererin",
+            "polish": "kasjerka",
+            "french": "caissière",
+            "portuguese": "caixa",
+            "italian": "cassiera"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kassörskan är vänlig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Касирка привітна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cashier is friendly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cajera es amable."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kassiererin ist freundlich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kasjerka jest miła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La caissière est gentille."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A caixa é simpática."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cassiera è gentile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kassörskan hjälpte mig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Касирка допомогла мені."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cashier helped me."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cajera me ayudó."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kassiererin hat mir geholfen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kasjerka mi pomogła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La caissière m'a aidé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A caixa me ajudou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cassiera mi ha aiutato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kassörskan räknar pengar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Касирка рахує гроші."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cashier is counting money."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cajera está contando dinero."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kassiererin zählt Geld."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kasjerka liczy pieniądze."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La caissière compte de l'argent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A caixa está contando dinheiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cassiera sta contando i soldi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kassörskan är snabb."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Касирка швидка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cashier is fast."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La cajera es rápida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kassiererin ist schnell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kasjerka jest szybka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La caissière est rapide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A caixa é rápida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La cassiera è veloce."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "plastfolie",
+        "translations": {
+            "ukrainian": "плівка",
+            "english": "plastic wrap",
+            "spanish": "film plástico",
+            "german": "Frischhaltefolie",
+            "polish": "folia spożywcza",
+            "french": "film plastique",
+            "portuguese": "filme plástico",
+            "italian": "pellicola"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag använder plastfolie för att täcka maten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я використовую плівку, щоб накрити їжу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I use plastic wrap to cover the food."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Uso film plástico para cubrir la comida."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich benutze Frischhaltefolie, um das Essen abzudecken."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Używam folii spożywczej, aby przykryć jedzenie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'utilise du film plastique pour couvrir la nourriture."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Uso filme plástico para cobrir a comida."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Uso la pellicola per coprire il cibo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Plastfolien är slut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Плівка закінчилася."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The plastic wrap is finished."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El film plástico se acabó."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Frischhaltefolie ist alle."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Folia spożywcza się skończyła."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film plastique est fini."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme plástico acabou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pellicola è finita."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Plastfolien är stark."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Плівка міцна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The plastic wrap is strong."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El film plástico es fuerte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Frischhaltefolie ist stark."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Folia spożywcza jest mocna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film plastique est solide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme plástico é forte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pellicola è resistente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Plastfolien är lätt att använda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Плівку легко використовувати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The plastic wrap is easy to use."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El film plástico es fácil de usar."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Frischhaltefolie ist einfach zu verwenden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Folia spożywcza jest łatwa w użyciu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le film plastique est facile à utiliser."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O filme plástico é fácil de usar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La pellicola è facile da usare."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "retur",
+        "translations": {
+            "ukrainian": "повернення",
+            "english": "return",
+            "spanish": "devolución",
+            "german": "Rückgabe",
+            "polish": "zwrot",
+            "french": "retour",
+            "portuguese": "devolução",
+            "italian": "reso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag vill göra en retur på den här produkten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я хочу повернути цей товар."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I want to return this product."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Quiero devolver este producto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich möchte dieses Produkt zurückgeben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Chcę zwrócić ten produkt."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je veux retourner ce produit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Quero devolver este produto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Voglio restituire questo prodotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Returen måste göras inom 30 dagar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повернення має бути здійснено протягом 30 днів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The return must be made within 30 days."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La devolución debe realizarse en un plazo de 30 días."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Rückgabe muss innerhalb von 30 Tagen erfolgen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zwrot musi zostać dokonany w ciągu 30 dni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le retour doit être effectué dans les 30 jours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A devolução deve ser feita em até 30 dias."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il reso deve essere effettuato entro 30 giorni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Returen är gratis."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повернення безкоштовне."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The return is free."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La devolución es gratuita."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Rückgabe ist kostenlos."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zwrot jest bezpłatny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le retour est gratuit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A devolução é gratuita."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il reso è gratuito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Returen skickades tillbaka till butiken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Повернення було відправлено назад до магазину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The return was sent back to the store."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La devolución fue enviada de vuelta a la tienda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Rückgabe wurde zurück an den Laden geschickt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zwrot został wysłany z powrotem do sklepu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le retour a été renvoyé au magasin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A devolução foi enviada de volta para a loja."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il reso è stato inviato indietro al negozio."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kundtjänst",
+        "translations": {
+            "ukrainian": "обслуговування клієнтів",
+            "english": "customer service",
+            "spanish": "servicio al cliente",
+            "german": "Kundenservice",
+            "polish": "obsługa klienta",
+            "french": "service client",
+            "portuguese": "atendimento ao cliente",
+            "italian": "servizio clienti"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kundtjänsten är öppen dygnet runt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Обслуговування клієнтів працює цілодобово."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Customer service is open 24/7."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El servicio al cliente está abierto las 24 horas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kundenservice ist rund um die Uhr geöffnet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obsługa klienta jest czynna całą dobę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le service client est ouvert 24h/24."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O atendimento ao cliente está aberto 24 horas por dia."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il servizio clienti è aperto 24 ore su 24."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag ringde kundtjänsten för att få hjälp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я зателефонував у службу підтримки, щоб отримати допомогу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I called customer service to get help."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Llamé al servicio al cliente para obtener ayuda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe den Kundenservice angerufen, um Hilfe zu bekommen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zadzwoniłem do obsługi klienta, aby uzyskać pomoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai appelé le service client pour obtenir de l'aide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Liguei para o atendimento ao cliente para obter ajuda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho chiamato il servizio clienti per ottenere aiuto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kundtjänsten var mycket hjälpsam."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Служба підтримки була дуже корисною."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Customer service was very helpful."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El servicio al cliente fue muy útil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kundenservice war sehr hilfreich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obsługa klienta była bardzo pomocna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le service client était très utile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O atendimento ao cliente foi muito útil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il servizio clienti è stato molto utile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kundtjänsten svarade snabbt på mitt mail."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Служба підтримки швидко відповіла на мій лист."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Customer service responded quickly to my email."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El servicio al cliente respondió rápidamente a mi correo electrónico."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kundenservice antwortete schnell auf meine E-Mail."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Obsługa klienta szybko odpowiedziała na mojego maila."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le service client a répondu rapidement à mon e-mail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O atendimento ao cliente respondeu rapidamente ao meu e-mail."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il servizio clienti ha risposto rapidamente alla mia e-mail."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "betalning",
+        "translations": {
+            "ukrainian": "оплата",
+            "english": "payment",
+            "spanish": "pago",
+            "german": "Zahlung",
+            "polish": "płatność",
+            "french": "paiement",
+            "portuguese": "pagamento",
+            "italian": "pagamento"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Betalningen sker med kort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Оплата здійснюється карткою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Payment is made by card."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pago se realiza con tarjeta."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Zahlung erfolgt mit Karte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płatność odbywa się kartą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le paiement se fait par carte."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pagamento é feito com cartão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il pagamento avviene con carta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Betalningen är klar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Оплата завершена."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The payment is complete."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pago está completo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Zahlung ist abgeschlossen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płatność została zakończona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le paiement est terminé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pagamento está concluído."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il pagamento è completato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Betalningen försenades."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Оплата затрималася."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The payment was delayed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pago se retrasó."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Zahlung wurde verzögert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płatność została opóźniona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le paiement a été retardé."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pagamento foi atrasado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il pagamento è stato ritardato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Betalningen sker via internetbank."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Оплата здійснюється через інтернет-банк."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Payment is made via online banking."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El pago se realiza a través de la banca en línea."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Zahlung erfolgt über Online-Banking."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płatność odbywa się przez bankowość internetową."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le paiement se fait via la banque en ligne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pagamento é feito via internet banking."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il pagamento avviene tramite internet banking."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kreditkort",
+        "translations": {
+            "ukrainian": "кредитна картка",
+            "english": "credit card",
+            "spanish": "tarjeta de crédito",
+            "german": "Kreditkarte",
+            "polish": "karta kredytowa",
+            "french": "carte de crédit",
+            "portuguese": "cartão de crédito",
+            "italian": "carta di credito"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag betalar med mitt kreditkort."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я плачу своєю кредитною карткою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I pay with my credit card."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Pago con mi tarjeta de crédito."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich zahle mit meiner Kreditkarte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płacę moją kartą kredytową."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je paie avec ma carte de crédit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu pago com meu cartão de crédito."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Pago con la mia carta di credito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kreditkortet har gått ut."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Термін дії кредитної картки закінчився."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The credit card has expired."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tarjeta de crédito ha caducado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kreditkarte ist abgelaufen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Karta kredytowa straciła ważność."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La carte de crédit a expiré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cartão de crédito expirou."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La carta di credito è scaduta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kreditkortet stals igår."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кредитну картку вкрали вчора."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The credit card was stolen yesterday."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tarjeta de crédito fue robada ayer."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kreditkarte wurde gestern gestohlen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Karta kredytowa została skradziona wczoraj."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La carte de crédit a été volée hier."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cartão de crédito foi roubado ontem."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La carta di credito è stata rubata ieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kreditkortet har hög kreditgräns."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кредитна картка має високий кредитний ліміт."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The credit card has a high credit limit."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La tarjeta de crédito tiene un límite de crédito alto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Kreditkarte hat ein hohes Kreditlimit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Karta kredytowa ma wysoki limit kredytowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La carte de crédit a une limite de crédit élevée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cartão de crédito tem um limite de crédito alto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La carta di credito ha un alto limite di credito."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kontanter",
+        "translations": {
+            "ukrainian": "готівка",
+            "english": "cash",
+            "spanish": "efectivo",
+            "german": "Bargeld",
+            "polish": "gotówka",
+            "french": "espèces",
+            "portuguese": "dinheiro",
+            "italian": "contanti"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag betalar med kontanter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я плачу готівкою."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I pay with cash."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Pago en efectivo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich zahle mit Bargeld."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Płacę gotówką."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je paie en espèces."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu pago em dinheiro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Pago in contanti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har inte tillräckligt med kontanter."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене недостатньо готівки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I don't have enough cash."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No tengo suficiente efectivo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe nicht genug Bargeld."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie mam wystarczająco gotówki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je n'ai pas assez d'espèces."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Não tenho dinheiro suficiente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Non ho abbastanza contanti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kontanter accepteras inte här."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Готівку тут не приймають."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cash is not accepted here."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No se acepta efectivo aquí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bargeld wird hier nicht akzeptiert."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gotówka nie jest tutaj akceptowana."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les espèces ne sont pas acceptées ici."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Dinheiro não é aceito aqui."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I contanti non sono accettati qui."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kontanter är säkert."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Готівка безпечна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cash is safe."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El efectivo es seguro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bargeld ist sicher."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gotówka jest bezpieczna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les espèces sont sûres."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Dinheiro é seguro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I contanti sono sicuri."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "kvitto",
+        "translations": {
+            "ukrainian": "квитанція",
+            "english": "receipt",
+            "spanish": "recibo",
+            "german": "Quittung",
+            "polish": "paragon",
+            "french": "reçu",
+            "portuguese": "recibo",
+            "italian": "ricevuta"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kan jag få kvittot?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чи можу я отримати квитанцію?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Can I get the receipt?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¿Puedo obtener el recibo?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kann ich die Quittung bekommen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czy mogę dostać paragon?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Puis-je avoir le reçu ?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Posso receber o recibo?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Posso avere la ricevuta?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kvittot är viktigt för returer."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квитанція важлива для повернення."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The receipt is important for returns."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El recibo es importante para las devoluciones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Quittung ist wichtig für Rückgaben."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Paragon jest ważny dla zwrotów."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le reçu est important pour les retours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O recibo é importante para devoluções."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ricevuta è importante per i resi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag tappade kvittot."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я загубив квитанцію."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I lost the receipt."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Perdí el recibo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe die Quittung verloren."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zgubiłem paragon."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai perdu le reçu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Perdi o recibo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho perso la ricevuta."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kvittot visar alla köp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квитанція показує всі покупки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The receipt shows all purchases."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El recibo muestra todas las compras."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Quittung zeigt alle Einkäufe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Paragon pokazuje wszystkie zakupy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le reçu montre tous les achats."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O recibo mostra todas as compras."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La ricevuta mostra tutti gli acquisti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "reklamation",
+        "translations": {
+            "ukrainian": "рекламація",
+            "english": "complaint",
+            "spanish": "reclamación",
+            "german": "Reklamation",
+            "polish": "reklamacja",
+            "french": "réclamation",
+            "portuguese": "reclamação",
+            "italian": "reclamo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en reklamation på produkten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є рекламація на цей товар."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a complaint about the product."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo una reclamación sobre el producto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe eine Reklamation über das Produkt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam reklamację dotyczącą produktu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai une réclamation concernant le produit."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tenho uma reclamação sobre o produto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho un reclamo sul prodotto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Reklamationen behandlas snabbt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рекламація розглядається швидко."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The complaint is handled quickly."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La reclamación se maneja rápidamente."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Reklamation wird schnell bearbeitet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Reklamacja jest szybko rozpatrywana."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réclamation est traitée rapidement."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A reclamação é tratada rapidamente."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il reclamo viene gestito rapidamente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Reklamationen skickades till tillverkaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рекламація була відправлена виробнику."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The complaint was sent to the manufacturer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La reclamación fue enviada al fabricante."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Reklamation wurde an den Hersteller geschickt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Reklamacja została wysłana do producenta."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réclamation a été envoyée au fabricant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A reclamação foi enviada ao fabricante."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il reclamo è stato inviato al produttore."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Reklamationen godkändes."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Рекламацію було схвалено."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The complaint was approved."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La reclamación fue aprobada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Reklamation wurde genehmigt."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Reklamacja została zatwierdzona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La réclamation a été approuvée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A reclamação foi aprovada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il reclamo è stato approvato."
+                    }
+                ]
+            }
+        ]
+    }
+]

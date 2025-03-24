@@ -34,11 +34,25 @@ struct Polyglot_ProApp: App {
     }
     
     var body: some Scene {
-        WindowGroup {
-            VocabularyView()
+        
+        
+        return WindowGroup {
+            MainView()
                 .frame(minWidth: minWidth, maxWidth: .infinity, minHeight: minHeight, maxHeight: .infinity)
                 .preferredColorScheme(.light)
+            
+            
         }
     }
 }
 
+
+
+
+
+
+/* upload: sv_adjectives_colors.json
+Hej. Tworzę aplikację do nauki języka szwedzkiego dla osób, które już znają inne języki. Potrzebuję więcej wyrazen z tłumaczeniami. Do każdego wyrazenia 4 przykłady zdań, które też są przetłumaczone. Potrzebuję te wyrazenia w formacie json. Wysyłam Ci plik json z przykładową inną kategorią i proszę stwórz nowy plik z poniższymi wyrazeniami. Wykorzystaj koniecznie wszystkie poniżej. Użyj wszystkie słowa. Aż do końca.
+
+nyligen, idag, i morse, i kväll, i natt, om en stund, hädanefter, hittills, då och då, någon gång
+*/

@@ -1,0 +1,2452 @@
+[
+    {
+        "expression": "röd",
+        "translations": {
+            "ukrainian": "червоний",
+            "english": "red",
+            "spanish": "rojo",
+            "german": "rot",
+            "polish": "czerwony",
+            "french": "rouge",
+            "portuguese": "vermelho",
+            "italian": "rosso"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Huset är rött."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будинок червоний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The house is red."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La casa es roja."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Haus ist rot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dom jest czerwony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La maison est rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A casa é vermelha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La casa è rossa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag köpte en röd bil."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я купив червону машину."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I bought a red car."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Compré un coche rojo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein rotes Auto gekauft."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kupiłem czerwony samochód."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai acheté une voiture rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu comprei um carro vermelho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho comprato una macchina rossa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Rosen är röd."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Троянда червона."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The rose is red."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La rosa es roja."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Rose ist rot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Róża jest czerwona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La rose est rouge."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A rosa é vermelha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La rosa è rossa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tomater är röda."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Помідори червоні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Tomatoes are red."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los tomates son rojos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Tomaten sind rot."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomidory są czerwone."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les tomates sont rouges."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os tomates são vermelhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I pomodori sono rossi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "blå",
+        "translations": {
+            "ukrainian": "синій",
+            "english": "blue",
+            "spanish": "azul",
+            "german": "blau",
+            "polish": "niebieski",
+            "french": "bleu",
+            "portuguese": "azul",
+            "italian": "blu"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Himlen är blå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Небо синє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sky is blue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cielo es azul."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Himmel ist blau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niebo jest niebieskie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ciel est bleu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O céu é azul."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cielo è blu."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en blå tröja."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є синя кофта."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a blue sweater."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo un suéter azul."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe einen blauen Pullover."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam niebieski sweter."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai un pull bleu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho um suéter azul."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho un maglione blu."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Havet är blått."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Море синє."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sea is blue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El mar es azul."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Meer ist blau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Morze jest niebieskie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La mer est bleue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O mar é azul."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mare è blu."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Min favoritfärg är blå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мій улюблений колір - синій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My favorite color is blue."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mi color favorito es el azul."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Meine Lieblingsfarbe ist blau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mój ulubiony kolor to niebieski."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ma couleur préférée est le bleu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Minha cor favorita é azul."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mio colore preferito è il blu."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "gul",
+        "translations": {
+            "ukrainian": "жовтий",
+            "english": "yellow",
+            "spanish": "amarillo",
+            "german": "gelb",
+            "polish": "żółty",
+            "french": "jaune",
+            "portuguese": "amarelo",
+            "italian": "giallo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Solen är gul."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сонце жовте."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sun is yellow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El sol es amarillo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Sonne ist gelb."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Słońce jest żółte."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le soleil est jaune."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O sol é amarelo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il sole è giallo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en gul bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є жовта книга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a yellow book."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo un libro amarillo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein gelbes Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam żółtą książkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai un livre jaune."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho um livro amarelo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho un libro giallo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bananer är gula."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Банани жовті."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bananas are yellow."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los plátanos son amarillos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bananen sind gelb."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Banany są żółte."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les bananes sont jaunes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As bananas são amarelas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le banane sono gialle."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Huset har gula väggar."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будинок має жовті стіни."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The house has yellow walls."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La casa tiene paredes amarillas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Haus hat gelbe Wände."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dom ma żółte ściany."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La maison a des murs jaunes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A casa tem paredes amarelas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La casa ha pareti gialle."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "grön",
+        "translations": {
+            "ukrainian": "зелений",
+            "english": "green",
+            "spanish": "verde",
+            "german": "grün",
+            "polish": "zielony",
+            "french": "vert",
+            "portuguese": "verde",
+            "italian": "verde"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gräset är grönt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Трава зелена."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The grass is green."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La hierba es verde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Gras ist grün."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Trawa jest zielona."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'herbe est verte."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A grama é verde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'erba è verde."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag älskar gröna äpplen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я люблю зелені яблука."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I love green apples."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me encantan las manzanas verdes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich liebe grüne Äpfel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Uwielbiam zielone jabłka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'adore les pommes vertes."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu adoro maçãs verdes."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Adoro le mele verdi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Bilen är grön."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Автомобіль зелений."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The car is green."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El coche es verde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Auto ist grün."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Samochód jest zielony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La voiture est verte."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O carro é verde."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La macchina è verde."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skogen är grön på sommaren."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ліс зелений влітку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The forest is green in summer."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El bosque es verde en verano."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Wald ist im Sommer grün."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Las jest zielony latem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La forêt est verte en été."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A floresta é verde no verão."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La foresta è verde in estate."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "svart",
+        "translations": {
+            "ukrainian": "чорний",
+            "english": "black",
+            "spanish": "negro",
+            "german": "schwarz",
+            "polish": "czarny",
+            "french": "noir",
+            "portuguese": "preto",
+            "italian": "nero"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Min katt är svart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мій кіт чорний."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My cat is black."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mi gato es negro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Meine Katze ist schwarz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mój kot jest czarny."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mon chat est noir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meu gato é preto."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mio gatto è nero."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag bär svarta byxor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я ношу чорні штани."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I wear black pants."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Uso pantalones negros."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich trage schwarze Hosen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Noszę czarne spodnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Je porte un pantalon noir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu uso calças pretas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Indosso pantaloni neri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Natten är svart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ніч чорна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The night is black."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La noche es negra."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Nacht ist schwarz."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Noc jest czarna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La nuit est noire."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A noite é preta."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La notte è nera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Svarta skor är klassiska."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Чорні туфлі класичні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Black shoes are classic."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los zapatos negros son clásicos."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Schwarze Schuhe sind klassisch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Czarne buty są klasyczne."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les chaussures noires sont classiques."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sapatos pretos são clássicos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le scarpe nere sono classiche."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "vit",
+        "translations": {
+            "ukrainian": "білий",
+            "english": "white",
+            "spanish": "blanco",
+            "german": "weiß",
+            "polish": "biały",
+            "french": "blanc",
+            "portuguese": "branco",
+            "italian": "bianco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Snön är vit."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сніг білий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The snow is white."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La nieve es blanca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Schnee ist weiß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Śnieg jest biały."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La neige est blanche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A neve é branca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La neve è bianca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en vit skjorta."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є біла сорочка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a white shirt."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo una camisa blanca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe ein weißes Hemd."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam białą koszulę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai une chemise blanche."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho uma camisa branca."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho una camicia bianca."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hunden är vit."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Собака білий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The dog is white."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El perro es blanco."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Hund ist weiß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pies jest biały."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le chien est blanc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cachorro é branco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cane è bianco."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mjölk är vit."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Молоко біле."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Milk is white."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La leche es blanca."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Milch ist weiß."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mleko jest białe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le lait est blanc."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O leite é branco."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il latte è bianco."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "brun",
+        "translations": {
+            "ukrainian": "коричневий",
+            "english": "brown",
+            "spanish": "marrón",
+            "german": "braun",
+            "polish": "brązowy",
+            "french": "marron",
+            "portuguese": "marrom",
+            "italian": "marrone"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Björnen är brun."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Ведмідь коричневий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The bear is brown."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El oso es marrón."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Bär ist braun."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niedźwiedź jest brązowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'ours est marron."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O urso é marrom."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'orso è marrone."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har bruna ögon."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене карі очі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have brown eyes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo ojos marrones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe braune Augen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam brązowe oczy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai les yeux marron."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho olhos castanhos."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho gli occhi marroni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Kaffet är brunt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кава коричнева."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The coffee is brown."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El café es marrón."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Kaffee ist braun."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kawa jest brązowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le café est marron."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O café é marrom."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il caffè è marrone."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skorna är bruna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Черевики коричневі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The shoes are brown."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los zapatos son marrones."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Schuhe sind braun."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Buty są brązowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les chaussures sont marron."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os sapatos são marrons."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le scarpe sono marroni."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "lila",
+        "translations": {
+            "ukrainian": "фіолетовий",
+            "english": "purple",
+            "spanish": "morado",
+            "german": "lila",
+            "polish": "fioletowy",
+            "french": "violet",
+            "portuguese": "roxo",
+            "italian": "viola"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Blomman är lila."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Квітка фіолетова."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The flower is purple."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La flor es morada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Blume ist lila."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Kwiat jest fioletowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La fleur est violette."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A flor é roxa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il fiore è viola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Min tröja är lila."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Моя кофта фіолетова."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My sweater is purple."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mi suéter es morado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mein Pullover ist lila."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mój sweter jest fioletowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mon pull est violet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meu suéter é roxo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il mio maglione è viola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vissa druvor är lila."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Деякі виногради фіолетові."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Some grapes are purple."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Algunas uvas son moradas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Einige Trauben sind lila."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niektóre winogrona są fioletowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Certains raisins sont violets."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Algumas uvas são roxas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Alcuni acini d'uva sono viola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag målade väggen lila."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Я пофарбував стіну у фіолетовий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I painted the wall purple."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Pinté la pared de morado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe die Wand lila gestrichen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomalowałem ścianę na fioletowo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai peint le mur en violet."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu pintei a parede de roxo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho dipinto il muro di viola."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "rosa",
+        "translations": {
+            "ukrainian": "рожевий",
+            "english": "pink",
+            "spanish": "rosa",
+            "german": "rosa",
+            "polish": "różowy",
+            "french": "rose",
+            "portuguese": "rosa",
+            "italian": "rosa"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hennes klänning är rosa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Її сукня рожева."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her dress is pink."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su vestido es rosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Kleid ist rosa."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jej sukienka jest różowa."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Sa robe est rose."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O vestido dela é rosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il suo vestito è rosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag gillar rosa blommor."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мені подобаються рожеві квіти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I like pink flowers."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Me gustan las flores rosas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich mag rosa Blumen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Lubię różowe kwiaty."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'aime les fleurs roses."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu gosto de flores rosas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi piacciono i fiori rosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Himlen blir rosa på kvällen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Небо стає рожевим увечері."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sky turns pink in the evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cielo se vuelve rosa por la tarde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Himmel wird abends rosa."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niebo staje się różowe wieczorem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ciel devient rose le soir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O céu fica rosa à noite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cielo diventa rosa la sera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Min dotter älskar rosa."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Моя донька любить рожевий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My daughter loves pink."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mi hija ama el rosa."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Meine Tochter liebt rosa."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Moja córka uwielbia różowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ma fille adore le rose."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Minha filha adora rosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mia figlia adora il rosa."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "orange",
+        "translations": {
+            "ukrainian": "помаранчевий",
+            "english": "orange",
+            "spanish": "naranja",
+            "german": "orange",
+            "polish": "pomarańczowy",
+            "french": "orange",
+            "portuguese": "laranja",
+            "italian": "arancione"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Apelsiner är orange."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Апельсини помаранчеві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Oranges are orange."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las naranjas son naranjas."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Orangen sind orange."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pomarańcze są pomarańczowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les oranges sont orange."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As laranjas são laranjas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le arance sono arancioni."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en orange jacka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є помаранчева куртка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have an orange jacket."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo una chaqueta naranja."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe eine orange Jacke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam pomarańczową kurtkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai une veste orange."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho uma jaqueta laranja."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho una giacca arancione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Solnedgången är orange."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Захід сонця помаранчевий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sunset is orange."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El atardecer es naranja."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Sonnenuntergang ist orange."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Zachód słońca jest pomarańczowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le coucher de soleil est orange."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O pôr do sol é laranja."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tramonto è arancione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Pumpor är orange på hösten."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гарбузи восени помаранчеві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Pumpkins are orange in autumn."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las calabazas son naranjas en otoño."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kürbisse sind im Herbst orange."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dynie są pomarańczowe jesienią."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les citrouilles sont orange en automne."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As abóboras são laranjas no outono."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le zucche sono arancioni in autunno."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "grå",
+        "translations": {
+            "ukrainian": "сірий",
+            "english": "gray",
+            "spanish": "gris",
+            "german": "grau",
+            "polish": "szary",
+            "french": "gris",
+            "portuguese": "cinza",
+            "italian": "grigio"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Himlen är grå idag."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Сьогодні небо сіре."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sky is gray today."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cielo está gris hoy."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Himmel ist heute grau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niebo jest dziś szare."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ciel est gris aujourd'hui."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O céu está cinza hoje."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cielo è grigio oggi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en grå tröja."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є сіра кофта."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a gray sweater."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo un suéter gris."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe einen grauen Pullover."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam szary sweter."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai un pull gris."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho um suéter cinza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho un maglione grigio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vargen har grå päls."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вовк має сіру шерсть."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The wolf has gray fur."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El lobo tiene pelaje gris."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Wolf hat graues Fell."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wilk ma szare futro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le loup a une fourrure grise."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O lobo tem pelo cinza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il lupo ha il pelo grigio."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Gamla byggnader är ofta grå."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Старі будівлі часто сірі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Old buildings are often gray."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los edificios antiguos suelen ser grises."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Alte Gebäude sind oft grau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Stare budynki są często szare."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les vieux bâtiments sont souvent gris."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os prédios antigos são frequentemente cinza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I vecchi edifici sono spesso grigi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "beige",
+        "translations": {
+            "ukrainian": "бежевий",
+            "english": "beige",
+            "spanish": "beige",
+            "german": "beige",
+            "polish": "beżowy",
+            "french": "beige",
+            "portuguese": "bege",
+            "italian": "beige"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mina skor är beige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Мої туфлі бежеві."
+                    },
+                    {
+                        "language": "english",
+                        "text": "My shoes are beige."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Mis zapatos son beige."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Meine Schuhe sind beige."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Moje buty są beżowe."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Mes chaussures sont beiges."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Meus sapatos são bege."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le mie scarpe sono beige."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Väggarna är målade i beige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Стіни пофарбовані в бежевий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The walls are painted beige."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Las paredes están pintadas de beige."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Die Wände sind beige gestrichen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ściany są pomalowane na beżowo."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les murs sont peints en beige."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "As paredes estão pintadas de bege."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le pareti sono dipinte di beige."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en beige jacka."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є бежева куртка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a beige jacket."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo una chaqueta beige."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe eine beige Jacke."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam beżową kurtkę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai une veste beige."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho uma jaqueta bege."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho una giacca beige."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Mattan är beige."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Килим бежевий."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The carpet is beige."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La alfombra es beige."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Teppich ist beige."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dywan jest beżowy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le tapis est beige."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O tapete é bege."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il tappeto è beige."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "guld",
+        "translations": {
+            "ukrainian": "золотий",
+            "english": "gold",
+            "spanish": "oro",
+            "german": "gold",
+            "polish": "złoty",
+            "french": "or",
+            "portuguese": "ouro",
+            "italian": "oro"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ringen är av guld."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Кільце із золота."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The ring is made of gold."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El anillo es de oro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Ring ist aus Gold."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Pierścionek jest ze złota."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La bague est en or."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O anel é de ouro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'anello è d'oro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Guld är en dyr metall."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Золото – дорога металева."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Gold is an expensive metal."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El oro es un metal caro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gold ist ein teures Metall."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Złoto to drogi metal."
+                    },
+                    {
+                        "language": "french",
+                        "text": "L'or est un métal précieux."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O ouro é um metal caro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "L'oro è un metallo costoso."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Himlen blev gyllene."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Небо стало золотавим."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The sky turned golden."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "El cielo se volvió dorado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Himmel wurde golden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Niebo stało się złote."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Le ciel est devenu doré."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O céu ficou dourado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Il cielo è diventato dorato."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hon har guldörhängen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вона має золоті сережки."
+                    },
+                    {
+                        "language": "english",
+                        "text": "She has gold earrings."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Ella tiene aretes de oro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Sie hat goldene Ohrringe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Ona ma złote kolczyki."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Elle a des boucles d'oreilles en or."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Ela tem brincos de ouro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Lei ha orecchini d'oro."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "silver",
+        "translations": {
+            "ukrainian": "срібний",
+            "english": "silver",
+            "spanish": "plata",
+            "german": "silber",
+            "polish": "srebrny",
+            "french": "argent",
+            "portuguese": "prata",
+            "italian": "argento"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Besticken är av silver."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Столові прибори зі срібла."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The cutlery is made of silver."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Los cubiertos son de plata."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das Besteck ist aus Silber."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Sztućce są ze srebra."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Les couverts sont en argent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Os talheres são de prata."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Le posate sono d'argento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hennes hår är silvergrått."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Її волосся сріблясто-сіре."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Her hair is silver-gray."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Su cabello es plateado-gris."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ihr Haar ist silbergrau."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jej włosy są srebrzysto-szare."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Ses cheveux sont gris argenté."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "O cabelo dela é prateado-cinza."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "I suoi capelli sono grigio-argento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Månen lyser som silver."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Місяць світить як срібло."
+                    },
+                    {
+                        "language": "english",
+                        "text": "The moon shines like silver."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "La luna brilla como la plata."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Der Mond leuchtet wie Silber."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Księżyc świeci jak srebro."
+                    },
+                    {
+                        "language": "french",
+                        "text": "La lune brille comme de l'argent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "A lua brilha como prata."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "La luna brilla come l'argento."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Jag har en silverring."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "У мене є срібна каблучка."
+                    },
+                    {
+                        "language": "english",
+                        "text": "I have a silver ring."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Tengo un anillo de plata."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Ich habe einen silbernen Ring."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Mam srebrny pierścionek."
+                    },
+                    {
+                        "language": "french",
+                        "text": "J'ai une bague en argent."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Eu tenho um anel de prata."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ho un anello d'argento."
+                    }
+                ]
+            }
+        ]
+    }
+]
