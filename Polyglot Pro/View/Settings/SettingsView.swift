@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SettingsView: View {
     
-    @StateObject private var settings = SettingsManager.shared
+    @EnvironmentObject var settings: SettingsManager
     
     var body: some View {
         VStack {
@@ -18,7 +18,7 @@ struct SettingsView: View {
             
             List {
                 Section(header: Text("Speech")) {
-                    Toggle("Speech", isOn: settings.$isSoundOn)
+                    Toggle("Auto-read expressions", isOn: settings.$isSoundOn)
                         .tint(.purple)
                     
                     HStack {
@@ -30,23 +30,25 @@ struct SettingsView: View {
                 }
                 
                 Section(header: Text("Language")) {
-                    Picker("Primary language", selection: Binding(
+                    NavigationLink(destination: PrimaryLanguageSelectionView(selectedLanguage: Binding(
                         get: { settings.primaryLanguage ?? Language.english },
                         set: { newValue in settings.savePrimaryLanguage(newValue) }
-                    )) {
-                        Text("None").tag(nil as Language?) // Option to reset to nil
-                        ForEach(Language.allCases, id: \.self) { language in
-                            Text(language.displayName).tag(language as Language?)
+                    ))) {
+                        HStack {
+                            Text("Primary language")
+                            Spacer()
+                            Text(settings.primaryLanguage!.displayName)
+                            
                         }
                     }
-                    .pickerStyle(MenuPickerStyle())
                     
-                    Picker("Target language", selection: $settings.targetLanguage) {
-                        ForEach([Language.swedish], id: \.self) { language in
-                            Text(language.displayName)
+                    NavigationLink(destination: TargetLanguageSelectionView(selectedLanguage: $settings.targetLanguage)) {
+                        HStack {
+                            Text("Target language")
+                            Spacer()
+                            Text(settings.targetLanguage.displayName)
                         }
                     }
-                    .pickerStyle(MenuPickerStyle())
                 }
                 
                 Section {
@@ -54,6 +56,7 @@ struct SettingsView: View {
                         settings.isSoundOn = true
                         settings.primaryLanguage = .english
                         settings.targetLanguage = .swedish
+                        settings.speechRate = 0.4
                         
                     }
                     .foregroundColor(.red)
@@ -61,5 +64,54 @@ struct SettingsView: View {
             }
         }
         .navigationTitle("Settings")
+    }
+}
+
+
+import SwiftUI
+
+struct PrimaryLanguageSelectionView: View {
+    
+    @EnvironmentObject var settings: SettingsManager
+    @Binding var selectedLanguage: Language?
+    
+    var body: some View {
+        List(Language.allCases.filter { $0 != settings.targetLanguage }, id: \.self) { language in
+            HStack {
+                Text(language.displayName)
+                Spacer()
+                if language == selectedLanguage {
+                    Image(systemName: "checkmark")
+                        .foregroundColor(.blue)
+                }
+            }
+            .contentShape(Rectangle()) // Makes the whole row tappable
+            .onTapGesture {
+                selectedLanguage = language
+            }
+        }
+        .navigationTitle("Choose Language")
+    }
+}
+
+struct TargetLanguageSelectionView: View {
+    @Binding var selectedLanguage: Language
+    
+    var body: some View {
+        List([Language.swedish], id: \.self) { language in
+            HStack {
+                Text(language.displayName)
+                Spacer()
+                if language == selectedLanguage {
+                    Image(systemName: "checkmark")
+                        .foregroundColor(.blue)
+                }
+            }
+            .contentShape(Rectangle()) // Makes the whole row tappable
+            .onTapGesture {
+                selectedLanguage = language
+            }
+        }
+        .navigationTitle("Choose Language")
     }
 }

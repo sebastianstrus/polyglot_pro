@@ -9,8 +9,8 @@ import SwiftUI
 
 enum Destination: Hashable {
     case alphabet
-    case grammar
     case vocabulary
+    case grammar
     case exercises
     case quiz(Category)
     case settings
@@ -20,29 +20,29 @@ enum Destination: Hashable {
 
 struct MainView: View {
     
-    @StateObject private var settings = SettingsManager.shared
+    @EnvironmentObject var settings: SettingsManager
     
     
     let size: CGFloat = {
         switch Platform.current {
-        case .macOS: return 50.0
-        default: return 24
+        case .macOS: return 60.0
+        default: return 46
         }
     }()
     
     let paddingTop: CGFloat = {
         switch Platform.current {
         case .macOS: return 20
-        default: return 12
+        default: return 20
         }
     }()
     
-    let paddingBottom: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 12
-        default: return 4
-        }
-    }()
+//    let paddingBottom: CGFloat = {
+//        switch Platform.current {
+//        case .macOS: return 12
+//        default: return 4
+//        }
+//    }()
     
     let spacing: CGFloat = {
         switch Platform.current {
@@ -57,38 +57,34 @@ struct MainView: View {
         ZStack {
             NavigationStack {
                 VStack(spacing: spacing) {
-                    //                Spacer()
+                    
                     
                     Text("Polyglot Pro")
                         .font(.system(size: size, weight: .bold, design: .rounded))
                         .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                        .padding(.top, paddingTop)
                     
                     
                     Spacer()
                     
                     NavigationLink(value: Destination.alphabet) {
-                        Text("Alphabet")
-                            .styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.grammar) {
-                        Text("Grammar")
-                            .styledButton(.secondary)
+                        Text("Alphabet").styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     NavigationLink(value: Destination.vocabulary) {
-                        Text("Vocabulary")
-                            .styledButton(.secondary)
+                        Text("Vocabulary").styledButton(.secondary)
+                    }.buttonStyle(ScaleButtonStyle())
+                    
+                    NavigationLink(value: Destination.grammar) {
+                        Text("Grammar").styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     NavigationLink(value: Destination.exercises) {
-                        Text("Exercises")
-                            .styledButton(.secondary)
+                        Text("Exercises").styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     NavigationLink(value: Destination.settings) {
-                        Text("Settings")
-                            .styledButton(.secondary)
+                        Text("Settings").styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     
@@ -98,22 +94,14 @@ struct MainView: View {
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .navigationDestination(for: Destination.self) { destination in
                     switch destination {
-                    case .alphabet:
-                        AlphabetView()
-                    case .grammar:
-                        GrammarView()
-                    case .vocabulary:
-                        VocabularyView()
-                    case .exercises:
-                        ExercisesView()
-                    case .settings:
-                        SettingsView()
-                    case .selectLanguage:
-                        SelectLanguageView()
-                    case .quiz(let category):
-                        QuizView(viewModel: LearnViewModel(category: category))
-                    case .main:
-                        MainView()
+                    case .alphabet: AlphabetView()
+                    case .grammar: GrammarView()
+                    case .vocabulary: VocabularyView()
+                    case .exercises: ExercisesView()
+                    case .settings: SettingsView()
+                    case .selectLanguage: SelectLanguageView()
+                    case .quiz(let category): QuizView(viewModel: LearnViewModel(settings: settings, category: category))
+                    case .main: MainView()
                     }
                 }
 #if os(macOS)
@@ -132,12 +120,6 @@ struct MainView: View {
             
             if settings.primaryLanguage == nil {
                 SelectLanguageView()
-                
-//                    .background(Color.white)
-//                    .background(
-//                        GradientBackground()
-//                            .ignoresSafeArea()
-//                    )
             }
         }
     }

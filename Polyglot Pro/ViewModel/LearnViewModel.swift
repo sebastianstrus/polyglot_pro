@@ -10,6 +10,8 @@ import AVFoundation
 
 class LearnViewModel: ObservableObject {
     
+    var settings: SettingsManager
+    
     @Published private(set) var questionsBase: [Question] = []
     @Published private(set) var questions: [Question] = []
     
@@ -20,28 +22,24 @@ class LearnViewModel: ObservableObject {
     @Published var showHint = false
     @Published var shake: Bool = false
     @Published var missCountUpdated: Bool = false
-    @Published var isSoundOn: Bool = SettingsManager.shared.isSoundOn
+    @Published var isSoundOn: Bool
     
-    @Published var speechRate: Double = SettingsManager.shared.speechRate {
+    @Published var speechRate: Double {
         didSet {
-            SettingsManager.shared.speechRate = speechRate
+            settings.speechRate = speechRate
         }
     }
     
     
-//    @Published var speechRate: Float {
-//        didSet {
-//            UserDefaults.standard.set(speechRate, forKey: "speechRate")
-//        }
-//    }
-    
+
     var category: Category
     private var speechSynthesizer = AVSpeechSynthesizer()
     
-    init(category: Category) {
+    init(settings: SettingsManager, category: Category) {
+        self.settings = settings
+        self.isSoundOn = self.settings.isSoundOn
+        self.speechRate = settings.speechRate
         self.category = category
-//        self.questionsBase = DataProvider2.questions(for: category)
-//        self.questions = DataProvider.questions(for: category).shuffled()
         
         self.questionsBase = DataProviderStruct.data[category] ?? []
         self.questions = (DataProviderStruct.data[category] ?? []).shuffled()
@@ -49,8 +47,8 @@ class LearnViewModel: ObservableObject {
     }
     
     func toggleSound() {
-        SettingsManager.shared.isSoundOn.toggle()
-        isSoundOn = SettingsManager.shared.isSoundOn
+        settings.isSoundOn.toggle()
+        isSoundOn = settings.isSoundOn
     }
     
     func checkAnswer() -> Bool? {

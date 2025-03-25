@@ -8,7 +8,14 @@
 import SwiftUI
 
 struct SelectLanguageView: View {
-    @ObservedObject private var settings = SettingsManager.shared
+    
+    @EnvironmentObject var settings: SettingsManager
+    
+    @State private var tempPrimaryLanguage: Language?
+    @State private var tempTargetLanguage: Language = .swedish // Default
+    
+    @State private var isSameLanguage: Bool = false
+    
     
     let size: CGFloat = {
         switch Platform.current {
@@ -38,6 +45,13 @@ struct SelectLanguageView: View {
         }
     }()
     
+    let warningSize: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 16
+        default: return 12
+        }
+    }()
+    
     var body: some View {
         VStack {
             Spacer()
@@ -47,14 +61,15 @@ struct SelectLanguageView: View {
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
             
-            
-            Picker("", selection: $settings.primaryLanguage) {
+            Picker("", selection: $tempPrimaryLanguage) {
                 ForEach(Language.allCases) { language in
                     Text(language.displayName)
-                        .tag(language)
+                        .tag(language as Language?)
                 }
             }
+#if os(iOS)
             .pickerStyle(WheelPickerStyle())
+#endif
             .frame(width: 200)
             .padding(.bottom)
             
@@ -63,22 +78,47 @@ struct SelectLanguageView: View {
                 .font(.system(size: size, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
-            Picker("", selection: $settings.targetLanguage) {
+            Picker("", selection: $tempTargetLanguage) {
                 ForEach([Language.swedish]) { language in
                     Text(language.displayName)
                         .tag(language)
                 }
             }
+#if os(iOS)
             .pickerStyle(WheelPickerStyle())
+#endif
             .frame(width: 200)
             .padding(.bottom)
             
             Spacer()
             
+//            if isSameLanguage {
+//                Text("The languages must be different.")
+//                    .font(.system(size: warningSize))
+//                    .foregroundColor(.red)
+//            }
+            
+            Text("The languages must be different.")
+                .font(.system(size: warningSize))
+                .foregroundColor(.red)
+                .opacity(isSameLanguage ? 1 : 0)
+            
+            
             NavigationLink(value: Destination.main) {
                 Text("Continue")
                     .styledButton(.secondary)
+                    
             }.buttonStyle(ScaleButtonStyle())
+                .onTapGesture {
+                    guard tempPrimaryLanguage != tempTargetLanguage else {
+                        isSameLanguage = true
+                        return
+                    }
+                    
+                    settings.savePrimaryLanguage(tempPrimaryLanguage)
+                    settings.targetLanguage = tempTargetLanguage
+                }
+            
             
             Spacer()
             

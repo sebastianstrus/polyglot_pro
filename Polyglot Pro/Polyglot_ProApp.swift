@@ -38,6 +38,7 @@ struct Polyglot_ProApp: App {
         
         return WindowGroup {
             MainView()
+                .environmentObject(SettingsManager.shared)
                 .frame(minWidth: minWidth, maxWidth: .infinity, minHeight: minHeight, maxHeight: .infinity)
                 .preferredColorScheme(.light)
             

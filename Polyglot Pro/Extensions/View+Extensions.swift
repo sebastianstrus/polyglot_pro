@@ -88,19 +88,19 @@ extension View {
             height = 50
             radius = 12
         case .iPadOS:
-            size = 12
-            width = type == .primary ? 60 : 150
-            height = 25
-            radius = 8
+            size = isIcon ? 20 : 16
+            width = type == .primary ? 88 : 150
+            height = 44
+            radius = 6
         case .iOS:
-            size = 11
-            width = type == .primary ? 60 : 150
-            height = 30
+            size = isIcon ? 20 : 16
+            width = type == .primary ? 88 : 150
+            height = 44
             radius = 6
         case .unknown:
-            size = 12
-            width = 40
-            height = 20
+            size = isIcon ? 20 : 16
+            width = type == .primary ? 88 : 150
+            height = 44
             radius = 6
         }
         

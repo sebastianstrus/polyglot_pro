@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ExamplesView: View {
     let examples: [Example]
+    
     @ObservedObject var viewModel: LearnViewModel
     
     let minWidth: CGFloat = {
@@ -46,32 +47,43 @@ struct ExamplesView: View {
         }
     }()
     
+    let insidePadding: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 20
+        default: return 10
+        }
+    }()
+    
     var body: some View {
         VStack(alignment: .leading, spacing: 10) {
             ForEach(viewModel.questions[viewModel.currentIndex].examples, id: \.sentence) { example in
-                ExampleRowView(example: example, viewModel: viewModel, fontSize: fontSize)
+                ExampleRowView(viewModel: viewModel, example: example, fontSize: fontSize)
             }
         }
-        .padding(20)
+        .padding(insidePadding)
         .background(.white)
-        .cornerRadius(20)
+        .cornerRadius(10)
         .overlay(
-            RoundedRectangle(cornerRadius: 20)
+            RoundedRectangle(cornerRadius: 10)
                 .stroke(
                     LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing), lineWidth: lineWidth)
                 .shadow(color: .purple.opacity(0.5), radius: 10)
-        )
-        .padding(20)
+        ).padding(.horizontal, 20)
     }
 }
 
 struct ExampleRowView: View {
-    let example: Example
+    
     @ObservedObject var viewModel: LearnViewModel
+    
+    let example: Example
     let fontSize: CGFloat
     
     var body: some View {
-        HStack {
+        
+        let text = (example.translations.first(where: { $0.language == viewModel.settings.primaryLanguage }))!.text
+        
+        return HStack() {
             Button(action: {
                 let text: String = example.sentence.text
                 viewModel.speak(text: text)
@@ -89,19 +101,28 @@ struct ExampleRowView: View {
             if Platform.current == .macOS {
                 Text(example.sentence.text)
                     .font(.system(size: fontSize))
+                
                 Spacer()
-                Text(example.translations.first!.text)
+                
+                Text(text)
                     .font(.system(size: fontSize))
                     .foregroundColor(.gray)
             } else {
                 VStack(alignment: .leading, spacing: 0) {
                     Text(example.sentence.text)
                         .font(.system(size: fontSize))
-                    Text(example.translations.first!.text)
+                        .fixedSize(horizontal: false, vertical: true)
+                    Text(text)
                         .font(.system(size: fontSize))
                         .foregroundColor(.gray)
+                        .fixedSize(horizontal: false, vertical: true)
                 }
+                
+                Spacer()
+                
             }
+            
+            
         }
     }
 }

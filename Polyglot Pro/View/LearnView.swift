@@ -37,8 +37,8 @@ struct LearnView: View {
             Spacer()
             
             NavigationLink(value: Destination.quiz(viewModel.category)) {
-                Text("Start")
-                    .styledButton()
+                Text("Continue")
+                    .styledButton(.secondary)
             }.buttonStyle(ScaleButtonStyle())
                 .padding(.bottom, Platform.current == .macOS ? 60 : 30)
                 .padding(.top, Platform.current == .macOS ? 0 : 8)
@@ -63,7 +63,7 @@ struct LearnView: View {
                                         .styledText(color: .blue)
                                     Text("–")
                                         .styledText(color: .gray)
-                                    Text(question.translations[Language.ukrainian.rawValue]!)
+                                    Text(question.translations[viewModel.settings.primaryLanguage!.rawValue]!)
                                         .styledText(color: .purple)
                                 }
                                 .padding(.horizontal)
