@@ -17,7 +17,7 @@ struct SettingsView: View {
             Spacer()
             
             List {
-                Section(header: Text("Speech".localized)) {
+                Section(header: Text("Sound settings".localized)) {
                     Toggle("Auto-read expressions".localized, isOn: settings.$isSoundOn)
                         .tint(.purple)
                     
