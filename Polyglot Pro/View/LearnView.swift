@@ -27,7 +27,7 @@ struct LearnView: View {
             
             Spacer(minLength: 40)
             
-            Text("Försök att komma ihåg \(viewModel.questions.count) uttrycken.")
+            Text("Försök att komma ihåg %lld uttrycken.".localized(with: viewModel.questions.count))
                 .styledSubtitel()
             
             Spacer()
@@ -37,7 +37,7 @@ struct LearnView: View {
             Spacer()
             
             NavigationLink(value: Destination.quiz(viewModel.category)) {
-                Text("Continue")
+                Text("Continue".localized)
                     .styledButton(.secondary)
             }.buttonStyle(ScaleButtonStyle())
                 .padding(.bottom, Platform.current == .macOS ? 60 : 30)
@@ -45,6 +45,7 @@ struct LearnView: View {
         }
         .navigationTitle(viewModel.category.rawValue)
         .background( GradientBackground().ignoresSafeArea())
+        
     }
 
 

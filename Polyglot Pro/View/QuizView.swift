@@ -101,7 +101,7 @@ struct QuizView: View {
                         .padding()
                         .opacity(viewModel.showHint ? 1 : 0)
                     
-                    CustomTextField("Ange översättning", text: $viewModel.userInput, isCorrect: $viewModel.isCorrect, onCommit: {
+                    CustomTextField("Enter translation".localized, text: $viewModel.userInput, isCorrect: $viewModel.isCorrect, onCommit: {
                         if viewModel.isCorrect == true {
                             viewModel.nextQuestion()
                             isTextFieldFocused = true
@@ -143,7 +143,7 @@ struct QuizView: View {
                                 }
                             }
                         }) {
-                            Text(viewModel.isCorrect == true ? "Next" : "Check")
+                            Text(viewModel.isCorrect == true ? "Next".localized : "Check".localized)
                                 .styledButton(.secondary)
                         }.buttonStyle(ScaleButtonStyle())
                         

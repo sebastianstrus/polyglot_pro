@@ -68,29 +68,30 @@ struct MainView: View {
                     Spacer()
                     
                     NavigationLink(value: Destination.alphabet) {
-                        Text("Alphabet").styledButton(.secondary)
+                        Text("Alphabet".localized).styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     NavigationLink(value: Destination.vocabulary) {
-                        Text("Vocabulary").styledButton(.secondary)
+                        Text("Vocabulary".localized).styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     NavigationLink(value: Destination.grammar) {
-                        Text("Grammar").styledButton(.secondary)
+                        Text("Grammar".localized).styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     NavigationLink(value: Destination.exercises) {
-                        Text("Exercises").styledButton(.secondary)
+                        Text("Exercises".localized).styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     NavigationLink(value: Destination.settings) {
-                        Text("Settings").styledButton(.secondary)
+                        Text("Settings".localized).styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
                     
                     Spacer()
                     Spacer()
                 }
+                .navigationTitle("Main menu".localized)
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .navigationDestination(for: Destination.self) { destination in
                     switch destination {

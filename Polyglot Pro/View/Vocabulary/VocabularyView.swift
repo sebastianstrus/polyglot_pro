@@ -10,6 +10,7 @@ import SwiftUI
 struct VocabularyView: View {
     
     @EnvironmentObject var settings: SettingsManager
+    @Environment(\.dismiss) private var dismiss
     
     let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 2 : 4)
     
@@ -87,10 +88,10 @@ struct VocabularyView: View {
                         
                         NavigationLink(value: category) {
                             VStack {
-                                Text(category.displayName(for: settings.targetLanguage))
+                                Text(category.targetName)
                                     .foregroundColor(.white)
                                     .font(.system(size: btnFontSize, weight: .bold))
-                                Text("(\(category.displayName(for: settings.primaryLanguage!)))")
+                                Text("(\(category.primaryName))")
                                     .foregroundColor(.white.opacity(0.8))
                                     .font(.system(size: btnFontSize2 - 2, weight: .regular))
                             }
@@ -110,8 +111,27 @@ struct VocabularyView: View {
                 .navigationDestination(for: Category.self) { category in
                     LearnView(viewModel: LearnViewModel(settings: settings, category: category))
                 }
-                .navigationTitle("Vocabulary")
+                .navigationTitle("Vocabulary".localized)
+//                .navigationBarItems(leading: Text("Back".localized))
                 
+#if os(iOS)
+//                Image(systemName: "chevron.left") // Standard back button arrow
+//                
+//                    .navigationBarBackButtonHidden(true)
+//                
+//                    .toolbar {
+//                        ToolbarItem(placement: .automatic) {
+//                            Button(action: {
+//                                dismiss()// Handle back action
+//                            }) {
+//                                HStack {
+//                                    Image(systemName: "chevron.left") // Mimics the system's back button
+//                                    Text("Back".localized)
+//                                }
+//                            }
+//                        }
+//                    }
+#endif
                 Spacer()
             }
         }

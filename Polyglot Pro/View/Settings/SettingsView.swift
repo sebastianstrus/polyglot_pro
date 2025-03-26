@@ -17,25 +17,25 @@ struct SettingsView: View {
             Spacer()
             
             List {
-                Section(header: Text("Speech")) {
-                    Toggle("Auto-read expressions", isOn: settings.$isSoundOn)
+                Section(header: Text("Speech".localized)) {
+                    Toggle("Auto-read expressions".localized, isOn: settings.$isSoundOn)
                         .tint(.purple)
                     
                     HStack {
-                        Text("Speech rate")
+                        Text("Speech rate".localized)
                             .padding(.trailing, 10)
                         Slider(value: settings.$speechRate, in: 0.1...0.6, step: 0.1)
                             .tint(.purple)
                     }
                 }
                 
-                Section(header: Text("Language")) {
+                Section(header: Text("Language".localized)) {
                     NavigationLink(destination: PrimaryLanguageSelectionView(selectedLanguage: Binding(
                         get: { settings.primaryLanguage ?? Language.english },
                         set: { newValue in settings.savePrimaryLanguage(newValue) }
                     ))) {
                         HStack {
-                            Text("Primary language")
+                            Text("Primary language".localized)
                             Spacer()
                             Text(settings.primaryLanguage!.displayName)
                             
@@ -44,7 +44,7 @@ struct SettingsView: View {
                     
                     NavigationLink(destination: TargetLanguageSelectionView(selectedLanguage: $settings.targetLanguage)) {
                         HStack {
-                            Text("Target language")
+                            Text("Target language".localized)
                             Spacer()
                             Text(settings.targetLanguage.displayName)
                         }
@@ -52,7 +52,7 @@ struct SettingsView: View {
                 }
                 
                 Section {
-                    Button("Reset Settings") {
+                    Button("Reset settings".localized) {
                         settings.isSoundOn = true
                         settings.primaryLanguage = .english
                         settings.targetLanguage = .swedish
@@ -63,7 +63,7 @@ struct SettingsView: View {
                 }
             }
         }
-        .navigationTitle("Settings")
+        .navigationTitle("Settings".localized)
     }
 }
 
@@ -90,7 +90,7 @@ struct PrimaryLanguageSelectionView: View {
                 selectedLanguage = language
             }
         }
-        .navigationTitle("Choose Language")
+        .navigationTitle("Choose language".localized)
     }
 }
 
@@ -112,6 +112,6 @@ struct TargetLanguageSelectionView: View {
                 selectedLanguage = language
             }
         }
-        .navigationTitle("Choose Language")
+        .navigationTitle("Choose language".localized)
     }
 }

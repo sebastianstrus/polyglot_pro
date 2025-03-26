@@ -56,7 +56,7 @@ struct SelectLanguageView: View {
         VStack {
             Spacer()
             
-            Text("Select primary language:")
+            Text("Select primary language:".localized)
                 .font(.system(size: size, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
@@ -74,7 +74,7 @@ struct SelectLanguageView: View {
             .padding(.bottom)
             
             
-            Text("Selected target language:")
+            Text("Selected target language:".localized)
                 .font(.system(size: size, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
@@ -98,14 +98,14 @@ struct SelectLanguageView: View {
 //                    .foregroundColor(.red)
 //            }
             
-            Text("The languages must be different.")
+            Text("The languages must be different.".localized)
                 .font(.system(size: warningSize))
                 .foregroundColor(.red)
                 .opacity(isSameLanguage ? 1 : 0)
             
             
             NavigationLink(value: Destination.main) {
-                Text("Continue")
+                Text("Continue".localized)
                     .styledButton(.secondary)
                     
             }.buttonStyle(ScaleButtonStyle())

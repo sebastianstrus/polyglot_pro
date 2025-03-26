@@ -90,19 +90,18 @@ enum Language: String, CaseIterable, Identifiable, Codable {
     // Helper method to get the display name
     var displayName: String {
         switch self {
-        case .swedish: return "Swedish"
-        case .ukrainian: return "Ukrainian"
-        case .spanish: return "Spanish"
-        case .german: return "German"
-        case .english: return "English"
-        case .polish: return "Polish"
-        case .french: return "French"
-        case .portuguese: return "Portuguese"
-        case .italian: return "Italian"
+        case .swedish: return "Swedish".localized
+        case .ukrainian: return "Ukrainian".localized
+        case .spanish: return "Spanish".localized
+        case .german: return "German".localized
+        case .english: return "English".localized
+        case .polish: return "Polish".localized
+        case .french: return "French".localized
+        case .portuguese: return "Portuguese".localized
+        case .italian: return "Italian".localized
         }
     }
     
-    // Helper method to get the locale identifier
     var localeIdentifier: String {
         switch self {
         case .swedish: return "sv"

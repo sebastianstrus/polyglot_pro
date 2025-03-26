@@ -9,6 +9,15 @@ import Foundation
 
 enum Category: String, CaseIterable {
     
+    enum CatSection: String, CaseIterable {
+        case pronouns
+        case nouns
+        case verbs
+        case adjectives
+        case expressions
+        case conjunctions
+    }
+    
     // pronouns
     case pronounsPersonal = "Personliga pronomen"
     case pronounsPossessive = "Possessiva pronomen"
@@ -68,70 +77,133 @@ enum Category: String, CaseIterable {
     // conjunctions
     case conjunctions = "Sammanhängande ord"
     
+    var primaryName: String {
+        switch self {
+        case .pronounsPersonal: return "Personal pronouns".localized
+        case .pronounsPossessive: return "Possessive pronouns".localized
+        case .pronounsReflexive: return "Reflexive pronouns".localized
+        case .pronounsInterrogative: return "Interrogative pronouns".localized
+                
+        // Nouns
+        case .nounsWeekdays: return "Weekdays".localized
+        case .nounsMonths: return "Months".localized
+        case .nounsVegetables: return "Vegetables".localized
+        case .nounsFruits: return "Fruits".localized
+        case .nounsBodyParts: return "Body parts".localized
+        case .nounsShopping: return "Shopping".localized
+        case .nounsHome: return "Home".localized
+        case .nounsFamily: return "Family".localized
+        case .nounsProfessions: return "Professions".localized
+        case .nounsAnimals: return "Animals".localized
+        case .nounsTransport: return "Transport".localized
+                
+        // Verbs
+        case .verbsModal: return "Modal verbs".localized
+        case .verbsMotion: return "Motion verbs".localized
+        case .verbsPerception: return "Perception verbs".localized
+        case .verbsThinking: return "Thinking verbs".localized
+        case .verbsAction: return "Action verbs".localized
+        case .verbsChange: return "Change verbs".localized
+        case .verbsState: return "State verbs".localized
+        case .verbsCommunication: return "Communication verbs".localized
+        case .verbsFood: return "Food verbs".localized
+        case .verbsTime: return "Time verbs".localized
+        case .verbsControl: return "Control verbs".localized
+        case .verbsCreation: return "Creation verbs".localized
+        case .verbsLife: return "Life verbs".localized
+        case .verbsEmotion: return "Emotion verbs".localized
+                
+        // Adjectives
+        case .adjectivesColors: return "Colors".localized
+        case .adjectivesAppearance: return "Descriptive adjectives".localized
+        case .adjectivesEmotions: return "Emotions and mood".localized
+        case .adjectivesPersonality: return "Personality".localized
+        case .adjectivesTraits: return "Intellectual traits".localized
+        case .adjectivesState: return "States and feelings".localized
+        case .adjectivesTime: return "Age and time".localized
+        case .adjectivesTaste: return "Taste and smell".localized
+        case .adjectivesTemperature: return "Temperature".localized
+        case .adjectivesSound: return "Sound and voice".localized
+        case .adjectivesBehavior: return "Behavior".localized
+        case .adjectivesMorality: return "Morality and ethics".localized
+        case .adjectivesRelationships: return "Relationships".localized
+        case .adjectivesMood: return "Mood".localized
+        case .adjectivesCondition: return "Quality and condition".localized
+                
+        // Expressions
+        case .expressionsTime: return "Time expressions".localized
+                
+        // Conjunctions
+        case .conjunctions: return "Linking words".localized
+        }
+    }
     
+    var targetName: String {
+        switch self {
+        case .pronounsPersonal: return "Personal pronouns".targetLocalized
+        case .pronounsPossessive: return "Possessive pronouns".targetLocalized
+        case .pronounsReflexive: return "Reflexive pronouns".targetLocalized
+        case .pronounsInterrogative: return "Interrogative pronouns".targetLocalized
+                
+        // Nouns
+        case .nounsWeekdays: return "Weekdays".targetLocalized
+        case .nounsMonths: return "Months".targetLocalized
+        case .nounsVegetables: return "Vegetables".targetLocalized
+        case .nounsFruits: return "Fruits".targetLocalized
+        case .nounsBodyParts: return "Body parts".targetLocalized
+        case .nounsShopping: return "Shopping".targetLocalized
+        case .nounsHome: return "Home".targetLocalized
+        case .nounsFamily: return "Family".targetLocalized
+        case .nounsProfessions: return "Professions".targetLocalized
+        case .nounsAnimals: return "Animals".targetLocalized
+        case .nounsTransport: return "Transport".targetLocalized
+                
+        // Verbs
+        case .verbsModal: return "Modal verbs".targetLocalized
+        case .verbsMotion: return "Motion verbs".targetLocalized
+        case .verbsPerception: return "Perception verbs".targetLocalized
+        case .verbsThinking: return "Thinking verbs".targetLocalized
+        case .verbsAction: return "Action verbs".targetLocalized
+        case .verbsChange: return "Change verbs".targetLocalized
+        case .verbsState: return "State verbs".targetLocalized
+        case .verbsCommunication: return "Communication verbs".targetLocalized
+        case .verbsFood: return "Food verbs".targetLocalized
+        case .verbsTime: return "Time verbs".targetLocalized
+        case .verbsControl: return "Control verbs".targetLocalized
+        case .verbsCreation: return "Creation verbs".targetLocalized
+        case .verbsLife: return "Life verbs".targetLocalized
+        case .verbsEmotion: return "Emotion verbs".targetLocalized
+                
+        // Adjectives
+        case .adjectivesColors: return "Colors".targetLocalized
+        case .adjectivesAppearance: return "Descriptive adjectives".targetLocalized
+        case .adjectivesEmotions: return "Emotions and mood".targetLocalized
+        case .adjectivesPersonality: return "Personality".targetLocalized
+        case .adjectivesTraits: return "Intellectual traits".targetLocalized
+        case .adjectivesState: return "States and feelings".localized
+        case .adjectivesTime: return "Age and time".targetLocalized
+        case .adjectivesTaste: return "Taste and smell".targetLocalized
+        case .adjectivesTemperature: return "Temperature".targetLocalized
+        case .adjectivesSound: return "Sound and voice".targetLocalized
+        case .adjectivesBehavior: return "Behavior".targetLocalized
+        case .adjectivesMorality: return "Morality and ethics".targetLocalized
+        case .adjectivesRelationships: return "Relationships".targetLocalized
+        case .adjectivesMood: return "Mood".targetLocalized
+        case .adjectivesCondition: return "Quality and condition".targetLocalized
+                
+        // Expressions
+        case .expressionsTime: return "Time expressions".targetLocalized
+                
+        // Conjunctions
+        case .conjunctions: return "Linking words".targetLocalized
+        }
+    }
+    
+    /*
     
     // Dictionary of localized names
     private var localizedNames: [Language: [Category: String]] {
         return [
-            .swedish: [
-                // Pronouns
-                .pronounsPersonal: "Personliga pronomen",
-                .pronounsPossessive: "Possessiva pronomen",
-                .pronounsReflexive: "Reflexiva pronomen",
-                .pronounsInterrogative: "Frågande pronomen",
-                
-                // Nouns
-                .nounsWeekdays: "Veckodagar",
-                .nounsMonths: "Månader",
-                .nounsVegetables: "Grönsaker",
-                .nounsFruits: "Frukter",
-                .nounsBodyParts: "Kroppsdelar",
-                .nounsShopping: "Shopping",
-                .nounsHome: "Hem",
-                .nounsFamily: "Familj",
-                .nounsProfessions: "Yrken",
-                .nounsAnimals: "Djur",
-                .nounsTransport: "Transport",
-                
-                // Verbs
-                .verbsModal: "Modala verb",
-                .verbsMotion: "Rörelseverben",
-                .verbsPerception: "Perceptionsverb",
-                .verbsThinking: "Tankeverb",
-                .verbsAction: "Handlingsverb",
-                .verbsChange: "Förändringsverb",
-                .verbsState: "Tillståndsverb",
-                .verbsCommunication: "Kommunikationsverb",
-                .verbsFood: "Matverb",
-                .verbsTime: "Tidsverb",
-                .verbsControl: "Kontrollverb",
-                .verbsCreation: "Skapandeverb",
-                .verbsLife: "Livsverb",
-                .verbsEmotion: "Känsloverb",
-                
-                // Adjectives
-                .adjectivesColors: "Färger",
-                .adjectivesAppearance: "Beskrivande adjektiv",
-                .adjectivesEmotions: "Känslor och humör",
-                .adjectivesPersonality: "Personlighet",
-                .adjectivesTraits: "Intellektuella egenskaper",
-                .adjectivesState: "Tillstånd och känsla",
-                .adjectivesTime: "Ålder och tid",
-                .adjectivesTaste: "Smak och doft",
-                .adjectivesTemperature: "Temperatur",
-                .adjectivesSound: "Ljud och röst",
-                .adjectivesBehavior: "Beteende",
-                .adjectivesMorality: "Moral och etik",
-                .adjectivesRelationships: "Relationer",
-                .adjectivesMood: "Stämning",
-                .adjectivesCondition: "Kvalitet och tillstånd",
-                
-                // Expressions
-                .expressionsTime: "Tidsuttryck",
-                
-                // Conjunctions
-                .conjunctions: "Sammanhängande ord"
-            ],
             .english: [
                 // Pronouns
                 .pronounsPersonal: "Personal Pronouns",
@@ -190,6 +262,65 @@ enum Category: String, CaseIterable {
                 
                 // Conjunctions
                 .conjunctions: "Linking Words"
+            ],
+            .swedish: [
+                // Pronouns
+                .pronounsPersonal: "Personliga pronomen",
+                .pronounsPossessive: "Possessiva pronomen",
+                .pronounsReflexive: "Reflexiva pronomen",
+                .pronounsInterrogative: "Frågande pronomen",
+                
+                // Nouns
+                .nounsWeekdays: "Veckodagar",
+                .nounsMonths: "Månader",
+                .nounsVegetables: "Grönsaker",
+                .nounsFruits: "Frukter",
+                .nounsBodyParts: "Kroppsdelar",
+                .nounsShopping: "Shopping",
+                .nounsHome: "Hem",
+                .nounsFamily: "Familj",
+                .nounsProfessions: "Yrken",
+                .nounsAnimals: "Djur",
+                .nounsTransport: "Transport",
+                
+                // Verbs
+                .verbsModal: "Modala verb",
+                .verbsMotion: "Rörelseverben",
+                .verbsPerception: "Perceptionsverb",
+                .verbsThinking: "Tankeverb",
+                .verbsAction: "Handlingsverb",
+                .verbsChange: "Förändringsverb",
+                .verbsState: "Tillståndsverb",
+                .verbsCommunication: "Kommunikationsverb",
+                .verbsFood: "Matverb",
+                .verbsTime: "Tidsverb",
+                .verbsControl: "Kontrollverb",
+                .verbsCreation: "Skapandeverb",
+                .verbsLife: "Livsverb",
+                .verbsEmotion: "Känsloverb",
+                
+                // Adjectives
+                .adjectivesColors: "Färger",
+                .adjectivesAppearance: "Beskrivande adjektiv",
+                .adjectivesEmotions: "Känslor och humör",
+                .adjectivesPersonality: "Personlighet",
+                .adjectivesTraits: "Intellektuella egenskaper",
+                .adjectivesState: "Tillstånd och känsla",
+                .adjectivesTime: "Ålder och tid",
+                .adjectivesTaste: "Smak och doft",
+                .adjectivesTemperature: "Temperatur",
+                .adjectivesSound: "Ljud och röst",
+                .adjectivesBehavior: "Beteende",
+                .adjectivesMorality: "Moral och etik",
+                .adjectivesRelationships: "Relationer",
+                .adjectivesMood: "Stämning",
+                .adjectivesCondition: "Kvalitet och tillstånd",
+                
+                // Expressions
+                .expressionsTime: "Tidsuttryck",
+                
+                // Conjunctions
+                .conjunctions: "Sammanhängande ord"
             ],
             .ukrainian: [
                 // Pronouns
@@ -610,7 +741,7 @@ enum Category: String, CaseIterable {
     // Retrieve the localized name
     func displayName(for language: Language) -> String {
         return localizedNames[language]?[self] ?? self.rawValue
-    }
+    }*/
 }
 
 class DataProvider2 {
