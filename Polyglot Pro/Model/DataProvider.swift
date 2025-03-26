@@ -138,6 +138,28 @@ enum Category: String, CaseIterable {
         }
     }
     
+    var catSection: CatSection {
+        switch self {
+        case .pronounsPersonal, .pronounsPossessive, .pronounsReflexive, .pronounsInterrogative:
+            return .pronouns
+                
+        case .nounsWeekdays, .nounsMonths, .nounsVegetables, .nounsFruits, .nounsBodyParts, .nounsShopping, .nounsHome,  .nounsFamily, .nounsProfessions, .nounsAnimals, .nounsTransport:
+            return .nouns
+            
+        case .verbsModal, .verbsMotion, .verbsPerception, .verbsThinking, .verbsAction, .verbsChange, .verbsState, .verbsCommunication, .verbsFood, .verbsTime, .verbsControl, .verbsCreation, .verbsLife, .verbsEmotion:
+            return .verbs
+            
+        case .adjectivesColors, .adjectivesAppearance, .adjectivesEmotions, .adjectivesPersonality, .adjectivesTraits, .adjectivesState, .adjectivesTime, .adjectivesTaste, .adjectivesTemperature, .adjectivesSound, .adjectivesBehavior, .adjectivesMorality, .adjectivesRelationships, .adjectivesMood, .adjectivesCondition:
+            return .adjectives
+                
+        case .expressionsTime:
+            return .expressions
+                
+        case .conjunctions:
+            return .conjunctions
+        }
+    }
+    
     var targetName: String {
         switch self {
         case .pronounsPersonal: return "Personal pronouns".targetLocalized
