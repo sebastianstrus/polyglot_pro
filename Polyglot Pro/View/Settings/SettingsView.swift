@@ -90,7 +90,7 @@ struct PrimaryLanguageSelectionView: View {
                 selectedLanguage = language
             }
         }
-        .navigationTitle("Choose language".localized)
+        .navigationTitle("Select language".localized)
     }
 }
 

@@ -96,9 +96,9 @@
 				de,
 				fr,
 				es,
-				"pt-PT",
 				uk,
 				it,
+				"pt-BR",
 			);
 			mainGroup = 7D0919AB2D628543004BDE6D;
 			minimizedProjectReferenceProxies = 1;

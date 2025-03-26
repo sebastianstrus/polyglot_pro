@@ -206,17 +206,17 @@ enum Category: String, CaseIterable {
         return [
             .english: [
                 // Pronouns
-                .pronounsPersonal: "Personal Pronouns",
-                .pronounsPossessive: "Possessive Pronouns",
-                .pronounsReflexive: "Reflexive Pronouns",
-                .pronounsInterrogative: "Interrogative Pronouns",
+                .pronounsPersonal: "Personal pronouns",
+                .pronounsPossessive: "Possessive pronouns",
+                .pronounsReflexive: "Reflexive pronouns",
+                .pronounsInterrogative: "Interrogative pronouns",
                 
                 // Nouns
                 .nounsWeekdays: "Weekdays",
                 .nounsMonths: "Months",
                 .nounsVegetables: "Vegetables",
                 .nounsFruits: "Fruits",
-                .nounsBodyParts: "Body Parts",
+                .nounsBodyParts: "Body parts",
                 .nounsShopping: "Shopping",
                 .nounsHome: "Home",
                 .nounsFamily: "Family",
@@ -225,43 +225,43 @@ enum Category: String, CaseIterable {
                 .nounsTransport: "Transport",
                 
                 // Verbs
-                .verbsModal: "Modal Verbs",
-                .verbsMotion: "Motion Verbs",
-                .verbsPerception: "Perception Verbs",
-                .verbsThinking: "Thinking Verbs",
-                .verbsAction: "Action Verbs",
-                .verbsChange: "Change Verbs",
-                .verbsState: "State Verbs",
-                .verbsCommunication: "Communication Verbs",
-                .verbsFood: "Food Verbs",
-                .verbsTime: "Time Verbs",
-                .verbsControl: "Control Verbs",
-                .verbsCreation: "Creation Verbs",
-                .verbsLife: "Life Verbs",
-                .verbsEmotion: "Emotion Verbs",
+                .verbsModal: "Modal verbs",
+                .verbsMotion: "Motion verbs",
+                .verbsPerception: "Perception verbs",
+                .verbsThinking: "Thinking verbs",
+                .verbsAction: "Action verbs",
+                .verbsChange: "Change verbs",
+                .verbsState: "State verbs",
+                .verbsCommunication: "Communication verbs",
+                .verbsFood: "Food verbs",
+                .verbsTime: "Time verbs",
+                .verbsControl: "Control verbs",
+                .verbsCreation: "Creation verbs",
+                .verbsLife: "Life verbs",
+                .verbsEmotion: "Emotion verbs",
                 
                 // Adjectives
                 .adjectivesColors: "Colors",
-                .adjectivesAppearance: "Descriptive Adjectives",
-                .adjectivesEmotions: "Emotions and Mood",
+                .adjectivesAppearance: "Descriptive adjectives",
+                .adjectivesEmotions: "Emotions and mood",
                 .adjectivesPersonality: "Personality",
-                .adjectivesTraits: "Intellectual Traits",
-                .adjectivesState: "States and Feelings",
-                .adjectivesTime: "Age and Time",
-                .adjectivesTaste: "Taste and Smell",
+                .adjectivesTraits: "Intellectual traits",
+                .adjectivesState: "States and feelings",
+                .adjectivesTime: "Age and time",
+                .adjectivesTaste: "Taste and smell",
                 .adjectivesTemperature: "Temperature",
-                .adjectivesSound: "Sound and Voice",
+                .adjectivesSound: "Sound and voice",
                 .adjectivesBehavior: "Behavior",
-                .adjectivesMorality: "Morality and Ethics",
+                .adjectivesMorality: "Morality and ethics",
                 .adjectivesRelationships: "Relationships",
                 .adjectivesMood: "Mood",
-                .adjectivesCondition: "Quality and Condition",
+                .adjectivesCondition: "Quality and condition",
                 
                 // Expressions
-                .expressionsTime: "Time Expressions",
+                .expressionsTime: "Time expressions",
                 
                 // Conjunctions
-                .conjunctions: "Linking Words"
+                .conjunctions: "Linking words"
             ],
             .swedish: [
                 // Pronouns
@@ -304,7 +304,7 @@ enum Category: String, CaseIterable {
                 .adjectivesAppearance: "Beskrivande adjektiv",
                 .adjectivesEmotions: "Känslor och humör",
                 .adjectivesPersonality: "Personlighet",
-                .adjectivesTraits: "Intellektuella egenskaper",
+                .adjectivesTraits: "Egenskaper",
                 .adjectivesState: "Tillstånd och känsla",
                 .adjectivesTime: "Ålder och tid",
                 .adjectivesTaste: "Smak och doft",
