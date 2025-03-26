@@ -13,7 +13,7 @@ struct LearnView: View {
     private var columns: [GridItem] {
         switch Platform.current {
         case .macOS:
-            let allCount = viewModel.questions.count
+            let allCount = viewModel.questionsBase.count
             let count = (10...16).contains(allCount) ? 2 : max(1, Int(ceil(Double(allCount) / 16)))
             return Array(repeating: GridItem(.flexible(), spacing: 10), count: count)
         default:
@@ -27,7 +27,7 @@ struct LearnView: View {
             
             Spacer(minLength: 40)
             
-            Text("Försök att komma ihåg %lld uttrycken.".localized(with: viewModel.questions.count))
+            Text("Försök att komma ihåg %lld uttrycken.".localized(with: viewModel.questionsBase.count))
                 .styledSubtitel()
             
             Spacer()
@@ -45,14 +45,11 @@ struct LearnView: View {
         }
         .navigationTitle(viewModel.category.rawValue)
         .background( GradientBackground().ignoresSafeArea())
-        
     }
-
 
     private var wordGrid: some View {
         VStack(alignment: .center) {
             ScrollView {
-                
                 ZStack {
                     Spacer().containerRelativeFrame([.vertical])
                     

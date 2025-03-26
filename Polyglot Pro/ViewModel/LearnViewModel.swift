@@ -29,10 +29,9 @@ class LearnViewModel: ObservableObject {
             settings.speechRate = speechRate
         }
     }
-    
-    
 
     var category: Category
+    
     private var speechSynthesizer = AVSpeechSynthesizer()
     
     init(settings: SettingsManager, category: Category) {
@@ -40,10 +39,8 @@ class LearnViewModel: ObservableObject {
         self.isSoundOn = self.settings.isSoundOn
         self.speechRate = settings.speechRate
         self.category = category
-        
         self.questionsBase = DataProviderStruct.data[category] ?? []
         self.questions = (DataProviderStruct.data[category] ?? []).shuffled()
-        
     }
     
     func toggleSound() {
@@ -96,6 +93,5 @@ class LearnViewModel: ObservableObject {
         utterance.voice = AVSpeechSynthesisVoice(language: "sv-SE")
         utterance.rate = Float(speechRate)
         speechSynthesizer.speak(utterance)
-        
     }
 }

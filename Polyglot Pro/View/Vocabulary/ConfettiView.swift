@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+
 struct ConfettiParticle: View {
     let color: Color
     let size: CGFloat
@@ -13,7 +14,7 @@ struct ConfettiParticle: View {
     let rotation: Angle
     
     var body: some View {
-        Circle() // Use Circle instead of Rectangle
+        Circle()
             .fill(color)
             .frame(width: size, height: size)
             .position(position)

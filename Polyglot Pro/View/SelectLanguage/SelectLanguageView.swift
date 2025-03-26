@@ -60,18 +60,17 @@ struct SelectLanguageView: View {
                 .font(.system(size: size, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
-            
             Picker("", selection: $tempPrimaryLanguage) {
                 ForEach(Language.allCases) { language in
                     Text(language.displayName)
                         .tag(language as Language?)
                 }
             }
+            .frame(width: 200)
+            .padding(.bottom)
 #if os(iOS)
             .pickerStyle(WheelPickerStyle())
 #endif
-            .frame(width: 200)
-            .padding(.bottom)
             
             
             Text("Selected target language:".localized)
@@ -91,12 +90,6 @@ struct SelectLanguageView: View {
             .padding(.bottom)
             
             Spacer()
-            
-//            if isSameLanguage {
-//                Text("The languages must be different.")
-//                    .font(.system(size: warningSize))
-//                    .foregroundColor(.red)
-//            }
             
             Text("The languages must be different.".localized)
                 .font(.system(size: warningSize))
@@ -119,30 +112,17 @@ struct SelectLanguageView: View {
                     settings.targetLanguage = tempTargetLanguage
                 }
             
-            
             Spacer()
-            
-
         }
         .padding()
         .frame(width: width, height: height, alignment: .center)
-        
-        
         .background(Color.white)
         .cornerRadius(20)
-        
-        
         .overlay(
             RoundedRectangle(cornerRadius: 20)
                 .stroke(
                     LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing), lineWidth: lineWidth)
                 .shadow(color: .purple.opacity(0.5), radius: 20)
         )
-        
-        
-//        .background(
-//            GradientBackground()
-//                .ignoresSafeArea()
-//        )
     }
 }

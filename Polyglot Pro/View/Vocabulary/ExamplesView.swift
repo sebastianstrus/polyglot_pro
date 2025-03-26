@@ -119,10 +119,7 @@ struct ExampleRowView: View {
                 }
                 
                 Spacer()
-                
             }
-            
-            
         }
     }
 }

@@ -36,13 +36,7 @@ struct Polyglot_ProApp: App {
     }
     
     var body: some Scene {
-        
-        UserDefaults.standard.set(["sv"], forKey: "AppleLanguages")
-            UserDefaults.standard.synchronize()
-        Bundle.setLanguage("sv")
-        
-        
-        return WindowGroup {
+        WindowGroup {
             MainView()
                 .environmentObject(settings)
                 .frame(minWidth: minWidth, maxWidth: .infinity, minHeight: minHeight, maxHeight: .infinity)
@@ -52,30 +46,6 @@ struct Polyglot_ProApp: App {
         }
     }
 }
-
-extension Bundle {
-    static var bundleKey: UInt8 = 0
-    
-    static func setLanguage(_ language: String) {
-        guard let path = Bundle.main.path(forResource: language, ofType: "lproj") else {
-            return
-        }
-        object_setClass(Bundle.main, CustomBundle.self)
-        objc_setAssociatedObject(Bundle.main, &bundleKey, Bundle(path: path), .OBJC_ASSOCIATION_RETAIN_NONATOMIC)
-    }
-}
-
-class CustomBundle: Bundle {
-    override func localizedString(forKey key: String, value: String?, table tableName: String?) -> String {
-        guard let bundle = objc_getAssociatedObject(self, &Bundle.bundleKey) as? Bundle else {
-            return super.localizedString(forKey: key, value: value, table: tableName)
-        }
-        return bundle.localizedString(forKey: key, value: value, table: tableName)
-    }
-}
-
-
-
 
 /* upload: sv_adjectives_colors.json
 Hej. Tworzę aplikację do nauki języka szwedzkiego dla osób, które już znają inne języki. Potrzebuję więcej wyrazen z tłumaczeniami. Do każdego wyrazenia 4 przykłady zdań, które też są przetłumaczone. Potrzebuję te wyrazenia w formacie json. Wysyłam Ci plik json z przykładową inną kategorią i proszę stwórz nowy plik z poniższymi wyrazeniami. Wykorzystaj koniecznie wszystkie poniżej. Użyj wszystkie słowa. Aż do końca.

@@ -34,16 +34,13 @@ struct QuizView: View {
         }
     }()
     
-    
-    
-    
     var body: some View {
         ZStack {
             ScrollView([]) {
                 VStack {
                     ZStack {
                         HStack {
-                            Text("\(viewModel.currentIndex + 1)/\(viewModel.questions.count)")
+                            Text("\(viewModel.currentIndex + 1)/\(viewModel.questionsBase.count)")
                                 .font(.system(size: 30, weight: .bold, design: .rounded))
                                 .foregroundColor(.purple)
                                 .padding(.horizontal)
@@ -52,13 +49,11 @@ struct QuizView: View {
                             
                             if viewModel.missCount > 0 {
                                 ZStack {
-                                    
                                     Image(systemName: "lightbulb.max.fill")
                                         .resizable() // Ensures the image scales properly
                                         .frame(width: 40, height: 40)
                                         .foregroundColor(.red)
                                         .opacity(0.9)
-                                    
                                     
                                     Text("\(viewModel.missCount)")
                                         .font(.system(size: 12, weight: .bold, design: .rounded))
@@ -66,10 +61,7 @@ struct QuizView: View {
                                         .padding(.bottom, 4)
                                 }.frame(width: 40, height: 40)
                             }
-                            
-                            
-                            
-                            
+
                             Button(action: {
                                 viewModel.toggleSound()
                             }) {
@@ -82,13 +74,10 @@ struct QuizView: View {
                                     .styledSlider()
                             }
                         }
-                        
-                        //Text(viewModel.category.rawValue)
                         .styledTitel()
                     }
                     .padding()
                     .padding(.top, 4)
-                    
                     
                     Text(viewModel.questions[viewModel.currentIndex].translations[viewModel.settings.primaryLanguage!.rawValue]!)
                         .styledTitel()
@@ -174,12 +163,9 @@ struct QuizView: View {
             }.background ( GradientBackground().ignoresSafeArea() )
                 .ignoresSafeArea(.keyboard)
             
-            
             if viewModel.questions.count == viewModel.currentIndex + 1 && viewModel.missCount == 0 && viewModel.isCorrect == true  {
                 ConfettiView()
             }
-            
         }.navigationTitle(viewModel.category.rawValue)
-        
     }
 }

@@ -37,13 +37,6 @@ struct MainView: View {
         }
     }()
     
-//    let paddingBottom: CGFloat = {
-//        switch Platform.current {
-//        case .macOS: return 12
-//        default: return 4
-//        }
-//    }()
-    
     let spacing: CGFloat = {
         switch Platform.current {
         case .macOS: return 36
@@ -51,13 +44,10 @@ struct MainView: View {
         }
     }()
     
-    
     var body: some View {
-
         ZStack {
             NavigationStack {
                 VStack(spacing: spacing) {
-                    
                     
                     Text("Polyglot Pro")
                         .font(.system(size: size, weight: .bold, design: .rounded))

@@ -112,37 +112,12 @@ struct VocabularyView: View {
                     LearnView(viewModel: LearnViewModel(settings: settings, category: category))
                 }
                 .navigationTitle("Vocabulary".localized)
-//                .navigationBarItems(leading: Text("Back".localized))
                 
-#if os(iOS)
-//                Image(systemName: "chevron.left") // Standard back button arrow
-//                
-//                    .navigationBarBackButtonHidden(true)
-//                
-//                    .toolbar {
-//                        ToolbarItem(placement: .automatic) {
-//                            Button(action: {
-//                                dismiss()// Handle back action
-//                            }) {
-//                                HStack {
-//                                    Image(systemName: "chevron.left") // Mimics the system's back button
-//                                    Text("Back".localized)
-//                                }
-//                            }
-//                        }
-//                    }
-#endif
                 Spacer()
             }
         }
         .background(
             GradientBackground().ignoresSafeArea()
-            
         )
-        
     }
 }
-
-
-
-
