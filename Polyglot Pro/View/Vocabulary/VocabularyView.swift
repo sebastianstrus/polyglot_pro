@@ -21,20 +21,6 @@ struct VocabularyView: View {
         }
     }()
     
-    let paddingTop: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 20
-        default: return 12
-        }
-    }()
-    
-    let paddingBottom: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 12
-        default: return 4
-        }
-    }()
-    
     let spacing: CGFloat = {
         switch Platform.current {
         case .macOS: return 36
@@ -77,76 +63,89 @@ struct VocabularyView: View {
         }
     }()
     
-    // Group categories by their section
+    let lineWidth: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 10
+        default: return 4
+        }
+    }()
+    
+    let paddingTop: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 40
+        default: return 20
+        }
+    }()
+    
+    
+    
     var categoriesBySection: [Category.CatSection: [Category]] {
         Dictionary(grouping: Category.allCases, by: { $0.catSection })
     }
     
     var body: some View {
-            VStack {
-                ScrollView(.vertical, showsIndicators: true) {
-                    Text("").frame(height: 10)
-                    
-                    // Iterate through each section
-                    ForEach(Category.CatSection.allCases, id: \.self) { section in
-                        if let categories = categoriesBySection[section] {
-                            VStack(spacing: 10) {
-                                // Section Header
-                                sectionHeader(for: section)
-                                
-                                // Categories Grid
-                                LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
-                                    ForEach(categories, id: \.self) { category in
-                                        NavigationLink(value: category) {
-                                            categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
-                                            
-                                        }
-                                        .buttonStyle(ScaleButtonStyle())
+        VStack {
+            ScrollView(.vertical, showsIndicators: true) {
+                
+                Text("").frame(height: paddingTop)
+                
+                ForEach(Category.CatSection.allCases, id: \.self) { section in
+                    if let categories = categoriesBySection[section] {
+                        VStack(spacing: 10) {
+                            sectionHeader(for: section)
+                            
+                            LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
+                                ForEach(categories, id: \.self) { category in
+                                    NavigationLink(value: category) {
+                                        categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
+                                        
                                     }
+                                    .buttonStyle(ScaleButtonStyle())
                                 }
-                                .padding(.top, 10)
-                                .padding(.bottom, 10)
-                                
-                                // Horizontal Line (Divider)
-                                if section != Category.CatSection.allCases.last {
-                                    Rectangle()
-                                        .fill(
-                                            LinearGradient(
-                                                colors: [.blue, .purple],
-                                                startPoint: .leading,
-                                                endPoint: .trailing
-                                            )
+                            }
+                            .padding(.bottom, 10)
+                            
+                            // Horizontal Line (Divider)
+                            if section != Category.CatSection.allCases.last {
+                                Rectangle()
+                                    .fill(
+                                        LinearGradient(
+                                            colors: [.blue, .purple],
+                                            startPoint: .leading,
+                                            endPoint: .trailing
                                         )
-                                        .frame(height: 2)
-                                        .padding(.horizontal, 40)
-                                        .padding(.top, 10)
-                                }
+                                    )
+                                    .frame(height: 2)
+                                    .padding(.horizontal, 40)
+                                    .padding(.top, 10)
+                                    .padding(.bottom, 26)
                             }
                         }
                     }
-                    .navigationDestination(for: Category.self) { category in
-                        LearnView(viewModel: LearnViewModel(settings: settings, category: category))
-                    }
-                    .navigationTitle("Vocabulary".localized)
-                    
-                    Spacer()
                 }
-            }
-            .background(
-                GradientBackground().ignoresSafeArea()
-            )
-        }
-        
-        // Helper function to create section headers
-        private func sectionHeader(for section: Category.CatSection) -> some View {
-            HStack {
-                Text(section.displayName.localized)
-                    .styledTitel()
-                    .padding(.top, 26)
-                    .padding(.leading, 40)
+                .navigationDestination(for: Category.self) { category in
+                    LearnView(viewModel: LearnViewModel(settings: settings, category: category))
+                }
+                
                 Spacer()
             }
         }
+        .customTitle("Vocabulary".localized)
+        
+        .background(
+            GradientBackground().ignoresSafeArea()
+        )
+        
+    }
+    
+    private func sectionHeader(for section: Category.CatSection) -> some View {
+        HStack {
+            Text(section.displayName.localized)
+                .styledTitel()
+                .padding(.leading, 40)
+            Spacer()
+        }
+    }
     
     private func categoryItem(for category: Category, isSolved: Bool = false) -> some View {
         VStack {
@@ -163,13 +162,11 @@ struct VocabularyView: View {
         )
         .overlay(
             isSolved ?
-                RoundedRectangle(cornerRadius: radius + 1)
-                    .stroke(Color.green, lineWidth: 10)
-                : nil
-            )
+            RoundedRectangle(cornerRadius: radius + 1)
+                .stroke(Color.green, lineWidth: lineWidth)
+            : nil
+        )
         .cornerRadius(radius)
         //.shadow(color: Color.green, radius: isSolved ? 8 : 0)
     }
-    
-    
-    }
+}

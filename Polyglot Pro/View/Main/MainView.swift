@@ -81,7 +81,7 @@ struct MainView: View {
                     Spacer()
                     Spacer()
                 }
-                .navigationTitle("Main menu".localized)
+                .customTitle("Main menu".localized)
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .navigationDestination(for: Destination.self) { destination in
                     switch destination {

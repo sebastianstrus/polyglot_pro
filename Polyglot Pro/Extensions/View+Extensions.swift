@@ -231,4 +231,9 @@ extension View {
             .shadow(color: Color.blue.opacity(0.4), radius: 10, x: 0, y: 5)
             .accentColor(Color(.white))
     }
+    
+    func customTitle(_ title: String) -> some View {
+        self.modifier(NavigationTitleModifier(title: title))
+    }
+    
 }

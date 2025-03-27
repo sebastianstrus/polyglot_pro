@@ -166,6 +166,6 @@ struct QuizView: View {
             if viewModel.completedCategory  {
                 ConfettiView()
             }
-        }.navigationTitle(viewModel.category.rawValue)
+        }.customTitle(viewModel.category.rawValue)
     }
 }

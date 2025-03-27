@@ -63,7 +63,7 @@ struct SettingsView: View {
                 }
             }
         }
-        .navigationTitle("Settings".localized)
+        .customTitle("Settings".localized)
     }
 }
 
@@ -90,7 +90,7 @@ struct PrimaryLanguageSelectionView: View {
                 selectedLanguage = language
             }
         }
-        .navigationTitle("Select language".localized)
+        .customTitle("Select language".localized)
     }
 }
 
@@ -112,6 +112,6 @@ struct TargetLanguageSelectionView: View {
                 selectedLanguage = language
             }
         }
-        .navigationTitle("Choose language".localized)
+        .customTitle("Choose language".localized)
     }
 }

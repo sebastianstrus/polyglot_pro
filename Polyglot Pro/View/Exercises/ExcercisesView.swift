@@ -12,6 +12,6 @@ struct ExercisesView: View {
     var body: some View {
         Text("TODO: Exercises")
             .font(.title)
-            .navigationTitle("Exercises")
+            .customTitle("Exercises")
     }
 }

@@ -10,6 +10,6 @@ import SwiftUI
 struct GrammarView: View {
     var body: some View {
         Text("TODO: Grammar")
-            .navigationTitle("Grammar")
+            .customTitle("Grammar")
     }
 }
