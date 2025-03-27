@@ -9,6 +9,9 @@ import SwiftUI
 
 enum UserDefaultsKeys: String {
     case isSoundOn
+    case isCountingMistakes
+    case isConfettiOn
+    case isDarkMode
     case speechRate
     case primaryLanguage
     case targetLanguage
@@ -19,6 +22,9 @@ class SettingsManager: ObservableObject {
     static let shared = SettingsManager()
     
     @AppStorage(UserDefaultsKeys.isSoundOn.rawValue) var isSoundOn: Bool = true
+    @AppStorage(UserDefaultsKeys.isConfettiOn.rawValue) var isConfettiOn: Bool = true
+    @AppStorage(UserDefaultsKeys.isCountingMistakes.rawValue) var isCountingMistakes: Bool = true
+    @AppStorage(UserDefaultsKeys.isDarkMode.rawValue) var isDarkMode: Bool = false
     @AppStorage(UserDefaultsKeys.speechRate.rawValue) var speechRate: Double = 0.4
     @AppStorage(UserDefaultsKeys.targetLanguage.rawValue) var targetLanguage: Language = .swedish
     

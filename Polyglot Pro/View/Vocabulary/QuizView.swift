@@ -48,7 +48,7 @@ struct QuizView: View {
                             
                             Spacer()
                             
-                            if viewModel.missCount > 0 {
+                            if viewModel.missCount > 0 && viewModel.settings.isCountingMistakes {
                                 ZStack {
                                     Image(systemName: "lightbulb.max.fill")
                                         .resizable() // Ensures the image scales properly
@@ -179,7 +179,10 @@ struct QuizView: View {
                 .ignoresSafeArea(.keyboard)
             
             if viewModel.completedCategory  {
-                ConfettiView()
+                if viewModel.settings.isConfettiOn {
+                    ConfettiView()
+                }
+                
             }
         }.customTitle(viewModel.category.primaryName.localized)
     }

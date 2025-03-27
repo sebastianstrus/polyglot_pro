@@ -17,6 +17,20 @@ struct SettingsView: View {
             Spacer()
             
             List {
+                Section(header: Text("Vocabulary settings".localized)) {
+                    Toggle("Count mistakes".localized, isOn: settings.$isCountingMistakes)
+                        .tint(.purple)
+                    Toggle("Display confetti".localized, isOn: settings.$isConfettiOn)
+                        .tint(.purple)
+
+                }
+                
+                Section(header: Text("Theme settings".localized)) {
+                    Toggle("Enable dark mode".localized, isOn: settings.$isDarkMode)
+                        .tint(.purple)
+
+                }
+                
                 Section(header: Text("Sound settings".localized)) {
                     Toggle("Auto-read expressions".localized, isOn: settings.$isSoundOn)
                         .tint(.purple)
