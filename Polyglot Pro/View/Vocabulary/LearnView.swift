@@ -43,7 +43,7 @@ struct LearnView: View {
                 .padding(.bottom, Platform.current == .macOS ? 60 : 30)
                 .padding(.top, Platform.current == .macOS ? 0 : 8)
         }
-        .customTitle(viewModel.category.rawValue)
+        .customTitle(viewModel.category.primaryName.localized)
         .background( GradientBackground().ignoresSafeArea())
     }
 

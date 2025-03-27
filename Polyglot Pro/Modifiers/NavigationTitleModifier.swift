@@ -12,9 +12,10 @@ struct NavigationTitleModifier: ViewModifier {
     
     func body(content: Content) -> some View {
         Group {
-            #if os(macOS)
+#if os(macOS)
             content.navigationTitle(title.localized)
-            #else
+            
+#else
             content
                 .toolbar {
                     ToolbarItem(placement: .principal) {
@@ -28,7 +29,7 @@ struct NavigationTitleModifier: ViewModifier {
                     }
                 }
                 .navigationBarTitleDisplayMode(.inline)
-            #endif
+#endif
         }
     }
 }

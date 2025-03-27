@@ -21,7 +21,7 @@ extension View {
             case .macOS:
                 return 42
             case .iPadOS:
-                return 30
+                return 42
             case .iOS:
                 return 24
             case .unknown:
@@ -41,7 +41,7 @@ extension View {
             case .macOS:
                 return 26
             case .iPadOS:
-                return 20
+                return 26
             case .iOS:
                 return 16
             case .unknown:
@@ -62,7 +62,7 @@ extension View {
             case .macOS:
                 return 22
             case .iPadOS:
-                return 20
+                return 22
             case .iOS:
                 return 17
             case .unknown:
@@ -88,10 +88,10 @@ extension View {
             height = 50
             radius = 12
         case .iPadOS:
-            size = isIcon ? 20 : 16
-            width = type == .primary ? 88 : 150
-            height = 44
-            radius = 6
+            size = 20
+            width = type == .primary ? 100 : 300
+            height = 50
+            radius = 12
         case .iOS:
             size = isIcon ? 20 : 16
             width = type == .primary ? 88 : 150
@@ -130,11 +130,11 @@ extension View {
             radius = 20
             lineWidth = 5
         case .iPadOS:
-            size = 20
-            width = 300
-            height = 50
-            radius = 8
-            lineWidth = 3
+            size = 30
+            width = 440
+            height = 70
+            radius = 20
+            lineWidth = 5
         case .iOS:
             size = 20
             width = 300
@@ -171,6 +171,7 @@ extension View {
     func styledSlider() -> some View {
         
         return self
+        
             .frame(width: 100, height: 50)
             .cornerRadius(12)
         

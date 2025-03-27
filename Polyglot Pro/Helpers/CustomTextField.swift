@@ -133,6 +133,10 @@ struct UIKitTextField: UIViewRepresentable {
         textField.borderStyle = .roundedRect
         textField.textColor = .gray
         textField.textAlignment = .center
+        if Platform.current == .iPadOS {
+            textField.font = .systemFont(ofSize: 24)
+        }
+        
         textField.delegate = context.coordinator
         
         return textField

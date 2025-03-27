@@ -9,9 +9,12 @@ import SwiftUI
 
 struct AlphabetView: View {
     
+    @StateObject var viewModel: AlphabetViewModel
+    
     let size: CGFloat = {
         switch Platform.current {
         case .macOS: return 100
+        case .iPadOS: return 100
         default: return 56
         }
     }()
@@ -19,6 +22,7 @@ struct AlphabetView: View {
     let fontSize: CGFloat = {
         switch Platform.current {
         case .macOS: return 40
+        case .iPadOS: return 40
         default: return 22
         }
     }()
@@ -29,15 +33,31 @@ struct AlphabetView: View {
         default: return 6
         }
     }()
-        
-    @StateObject var viewModel: AlphabetViewModel
-
-    //let columns = Array(repeating: GridItem(.flexible(), spacing: 10), count: 6)
     
-    let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 4 : 6)
+    let paddingTop: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 40
+        default: return 20
+        }
+    }()
+    
+    let columns: [GridItem] = {
+        let count: Int
+        switch Platform.current {
+        case .iOS: count = 4
+        case .iPadOS: count = 5
+        case .macOS: count = 6
+        case .unknown: count = 4
+        }
+        
+        return Array(repeating: GridItem(.flexible(), spacing: 0), count: count)
+    }()
 
     var body: some View {
         ScrollView {
+            
+            Text("").frame(height: paddingTop)
+            
             LazyVGrid(columns: columns, spacing: 20) {
                 ForEach(viewModel.letters, id: \.self) { letterPair in
                     Button(action: {

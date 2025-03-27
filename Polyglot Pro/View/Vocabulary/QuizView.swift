@@ -16,6 +16,7 @@ struct QuizView: View {
     let hintFontSize: CGFloat = {
         switch Platform.current {
         case .macOS: return 24
+        case .iPadOS: return 24
         default: return 20
         }
     }()
@@ -60,6 +61,7 @@ struct QuizView: View {
                                         .foregroundColor(.white)
                                         .padding(.bottom, 4)
                                 }.frame(width: 40, height: 40)
+                                    .padding(.trailing, 8)
                             }
 
                             Button(action: {
@@ -71,7 +73,9 @@ struct QuizView: View {
                             
                             if Platform.current == .macOS {
                                 Slider(value: $viewModel.speechRate, in: 0.1...0.6, step: 0.1)
+                                
                                     .styledSlider()
+                                
                             }
                         }
                         .styledTitel()
@@ -79,9 +83,18 @@ struct QuizView: View {
                     .padding()
                     .padding(.top, 4)
                     
+                    if Platform.current == .iPadOS {
+                        Spacer()
+                    }
+                    
                     Text(viewModel.questions[viewModel.currentIndex].translations[viewModel.settings.primaryLanguage!.rawValue]!)
                         .styledTitel()
                         .padding()
+                    
+                    if Platform.current == .iPadOS {
+                        Spacer()
+                    }
+                    
                     
                     Text(viewModel.questions[viewModel.currentIndex].expression)
                         .font(.system(size: hintFontSize, weight: .regular, design: .rounded))
@@ -152,11 +165,13 @@ struct QuizView: View {
                     .frame(width: width, alignment: .center)
                     
                     Spacer()
+                    Spacer()
                     
-                    if viewModel.isCorrect == true {
-                        ExamplesView(examples: viewModel.questions[viewModel.currentIndex].examples, viewModel: viewModel)
-                    }
+
+                    ExamplesView(examples: viewModel.questions[viewModel.currentIndex].examples, viewModel: viewModel)
+                        .opacity(viewModel.isCorrect == true ? 1 : 0)
                     
+                    Spacer()
                     Spacer()
                 }
                 .scrollDismissesKeyboard(.interactively)
@@ -166,6 +181,6 @@ struct QuizView: View {
             if viewModel.completedCategory  {
                 ConfettiView()
             }
-        }.customTitle(viewModel.category.rawValue)
+        }.customTitle(viewModel.category.primaryName.localized)
     }
 }

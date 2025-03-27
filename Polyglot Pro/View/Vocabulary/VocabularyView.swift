@@ -12,7 +12,19 @@ struct VocabularyView: View {
     @EnvironmentObject var settings: SettingsManager
     @Environment(\.dismiss) private var dismiss
     
-    let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 2 : 4)
+    //let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 2 : 4)
+    
+    let columns: [GridItem] = {
+        let count: Int
+        switch Platform.current {
+        case .iOS: count = 2
+        case .iPadOS: count = 3
+        case .macOS: count = 4
+        case .unknown: count = 3
+        }
+        
+        return Array(repeating: GridItem(.flexible(), spacing: 0), count: count)
+    }()
     
     let size: CGFloat = {
         switch Platform.current {
@@ -31,6 +43,7 @@ struct VocabularyView: View {
     let btnFontSize: CGFloat = {
         switch Platform.current {
         case .macOS: return 20
+        case .iPadOS: return 16
         default: return 11
         }
     }()
@@ -38,6 +51,7 @@ struct VocabularyView: View {
     let btnFontSize2: CGFloat = {
         switch Platform.current {
         case .macOS: return 20
+        case .iPadOS: return 16
         default: return 11
         }
     }()
@@ -45,6 +59,7 @@ struct VocabularyView: View {
     let btnWidth: CGFloat = {
         switch Platform.current {
         case .macOS: return 300
+        case .iPadOS: return 250
         default: return 150
         }
     }()
@@ -52,6 +67,7 @@ struct VocabularyView: View {
     let btnHeight: CGFloat = {
         switch Platform.current {
         case .macOS: return 70
+        case .iPadOS: return 55
         default: return 40
         }
     }()
@@ -59,6 +75,7 @@ struct VocabularyView: View {
     let radius: CGFloat = {
         switch Platform.current {
         case .macOS: return 12
+        case .iPadOS: return 8
         default: return 6
         }
     }()
@@ -73,11 +90,10 @@ struct VocabularyView: View {
     let paddingTop: CGFloat = {
         switch Platform.current {
         case .macOS: return 40
+        case .iPadOS: return 30
         default: return 20
         }
     }()
-    
-    
     
     var categoriesBySection: [Category.CatSection: [Category]] {
         Dictionary(grouping: Category.allCases, by: { $0.catSection })

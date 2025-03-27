@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 enum Platform {
     case macOS, iOS, iPadOS, unknown
     

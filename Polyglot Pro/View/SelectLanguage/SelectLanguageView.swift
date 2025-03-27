@@ -27,6 +27,7 @@ struct SelectLanguageView: View {
     let width: CGFloat = {
         switch Platform.current {
         case .macOS: return 400
+        case .iPadOS: return 400
         default: return 300
         }
     }()
@@ -34,6 +35,7 @@ struct SelectLanguageView: View {
     let height: CGFloat = {
         switch Platform.current {
         case .macOS: return 470
+        case .iPadOS: return 470
         default: return 380
         }
     }()
