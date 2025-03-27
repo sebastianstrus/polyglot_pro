@@ -3989,9 +3989,6 @@
         }
       }
     },
-    "TODO: Alphabet" : {
-      "shouldTranslate" : false
-    },
     "TODO: Exercises" : {
       "shouldTranslate" : false
     },

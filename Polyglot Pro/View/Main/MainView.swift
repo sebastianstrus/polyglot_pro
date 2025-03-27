@@ -85,7 +85,7 @@ struct MainView: View {
                 .frame(maxWidth: .infinity, maxHeight: .infinity)
                 .navigationDestination(for: Destination.self) { destination in
                     switch destination {
-                    case .alphabet: AlphabetView()
+                    case .alphabet: AlphabetView(viewModel: AlphabetViewModel(settings: settings))
                     case .grammar: GrammarView()
                     case .vocabulary: VocabularyView()
                     case .exercises: ExercisesView()

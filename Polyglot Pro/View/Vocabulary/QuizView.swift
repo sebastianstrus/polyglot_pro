@@ -163,7 +163,7 @@ struct QuizView: View {
             }.background ( GradientBackground().ignoresSafeArea() )
                 .ignoresSafeArea(.keyboard)
             
-            if viewModel.questions.count == viewModel.currentIndex + 1 && viewModel.missCount == 0 && viewModel.isCorrect == true  {
+            if viewModel.completedCategory  {
                 ConfettiView()
             }
         }.navigationTitle(viewModel.category.rawValue)

@@ -32,6 +32,18 @@ class LearnViewModel: ObservableObject {
 
     var category: Category
     
+    var completedCategory: Bool {
+        let completed = questions.count == currentIndex + 1 && missCount == 0 && isCorrect == true
+        
+        if completed {
+            settings.markCategoryAsCompleted(category)
+        }
+        
+        return completed
+    }
+    
+
+    
     private var speechSynthesizer = AVSpeechSynthesizer()
     
     init(settings: SettingsManager, category: Category) {

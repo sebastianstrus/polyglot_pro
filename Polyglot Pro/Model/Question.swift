@@ -115,4 +115,30 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case .italian: return "it"
         }
     }
+    
+    var letters: [String] {
+        switch self {
+        case .english:
+            return []
+        case .swedish:
+            return ["A a", "B b", "C c", "D d", "E e", "F f", "G g", "H h", "I i", "J j",
+                    "K k", "L l", "M m", "N n", "O o", "P p", "Q q", "R r", "S s", "T t",
+                    "U u", "V v", "W w", "X x", "Y y", "Z z", "Å å", "Ä ä", "Ö ö"]
+        case .ukrainian:
+            return []
+        case .spanish:
+            return []
+        case .german:
+            return []
+        case .polish:
+            return []
+        case .french:
+            return []
+        case .portuguese:
+            return []
+        case .italian:
+            return []
+        }
+    }
+        
 }

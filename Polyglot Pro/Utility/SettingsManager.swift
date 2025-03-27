@@ -12,6 +12,7 @@ enum UserDefaultsKeys: String {
     case speechRate
     case primaryLanguage
     case targetLanguage
+    case completedCategories
 }
 
 class SettingsManager: ObservableObject {
@@ -44,5 +45,33 @@ class SettingsManager: ObservableObject {
         }
         
         objectWillChange.send() // Notify SwiftUI
+    }
+}
+
+
+extension SettingsManager {
+    // Get the key for completed categories for current target language
+    private func completedCategoriesKey() -> String {
+        return "\(UserDefaultsKeys.completedCategories.rawValue)_\(targetLanguage.rawValue)"
+    }
+    
+    // Mark a category as completed
+    func markCategoryAsCompleted(_ category: Category) {
+        var completedCategories = getCompletedCategories()
+        completedCategories.insert(category.rawValue)
+        userDefaults.set(Array(completedCategories), forKey: completedCategoriesKey())
+        objectWillChange.send()
+    }
+    
+    // Check if a category is completed
+    func isCategoryCompleted(_ category: Category) -> Bool {
+        let completedCategories = getCompletedCategories()
+        return completedCategories.contains(category.rawValue)
+    }
+    
+    // Get all completed categories for current target language
+    private func getCompletedCategories() -> Set<String> {
+        let categories = userDefaults.array(forKey: completedCategoriesKey()) as? [String] ?? []
+        return Set(categories)
     }
 }

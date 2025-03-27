@@ -98,7 +98,7 @@ struct VocabularyView: View {
                                 LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
                                     ForEach(categories, id: \.self) { category in
                                         NavigationLink(value: category) {
-                                            categoryItem(for: category)
+                                            categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
                                             
                                         }
                                         .buttonStyle(ScaleButtonStyle())
@@ -168,7 +168,7 @@ struct VocabularyView: View {
                 : nil
             )
         .cornerRadius(radius)
-        .shadow(color: Color.green, radius: isSolved ? 8 : 0)
+        //.shadow(color: Color.green, radius: isSolved ? 8 : 0)
     }
     
     
