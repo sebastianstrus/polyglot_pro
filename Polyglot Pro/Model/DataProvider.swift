@@ -16,6 +16,23 @@ enum Category: String, CaseIterable {
         case adjectives
         case expressions
         case conjunctions
+        
+        var displayName: String {
+            switch self {
+            case .pronouns:
+                return "Pronouns".localized
+            case .nouns:
+                return "Nouns".localized
+            case .verbs:
+                return "Verbs".localized
+            case .adjectives:
+                return "Adjectives".localized
+            case .expressions:
+                return "Expressions".localized
+            case .conjunctions:
+                return "Conjunctions".localized
+            }
+        }
     }
     
     // pronouns

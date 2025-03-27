@@ -77,47 +77,99 @@ struct VocabularyView: View {
         }
     }()
     
+    // Group categories by their section
+    var categoriesBySection: [Category.CatSection: [Category]] {
+        Dictionary(grouping: Category.allCases, by: { $0.catSection })
+    }
+    
     var body: some View {
-        
-        VStack {
-            
-            ScrollView(.vertical, showsIndicators: true) {
-                Text("").frame(height: 10)
-                LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
-                    ForEach(Category.allCases, id: \ .self) { category in
-                        
-                        NavigationLink(value: category) {
-                            VStack {
-                                Text(category.targetName)
-                                    .foregroundColor(.white)
-                                    .font(.system(size: btnFontSize, weight: .bold))
-                                Text("(\(category.primaryName))")
-                                    .foregroundColor(.white.opacity(0.8))
-                                    .font(.system(size: btnFontSize2 - 2, weight: .regular))
-                            }
-                                .frame(width: btnWidth, height: btnHeight)
-                                .background(
-                                    LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
-                                )
+            VStack {
+                ScrollView(.vertical, showsIndicators: true) {
+                    Text("").frame(height: 10)
+                    
+                    // Iterate through each section
+                    ForEach(Category.CatSection.allCases, id: \.self) { section in
+                        if let categories = categoriesBySection[section] {
+                            VStack(spacing: 10) {
+                                // Section Header
+                                sectionHeader(for: section)
                                 
-                                .cornerRadius(radius)
-                                .shadow(color: Color.blue.opacity(0.4), radius: radius, x: 0, y: 5)
-                            
-                        }.buttonStyle(ScaleButtonStyle())
+                                // Categories Grid
+                                LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
+                                    ForEach(categories, id: \.self) { category in
+                                        NavigationLink(value: category) {
+                                            categoryItem(for: category)
+                                            
+                                        }
+                                        .buttonStyle(ScaleButtonStyle())
+                                    }
+                                }
+                                .padding(.top, 10)
+                                .padding(.bottom, 10)
+                                
+                                // Horizontal Line (Divider)
+                                if section != Category.CatSection.allCases.last {
+                                    Rectangle()
+                                        .fill(
+                                            LinearGradient(
+                                                colors: [.blue, .purple],
+                                                startPoint: .leading,
+                                                endPoint: .trailing
+                                            )
+                                        )
+                                        .frame(height: 2)
+                                        .padding(.horizontal, 40)
+                                        .padding(.top, 10)
+                                }
+                            }
+                        }
                     }
+                    .navigationDestination(for: Category.self) { category in
+                        LearnView(viewModel: LearnViewModel(settings: settings, category: category))
+                    }
+                    .navigationTitle("Vocabulary".localized)
+                    
+                    Spacer()
                 }
-                .padding(.top, 20)
-                .padding(.bottom, 20)
-                .navigationDestination(for: Category.self) { category in
-                    LearnView(viewModel: LearnViewModel(settings: settings, category: category))
-                }
-                .navigationTitle("Vocabulary".localized)
-                
+            }
+            .background(
+                GradientBackground().ignoresSafeArea()
+            )
+        }
+        
+        // Helper function to create section headers
+        private func sectionHeader(for section: Category.CatSection) -> some View {
+            HStack {
+                Text(section.displayName.localized)
+                    .styledTitel()
+                    .padding(.top, 26)
+                    .padding(.leading, 40)
                 Spacer()
             }
         }
+    
+    private func categoryItem(for category: Category, isSolved: Bool = false) -> some View {
+        VStack {
+            Text(category.targetName)
+                .foregroundColor(.white)
+                .font(.system(size: btnFontSize, weight: .bold))
+            Text("(\(category.primaryName))")
+                .foregroundColor(.white.opacity(0.8))
+                .font(.system(size: btnFontSize2 - 2, weight: .regular))
+        }
+        .frame(width: btnWidth, height: btnHeight)
         .background(
-            GradientBackground().ignoresSafeArea()
+            LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
         )
+        .overlay(
+            isSolved ?
+                RoundedRectangle(cornerRadius: radius + 1)
+                    .stroke(Color.green, lineWidth: 10)
+                : nil
+            )
+        .cornerRadius(radius)
+        .shadow(color: Color.green, radius: isSolved ? 8 : 0)
     }
-}
+    
+    
+    }
