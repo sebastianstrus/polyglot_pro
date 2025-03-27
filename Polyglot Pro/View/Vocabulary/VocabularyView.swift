@@ -66,7 +66,7 @@ struct VocabularyView: View {
     let lineWidth: CGFloat = {
         switch Platform.current {
         case .macOS: return 10
-        default: return 4
+        default: return 5
         }
     }()
     
@@ -167,6 +167,6 @@ struct VocabularyView: View {
             : nil
         )
         .cornerRadius(radius)
-        //.shadow(color: Color.green, radius: isSolved ? 8 : 0)
+        .shadow(color: Color.green, radius: isSolved ? 8 : 0)
     }
 }
