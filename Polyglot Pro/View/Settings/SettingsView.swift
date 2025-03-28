@@ -17,26 +17,32 @@ struct SettingsView: View {
             Spacer()
             
             List {
-                Section(header: Text("Vocabulary settings".localized)) {
-                    Toggle("Count mistakes".localized, isOn: settings.$isCountingMistakes)
+                Section(header: Text("Vocabulary Settings".localized)) {
+                    Toggle("Count Hints".localized, isOn: settings.$isCountingMistakes)
                         .tint(.purple)
-                    Toggle("Display confetti".localized, isOn: settings.$isConfettiOn)
+                    Toggle("Display Confetti".localized, isOn: settings.$isConfettiOn)
                         .tint(.purple)
-
+                    Button("Reset Progress".localized) {
+                        settings.resetCompletedCategories()
+                        
+                    }
                 }
                 
-                Section(header: Text("Theme settings".localized)) {
-                    Toggle("Enable dark mode".localized, isOn: settings.$isDarkMode)
-                        .tint(.purple)
-
+                Section(header: Text("Appearance".localized)) {
+                    Picker("Theme".localized, selection: $settings.selectedTheme) {
+                        ForEach(ThemeMode.allCases) { mode in
+                            Text(mode.rawValue.localized).tag(mode)
+                        }
+                    }
+                    .pickerStyle(.segmented)
                 }
                 
-                Section(header: Text("Sound settings".localized)) {
-                    Toggle("Auto-read expressions".localized, isOn: settings.$isSoundOn)
+                Section(header: Text("Sound Settings".localized)) {
+                    Toggle("Auto-play Pronunciation".localized, isOn: settings.$isSoundOn)
                         .tint(.purple)
                     
                     HStack {
-                        Text("Speech rate".localized)
+                        Text("Speech Speed".localized)
                             .padding(.trailing, 10)
                         Slider(value: settings.$speechRate, in: 0.1...0.6, step: 0.1)
                             .tint(.purple)
@@ -49,7 +55,7 @@ struct SettingsView: View {
                         set: { newValue in settings.savePrimaryLanguage(newValue) }
                     ))) {
                         HStack {
-                            Text("Primary language".localized)
+                            Text("App Language".localized)
                             Spacer()
                             Text(settings.primaryLanguage!.displayName)
                             
@@ -58,7 +64,7 @@ struct SettingsView: View {
                     
                     NavigationLink(destination: TargetLanguageSelectionView(selectedLanguage: $settings.targetLanguage)) {
                         HStack {
-                            Text("Target language".localized)
+                            Text("Target Language".localized)
                             Spacer()
                             Text(settings.targetLanguage.displayName)
                         }
@@ -66,7 +72,7 @@ struct SettingsView: View {
                 }
                 
                 Section {
-                    Button("Reset settings".localized) {
+                    Button("Reset Settings".localized) {
                         settings.isSoundOn = true
                         settings.primaryLanguage = .english
                         settings.targetLanguage = .swedish

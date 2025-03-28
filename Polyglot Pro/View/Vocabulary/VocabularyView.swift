@@ -146,6 +146,7 @@ struct VocabularyView: View {
                 Spacer()
             }
         }
+        .padding(.bottom, 20)
         .customTitle("Vocabulary".localized)
         
         .background(

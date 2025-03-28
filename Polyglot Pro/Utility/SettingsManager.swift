@@ -16,6 +16,16 @@ enum UserDefaultsKeys: String {
     case primaryLanguage
     case targetLanguage
     case completedCategories
+    case selectedTheme
+}
+
+
+enum ThemeMode: String, CaseIterable, Identifiable {
+    case light = "Light"
+    case dark = "Dark"
+    case system = "System"
+    
+    var id: String { self.rawValue }
 }
 
 class SettingsManager: ObservableObject {
@@ -27,6 +37,13 @@ class SettingsManager: ObservableObject {
     @AppStorage(UserDefaultsKeys.isDarkMode.rawValue) var isDarkMode: Bool = false
     @AppStorage(UserDefaultsKeys.speechRate.rawValue) var speechRate: Double = 0.4
     @AppStorage(UserDefaultsKeys.targetLanguage.rawValue) var targetLanguage: Language = .swedish
+    @AppStorage(UserDefaultsKeys.selectedTheme.rawValue) private var storedSelectedTheme: String = ThemeMode.system.rawValue
+    
+    @Published var selectedTheme: ThemeMode = .system {
+        didSet {
+            storedSelectedTheme = selectedTheme.rawValue
+        }
+    }
     
     private let userDefaults = UserDefaults.standard
     
@@ -37,7 +54,11 @@ class SettingsManager: ObservableObject {
            let savedLanguage = Language(rawValue: rawValue) {
             primaryLanguage = savedLanguage
         } else {
-            primaryLanguage = nil // Explicitly set to nil if not found in UserDefaults
+            primaryLanguage = nil
+        }
+        
+        if let theme = ThemeMode(rawValue: storedSelectedTheme) {
+            selectedTheme = theme
         }
     }
     
@@ -50,18 +71,13 @@ class SettingsManager: ObservableObject {
             userDefaults.removeObject(forKey: UserDefaultsKeys.primaryLanguage.rawValue)
         }
         
-        objectWillChange.send() // Notify SwiftUI
+        objectWillChange.send()
     }
-}
 
-
-extension SettingsManager {
-    // Get the key for completed categories for current target language
     private func completedCategoriesKey() -> String {
         return "\(UserDefaultsKeys.completedCategories.rawValue)_\(targetLanguage.rawValue)"
     }
     
-    // Mark a category as completed
     func markCategoryAsCompleted(_ category: Category) {
         var completedCategories = getCompletedCategories()
         completedCategories.insert(category.rawValue)
@@ -69,15 +85,18 @@ extension SettingsManager {
         objectWillChange.send()
     }
     
-    // Check if a category is completed
     func isCategoryCompleted(_ category: Category) -> Bool {
         let completedCategories = getCompletedCategories()
         return completedCategories.contains(category.rawValue)
     }
     
-    // Get all completed categories for current target language
     private func getCompletedCategories() -> Set<String> {
         let categories = userDefaults.array(forKey: completedCategoriesKey()) as? [String] ?? []
         return Set(categories)
+    }
+    
+    func resetCompletedCategories() {
+        userDefaults.removeObject(forKey: completedCategoriesKey())
+        objectWillChange.send()
     }
 }
