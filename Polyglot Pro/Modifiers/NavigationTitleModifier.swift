@@ -16,7 +16,8 @@ struct NavigationTitleModifier: ViewModifier {
             content.navigationTitle(title.localized)
             
 #else
-            content
+            content.navigationTitle(title.localized)
+            
                 .toolbar {
                     ToolbarItem(placement: .principal) {
                         Text(title.localized)
