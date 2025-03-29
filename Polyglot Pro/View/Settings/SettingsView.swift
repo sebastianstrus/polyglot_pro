@@ -84,7 +84,7 @@ struct SettingsView: View {
                 }
             }
         }
-        .alert("Are you sure you want to reset your progres?".localized, isPresented: $showAlert) {
+        .alert("Are you sure you want to reset your progress?".localized, isPresented: $showAlert) {
             Button("Delete".localized, role: .destructive) {
                         settings.resetCompletedCategories()
                     }

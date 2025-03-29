@@ -340,6 +340,59 @@
         }
       }
     },
+    "Are you sure you want to reset your progress?" : {
+  "extractionState" : "manual",
+  "localizations" : {
+    "de" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Sind Sie sicher, dass Sie Ihren Fortschritt zurücksetzen möchten?"
+      }
+    },
+    "es" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "¿Estás seguro de que quieres reiniciar tu progreso?"
+      }
+    },
+    "fr" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Êtes-vous sûr de vouloir réinitialiser votre progression ?"
+      }
+    },
+    "it" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Sei sicuro di voler reimpostare il tuo progresso?"
+      }
+    },
+    "pl" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Czy na pewno chcesz zresetować swój postęp?"
+      }
+    },
+    "pt-BR" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Tem certeza de que deseja redefinir seu progresso?"
+      }
+    },
+    "sv" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Är du säker på att du vill återställa din framsteg?"
+      }
+    },
+    "uk" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Ви впевнені, що хочете скинути свій прогрес?"
+      }
+    }
+  }
+},
     "Audio Settings" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -552,6 +605,59 @@
         }
       }
     },
+    "Cancel" : {
+  "extractionState" : "manual",
+  "localizations" : {
+    "de" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Abbrechen"
+      }
+    },
+    "es" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Cancelar"
+      }
+    },
+    "fr" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Annuler"
+      }
+    },
+    "it" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Annulla"
+      }
+    },
+    "pl" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Anuluj"
+      }
+    },
+    "pt-BR" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Cancelar"
+      }
+    },
+    "sv" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Avbryt"
+      }
+    },
+    "uk" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Скасувати"
+      }
+    }
+  }
+},
     "Change verbs" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1080,6 +1186,59 @@
         }
       }
     },
+    "Delete" : {
+  "extractionState" : "manual",
+  "localizations" : {
+    "de" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Löschen"
+      }
+    },
+    "es" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Eliminar"
+      }
+    },
+    "fr" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Supprimer"
+      }
+    },
+    "it" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Elimina"
+      }
+    },
+    "pl" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Usuń"
+      }
+    },
+    "pt-BR" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Excluir"
+      }
+    },
+    "sv" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Ta bort"
+      }
+    },
+    "uk" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Видалити"
+      }
+    }
+  }
+},
     "Descriptive adjectives" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -4568,6 +4727,59 @@
         }
       }
     },
+    "This action cannot be undone." : {
+  "extractionState" : "manual",
+  "localizations" : {
+    "de" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Diese Aktion kann nicht rückgängig gemacht werden."
+      }
+    },
+    "es" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Esta acción no se puede deshacer."
+      }
+    },
+    "fr" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Cette action ne peut pas être annulée."
+      }
+    },
+    "it" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Questa azione non può essere annullata."
+      }
+    },
+    "pl" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Tej czynności nie można cofnąć."
+      }
+    },
+    "pt-BR" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Esta ação não pode ser desfeita."
+      }
+    },
+    "sv" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Den här åtgärden kan inte ångras."
+      }
+    },
+    "uk" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Цю дію не можна скасувати."
+      }
+    }
+  }
+},
     "Time expressions" : {
       "extractionState" : "manual",
       "localizations" : {

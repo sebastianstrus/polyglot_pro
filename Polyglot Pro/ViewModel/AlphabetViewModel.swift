@@ -22,11 +22,11 @@ class AlphabetViewModel: ObservableObject {
     private let synthesizer = AVSpeechSynthesizer()
 
     func speakLetter(_ letterPair: String) {
-        let letter = String(letterPair.suffix(1)) // Extract lowercase letter
+        let letter = String(letterPair.suffix(1))
         synthesizer.stopSpeaking(at: .immediate)
         
         let utterance = AVSpeechUtterance(string: letter)
-        utterance.voice = AVSpeechSynthesisVoice(language: "sv-SE")
+        utterance.voice = AVSpeechSynthesisVoice(language: settings.targetLanguage.languageTag)
         
         synthesizer.speak(utterance)
     }
