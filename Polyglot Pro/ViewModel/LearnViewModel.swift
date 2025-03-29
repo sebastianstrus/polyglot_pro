@@ -69,10 +69,10 @@ class LearnViewModel: ObservableObject {
                 speak(text: questions[currentIndex].expression)
             }
         } else {
-            if !missCountUpdated {
-                missCount = missCount + 1
-                missCountUpdated = true
-            }
+//            if !missCountUpdated {
+//                missCount = missCount + 1
+//                missCountUpdated = true
+//            }
             
             shakeTextField()
         }
