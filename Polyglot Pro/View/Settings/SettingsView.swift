@@ -30,10 +30,12 @@ struct SettingsView: View {
                 }
                 
                 Section(header: Text("Appearance".localized)) {
-                    Picker("Theme".localized, selection: $settings.selectedTheme) {
-                        ForEach(ThemeMode.allCases) { mode in
-                            Text(mode.rawValue.localized).tag(mode)
-                        }
+                    Picker("Theme".localized, selection: Binding(
+                        get: { settings.isDarkMode ? 1 : 0 },
+                        set: { settings.isDarkMode = $0 == 1 }
+                    )) {
+                        Text("Light".localized).tag(0)
+                        Text("Dark".localized).tag(1)
                     }
                     .pickerStyle(.segmented)
                 }

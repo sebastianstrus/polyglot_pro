@@ -16,17 +16,10 @@ enum UserDefaultsKeys: String {
     case primaryLanguage
     case targetLanguage
     case completedCategories
-    case selectedTheme
 }
 
 
-enum ThemeMode: String, CaseIterable, Identifiable {
-    case light = "Light"
-    case dark = "Dark"
-    case system = "System"
-    
-    var id: String { self.rawValue }
-}
+
 
 class SettingsManager: ObservableObject {
     static let shared = SettingsManager()
@@ -37,13 +30,6 @@ class SettingsManager: ObservableObject {
     @AppStorage(UserDefaultsKeys.isDarkMode.rawValue) var isDarkMode: Bool = false
     @AppStorage(UserDefaultsKeys.speechRate.rawValue) var speechRate: Double = 0.4
     @AppStorage(UserDefaultsKeys.targetLanguage.rawValue) var targetLanguage: Language = .swedish
-    @AppStorage(UserDefaultsKeys.selectedTheme.rawValue) private var storedSelectedTheme: String = ThemeMode.system.rawValue
-    
-    @Published var selectedTheme: ThemeMode = .system {
-        didSet {
-            storedSelectedTheme = selectedTheme.rawValue
-        }
-    }
     
     private let userDefaults = UserDefaults.standard
     
@@ -55,10 +41,6 @@ class SettingsManager: ObservableObject {
             primaryLanguage = savedLanguage
         } else {
             primaryLanguage = nil
-        }
-        
-        if let theme = ThemeMode(rawValue: storedSelectedTheme) {
-            selectedTheme = theme
         }
     }
     

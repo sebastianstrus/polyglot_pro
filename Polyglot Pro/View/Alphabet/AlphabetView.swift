@@ -9,6 +9,8 @@ import SwiftUI
 
 struct AlphabetView: View {
     
+    @EnvironmentObject var settings: SettingsManager
+    
     @StateObject var viewModel: AlphabetViewModel
     
     let size: CGFloat = {
@@ -67,7 +69,7 @@ struct AlphabetView: View {
                             .frame(width: size, height: size)
                             .font(.system(size: fontSize, weight: .bold, design: .rounded))
                             .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
-                            .background(Color.white)
+                            .background(Color.white.opacity(settings.isDarkMode ? 0.8 : 1))
                             .cornerRadius(10)
                             .overlay(
                                 RoundedRectangle(cornerRadius: cornerRadius)
