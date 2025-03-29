@@ -42,8 +42,6 @@ class LearnViewModel: ObservableObject {
         return completed
     }
     
-
-    
     private var speechSynthesizer = AVSpeechSynthesizer()
     
     init(settings: SettingsManager, category: Category) {
@@ -69,11 +67,6 @@ class LearnViewModel: ObservableObject {
                 speak(text: questions[currentIndex].expression)
             }
         } else {
-//            if !missCountUpdated {
-//                missCount = missCount + 1
-//                missCountUpdated = true
-//            }
-            
             shakeTextField()
         }
         return isCorrect

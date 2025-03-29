@@ -11,6 +11,8 @@ struct SettingsView: View {
     
     @EnvironmentObject var settings: SettingsManager
     
+    @State private var showAlert = false
+    
     var body: some View {
         VStack {
             
@@ -23,8 +25,7 @@ struct SettingsView: View {
                     Toggle("Display Confetti".localized, isOn: settings.$isConfettiOn)
                         .tint(.purple)
                     Button("Reset Progress".localized) {
-                        settings.resetCompletedCategories()
-                        
+                        showAlert = true
                     }
                 }
                 
@@ -83,6 +84,14 @@ struct SettingsView: View {
                 }
             }
         }
+        .alert("Are you sure you want to reset your progres?".localized, isPresented: $showAlert) {
+            Button("Delete".localized, role: .destructive) {
+                        settings.resetCompletedCategories()
+                    }
+            Button("Cancel".localized, role: .cancel) { }
+                } message: {
+                    Text("This action cannot be undone.".localized)
+                }
         .customTitle("Settings".localized)
     }
 }
