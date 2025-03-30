@@ -61,7 +61,7 @@ struct ExamplesView: View {
             }
         }
         .padding(insidePadding)
-        .background(.white)
+        .background(viewModel.settings.isDarkMode ? .clear : .white)
         .cornerRadius(10)
         .overlay(
             RoundedRectangle(cornerRadius: 10)

@@ -9,9 +9,13 @@
 import SwiftUI
 
 struct CustomTextField: View {
+    
+    @EnvironmentObject var settings: SettingsManager
+    
     var placeholder: String // No longer optional
     @Binding var text: String
     @Binding var isCorrect: Bool?
+    
     var onCommit: (() -> Void)?
     
     init(_ placeholder: String, text: Binding<String>, isCorrect: Binding<Bool?>, onCommit: (() -> Void)? = nil) {
@@ -23,9 +27,9 @@ struct CustomTextField: View {
     
     var body: some View {
 #if os(iOS)
-        UIKitTextField(placeholder, text: $text, isCorrect: $isCorrect, onCommit: onCommit)
+        UIKitTextField(placeholder, text: $text, isCorrect: $isCorrect, isDarkMode: $settings.isDarkMode, onCommit: onCommit)
 #else
-        MacOSTextField(placeholder, text: $text, isCorrect: $isCorrect, onCommit: onCommit)
+        MacOSTextField(placeholder, text: $text, isCorrect: $isCorrect, isDarkMode: $settings.isDarkMode, onCommit: onCommit)
 #endif
     }
 }
@@ -35,12 +39,14 @@ struct MacOSTextField: NSViewRepresentable {
     var placeholder: String
     @Binding var text: String
     @Binding var isCorrect: Bool?
+    @Binding var isDarkMode: Bool
     var onCommit: (() -> Void)?
     
-    init(_ placeholder: String, text: Binding<String>, isCorrect: Binding<Bool?>, onCommit: (() -> Void)? = nil) {
+    init(_ placeholder: String, text: Binding<String>, isCorrect: Binding<Bool?>, isDarkMode: Binding<Bool>, onCommit: (() -> Void)? = nil) {
         self.placeholder = placeholder
         self._text = text
         self._isCorrect = isCorrect
+        self._isDarkMode = isDarkMode
         self.onCommit = onCommit
     }
     
@@ -67,7 +73,7 @@ struct MacOSTextField: NSViewRepresentable {
         if let isCorrect = isCorrect {
             textField.textColor = isCorrect ? .green : .red
         } else {
-            textField.textColor = .gray
+            textField.textColor = isDarkMode ? .white : .gray
         }
         textField.isEditable = !(isCorrect ?? false)
     }
@@ -115,12 +121,14 @@ struct UIKitTextField: UIViewRepresentable {
     var placeholder: String
     @Binding var text: String
     @Binding var isCorrect: Bool?
+    @Binding var isDarkMode: Bool
     var onCommit: (() -> Void)?
     
-    init(_ placeholder: String, text: Binding<String>, isCorrect: Binding<Bool?>, onCommit: (() -> Void)? = nil) {
+    init(_ placeholder: String, text: Binding<String>, isCorrect: Binding<Bool?>, isDarkMode: Binding<Bool>, onCommit: (() -> Void)? = nil) {
         self.placeholder = placeholder
         self._text = text
         self._isCorrect = isCorrect
+        self._isDarkMode = isDarkMode
         self.onCommit = onCommit
     }
     
@@ -131,7 +139,6 @@ struct UIKitTextField: UIViewRepresentable {
         textField.autocapitalizationType = .none
         textField.spellCheckingType = .no
         textField.borderStyle = .roundedRect
-        textField.textColor = .gray
         textField.textAlignment = .center
         if Platform.current == .iPadOS {
             textField.font = .systemFont(ofSize: 24)
@@ -147,7 +154,7 @@ struct UIKitTextField: UIViewRepresentable {
         if let isCorrect = isCorrect {
             uiView.textColor = isCorrect ? .green : .red
         } else {
-            uiView.textColor = .gray
+            uiView.textColor = isDarkMode ? .white : .gray
         }
     }
     
