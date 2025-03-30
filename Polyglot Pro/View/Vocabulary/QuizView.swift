@@ -115,7 +115,7 @@ struct QuizView: View {
                             }
                         }
                     })
-                    .styledTextField(isCorrect: viewModel.isCorrect, shake: viewModel.shake)
+                    .styledTextField(isCorrect: viewModel.isCorrect, shake: viewModel.shake, isTranstarent: viewModel.settings.isDarkMode)
                     .focused($isTextFieldFocused)
                     .padding(.bottom, 8)
                     

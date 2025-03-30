@@ -75,6 +75,7 @@ struct MacOSTextField: NSViewRepresentable {
         } else {
             textField.textColor = isDarkMode ? .white : .gray
         }
+        textField.backgroundColor = .clear
         textField.isEditable = !(isCorrect ?? false)
     }
     

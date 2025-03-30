@@ -115,7 +115,7 @@ extension View {
             .shadow(color: Color.blue.opacity(0.4), radius: radius, x: 0, y: 5)
     }
     
-    func styledTextField(isCorrect: Bool?, shake: Bool) -> some View {
+    func styledTextField(isCorrect: Bool?, shake: Bool, isTranstarent: Bool = false) -> some View {
         let size: CGFloat
         let width: CGFloat
         let height: CGFloat
@@ -153,7 +153,7 @@ extension View {
             .foregroundColor(isCorrect == nil ? Color.gray : (isCorrect! ? Color.green : Color.red))
             .font(.system(size: size, weight: .bold, design: .rounded))
             .frame(width: width, height: height)
-            .background(Color.white)
+            .background(Color.white.opacity(isTranstarent ? 0 : 1))
             .cornerRadius(radius)
             .allowsHitTesting(!(isCorrect ?? false))
             .disableAutocorrection(true)
