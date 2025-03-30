@@ -40,7 +40,7 @@ struct Polyglot_ProApp: App {
             MainView()
                 .environmentObject(settings)
                 .frame(minWidth: minWidth, maxWidth: .infinity, minHeight: minHeight, maxHeight: .infinity)
-                .preferredColorScheme(.light)
+                .preferredColorScheme(settings.isDarkMode ? .dark : .light)
             
             
         }

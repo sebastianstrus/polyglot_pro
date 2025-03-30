@@ -10,7 +10,7 @@ import SwiftUI
 struct SettingsView: View {
     
     @EnvironmentObject var settings: SettingsManager
-    
+        
     @State private var showAlert = false
     
     var body: some View {
@@ -86,6 +86,8 @@ struct SettingsView: View {
                 }
             }
         }
+        .background( GradientBackground().ignoresSafeArea().opacity(settings.isDarkMode ? 1.0 : 0.0))
+        .scrollContentBackground(settings.isDarkMode ? .hidden : .visible)
         .alert("Are you sure you want to reset your progress?".localized, isPresented: $showAlert) {
             Button("Delete".localized, role: .destructive) {
                         settings.resetCompletedCategories()

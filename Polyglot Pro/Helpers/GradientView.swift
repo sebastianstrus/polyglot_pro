@@ -14,11 +14,12 @@ struct GradientBackground: View {
     var body: some View {
         
         let lightColors: [Color] = [Color.cyan.opacity(0.2), Color.blue.opacity(0.5)]
-        let darkColors: [Color] = [Color.black.opacity(0.7), Color.black.opacity(0.9)]
+        let darkColors: [Color] = [Color(red: 5/255, green: 10/255, blue: 13/255), Color(red: 15/255, green: 6/255, blue: 20/255)]
+        
         LinearGradient(
             gradient: Gradient(colors: settings.isDarkMode ? darkColors : lightColors),
-            startPoint: .top,
-            endPoint: .bottom
+            startPoint: .topLeading,
+            endPoint: .bottomTrailing
         )
     }
 }
