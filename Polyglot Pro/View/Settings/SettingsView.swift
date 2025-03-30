@@ -123,7 +123,7 @@ struct PrimaryLanguageSelectionView: View {
                 selectedLanguage = language
             }
         }
-        .customTitle("Select language".localized)
+        .customTitle("Language".localized)
     }
 }
 
