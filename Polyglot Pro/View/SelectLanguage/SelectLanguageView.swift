@@ -75,6 +75,7 @@ struct SelectLanguageView: View {
     }
 }
 
+
 struct LanguageScrollView: View {
     @Binding var selectedIndex: Int
     let languages: [Language]
@@ -86,8 +87,9 @@ struct LanguageScrollView: View {
     @State private var proxy: ScrollViewProxy? = nil
     @State private var visibleItems: [Int: CGRect] = [:]
     @State private var closestIndex: Int = 0
-    @State private var timer: Timer? = nil
-    @State private var isScrolling = false
+    
+    // Timer to detect when scrolling stops
+    @State private var scrollEndTimer: Timer? = nil
     
     var body: some View {
         ZStack {
@@ -104,7 +106,7 @@ struct LanguageScrollView: View {
                                     Text(languages[index].flag).font(Font.system(size: 52))
                                     Text(languages[index].displayName).font(.system(size: 14, weight: .bold, design: .rounded))
                                 }
-                                .frame(width: 96, height: 90)
+                                .frame(width: itemWidth, height: 90)
                                 .padding(.bottom, 6)
                                 .overlay(
                                     RoundedRectangle(cornerRadius: 10)
@@ -142,7 +144,9 @@ struct LanguageScrollView: View {
                                         scrollViewWidth = geometry.size.width
                                         self.proxy = scrollProxy
                                         self.closestIndex = selectedIndex
-                                        selectAndCenter(index: selectedIndex, proxy: scrollProxy)
+                                        DispatchQueue.main.asyncAfter(deadline: .now() + 0.1) {
+                                            selectAndCenter(index: selectedIndex, proxy: scrollProxy)
+                                        }
                                     }
                             }
                         )
@@ -154,9 +158,7 @@ struct LanguageScrollView: View {
                     }
                     .onPreferenceChange(ScrollOffsetPreferenceKey.self) { value in
                         scrollOffset = value
-                        if isDragging || isScrolling {
-                            checkForScrollStop()
-                        }
+                        handleScrollChange()
                     }
                 }
             }
@@ -165,13 +167,11 @@ struct LanguageScrollView: View {
                 DragGesture()
                     .onChanged { _ in
                         isDragging = true
-                        isScrolling = true
-                        timer?.invalidate()
+                        scrollEndTimer?.invalidate()
                     }
                     .onEnded { _ in
                         isDragging = false
-                        // Immediately update to the closest index when dragging ends
-                        updateSelectionToClosestIndex()
+                        scheduleScrollEndDetection()
                     }
             )
             
@@ -190,9 +190,7 @@ struct LanguageScrollView: View {
     }
     
     private func shouldShowBorder(for index: Int) -> Bool {
-        // During scroll (either dragging or momentum), show closest item
-        // When completely stopped, show selected item
-        return (isDragging || isScrolling) ? (closestIndex == index) : (selectedIndex == index)
+        return (isDragging || scrollEndTimer != nil) ? (closestIndex == index) : (selectedIndex == index)
     }
     
     private func selectAndCenter(index: Int, proxy: ScrollViewProxy) {
@@ -221,38 +219,35 @@ struct LanguageScrollView: View {
             }
         }
         
-        closestIndex = newClosestIndex
+        if newClosestIndex != closestIndex {
+            closestIndex = newClosestIndex
+        }
     }
     
-    private func checkForScrollStop() {
-        timer?.invalidate()
-        timer = Timer.scheduledTimer(withTimeInterval: 0.1, repeats: false) { _ in
-            // Check if scroll position has stabilized
-            let previousOffset = scrollOffset
-            DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
-                if abs(previousOffset - scrollOffset) < 1 {
-                    isScrolling = false
-                    updateSelectionToClosestIndex()
-                } else {
-                    checkForScrollStop()
-                }
+    private func handleScrollChange() {
+        scrollEndTimer?.invalidate()
+        
+        if !isDragging {
+            scheduleScrollEndDetection()
+        }
+    }
+    
+    private func scheduleScrollEndDetection() {
+        scrollEndTimer?.invalidate()
+        scrollEndTimer = Timer.scheduledTimer(withTimeInterval: 0.1, repeats: false) { _ in
+            DispatchQueue.main.async {
+                self.scrollEnded()
             }
         }
     }
     
-    private func updateSelectionToClosestIndex() {
-        guard languages.indices.contains(closestIndex) else { return }
-        
-        selectedIndex = closestIndex
-        onSelect(languages[closestIndex])
-        
-        if let proxy = proxy {
-            withAnimation(.interactiveSpring(response: 0.3, dampingFraction: 0.7)) {
-                proxy.scrollTo(closestIndex, anchor: .center)
-            }
-        }
+    private func scrollEnded() {
+        guard let proxy = proxy else { return }
+        selectAndCenter(index: closestIndex, proxy: proxy)
+        scrollEndTimer = nil
     }
 }
+
 // Preference Keys
 struct VisibleItemPreferenceKey: PreferenceKey {
     static var defaultValue: [Int: CGRect] = [:]
@@ -269,6 +264,8 @@ struct ScrollOffsetPreferenceKey: PreferenceKey {
         value = nextValue()
     }
 }
+
+
 /*
 struct SelectLanguageView: View {
     @EnvironmentObject var settings: SettingsManager
