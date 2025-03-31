@@ -80,72 +80,193 @@ struct LanguageScrollView: View {
     let languages: [Language]
     let onSelect: (Language) -> Void
     
+    @State private var scrollOffset: CGFloat = 0
+    @State private var scrollViewWidth: CGFloat = 0
+    @State private var isDragging = false
+    @State private var proxy: ScrollViewProxy? = nil
+    @State private var visibleItems: [Int: CGRect] = [:]
+    @State private var closestIndex: Int = 0
+    @State private var timer: Timer? = nil
+    @State private var isScrolling = false
+    
     var body: some View {
         ZStack {
-            
-            
             GeometryReader { geometry in
                 let itemWidth: CGFloat = 100
                 let spacing: CGFloat = 10
                 let midX = geometry.size.width / 2
                 
-                ScrollViewReader { proxy in
+                ScrollViewReader { scrollProxy in
                     ScrollView(.horizontal, showsIndicators: false) {
                         LazyHStack(spacing: spacing) {
-                            ForEach(languages.indices, id: \..self) { index in
+                            ForEach(languages.indices, id: \.self) { index in
                                 VStack(spacing: 0) {
                                     Text(languages[index].flag).font(Font.system(size: 52))
-//                                        .overlay( Rectangle() .stroke(Color.red, lineWidth: 1) )
                                     Text(languages[index].displayName).font(.system(size: 14, weight: .bold, design: .rounded))
-//                                        .overlay( Rectangle() .stroke(Color.red, lineWidth: 1) )
                                 }
-//                                    .font(.headline)
-                                    .frame(width: 96, height: 90)
-//                                    .background(selectedIndex == index ? Color.blue.opacity(0.3) : Color.clear)
-                                    .padding(.bottom, 6)
-                                    .overlay(
-                                        RoundedRectangle(cornerRadius: 10)
-                                            .stroke(
-                                                LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing), lineWidth: 5)
-                                            .opacity(selectedIndex == index ? 1.0 : 0.0)
-                                    )
-                                
-                                    .cornerRadius(10)
-                                    .onTapGesture {
-                                        withAnimation {
-                                            selectedIndex = index
-                                            onSelect(languages[index])
-                                            proxy.scrollTo(index, anchor: .center)
-                                        }
+                                .frame(width: 96, height: 90)
+                                .padding(.bottom, 6)
+                                .overlay(
+                                    RoundedRectangle(cornerRadius: 10)
+                                        .stroke(
+                                            LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing),
+                                            lineWidth: 5
+                                        )
+                                        .opacity(shouldShowBorder(for: index) ? 1.0 : 0.0)
+                                )
+                                .cornerRadius(10)
+                                .onTapGesture {
+                                    selectAndCenter(index: index, proxy: scrollProxy)
+                                }
+                                .background(
+                                    GeometryReader { geo in
+                                        Color.clear
+                                            .preference(
+                                                key: VisibleItemPreferenceKey.self,
+                                                value: [index: geo.frame(in: .named("scroll"))]
+                                            )
                                     }
+                                )
+                                .id(index)
                             }
                         }
                         .padding(.horizontal, midX - itemWidth / 2)
+                        .background(
+                            GeometryReader { geo in
+                                Color.clear
+                                    .preference(
+                                        key: ScrollOffsetPreferenceKey.self,
+                                        value: geo.frame(in: .named("scroll")).minX
+                                    )
+                                    .onAppear {
+                                        scrollViewWidth = geometry.size.width
+                                        self.proxy = scrollProxy
+                                        self.closestIndex = selectedIndex
+                                        selectAndCenter(index: selectedIndex, proxy: scrollProxy)
+                                    }
+                            }
+                        )
                     }
-                    .onAppear {
-                        proxy.scrollTo(selectedIndex, anchor: .center)
+                    .coordinateSpace(name: "scroll")
+                    .onPreferenceChange(VisibleItemPreferenceKey.self) { value in
+                        visibleItems = value
+                        updateClosestIndex()
+                    }
+                    .onPreferenceChange(ScrollOffsetPreferenceKey.self) { value in
+                        scrollOffset = value
+                        if isDragging || isScrolling {
+                            checkForScrollStop()
+                        }
                     }
                 }
             }
             .frame(height: 100)
-//            .overlay( Rectangle() .stroke(Color.red, lineWidth: 1) )
+            .simultaneousGesture(
+                DragGesture()
+                    .onChanged { _ in
+                        isDragging = true
+                        isScrolling = true
+                        timer?.invalidate()
+                    }
+                    .onEnded { _ in
+                        isDragging = false
+                        // Immediately update to the closest index when dragging ends
+                        updateSelectionToClosestIndex()
+                    }
+            )
             
+            // Gradient overlays
             HStack {
-                LinearGradient(
-                    gradient: Gradient(colors: [.white, .clear]),
-                    startPoint: .leading,
-                    endPoint: .trailing
-                ).frame(width: 80, height: 100)
+                LinearGradient(gradient: Gradient(colors: [.white, .clear]), startPoint: .leading, endPoint: .trailing)
+                    .frame(width: 80, height: 100)
                 
                 Spacer()
                 
-                LinearGradient(
-                    gradient: Gradient(colors: [.clear, .white]),
-                    startPoint: .leading,
-                    endPoint: .trailing
-                ).frame(width: 80, height: 100)
-            }.allowsHitTesting(false)
+                LinearGradient(gradient: Gradient(colors: [.clear, .white]), startPoint: .leading, endPoint: .trailing)
+                    .frame(width: 80, height: 100)
+            }
+            .allowsHitTesting(false)
         }
+    }
+    
+    private func shouldShowBorder(for index: Int) -> Bool {
+        // During scroll (either dragging or momentum), show closest item
+        // When completely stopped, show selected item
+        return (isDragging || isScrolling) ? (closestIndex == index) : (selectedIndex == index)
+    }
+    
+    private func selectAndCenter(index: Int, proxy: ScrollViewProxy) {
+        guard languages.indices.contains(index) else { return }
+        
+        selectedIndex = index
+        closestIndex = index
+        onSelect(languages[index])
+        withAnimation(.interactiveSpring(response: 0.3, dampingFraction: 0.7)) {
+            proxy.scrollTo(index, anchor: .center)
+        }
+    }
+    
+    private func updateClosestIndex() {
+        let centerX = scrollViewWidth / 2
+        var newClosestIndex = selectedIndex
+        var smallestDistance = CGFloat.greatestFiniteMagnitude
+        
+        for (index, frame) in visibleItems {
+            let itemCenterX = frame.midX - scrollOffset
+            let distance = abs(itemCenterX - centerX)
+            
+            if distance < smallestDistance {
+                smallestDistance = distance
+                newClosestIndex = index
+            }
+        }
+        
+        closestIndex = newClosestIndex
+    }
+    
+    private func checkForScrollStop() {
+        timer?.invalidate()
+        timer = Timer.scheduledTimer(withTimeInterval: 0.1, repeats: false) { _ in
+            // Check if scroll position has stabilized
+            let previousOffset = scrollOffset
+            DispatchQueue.main.asyncAfter(deadline: .now() + 0.05) {
+                if abs(previousOffset - scrollOffset) < 1 {
+                    isScrolling = false
+                    updateSelectionToClosestIndex()
+                } else {
+                    checkForScrollStop()
+                }
+            }
+        }
+    }
+    
+    private func updateSelectionToClosestIndex() {
+        guard languages.indices.contains(closestIndex) else { return }
+        
+        selectedIndex = closestIndex
+        onSelect(languages[closestIndex])
+        
+        if let proxy = proxy {
+            withAnimation(.interactiveSpring(response: 0.3, dampingFraction: 0.7)) {
+                proxy.scrollTo(closestIndex, anchor: .center)
+            }
+        }
+    }
+}
+// Preference Keys
+struct VisibleItemPreferenceKey: PreferenceKey {
+    static var defaultValue: [Int: CGRect] = [:]
+    
+    static func reduce(value: inout [Int: CGRect], nextValue: () -> [Int: CGRect]) {
+        value.merge(nextValue(), uniquingKeysWith: { $1 })
+    }
+}
+
+struct ScrollOffsetPreferenceKey: PreferenceKey {
+    static var defaultValue: CGFloat = 0
+    
+    static func reduce(value: inout CGFloat, nextValue: () -> CGFloat) {
+        value = nextValue()
     }
 }
 /*
