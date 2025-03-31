@@ -95,6 +95,10 @@ struct LanguageScrollView: View {
     // Timer to detect when scrolling stops
     @State private var scrollEndTimer: Timer? = nil
     
+    @State private var startTime = Date.now
+    
+
+    
     var body: some View {
         ZStack {
             GeometryReader { geometry in
@@ -107,7 +111,32 @@ struct LanguageScrollView: View {
                         LazyHStack(spacing: spacing) {
                             ForEach(languages.indices, id: \.self) { index in
                                 VStack(spacing: 0) {
-                                    Text(languages[index].flag).font(Font.system(size: 52))
+                                    
+                                    TimelineView(.animation) { timeline in
+                                        let elapsedTime = startTime.distance(to: timeline.date)
+
+                                        Text(languages[index].flag).font(Font.system(size: 52))
+                                            .drawingGroup()
+                                            .visualEffect { content, proxy in
+                                                content
+                                                    .distortionEffect(
+                                                        ShaderLibrary.relativeWave(
+                                                            .float2(proxy.size),
+                                                            .float(elapsedTime),
+                                                            .float(5),
+                                                            .float(20),
+                                                            .float(2)
+                                                        ),
+                                                        maxSampleOffset: .zero
+                                                    )
+                                            }
+                                        
+                                    }
+                                    
+                                    
+                                    
+                                    
+                                    
                                     Text(languages[index].displayName).font(.system(size: 14, weight: .bold, design: .rounded))
                                 }
                                 .frame(width: itemWidth, height: 90)
