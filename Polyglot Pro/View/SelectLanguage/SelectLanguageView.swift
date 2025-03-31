@@ -12,10 +12,14 @@ struct SelectLanguageView: View {
     
     @State private var tempPrimaryLanguage: Language? = .english
     @State private var tempTargetLanguage: Language = .swedish // Default
+    
     @State private var isSameLanguage: Bool = false
     
-    @State private var scrollOffset: CGFloat = 0
-    @State private var selectedIndex: Int = 0
+    @State private var scrollPrimaryOffset: CGFloat = 0
+    @State private var selectedPrimaryIndex: Int = 0
+    
+    @State private var scrollTargetOffset: CGFloat = 0
+    @State private var selectedTargetIndex: Int = 0
     
     let languages = Language.allCases
     
@@ -27,7 +31,7 @@ struct SelectLanguageView: View {
                 .font(.system(size: 16, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
-            LanguageScrollView(selectedIndex: $selectedIndex, languages: languages) { language in
+            LanguageScrollView(selectedIndex: $selectedPrimaryIndex, languages: languages) { language in
                 tempPrimaryLanguage = language
             }
             
@@ -37,7 +41,7 @@ struct SelectLanguageView: View {
             
             Spacer()
             
-            LanguageScrollView(selectedIndex: .constant(languages.firstIndex(of: .swedish) ?? 0), languages: [Language.swedish]) { language in
+            LanguageScrollView(selectedIndex: $selectedTargetIndex, languages: languages) { language in
                 tempTargetLanguage = language
             }
             
