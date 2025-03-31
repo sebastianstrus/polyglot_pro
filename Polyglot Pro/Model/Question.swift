@@ -130,6 +130,20 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         }
     }
     
+    var flag: String {
+        switch self {
+        case .swedish: return "🇸🇪"
+        case .ukrainian: return "🇺🇦"
+        case .spanish: return "🇪🇸"
+        case .german: return "🇩🇪"
+        case .english: return "🇺🇸" // 🇬🇧
+        case .polish: return "🇵🇱"
+        case .french: return "🇫🇷"
+        case .portuguese: return "🇧🇷"// 🇵🇹
+        case .italian: return "🇮🇹"
+        }
+    }
+    
     var letters: [String] {
         switch self {
         case .english:
