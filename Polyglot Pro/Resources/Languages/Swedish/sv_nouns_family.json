@@ -1,6 +1,6 @@
 [
     {
-        "expression": "familj",
+        "expression": "en familj",
         "translations": {
             "ukrainian": "сім'я",
             "english": "family",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "expression": "förälder",
+        "expression": "en förälder",
         "translations": {
             "ukrainian": "батько",
             "english": "parent",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "expression": "mamma",
+        "expression": "en mamma",
         "translations": {
             "ukrainian": "мама",
             "english": "mom",
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "expression": "pappa",
+        "expression": "en pappa",
         "translations": {
             "ukrainian": "тато",
             "english": "dad",
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "expression": "barn",
+        "expression": "ett barn",
         "translations": {
             "ukrainian": "дитина",
             "english": "child",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "expression": "dotter",
+        "expression": "en dotter",
         "translations": {
             "ukrainian": "дочка",
             "english": "daughter",
@@ -1050,7 +1050,7 @@
         ]
     },
     {
-        "expression": "son",
+        "expression": "en son",
         "translations": {
             "ukrainian": "син",
             "english": "son",
@@ -1225,7 +1225,7 @@
         ]
     },
     {
-        "expression": "syskon",
+        "expression": "ett syskon",
         "translations": {
             "ukrainian": "брати і сестри",
             "english": "siblings",
@@ -1400,7 +1400,7 @@
         ]
     },
     {
-        "expression": "bror",
+        "expression": "en bror",
         "translations": {
             "ukrainian": "брат",
             "english": "brother",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "expression": "syster",
+        "expression": "en syster",
         "translations": {
             "ukrainian": "сестра",
             "english": "sister",
@@ -2100,7 +2100,7 @@
         ]
     },
     {
-        "expression": "farfar",
+        "expression": "en farfar",
         "translations": {
             "ukrainian": "дідусь по батькові",
             "english": "paternal grandfather",
@@ -2275,7 +2275,7 @@
         ]
     },
     {
-        "expression": "farmor",
+        "expression": "en farmor",
         "translations": {
             "ukrainian": "бабуся по батькові",
             "english": "paternal grandmother",
@@ -2450,7 +2450,7 @@
         ]
     },
     {
-        "expression": "morfar",
+        "expression": "en morfar",
         "translations": {
             "ukrainian": "дідусь по мамі",
             "english": "maternal grandfather",
@@ -2625,7 +2625,7 @@
         ]
     },
     {
-        "expression": "mormor",
+        "expression": "en mormor",
         "translations": {
             "ukrainian": "бабуся по мамі",
             "english": "maternal grandmother",
@@ -2800,7 +2800,7 @@
         ]
     },
     {
-        "expression": "kusin",
+        "expression": "en kusin",
         "translations": {
             "ukrainian": "двоюрідний брат/сестра",
             "english": "cousin",
@@ -2975,7 +2975,7 @@
         ]
     },
     {
-        "expression": "moster",
+        "expression": "en moster",
         "translations": {
             "ukrainian": "тітка по мамі",
             "english": "maternal aunt",
@@ -3150,7 +3150,7 @@
         ]
     },
     {
-        "expression": "morbror",
+        "expression": "en morbror",
         "translations": {
             "ukrainian": "дядько по мамі",
             "english": "maternal uncle",
@@ -3325,7 +3325,7 @@
         ]
     },
     {
-        "expression": "faster",
+        "expression": "en faster",
         "translations": {
             "ukrainian": "тітка по батькові",
             "english": "paternal aunt",
@@ -3500,7 +3500,7 @@
         ]
     },
     {
-        "expression": "farbror",
+        "expression": "en farbror",
         "translations": {
             "ukrainian": "дядько по батькові",
             "english": "paternal uncle",
@@ -3850,7 +3850,7 @@
         ]
     },
     {
-        "expression": "svärmor",
+        "expression": "en svärmor",
         "translations": {
             "ukrainian": "свекруха",
             "english": "mother-in-law",
@@ -4025,7 +4025,7 @@
         ]
     },
     {
-        "expression": "svärfar",
+        "expression": "en svärfar",
         "translations": {
             "ukrainian": "свекор",
             "english": "father-in-law",
@@ -4200,7 +4200,7 @@
         ]
     },
     {
-        "expression": "svärdotter",
+        "expression": "en svärdotter",
         "translations": {
             "ukrainian": "невістка",
             "english": "daughter-in-law",
@@ -4375,7 +4375,7 @@
         ]
     },
     {
-        "expression": "svärson",
+        "expression": "en svärson",
         "translations": {
             "ukrainian": "зять",
             "english": "son-in-law",
@@ -4550,7 +4550,7 @@
         ]
     },
     {
-        "expression": "svåger",
+        "expression": "en svåger",
         "translations": {
             "ukrainian": "шурин",
             "english": "brother-in-law",
@@ -4725,7 +4725,7 @@
         ]
     },
     {
-        "expression": "svägerska",
+        "expression": "en svägerska",
         "translations": {
             "ukrainian": "своячка",
             "english": "sister-in-law",
@@ -4900,7 +4900,7 @@
         ]
     },
     {
-        "expression": "make",
+        "expression": "en make",
         "translations": {
             "ukrainian": "чоловік",
             "english": "husband",
@@ -5075,7 +5075,7 @@
         ]
     },
     {
-        "expression": "maka",
+        "expression": "en maka",
         "translations": {
             "ukrainian": "дружина",
             "english": "wife",
@@ -5250,7 +5250,7 @@
         ]
     },
     {
-        "expression": "äktenskap",
+        "expression": "ett äktenskap",
         "translations": {
             "ukrainian": "шлюб",
             "english": "marriage",
@@ -5425,7 +5425,7 @@
         ]
     },
     {
-        "expression": "partner",
+        "expression": "en partner",
         "translations": {
             "ukrainian": "партнер",
             "english": "partner",
@@ -5600,7 +5600,7 @@
         ]
     },
     {
-        "expression": "vän",
+        "expression": "en vän",
         "translations": {
             "ukrainian": "друг",
             "english": "friend",
@@ -5775,7 +5775,7 @@
         ]
     },
     {
-        "expression": "väninna",
+        "expression": "en väninna",
         "translations": {
             "ukrainian": "подруга",
             "english": "friend (female)",
@@ -5950,7 +5950,7 @@
         ]
     },
     {
-        "expression": "kompis",
+        "expression": "en kompis",
         "translations": {
             "ukrainian": "друг",
             "english": "buddy",
@@ -6125,7 +6125,7 @@
         ]
     },
     {
-        "expression": "barndomsvän",
+        "expression": "en barndomsvän",
         "translations": {
             "ukrainian": "друг з дитинства",
             "english": "childhood friend",
@@ -6475,7 +6475,7 @@
         ]
     },
     {
-        "expression": "klasskamrat",
+        "expression": "en klasskamrat",
         "translations": {
             "ukrainian": "однокласник",
             "english": "classmate",
@@ -6650,7 +6650,7 @@
         ]
     },
     {
-        "expression": "arbetskamrat",
+        "expression": "en arbetskamrat",
         "translations": {
             "ukrainian": "колега",
             "english": "colleague",
@@ -6825,7 +6825,7 @@
         ]
     },
     {
-        "expression": "pojkvän",
+        "expression": "en pojkvän",
         "translations": {
             "ukrainian": "хлопець",
             "english": "boyfriend",
@@ -7000,7 +7000,7 @@
         ]
     },
     {
-        "expression": "flickvän",
+        "expression": "en flickvän",
         "translations": {
             "ukrainian": "дівчина",
             "english": "girlfriend",
@@ -7175,7 +7175,7 @@
         ]
     },
     {
-        "expression": "älskling",
+        "expression": "en älskling",
         "translations": {
             "ukrainian": "коханий/кохана",
             "english": "darling",
@@ -7350,7 +7350,7 @@
         ]
     },
     {
-        "expression": "kärlek",
+        "expression": "en kärlek",
         "translations": {
             "ukrainian": "кохання",
             "english": "love",
@@ -7525,7 +7525,7 @@
         ]
     },
     {
-        "expression": "förhållande",
+        "expression": "ett förhållande",
         "translations": {
             "ukrainian": "стосунки",
             "english": "relationship",
