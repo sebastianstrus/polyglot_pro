@@ -661,6 +661,9 @@
         }
       }
     },
+    "Can't send emails from this device" : {
+
+    },
     "Cancel" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3884,6 +3887,9 @@
           }
         }
       }
+    },
+    "Shake me to send feedback!" : {
+
     },
     "Shopping" : {
       "extractionState" : "manual",

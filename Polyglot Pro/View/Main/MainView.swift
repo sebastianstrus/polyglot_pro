@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import MessageUI
 
 enum Destination: Hashable {
     case alphabet
@@ -21,6 +22,10 @@ enum Destination: Hashable {
 struct MainView: View {
     
     @EnvironmentObject var settings: SettingsManager
+    
+    @State private var isShowingMailView = false
+    @State private var mailResult: Result<MFMailComposeResult, Error>?
+    @State private var screenshot: UIImage?
     
     
     let size: CGFloat = {
@@ -113,6 +118,30 @@ struct MainView: View {
                 SelectLanguageView()
             }
         }
+        .onShake {
+            captureScreenshotAndPrepareEmail()
+        }
+        .sheet(isPresented: $isShowingMailView) {
+            if MFMailComposeViewController.canSendMail() {
+                MailView(isShowing: $isShowingMailView,
+                         result: $mailResult,
+                         screenshot: screenshot,
+                         recipient: "feedback@polyglotpro.com")
+            } else {
+                Text("Can't send emails from this device")
+            }
+        }
+    }
+    
+    private func captureScreenshotAndPrepareEmail() {
+        // Get the key window
+        guard let window = UIApplication.shared.windows.first else { return }
+        
+        // Take screenshot
+        screenshot = window.screenshot
+        
+        // Show mail composer
+        isShowingMailView = true
     }
 }
 
