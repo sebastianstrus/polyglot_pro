@@ -88,8 +88,9 @@ enum Category: String, CaseIterable {
     case adjectivesCondition
     
     // expressions
+    case expressionsPolite
     case expressionsTime
-    //grzecznosciowe
+    case expressionsBusiness
     
     // conjunctions
     case conjunctions
@@ -148,7 +149,9 @@ enum Category: String, CaseIterable {
         case .adjectivesCondition: return "Quality and condition".localized
                 
         // Expressions
+        case .expressionsPolite: return "Polite expressions".localized
         case .expressionsTime: return "Time expressions".localized
+        case .expressionsBusiness: return "Business expressions".localized
                 
         // Conjunctions
         case .conjunctions: return "Linking words".localized
@@ -169,7 +172,7 @@ enum Category: String, CaseIterable {
         case .adjectivesColors, .adjectivesAppearance, .adjectivesEmotions, .adjectivesPersonality, .adjectivesTraits, .adjectivesState, .adjectivesTime, .adjectivesTaste, .adjectivesTemperature, .adjectivesSound, .adjectivesBehavior, .adjectivesMorality, .adjectivesRelationships, .adjectivesMood, .adjectivesCondition:
             return .adjectives
                 
-        case .expressionsTime:
+        case .expressionsPolite, .expressionsTime, .expressionsBusiness:
             return .expressions
                 
         case .conjunctions:
@@ -231,7 +234,9 @@ enum Category: String, CaseIterable {
         case .adjectivesCondition: return "Quality and condition".targetLocalized
                 
         // Expressions
+        case .expressionsPolite: return "Polite expressions".targetLocalized
         case .expressionsTime: return "Time expressions".targetLocalized
+        case .expressionsBusiness: return "Business expressions".targetLocalized
                 
         // Conjunctions
         case .conjunctions: return "Linking words".targetLocalized
@@ -314,6 +319,7 @@ class DataProvider {
         .adjectivesCondition: loadQuestions(from: "sv_adjectives_condition"),
         
         // expressions
+        .expressionsPolite: loadQuestions(from: "sv_expressions_polite"),
         .expressionsTime: loadQuestions(from: "sv_expressions_time"),
         
         .conjunctions: loadQuestions(from: "sv_conjunctions"),

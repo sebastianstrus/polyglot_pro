@@ -25,7 +25,7 @@
       "shouldTranslate" : false
     },
     "🇺🇦" : {
-
+      "shouldTranslate" : false
     },
     "Action verbs" : {
       "extractionState" : "manual",
@@ -607,6 +607,9 @@
           }
         }
       }
+    },
+    "Business expressions" : {
+      "extractionState" : "manual"
     },
     "Cancel" : {
       "extractionState" : "manual",
@@ -3092,6 +3095,59 @@
         }
       }
     },
+    "Polite expressions" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Höfliche Ausdrücke"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expresiones de cortesía"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expressions de politesse"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espressioni di cortesia"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zwroty grzecznościowe"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expressões de cortesia"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Artiga uttryck"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ввічливі вислови"
+          }
+        }
+      }
+    },
     "Polyglot Pro" : {
       "localizations" : {
         "de" : {
@@ -3722,59 +3778,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Виберіть основну мову:"
-          }
-        }
-      }
-    },
-    "Selected target language:" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ausgewählte Zielsprache:"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Idioma objetivo seleccionado:"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Langue cible sélectionnée :"
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lingua di destinazione selezionata:"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wybrany język docelowy:"
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Idioma alvo selecionado:"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Välj målspråk:"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вибрана цільова мова:"
           }
         }
       }

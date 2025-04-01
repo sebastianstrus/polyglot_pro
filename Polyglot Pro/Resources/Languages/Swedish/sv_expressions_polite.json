@@ -1,0 +1,4027 @@
+[
+    {
+        "expression": "Hejsan",
+        "translations": {
+            "ukrainian": "Привіт",
+            "english": "Hi",
+            "spanish": "Hola",
+            "german": "Hallo",
+            "polish": "Cześć",
+            "french": "Salut",
+            "portuguese": "Oi",
+            "italian": "Ciao"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hejsan, hur mår du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт, як справи?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hi, how are you?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hola, ¿cómo estás?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo, wie geht's?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć, jak się masz?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Salut, comment ça va?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Oi, como você está?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao, come stai?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hejsan, trevligt att träffas!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт, приємно познайомитись!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hi, nice to meet you!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Hola, encantado de conocerte!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo, schön dich kennenzulernen!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć, miło cię poznać!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Salut, ravi de te rencontrer!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Oi, prazer em conhecê-lo!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao, piacere di conoscerti!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hejsan, vad heter du?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт, як тебе звати?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hi, what's your name?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hola, ¿cómo te llamas?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo, wie heißt du?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć, jak masz na imię?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Salut, comment tu t'appelles?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Oi, qual é o seu nome?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao, come ti chiami?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hejsan, kom in!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт, заходь!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hi, come in!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Hola, pasa!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo, komm herein!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć, wejdź!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Salut, entre!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Oi, entra!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao, entra!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Hej på dig",
+        "translations": {
+            "ukrainian": "Привіт тобі",
+            "english": "Hello to you",
+            "spanish": "Hola a ti",
+            "german": "Hallo dir",
+            "polish": "Cześć tobie",
+            "french": "Bonjour à toi",
+            "portuguese": "Olá para você",
+            "italian": "Ciao a te"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej på dig, hur är läget?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт тобі, як справи?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello to you, how's it going?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hola a ti, ¿qué tal?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo dir, wie geht's?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć tobie, co słychać?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à toi, comment ça va?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá para você, como vai?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a te, come va?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej på dig, länge sedan!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт тобі, давно не бачились!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello to you, long time no see!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Hola a ti, mucho tiempo sin verte!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo dir, lange nicht gesehen!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć tobie, dawno się nie widzieliśmy!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à toi, ça fait longtemps!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá para você, há quanto tempo!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a te, quanto tempo!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej på dig, trevlig helg!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт тобі, гарних вихідних!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello to you, have a nice weekend!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Hola a ti, buen fin de semana!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo dir, schönes Wochenende!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć tobie, miłego weekendu!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à toi, bon week-end!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá para você, bom fim de semana!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a te, buon weekend!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej på dig, välkommen tillbaka!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт тобі, ласкаво просимо назад!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello to you, welcome back!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Hola a ti, bienvenido de vuelta!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo dir, willkommen zurück!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć tobie, witaj z powrotem!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à toi, bon retour!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá para você, bem-vindo de volta!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a te, bentornato!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Hej allihopa",
+        "translations": {
+            "ukrainian": "Привіт усім",
+            "english": "Hello everyone",
+            "spanish": "Hola a todos",
+            "german": "Hallo zusammen",
+            "polish": "Cześć wszystkim",
+            "french": "Bonjour à tous",
+            "portuguese": "Olá a todos",
+            "italian": "Ciao a tutti"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej allihopa, tack för att ni kom!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт усім, дякую, що прийшли!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello everyone, thank you for coming!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Hola a todos, gracias por venir!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo zusammen, danke fürs Kommen!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć wszystkim, dziękuję za przybycie!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à tous, merci d'être venus!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá a todos, obrigado por virem!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a tutti, grazie per essere venuti!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej allihopa, jag heter Anna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт усім, мене звати Анна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello everyone, my name is Anna."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hola a todos, me llamo Anna."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo zusammen, ich heiße Anna."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć wszystkim, nazywam się Anna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à tous, je m'appelle Anna."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá a todos, meu nome é Anna."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a tutti, mi chiamo Anna."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej allihopa, vi börjar nu."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт усім, ми починаємо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello everyone, we're starting now."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hola a todos, empezamos ahora."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo zusammen, wir fangen jetzt an."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć wszystkim, zaczynamy teraz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à tous, nous commençons maintenant."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá a todos, vamos começar agora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a tutti, iniziamo ora."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej allihopa, har ni det bra?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Привіт усім, у вас все добре?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Hello everyone, are you doing well?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Hola a todos, ¿están bien?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Hallo zusammen, geht's euch gut?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Cześć wszystkim, czy wszystko w porządku?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour à tous, ça va bien?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Olá a todos, vocês estão bem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ciao a tutti, state bene?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "God morgon",
+        "translations": {
+            "ukrainian": "Доброго ранку",
+            "english": "Good morning",
+            "spanish": "Buenos días",
+            "german": "Guten Morgen",
+            "polish": "Dzień dobry (rano)",
+            "french": "Bonjour (matin)",
+            "portuguese": "Bom dia",
+            "italian": "Buongiorno (mattina)"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God morgon, solen skiner!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доброго ранку, сонце світить!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good morning, the sun is shining!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Buenos días, el sol brilla!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Morgen, die Sonne scheint!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, słońce świeci!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, le soleil brille!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, o sol está brilhando!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, il sole splende!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God morgon, sov du gott?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доброго ранку, добре спав?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good morning, did you sleep well?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buenos días, ¿dormiste bien?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Morgen, hast du gut geschlafen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, dobrze spałeś?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, as-tu bien dormi?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, dormiu bem?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, hai dormito bene?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God morgon, dags att gå upp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доброго ранку, час вставати."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good morning, time to get up."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buenos días, hora de levantarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Morgen, Zeit aufzustehen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, czas wstawać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, c'est l'heure de se lever."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, hora de levantar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, è ora di alzarsi."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God morgon, ska vi äta frukost?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Доброго ранку, будемо снідати?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good morning, shall we have breakfast?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buenos días, ¿desayunamos?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Morgen, sollen wir frühstücken?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, zjemy śniadanie?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, on prend le petit déjeuner?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, vamos tomar café da manhã?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, facciamo colazione?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "God dag",
+        "translations": {
+            "ukrainian": "Добрий день",
+            "english": "Good day",
+            "spanish": "Buen día",
+            "german": "Guten Tag",
+            "polish": "Dzień dobry",
+            "french": "Bonjour",
+            "portuguese": "Bom dia",
+            "italian": "Buongiorno"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God dag, hur kan jag hjälpa dig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий день, як я можу вам допомогти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good day, how can I help you?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buen día, ¿cómo puedo ayudarle?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Tag, wie kann ich Ihnen helfen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, jak mogę pomóc?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, comment puis-je vous aider?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, como posso ajudá-lo?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, come posso aiutarla?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God dag, vackert väder idag!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий день, сьогодні гарна погода!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good day, beautiful weather today!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Buen día, qué buen tiempo hace hoy!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Tag, schönes Wetter heute!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, piękna pogoda dziś!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, beau temps aujourd'hui!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, tempo lindo hoje!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, bel tempo oggi!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God dag, trevligt att träffas."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий день, приємно познайомитись."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good day, nice to meet you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buen día, encantado de conocerte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Tag, schön Sie kennenzulernen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, miło cię poznać."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, enchanté de faire votre connaissance."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, prazer em conhecê-lo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, piacere di conoscerla."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God dag, har du en minut?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий день, у вас є хвилинка?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good day, do you have a minute?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buen día, ¿tienes un minuto?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Tag, haben Sie eine Minute?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dzień dobry, masz minutę?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonjour, avez-vous une minute?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Bom dia, você tem um minuto?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buongiorno, ha un minuto?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "God kväll",
+        "translations": {
+            "ukrainian": "Добрий вечір",
+            "english": "Good evening",
+            "spanish": "Buenas tardes/noches",
+            "german": "Guten Abend",
+            "polish": "Dobry wieczór",
+            "french": "Bonsoir",
+            "portuguese": "Boa noite",
+            "italian": "Buonasera"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God kväll, välkommen till vårt hotell."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий вечір, ласкаво просимо до нашого готелю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good evening, welcome to our hotel."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buenas noches, bienvenido a nuestro hotel."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Abend, willkommen in unserem Hotel."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dobry wieczór, witamy w naszym hotelu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonsoir, bienvenue dans notre hôtel."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Boa noite, bem-vindo ao nosso hotel."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buonasera, benvenuto nel nostro hotel."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God kväll, ska vi äta middag?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий вечір, будемо вечеряти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good evening, shall we have dinner?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buenas noches, ¿cenamos?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Abend, sollen wir zu Abend essen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dobry wieczór, zjemy kolację?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonsoir, on dîne?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Boa noite, vamos jantar?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buonasera, ceniamo?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God kväll, hur var din dag?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий вечір, як пройшов твій день?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good evening, how was your day?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buenas noches, ¿qué tal tu día?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Abend, wie war dein Tag?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dobry wieczór, jak minął ci dzień?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonsoir, comment s'est passée ta journée?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Boa noite, como foi o seu dia?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buonasera, com'è andata la tua giornata?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "God kväll, dags att slappna av."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Добрий вечір, час розслабитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Good evening, time to relax."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Buenas noches, hora de relajarse."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Guten Abend, Zeit sich zu entspannen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dobry wieczór, czas się zrelaksować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Bonsoir, c'est l'heure de se détendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Boa noite, hora de relaxar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buonasera, è ora di rilassarsi."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Hej då",
+        "translations": {
+            "ukrainian": "До побачення",
+            "english": "Goodbye",
+            "spanish": "Adiós",
+            "german": "Tschüss",
+            "polish": "Do widzenia",
+            "french": "Au revoir",
+            "portuguese": "Tchau",
+            "italian": "Arrivederci"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej då, vi ses snart!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "До побачення, скоро побачимось!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Goodbye, see you soon!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Adiós, hasta pronto!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Tschüss, bis bald!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do widzenia, do zobaczenia wkrótce!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Au revoir, à bientôt!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tchau, até logo!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Arrivederci, a presto!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej då, ha en bra dag!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "До побачення, гарного дня!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Goodbye, have a nice day!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Adiós, ¡que tengas un buen día!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Tschüss, schönen Tag noch!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do widzenia, miłego dnia!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Au revoir, bonne journée!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tchau, tenha um bom dia!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Arrivederci, buona giornata!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej då, tack för idag!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "До побачення, дякую за сьогодні!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Goodbye, thanks for today!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Adiós, ¡gracias por hoy!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Tschüss, danke für heute!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do widzenia, dzięki za dziś!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Au revoir, merci pour aujourd'hui!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tchau, obrigado por hoje!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Arrivederci, grazie per oggi!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Hej då, res säkert!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "До побачення, щасливої дороги!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Goodbye, safe travels!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Adiós, ¡buen viaje!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Tschüss, gute Reise!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do widzenia, bezpiecznej podróży!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Au revoir, bon voyage!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tchau, boa viagem!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Arrivederci, buon viaggio!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Vi ses",
+        "translations": {
+            "ukrainian": "Побачимось",
+            "english": "See you",
+            "spanish": "Nos vemos",
+            "german": "Wir sehen uns",
+            "polish": "Do zobaczenia",
+            "french": "À plus",
+            "portuguese": "Até mais",
+            "italian": "Ci vediamo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses imorgon i skolan."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось завтра в школі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you tomorrow at school."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos mañana en la escuela."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns morgen in der Schule."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia jutro w szkole."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À plus demain à l'école."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até mais amanhã na escola."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo domani a scuola."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses senare på caféet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось пізніше в кафе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you later at the café."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos luego en el café."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns später im Café."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia później w kawiarni."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À plus tard au café."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até mais tarde no café."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo dopo al bar."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses på festen ikväll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось на вечірці сьогодні."
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you at the party tonight."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos en la fiesta esta noche."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns auf der Party heute Abend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia na imprezie wieczorem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À plus à la fête ce soir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até mais na festa hoje à noite."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo alla festa stasera."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses nästa vecka!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось наступного тижня!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you next week!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Nos vemos la próxima semana!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns nächste Woche!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia w przyszłym tygodniu!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À plus la semaine prochaine!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até mais na próxima semana!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo la prossima settimana!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Vi ses i morgon",
+        "translations": {
+            "ukrainian": "Побачимось завтра",
+            "english": "See you tomorrow",
+            "spanish": "Nos vemos mañana",
+            "german": "Wir sehen uns morgen",
+            "polish": "Do zobaczenia jutro",
+            "french": "À demain",
+            "portuguese": "Até amanhã",
+            "italian": "Ci vediamo domani"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses i morgon, god natt!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось завтра, на добраніч!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you tomorrow, good night!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos mañana, ¡buenas noches!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns morgen, gute Nacht!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia jutro, dobranoc!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À demain, bonne nuit!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até amanhã, boa noite!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo domani, buonanotte!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses i morgon klockan nio."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось завтра о дев'ятій."
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you tomorrow at nine o'clock."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos mañana a las nueve."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns morgen um neun Uhr."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia jutro o dziewiątej."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À demain à neuf heures."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até amanhã às nove horas."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo domani alle nove."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses i morgon på jobbet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось завтра на роботі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you tomorrow at work."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos mañana en el trabajo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns morgen bei der Arbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia jutro w pracy."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À demain au travail."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até amanhã no trabalho."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo domani al lavoro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Vi ses i morgon, ha det bra!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Побачимось завтра, бувай!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "See you tomorrow, take care!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Nos vemos mañana, ¡cuídate!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Wir sehen uns morgen, mach's gut!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Do zobaczenia jutro, trzymaj się!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "À demain, prends soin de toi!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Até amanhã, cuide-se!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Ci vediamo domani, stammi bene!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Ha det bra",
+        "translations": {
+            "ukrainian": "Бувай",
+            "english": "Take care",
+            "spanish": "Cuídate",
+            "german": "Mach's gut",
+            "polish": "Trzymaj się",
+            "french": "Prends soin de toi",
+            "portuguese": "Cuide-se",
+            "italian": "Stammi bene"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ha det bra, vi hörs snart!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бувай, скоро почуємось!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Take care, talk to you soon!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cuídate, ¡hablamos pronto!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mach's gut, wir hören uns bald!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Trzymaj się, usłyszymy się wkrótce!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Prends soin de toi, à bientôt!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cuide-se, falamos em breve!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stammi bene, ci sentiamo presto!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ha det bra på semestern!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Гарного відпочинку у відпустці!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Have a great time on your vacation!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Que lo pases bien en tus vacaciones!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Viel Spaß im Urlaub!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Miłego wypoczynku na wakacjach!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Passe de bonnes vacances!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Tenha boas férias!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buone vacanze!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ha det bra, puss och kram!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бувай, цілую й обіймаю!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Take care, hugs and kisses!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cuídate, ¡besos y abrazos!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mach's gut, Küsschen und Umarmungen!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Trzymaj się, buziaki i uściski!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Prends soin de toi, bisous et câlins!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cuide-se, beijos e abraços!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stammi bene, baci e abbracci!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ha det bra, vi ses snart igen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Бувай, скоро знову побачимось."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Take care, see you again soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Cuídate, nos vemos pronto de nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mach's gut, wir sehen uns bald wieder."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Trzymaj się, do zobaczenia wkrótce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Prends soin de toi, à bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Cuide-se, nos vemos em breve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Stammi bene, ci vediamo presto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Tack",
+        "translations": {
+            "ukrainian": "Дякую",
+            "english": "Thank you",
+            "spanish": "Gracias",
+            "german": "Danke",
+            "polish": "Dziękuję",
+            "french": "Merci",
+            "portuguese": "Obrigado",
+            "italian": "Grazie"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack för hjälpen!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую за допомогу!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you for your help!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Gracias por tu ayuda!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke für deine Hilfe!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję za pomoc!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci pour ton aide!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado pela ajuda!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie per l'aiuto!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack för presenten!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую за подарунок!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you for the gift!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Gracias por el regalo!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke für das Geschenk!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję za prezent!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci pour le cadeau!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado pelo presente!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie per il regalo!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack för att du kom."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую, що прийшли."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you for coming."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Gracias por venir."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke, dass du gekommen bist."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję, że przyszedłeś."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci d'être venu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado por vir."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie per essere venuto."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack, det var snällt av dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую, це було дуже мило з вашого боку."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you, that was very kind of you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Gracias, eso fue muy amable de tu parte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke, das war sehr nett von dir."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję, to było bardzo miłe z twojej strony."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci, c'était très gentil de ta part."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado, isso foi muito gentil da sua parte."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie, è stato molto gentile da parte tua."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Tack så mycket",
+        "translations": {
+            "ukrainian": "Дуже дякую",
+            "english": "Thank you very much",
+            "spanish": "Muchas gracias",
+            "german": "Vielen Dank",
+            "polish": "Dziękuję bardzo",
+            "french": "Merci beaucoup",
+            "portuguese": "Muito obrigado",
+            "italian": "Grazie mille"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack så mycket för din generositet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дуже дякую за вашу щедрість."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you very much for your generosity."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Muchas gracias por tu generosidad."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vielen Dank für deine Großzügigkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję bardzo za twoją hojność."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci beaucoup pour ta générosité."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Muito obrigado pela sua generosidade."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie mille per la tua generosità."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack så mycket för den underbara kvällen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дуже дякую за чудовий вечір."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you very much for the wonderful evening."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Muchas gracias por la maravillosa velada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vielen Dank für den wunderbaren Abend."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję bardzo za wspaniały wieczór."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci beaucoup pour cette merveilleuse soirée."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Muito obrigado pela noite maravilhosa."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie mille per la serata meravigliosa."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack så mycket för ditt tålamod."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дуже дякую за ваше терпіння."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you very much for your patience."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Muchas gracias por tu paciencia."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vielen Dank für deine Geduld."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję bardzo za twoją cierpliwość."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci beaucoup pour ta patience."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Muito obrigado pela sua paciência."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie mille per la tua pazienza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tack så mycket för all din hjälp."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дуже дякую за всю вашу допомогу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thank you very much for all your help."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Muchas gracias por toda tu ayuda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Vielen Dank für all deine Hilfe."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję bardzo za całą twoją pomoc."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci beaucoup pour toute ton aide."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Muito obrigado por toda sua ajuda."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie mille per tutto il tuo aiuto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Tackar",
+        "translations": {
+            "ukrainian": "Дякую",
+            "english": "Thanks",
+            "spanish": "Gracias",
+            "german": "Danke",
+            "polish": "Dziękuję",
+            "french": "Merci",
+            "portuguese": "Obrigado",
+            "italian": "Grazie"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tackar, det var precis vad jag behövde."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую, саме це мені було потрібно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thanks, that was exactly what I needed."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Gracias, eso era exactamente lo que necesitaba."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke, das war genau das, was ich brauchte."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję, to było dokładnie to, czego potrzebowałem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci, c'était exactement ce dont j'avais besoin."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado, era exatamente o que eu precisava."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie, era esattamente ciò di cui avevo bisogno."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tackar för omtanken."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую за турботу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thanks for your thoughtfulness."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Gracias por tu consideración."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke für deine Rücksichtnahme."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję za troskę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci pour ton attention."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado pela consideração."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie per la premura."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tackar, jag uppskattar det."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую, я це ціную."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thanks, I appreciate it."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Gracias, lo aprecio."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke, ich weiß das zu schätzen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję, doceniam to."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci, j'apprécie."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado, eu aprecio isso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie, lo apprezzo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Tackar för din tid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Дякую за ваш час."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Thanks for your time."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Gracias por tu tiempo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Danke für deine Zeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Dziękuję za twój czas."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Merci pour ton temps."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Obrigado pelo seu tempo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Grazie per il tuo tempo."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Prosit",
+        "translations": {
+            "ukrainian": "Будьмо",
+            "english": "Cheers",
+            "spanish": "Salud",
+            "german": "Prost",
+            "polish": "Na zdrowie",
+            "french": "Santé",
+            "portuguese": "Saúde",
+            "italian": "Salute"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Prosit, på din hälsa!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо, за ваше здоров'я!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cheers, to your health!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Salud, por tu salud!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Prost, auf deine Gesundheit!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie, za twoje zdrowie!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Santé, à ta santé!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde, à sua saúde!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute, alla tua salute!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Prosit, skål för vänskap!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо, за дружбу!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cheers, to friendship!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Salud, por la amistad!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Prost, auf die Freundschaft!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie, za przyjaźń!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Santé, à l'amitié!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde, à amizade!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute, all'amicizia!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Prosit, när någon nyser."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо, коли хтось чхає."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Bless you, when someone sneezes."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Salud, cuando alguien estornuda."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Gesundheit, wenn jemand niest."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie, gdy ktoś kicha."
+                    },
+                    {
+                        "language": "french",
+                        "text": "À tes souhaits, quand quelqu'un éternue."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde, quando alguém espirra."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute, quando qualcuno starnutisce."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Prosit, för ett lyckat år!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо, за успішний рік!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cheers, to a successful year!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Salud, por un año exitoso!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Prost, auf ein erfolgreiches Jahr!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie, za udany rok!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Santé, à une année réussie!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde, a um ano de sucesso!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute, a un anno di successo!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Varsågod",
+        "translations": {
+            "ukrainian": "Будь ласка",
+            "english": "You're welcome",
+            "spanish": "De nada",
+            "german": "Bitte schön",
+            "polish": "Proszę bardzo",
+            "french": "De rien",
+            "portuguese": "De nada",
+            "italian": "Prego"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varsågod, här är din bok."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будь ласка, ось ваша книга."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Here's your book, you're welcome."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "De nada, aquí está tu libro."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bitte schön, hier ist dein Buch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Proszę bardzo, oto twoja książka."
+                    },
+                    {
+                        "language": "french",
+                        "text": "De rien, voici ton livre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De nada, aqui está o seu livro."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prego, ecco il tuo libro."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varsågod och ta för dig."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будь ласка, частіть себе."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You're welcome to help yourself."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "De nada, sírvete."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bitte schön, bedien dich."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Proszę bardzo, częstuj się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "De rien, sers-toi."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De nada, sirva-se."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prego, serviti pure."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varsågod, det var inte något."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будь ласка, це ніщо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You're welcome, it was nothing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "De nada, no fue nada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bitte schön, das war doch nichts."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Proszę bardzo, to nic takiego."
+                    },
+                    {
+                        "language": "french",
+                        "text": "De rien, ce n'était rien."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De nada, não foi nada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prego, non è stato niente."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Varsågod, jag hjälper gärna till."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будь ласка, я рад допомогти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "You're welcome, I'm happy to help."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "De nada, con gusto ayudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Bitte schön, ich helfe gerne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Proszę bardzo, chętnie pomogę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "De rien, je suis heureux d'aider."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "De nada, fico feliz em ajudar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Prego, sono felice di aiutare."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Ingen orsak",
+        "translations": {
+            "ukrainian": "Нема за що",
+            "english": "No problem",
+            "spanish": "No hay problema",
+            "german": "Kein Problem",
+            "polish": "Nie ma problemu",
+            "french": "Pas de problème",
+            "portuguese": "Sem problema",
+            "italian": "Nessun problema"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ingen orsak, det var enkelt."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нема за що, це було просто."
+                    },
+                    {
+                        "language": "english",
+                        "text": "No problem, it was easy."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No hay problema, fue fácil."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kein Problem, das war einfach."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie ma problemu, to było proste."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pas de problème, c'était facile."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sem problema, foi fácil."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nessun problema, è stato facile."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ingen orsak, jag gör det gärna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нема за що, я роблю це із задоволенням."
+                    },
+                    {
+                        "language": "english",
+                        "text": "No problem, I'm happy to do it."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No hay problema, lo hago con gusto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kein Problem, ich mache das gerne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie ma problemu, robię to chętnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pas de problème, je le fais avec plaisir."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sem problema, faço com prazer."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nessun problema, lo faccio volentieri."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ingen orsak, det var en liten sak."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нема за що, це дрібниця."
+                    },
+                    {
+                        "language": "english",
+                        "text": "No problem, it was a small thing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No hay problema, fue una pequeñez."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kein Problem, das war eine Kleinigkeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie ma problemu, to drobiazg."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pas de problème, c'était une petite chose."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sem problema, foi uma coisinha."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nessun problema, era una piccolezza."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ingen orsak, jag hjälper dig alltid."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Нема за що, я завжди допомагаю тобі."
+                    },
+                    {
+                        "language": "english",
+                        "text": "No problem, I always help you."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "No hay problema, siempre te ayudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Kein Problem, ich helfe dir immer."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Nie ma problemu, zawsze ci pomagam."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pas de problème, je t'aide toujours."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Sem problema, eu sempre te ajudo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Nessun problema, ti aiuto sempre."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Det var så lite",
+        "translations": {
+            "ukrainian": "Це так мало",
+            "english": "It was so little",
+            "spanish": "Fue tan poco",
+            "german": "Das war so wenig",
+            "polish": "To było tak mało",
+            "french": "C'était si peu",
+            "portuguese": "Foi tão pouco",
+            "italian": "È stato così poco"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var så lite, jag hjälper gärna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це так мало, я рад допомогти."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was so little, I'm happy to help."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue tan poco, con gusto ayudo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das war so wenig, ich helfe gerne."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To było tak mało, chętnie pomogę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était si peu, je suis heureux d'aider."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi tão pouco, fico feliz em ajudar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato così poco, sono felice di aiutare."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var så lite, ingen fara."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це так мало, не хвилюйся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was so little, no worries."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue tan poco, no te preocupes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das war so wenig, keine Sorge."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To było tak mało, nie martw się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était si peu, ne t'inquiète pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi tão pouco, não se preocupe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato così poco, non preoccuparti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var så lite, jag gör det igen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це так мало, я зроблю це знову."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was so little, I'll do it again."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue tan poco, lo haré de nuevo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das war so wenig, ich mache es wieder."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To było tak mało, zrobię to jeszcze raz."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était si peu, je le referai."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi tão pouco, eu farei de novo."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato così poco, lo farò di nuovo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det var så lite, det kostade ingenting."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Це так мало, це нічого не коштувало."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It was so little, it cost nothing."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Fue tan poco, no costó nada."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Das war so wenig, es hat nichts gekostet."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "To było tak mało, nic nie kosztowało."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'était si peu, ça n'a rien coûté."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Foi tão pouco, não custou nada."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È stato così poco, non è costato nulla."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Det är lugnt",
+        "translations": {
+            "ukrainian": "Все спокійно",
+            "english": "It's calm",
+            "spanish": "Está tranquilo",
+            "german": "Es ist ruhig",
+            "polish": "Jest spokojnie",
+            "french": "C'est calme",
+            "portuguese": "Está tranquilo",
+            "italian": "È tranquillo"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är lugnt, ingen fara."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Все спокійно, не хвилюйся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's calm, no worries."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Está tranquilo, no te preocupes."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ruhig, keine Sorge."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest spokojnie, nie martw się."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est calme, ne t'inquiète pas."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está tranquilo, não se preocupe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È tranquillo, non preoccuparti."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är lugnt här ute."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Тут спокійно."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's calm out here."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Está tranquilo aquí fuera."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ruhig hier draußen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest tu spokojnie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est calme ici."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está tranquilo aqui fora."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È tranquillo qui fuori."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är lugnt, allt är under kontroll."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Все спокійно, все під контролем."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's calm, everything is under control."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Está tranquilo, todo está bajo control."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ruhig, alles ist unter Kontrolle."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest spokojnie, wszystko pod kontrolą."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est calme, tout est sous contrôle."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está tranquilo, tudo está sob controle."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È tranquillo, tutto è sotto controllo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Det är lugnt, du kan slappna av."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Все спокійно, ти можеш розслабитися."
+                    },
+                    {
+                        "language": "english",
+                        "text": "It's calm, you can relax."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Está tranquilo, puedes relajarte."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Es ist ruhig, du kannst dich entspannen."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Jest spokojnie, możesz się zrelaksować."
+                    },
+                    {
+                        "language": "french",
+                        "text": "C'est calme, tu peux te détendre."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Está tranquilo, você pode relaxar."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "È tranquillo, puoi rilassarti."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Skål",
+        "translations": {
+            "ukrainian": "Будьмо",
+            "english": "Cheers",
+            "spanish": "Salud",
+            "german": "Prost",
+            "polish": "Na zdrowie",
+            "french": "Santé",
+            "portuguese": "Saúde",
+            "italian": "Salute"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skål för vänskap!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо за дружбу!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cheers to friendship!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Salud por la amistad!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Prost auf die Freundschaft!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie za przyjaźń!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Santé à l'amitié!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde à amizade!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute all'amicizia!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skål på er alla!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо за всіх вас!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cheers to all of you!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Salud a todos ustedes!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Prost auf euch alle!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie was wszystkich!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Santé à vous tous!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde a todos vocês!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute a tutti voi!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skål för en trevlig kväll!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо за приємний вечір!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cheers to a nice evening!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Salud por una agradable velada!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Prost auf einen schönen Abend!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie za miły wieczór!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Santé à une belle soirée!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde a uma noite agradável!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute a una bella serata!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Skål och tack för maten!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Будьмо і дякую за їжу!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Cheers and thanks for the food!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Salud y gracias por la comida!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Prost und danke für das Essen!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Na zdrowie i dziękuję za jedzenie!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Santé et merci pour le repas!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Saúde e obrigado pela comida!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Salute e grazie per il cibo!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Grattis",
+        "translations": {
+            "ukrainian": "Вітаю",
+            "english": "Congratulations",
+            "spanish": "Felicitaciones",
+            "german": "Glückwunsch",
+            "polish": "Gratulacje",
+            "french": "Félicitations",
+            "portuguese": "Parabéns",
+            "italian": "Congratulazioni"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Grattis till födelsedagen!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вітаю з днем народження!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Happy birthday!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Feliz cumpleaños!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Alles Gute zum Geburtstag!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Wszystkiego najlepszego z okazji urodzin!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Joyeux anniversaire!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Feliz aniversário!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Buon compleanno!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Grattis till ditt nya jobb!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вітаю з новою роботою!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Congratulations on your new job!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Felicitaciones por tu nuevo trabajo!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glückwunsch zu deinem neuen Job!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gratulacje z okazji nowej pracy!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Félicitations pour ton nouveau travail!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Parabéns pelo novo emprego!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Congratulazioni per il tuo nuovo lavoro!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Grattis till examen!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вітаю з закінченням навчання!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Congratulations on your graduation!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Felicitaciones por tu graduación!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glückwunsch zum Abschluss!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gratulacje z okazji ukończenia studiów!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Félicitations pour ton diplôme!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Parabéns pela formatura!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Congratulazioni per la tua laurea!"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Grattis till bröllopet!"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вітаю з весіллям!"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Congratulations on your wedding!"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "¡Felicitaciones por tu boda!"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Glückwunsch zur Hochzeit!"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Gratulacje z okazji ślubu!"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Félicitations pour ton mariage!"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Parabéns pelo casamento!"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Congratulazioni per il tuo matrimonio!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Med vänlig hälsning",
+        "translations": {
+            "ukrainian": "З найкращими побажаннями",
+            "english": "Best regards",
+            "spanish": "Saludos cordiales",
+            "german": "Mit freundlichen Grüßen",
+            "polish": "Z poważaniem",
+            "french": "Cordialement",
+            "portuguese": "Atenciosamente",
+            "italian": "Cordiali saluti"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Med vänlig hälsning, Anna."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "З найкращими побажаннями, Анна."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Best regards, Anna."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Saludos cordiales, Anna."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mit freundlichen Grüßen, Anna."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Z poważaniem, Anna."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cordialement, Anna."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Atenciosamente, Anna."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cordiali saluti, Anna."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Med vänlig hälsning från hela teamet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "З найкращими побажаннями від усього колективу."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Best regards from the whole team."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Saludos cordiales de todo el equipo."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mit freundlichen Grüßen vom ganzen Team."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Z poważaniem od całego zespołu."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cordialement de la part de toute l'équipe."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Atenciosamente de toda a equipe."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cordiali saluti da tutto il team."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Med vänlig hälsning och tack för samarbetet."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "З найкращими побажаннями та дякую за співпрацю."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Best regards and thanks for the collaboration."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Saludos cordiales y gracias por la colaboración."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mit freundlichen Grüßen und danke für die Zusammenarbeit."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Z poważaniem i dziękuję za współpracę."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cordialement et merci pour la collaboration."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Atenciosamente e obrigado pela colaboração."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cordiali saluti e grazie per la collaborazione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Med vänlig hälsning, vi hörs snart."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "З найкращими побажаннями, скоро поговоримо."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Best regards, we'll talk soon."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Saludos cordiales, hablamos pronto."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Mit freundlichen Grüßen, wir hören uns bald."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Z poważaniem, do usłyszenia wkrótce."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Cordialement, à bientôt."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Atenciosamente, falamos em breve."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Cordiali saluti, ci sentiamo presto."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Förlåt",
+        "translations": {
+            "ukrainian": "Вибачте",
+            "english": "Sorry",
+            "spanish": "Perdón",
+            "german": "Entschuldigung",
+            "polish": "Przepraszam",
+            "french": "Pardon",
+            "portuguese": "Desculpe",
+            "italian": "Scusa"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Förlåt att jag är sen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вибачте, що спізнився."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sorry for being late."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Perdón por llegar tarde."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entschuldigung für die Verspätung."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam za spóźnienie."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pardon pour le retard."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Desculpe pelo atraso."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Scusa per il ritardo."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Förlåt, jag förstod inte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вибачте, я не зрозумів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sorry, I didn't understand."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Perdón, no entendí."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entschuldigung, ich habe es nicht verstanden."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam, nie zrozumiałem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pardon, je n'ai pas compris."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Desculpe, eu não entendi."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Scusa, non ho capito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Förlåt, det var inte meningen."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вибачте, я не хотів."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sorry, I didn't mean to."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Perdón, no fue mi intención."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entschuldigung, das war nicht meine Absicht."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam, nie chciałem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pardon, ce n'était pas mon intention."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Desculpe, não foi minha intenção."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Scusa, non era mia intenzione."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Förlåt, kan du hjälpa mig?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Вибачте, чи можете ви мені допомогти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Sorry, can you help me?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Perdón, ¿puedes ayudarme?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Entschuldigung, können Sie mir helfen?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam, możesz mi pomóc?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Pardon, pouvez-vous m'aider?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Desculpe, você pode me ajudar?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Scusa, puoi aiutarmi?"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "expression": "Ursäkta",
+        "translations": {
+            "ukrainian": "Перепрошую",
+            "english": "Excuse me",
+            "spanish": "Disculpe",
+            "german": "Verzeihung",
+            "polish": "Przepraszam",
+            "french": "Excusez-moi",
+            "portuguese": "Com licença",
+            "italian": "Mi scusi"
+        },
+        "examples": [
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ursäkta, var ligger stationen?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перепрошую, де знаходиться станція?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Excuse me, where is the station?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Disculpe, ¿dónde está la estación?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Verzeihung, wo ist der Bahnhof?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam, gdzie jest stacja?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Excusez-moi, où est la gare?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Com licença, onde fica a estação?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi scusi, dov'è la stazione?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ursäkta, kan jag få komma förbi?"
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перепрошую, чи можу я пройти?"
+                    },
+                    {
+                        "language": "english",
+                        "text": "Excuse me, can I get past?"
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Disculpe, ¿puedo pasar?"
+                    },
+                    {
+                        "language": "german",
+                        "text": "Verzeihung, kann ich vorbei?"
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam, czy mogę przejść?"
+                    },
+                    {
+                        "language": "french",
+                        "text": "Excusez-moi, puis-je passer?"
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Com licença, posso passar?"
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi scusi, posso passare?"
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ursäkta, jag hörde inte."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перепрошую, я не почув."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Excuse me, I didn't hear."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Disculpe, no escuché."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Verzeihung, ich habe es nicht gehört."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam, nie słyszałem."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Excusez-moi, je n'ai pas entendu."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Com licença, eu não ouvi."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi scusi, non ho sentito."
+                    }
+                ]
+            },
+            {
+                "sentence": {
+                    "language": "swedish",
+                    "text": "Ursäkta, jag tror du har fel."
+                },
+                "translations": [
+                    {
+                        "language": "ukrainian",
+                        "text": "Перепрошую, я думаю, ви помиляєтеся."
+                    },
+                    {
+                        "language": "english",
+                        "text": "Excuse me, I think you're wrong."
+                    },
+                    {
+                        "language": "spanish",
+                        "text": "Disculpe, creo que está equivocado."
+                    },
+                    {
+                        "language": "german",
+                        "text": "Verzeihung, ich glaube, Sie liegen falsch."
+                    },
+                    {
+                        "language": "polish",
+                        "text": "Przepraszam, myślę, że się pan myli."
+                    },
+                    {
+                        "language": "french",
+                        "text": "Excusez-moi, je pense que vous avez tort."
+                    },
+                    {
+                        "language": "portuguese",
+                        "text": "Com licença, acho que você está errado."
+                    },
+                    {
+                        "language": "italian",
+                        "text": "Mi scusi, penso che lei si sbagli."
+                    }
+                ]
+            }
+        ]
+    }
+]
