@@ -6,12 +6,16 @@
 //
 
 import SwiftUI
+//import ConfettiSwiftUI
+
 
 struct QuizView: View {
     
     @StateObject var viewModel: LearnViewModel
     
     @FocusState private var isTextFieldFocused: Bool
+    
+//    @State private var trigger: Int = 0
     
     let hintFontSize: CGFloat = {
         switch Platform.current {
@@ -134,6 +138,7 @@ struct QuizView: View {
                         Spacer()
                         
                         Button(action: {
+//                            trigger += 1
                             if viewModel.isCorrect == true {
                                 viewModel.nextQuestion()
                                 isTextFieldFocused = true
@@ -148,6 +153,7 @@ struct QuizView: View {
                             Text(viewModel.isCorrect == true ? "Next".localized : "Check".localized)
                                 .styledButton(.secondary)
                         }.buttonStyle(ScaleButtonStyle())
+//                            .confettiCannon(trigger: $trigger, num:1, confettis: [.image("polybux")], confettiSize: 60, repetitions: viewModel.questions.count, repetitionInterval: 0.1)
                         
                         Spacer()
                         
@@ -161,6 +167,8 @@ struct QuizView: View {
                             Image(systemName: "lightbulb.max.fill")
                                 .styledButton(isIcon: true)
                         }.buttonStyle(ScaleButtonStyle())
+                            
+
                     }
                     .frame(width: width, alignment: .center)
                     
