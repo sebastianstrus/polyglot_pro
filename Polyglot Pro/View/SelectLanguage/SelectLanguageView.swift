@@ -23,6 +23,22 @@ struct SelectLanguageView: View {
     
     let languages = Language.allCases
     
+    let width: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 380
+        case .iPadOS: return 300
+        default: return 300
+        }
+    }()
+    
+    let height: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 580
+        case .iPadOS: return 480
+        default: return 480
+        }
+    }()
+    
     var body: some View {
         VStack {
             Spacer()
@@ -35,15 +51,17 @@ struct SelectLanguageView: View {
                 tempPrimaryLanguage = language
             }
             
+            Spacer()
+            
             Text("Select target language:".localized)
                 .font(.system(size: 16, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
-            Spacer()
-            
             LanguageScrollView(selectedIndex: $selectedTargetIndex, languages: languages) { language in
                 tempTargetLanguage = language
             }
+            
+            Spacer()
             
             Text("The languages must be different.".localized)
                 .font(.system(size: 12))
@@ -67,7 +85,7 @@ struct SelectLanguageView: View {
             Spacer()
         }
         .padding()
-        .frame(width: 300, height: 420, alignment: .center)
+        .frame(width: width, height: height, alignment: .center)
         .background(Color.white)
         .cornerRadius(20)
         .overlay(
@@ -96,7 +114,15 @@ struct LanguageScrollView: View {
     @State private var scrollEndTimer: Timer? = nil
     
     @State private var startTime = Date.now
-    
+
+    let gradientWidth: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 120
+        case .iPadOS: return 120
+        case .iOS: return 80
+        default: return 80
+        }
+    }()
 
     
     var body: some View {
@@ -211,7 +237,7 @@ struct LanguageScrollView: View {
             // Gradient overlays
             HStack {
                 LinearGradient(gradient: Gradient(colors: [.white, .clear]), startPoint: .leading, endPoint: .trailing)
-                    .frame(width: 80, height: 100)
+                    .frame(width: gradientWidth, height: 100)
                 
                 Spacer()
                 
@@ -298,88 +324,3 @@ struct ScrollOffsetPreferenceKey: PreferenceKey {
     }
 }
 
-
-/*
-struct SelectLanguageView: View {
-    @EnvironmentObject var settings: SettingsManager
-    
-    @State private var tempPrimaryLanguage: Language?
-    @State private var tempTargetLanguage: Language = .swedish // Default
-    @State private var isSameLanguage: Bool = false
-    @State private var selectedIndex: Int = 0
-    @GestureState private var dragOffset: CGFloat = 0
-    
-    let languages = Language.allCases
-    let itemWidth: CGFloat = 100
-    
-    var body: some View {
-        VStack {
-            Spacer()
-            
-            Text("Select primary language:".localized)
-                .font(.system(size: 16, weight: .bold, design: .rounded))
-                .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
-            
-            GeometryReader { geometry in
-                HStack(spacing: 0) {
-                    ForEach(languages.indices, id: \.self) { index in
-                        Text(languages[index].displayName)
-                            .frame(width: itemWidth, height: 40)
-                            .background(selectedIndex == index ? Color.blue.opacity(0.3) : Color.clear)
-                            .clipShape(RoundedRectangle(cornerRadius: 10))
-                    }
-                }
-                .offset(x: -CGFloat(selectedIndex) * itemWidth + dragOffset)
-                .gesture(
-                    DragGesture()
-                        .updating($dragOffset) { value, state, _ in
-                            state = value.translation.width
-                        }
-                        .onEnded { value in
-                            let threshold: CGFloat = itemWidth / 2
-                            let newIndex = selectedIndex - Int(value.translation.width / threshold)
-                            selectedIndex = max(0, min(newIndex, languages.count - 1))
-                        }
-                )
-                .animation(.spring(), value: selectedIndex)
-            }
-            .frame(height: 50)
-            .padding(.bottom)
-            
-            Text("The languages must be different.".localized)
-                .font(.system(size: 12))
-                .foregroundColor(.red)
-                .opacity(isSameLanguage ? 1 : 0)
-            
-            NavigationLink(value: Destination.main) {
-                Text("Continue".localized)
-                    .styledButton(.secondary)
-            }
-            .buttonStyle(ScaleButtonStyle())
-            .onTapGesture {
-                guard tempPrimaryLanguage != tempTargetLanguage else {
-                    isSameLanguage = true
-                    return
-                }
-                settings.savePrimaryLanguage(tempPrimaryLanguage)
-                settings.targetLanguage = tempTargetLanguage
-            }
-            
-            Spacer()
-        }
-        .padding()
-        .frame(width: 300, height: 380, alignment: .center)
-        .background(Color.white)
-        .cornerRadius(20)
-        .overlay(
-            RoundedRectangle(cornerRadius: 20)
-                .stroke(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing), lineWidth: 3)
-                .shadow(color: .purple.opacity(0.5), radius: 20)
-        )
-        .onAppear {
-            tempPrimaryLanguage = languages[selectedIndex]
-        }
-    }
-}
-
-*/
