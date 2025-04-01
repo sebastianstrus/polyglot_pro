@@ -1,6 +1,6 @@
 [
     {
-        "expression": "hus",
+        "expression": "ett hus",
         "translations": {
             "ukrainian": "будинок",
             "english": "house",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "expression": "lägenhet",
+        "expression": "en lägenhet",
         "translations": {
             "ukrainian": "квартира",
             "english": "apartment",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "expression": "rum",
+        "expression": "ett rum",
         "translations": {
             "ukrainian": "кімната",
             "english": "room",
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "expression": "kök",
+        "expression": "ett kök",
         "translations": {
             "ukrainian": "кухня",
             "english": "kitchen",
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "expression": "vardagsrum",
+        "expression": "ett vardagsrum",
         "translations": {
             "ukrainian": "вітальня",
             "english": "living room",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "expression": "sovrum",
+        "expression": "ett sovrum",
         "translations": {
             "ukrainian": "спальня",
             "english": "bedroom",
@@ -1050,7 +1050,7 @@
         ]
     },
     {
-        "expression": "badrum",
+        "expression": "ett badrum",
         "translations": {
             "ukrainian": "ванна кімната",
             "english": "bathroom",
@@ -1225,7 +1225,7 @@
         ]
     },
     {
-        "expression": "hall",
+        "expression": "en hall",
         "translations": {
             "ukrainian": "передпокій",
             "english": "hallway",
@@ -1400,7 +1400,7 @@
         ]
     },
     {
-        "expression": "toalett",
+        "expression": "en toalett",
         "translations": {
             "ukrainian": "туалет",
             "english": "toilet",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "expression": "förråd",
+        "expression": "ett förråd",
         "translations": {
             "ukrainian": "комора",
             "english": "storage room",
@@ -1750,7 +1750,7 @@
         ]
     },
     {
-        "expression": "balkong",
+        "expression": "en balkong",
         "translations": {
             "ukrainian": "балкон",
             "english": "balcony",
@@ -1925,7 +1925,7 @@
         ]
     },
     {
-        "expression": "trädgård",
+        "expression": "en trädgård",
         "translations": {
             "ukrainian": "сад",
             "english": "garden",
@@ -2100,7 +2100,7 @@
         ]
     },
     {
-        "expression": "garage",
+        "expression": "en garage",
         "translations": {
             "ukrainian": "гараж",
             "english": "garage",
@@ -2275,7 +2275,7 @@
         ]
     },
     {
-        "expression": "källare",
+        "expression": "en källare",
         "translations": {
             "ukrainian": "підвал",
             "english": "basement",
@@ -2450,7 +2450,7 @@
         ]
     },
     {
-        "expression": "vind",
+        "expression": "en vind",
         "translations": {
             "ukrainian": "горище",
             "english": "attic",
@@ -2625,7 +2625,7 @@
         ]
     },
     {
-        "expression": "dörr",
+        "expression": "en dörr",
         "translations": {
             "ukrainian": "двері",
             "english": "door",
@@ -2800,7 +2800,7 @@
         ]
     },
     {
-        "expression": "fönster",
+        "expression": "ett fönster",
         "translations": {
             "ukrainian": "вікно",
             "english": "window",
@@ -2975,7 +2975,7 @@
         ]
     },
     {
-        "expression": "tak",
+        "expression": "ett tak",
         "translations": {
             "ukrainian": "дах",
             "english": "roof",
@@ -3150,7 +3150,7 @@
         ]
     },
     {
-        "expression": "vägg",
+        "expression": "en vägg",
         "translations": {
             "ukrainian": "стіна",
             "english": "wall",
@@ -3325,7 +3325,7 @@
         ]
     },
     {
-        "expression": "golv",
+        "expression": "ett golv",
         "translations": {
             "ukrainian": "підлога",
             "english": "floor",
@@ -3500,7 +3500,7 @@
         ]
     },
     {
-        "expression": "takfönster",
+        "expression": "ett takfönster",
         "translations": {
             "ukrainian": "вікно у даху",
             "english": "skylight",
@@ -3675,7 +3675,7 @@
         ]
     },
     {
-        "expression": "möbel",
+        "expression": "en möbel",
         "translations": {
             "ukrainian": "меблі",
             "english": "furniture",
@@ -3850,7 +3850,7 @@
         ]
     },
     {
-        "expression": "säng",
+        "expression": "en säng",
         "translations": {
             "ukrainian": "ліжко",
             "english": "bed",
@@ -4025,7 +4025,7 @@
         ]
     },
     {
-        "expression": "soffa",
+        "expression": "en soffa",
         "translations": {
             "ukrainian": "диван",
             "english": "sofa",
@@ -4200,7 +4200,7 @@
         ]
     },
     {
-        "expression": "stol",
+        "expression": "en stol",
         "translations": {
             "ukrainian": "стілець",
             "english": "chair",
@@ -4375,7 +4375,7 @@
         ]
     },
     {
-        "expression": "bord",
+        "expression": "ett bord",
         "translations": {
             "ukrainian": "стіл",
             "english": "table",
@@ -4550,7 +4550,7 @@
         ]
     },
     {
-        "expression": "bokhylla",
+        "expression": "en bokhylla",
         "translations": {
             "ukrainian": "книжкова полиця",
             "english": "bookshelf",
@@ -4725,7 +4725,7 @@
         ]
     },
     {
-        "expression": "garderob",
+        "expression": "en garderob",
         "translations": {
             "ukrainian": "гардероб",
             "english": "wardrobe",
@@ -5075,7 +5075,7 @@
         ]
     },
     {
-        "expression": "matta",
+        "expression": "en matta",
         "translations": {
             "ukrainian": "килим",
             "english": "rug",
@@ -5250,7 +5250,7 @@
         ]
     },
     {
-        "expression": "spegel",
+        "expression": "en spegel",
         "translations": {
             "ukrainian": "дзеркало",
             "english": "mirror",
@@ -5425,7 +5425,7 @@
         ]
     },
     {
-        "expression": "tv",
+        "expression": "en tv",
         "translations": {
             "ukrainian": "телевізор",
             "english": "TV",
@@ -5600,7 +5600,7 @@
         ]
     },
     {
-        "expression": "kylskåp",
+        "expression": "ett kylskåp",
         "translations": {
             "ukrainian": "холодильник",
             "english": "refrigerator",
@@ -5775,7 +5775,7 @@
         ]
     },
     {
-        "expression": "mikrovågsugn",
+        "expression": "en mikrovågsugn",
         "translations": {
             "ukrainian": "мікрохвильова піч",
             "english": "microwave",
@@ -5950,7 +5950,7 @@
         ]
     },
     {
-        "expression": "spis",
+        "expression": "en spis",
         "translations": {
             "ukrainian": "плита",
             "english": "stove",
@@ -6125,7 +6125,7 @@
         ]
     },
     {
-        "expression": "ugn",
+        "expression": "en ugn",
         "translations": {
             "ukrainian": "духова шафа",
             "english": "oven",
@@ -6300,7 +6300,7 @@
         ]
     },
     {
-        "expression": "diskmaskin",
+        "expression": "en diskmaskin",
         "translations": {
             "ukrainian": "посудомийна машина",
             "english": "dishwasher",
