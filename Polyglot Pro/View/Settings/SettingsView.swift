@@ -83,6 +83,12 @@ struct SettingsView: View {
                         
                     }
                     .foregroundColor(.red)
+                    
+                    Button("Reset & Exit") {
+                                    clearUserDefaults()
+                                    exit(0) // Forces app to close
+                                }
+                    .foregroundColor(.red)
                 }
             }
         }
@@ -98,6 +104,14 @@ struct SettingsView: View {
                 }
         .customTitle("Settings".localized)
     }
+    
+    func clearUserDefaults() {
+            let defaults = UserDefaults.standard
+            if let bundleID = Bundle.main.bundleIdentifier {
+                defaults.removePersistentDomain(forName: bundleID)
+                defaults.synchronize() // Ensure changes are saved
+            }
+        }
 }
 
 
