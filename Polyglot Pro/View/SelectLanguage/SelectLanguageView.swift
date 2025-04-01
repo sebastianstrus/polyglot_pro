@@ -124,7 +124,6 @@ struct LanguageScrollView: View {
         }
     }()
 
-    
     var body: some View {
         ZStack {
             GeometryReader { geometry in
@@ -137,31 +136,31 @@ struct LanguageScrollView: View {
                         LazyHStack(spacing: spacing) {
                             ForEach(languages.indices, id: \.self) { index in
                                 VStack(spacing: 0) {
-                                    
-                                    TimelineView(.animation) { timeline in
-                                        let elapsedTime = startTime.distance(to: timeline.date)
+                                    // Only apply the effect to the selected item
+                                    if shouldShowEffect(for: index) {
+                                        TimelineView(.animation) { timeline in
+                                            let elapsedTime = startTime.distance(to: timeline.date)
 
+                                            Text(languages[index].flag).font(Font.system(size: 52))
+                                                .drawingGroup()
+                                                .visualEffect { content, proxy in
+                                                    content
+                                                        .distortionEffect(
+                                                            ShaderLibrary.relativeWave(
+                                                                .float2(proxy.size),
+                                                                .float(elapsedTime),
+                                                                .float(8),
+                                                                .float(20),
+                                                                .float(2)
+                                                            ),
+                                                            maxSampleOffset: .zero
+                                                        )
+                                                }
+                                        }
+                                    } else {
+                                        // Regular flag without effect
                                         Text(languages[index].flag).font(Font.system(size: 52))
-                                            .drawingGroup()
-                                            .visualEffect { content, proxy in
-                                                content
-                                                    .distortionEffect(
-                                                        ShaderLibrary.relativeWave(
-                                                            .float2(proxy.size),
-                                                            .float(elapsedTime),
-                                                            .float(5),
-                                                            .float(20),
-                                                            .float(2)
-                                                        ),
-                                                        maxSampleOffset: .zero
-                                                    )
-                                            }
-                                        
                                     }
-                                    
-                                    
-                                    
-                                    
                                     
                                     Text(languages[index].displayName).font(.system(size: 14, weight: .bold, design: .rounded))
                                 }
@@ -248,8 +247,12 @@ struct LanguageScrollView: View {
         }
     }
     
-    private func shouldShowBorder(for index: Int) -> Bool {
+    private func shouldShowEffect(for index: Int) -> Bool {
         return (isDragging || scrollEndTimer != nil) ? (closestIndex == index) : (selectedIndex == index)
+    }
+    
+    private func shouldShowBorder(for index: Int) -> Bool {
+        return shouldShowEffect(for: index)
     }
     
     private func selectAndCenter(index: Int, proxy: ScrollViewProxy) {
