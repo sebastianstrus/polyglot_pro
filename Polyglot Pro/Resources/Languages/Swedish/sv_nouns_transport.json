@@ -1,6 +1,6 @@
 [
     {
-        "expression": "bil",
+        "expression": "en bil",
         "translations": {
             "ukrainian": "автомобіль",
             "english": "car",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "expression": "buss",
+        "expression": "en buss",
         "translations": {
             "ukrainian": "автобус",
             "english": "bus",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "expression": "tåg",
+        "expression": "ett tåg",
         "translations": {
             "ukrainian": "поїзд",
             "english": "train",
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "expression": "cykel",
+        "expression": "en cykel",
         "translations": {
             "ukrainian": "велосипед",
             "english": "bicycle",
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "expression": "båt",
+        "expression": "en båt",
         "translations": {
             "ukrainian": "човен",
             "english": "boat",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "expression": "flygplan",
+        "expression": "ett flygplan",
         "translations": {
             "ukrainian": "літак",
             "english": "airplane",
@@ -1050,7 +1050,7 @@
         ]
     },
     {
-        "expression": "lastbil",
+        "expression": "en lastbil",
         "translations": {
             "ukrainian": "вантажівка",
             "english": "truck",
@@ -1225,7 +1225,7 @@
         ]
     },
     {
-        "expression": "taxi",
+        "expression": "en taxi",
         "translations": {
             "ukrainian": "таксі",
             "english": "taxi",
@@ -1400,7 +1400,7 @@
         ]
     },
     {
-        "expression": "tågvagn",
+        "expression": "en tågvagn",
         "translations": {
             "ukrainian": "вагон",
             "english": "train car",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "expression": "tunnelbana",
+        "expression": "en tunnelbana",
         "translations": {
             "ukrainian": "метро",
             "english": "subway",
@@ -1750,7 +1750,7 @@
         ]
     },
     {
-        "expression": "färja",
+        "expression": "en färja",
         "translations": {
             "ukrainian": "пором",
             "english": "ferry",
@@ -1925,7 +1925,7 @@
         ]
     },
     {
-        "expression": "helikopter",
+        "expression": "en helikopter",
         "translations": {
             "ukrainian": "гелікоптер",
             "english": "helicopter",
@@ -2100,7 +2100,7 @@
         ]
     },
     {
-        "expression": "trafik",
+        "expression": "en trafik",
         "translations": {
             "ukrainian": "рух",
             "english": "traffic",
@@ -2275,7 +2275,7 @@
         ]
     },
     {
-        "expression": "väg",
+        "expression": "en väg",
         "translations": {
             "ukrainian": "дорога",
             "english": "road",
@@ -2450,7 +2450,7 @@
         ]
     },
     {
-        "expression": "järnväg",
+        "expression": "en järnväg",
         "translations": {
             "ukrainian": "залізниця",
             "english": "railway",
@@ -2625,7 +2625,7 @@
         ]
     },
     {
-        "expression": "vägskylt",
+        "expression": "en vägskylt",
         "translations": {
             "ukrainian": "дорожній знак",
             "english": "road sign",
@@ -2800,7 +2800,7 @@
         ]
     },
     {
-        "expression": "parkering",
+        "expression": "en parkering",
         "translations": {
             "ukrainian": "парковка",
             "english": "parking",
@@ -2975,7 +2975,7 @@
         ]
     },
     {
-        "expression": "bensinstation",
+        "expression": "en bensinstation",
         "translations": {
             "ukrainian": "заправна станція",
             "english": "gas station",
@@ -3150,7 +3150,7 @@
         ]
     },
     {
-        "expression": "hållplats",
+        "expression": "en hållplats",
         "translations": {
             "ukrainian": "зупинка",
             "english": "bus stop",
@@ -3325,7 +3325,7 @@
         ]
     },
     {
-        "expression": "resenär",
+        "expression": "en resenär",
         "translations": {
             "ukrainian": "пасажир",
             "english": "passenger",
@@ -3500,7 +3500,7 @@
         ]
     },
     {
-        "expression": "bilist",
+        "expression": "en bilist",
         "translations": {
             "ukrainian": "водій",
             "english": "driver",
@@ -3675,7 +3675,7 @@
         ]
     },
     {
-        "expression": "förare",
+        "expression": "en förare",
         "translations": {
             "ukrainian": "водій",
             "english": "driver",
@@ -3850,7 +3850,7 @@
         ]
     },
     {
-        "expression": "passagerare",
+        "expression": "en passagerare",
         "translations": {
             "ukrainian": "пасажир",
             "english": "passenger",
@@ -4200,7 +4200,7 @@
         ]
     },
     {
-        "expression": "bilkö",
+        "expression": "en bilkö",
         "translations": {
             "ukrainian": "черга автомобілів",
             "english": "traffic jam",
@@ -4375,7 +4375,7 @@
         ]
     },
     {
-        "expression": "trafikljus",
+        "expression": "ett trafikljus",
         "translations": {
             "ukrainian": "світлофор",
             "english": "traffic light",

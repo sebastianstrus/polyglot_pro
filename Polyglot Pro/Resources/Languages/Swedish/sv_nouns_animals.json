@@ -1,6 +1,6 @@
 [
     {
-        "expression": "hund",
+        "expression": "en hund",
         "translations": {
             "ukrainian": "собака",
             "english": "dog",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "expression": "katt",
+        "expression": "en katt",
         "translations": {
             "ukrainian": "кіт",
             "english": "cat",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "expression": "häst",
+        "expression": "en häst",
         "translations": {
             "ukrainian": "кінь",
             "english": "horse",
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "expression": "ko",
+        "expression": "en ko",
         "translations": {
             "ukrainian": "корова",
             "english": "cow",
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "expression": "gris",
+        "expression": "en gris",
         "translations": {
             "ukrainian": "свиня",
             "english": "pig",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "expression": "får",
+        "expression": "ett får",
         "translations": {
             "ukrainian": "вівця",
             "english": "sheep",
@@ -1050,7 +1050,7 @@
         ]
     },
     {
-        "expression": "get",
+        "expression": "en get",
         "translations": {
             "ukrainian": "коза",
             "english": "goat",
@@ -1225,7 +1225,7 @@
         ]
     },
     {
-        "expression": "kyckling",
+        "expression": "en kyckling",
         "translations": {
             "ukrainian": "курча",
             "english": "chicken",
@@ -1400,7 +1400,7 @@
         ]
     },
     {
-        "expression": "höna",
+        "expression": "en höna",
         "translations": {
             "ukrainian": "курка",
             "english": "hen",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "expression": "tupp",
+        "expression": "en tupp",
         "translations": {
             "ukrainian": "півень",
             "english": "rooster",
@@ -1750,182 +1750,7 @@
         ]
     },
     {
-        "expression": "kanin",
-        "translations": {
-            "ukrainian": "кролик",
-            "english": "rabbit",
-            "spanish": "conejo",
-            "german": "Kaninchen",
-            "polish": "królik",
-            "french": "lapin",
-            "portuguese": "coelho",
-            "italian": "coniglio"
-        },
-        "examples": [
-            {
-                "sentence": {
-                    "language": "swedish",
-                    "text": "Kaninen hoppar i trädgården."
-                },
-                "translations": [
-                    {
-                        "language": "ukrainian",
-                        "text": "Кролик стрибає по саду."
-                    },
-                    {
-                        "language": "english",
-                        "text": "The rabbit is jumping in the garden."
-                    },
-                    {
-                        "language": "spanish",
-                        "text": "El conejo está saltando en el jardín."
-                    },
-                    {
-                        "language": "german",
-                        "text": "Das Kaninchen hüpft im Garten."
-                    },
-                    {
-                        "language": "polish",
-                        "text": "Królik skacze po ogrodzie."
-                    },
-                    {
-                        "language": "french",
-                        "text": "Le lapin saute dans le jardin."
-                    },
-                    {
-                        "language": "portuguese",
-                        "text": "O coelho está pulando no jardim."
-                    },
-                    {
-                        "language": "italian",
-                        "text": "Il coniglio sta saltellando in giardino."
-                    }
-                ]
-            },
-            {
-                "sentence": {
-                    "language": "swedish",
-                    "text": "Kaninen äter morötter."
-                },
-                "translations": [
-                    {
-                        "language": "ukrainian",
-                        "text": "Кролик їсть моркву."
-                    },
-                    {
-                        "language": "english",
-                        "text": "The rabbit is eating carrots."
-                    },
-                    {
-                        "language": "spanish",
-                        "text": "El conejo está comiendo zanahorias."
-                    },
-                    {
-                        "language": "german",
-                        "text": "Das Kaninchen frisst Karotten."
-                    },
-                    {
-                        "language": "polish",
-                        "text": "Królik je marchewki."
-                    },
-                    {
-                        "language": "french",
-                        "text": "Le lapin mange des carottes."
-                    },
-                    {
-                        "language": "portuguese",
-                        "text": "O coelho está comendo cenouras."
-                    },
-                    {
-                        "language": "italian",
-                        "text": "Il coniglio sta mangiando carote."
-                    }
-                ]
-            },
-            {
-                "sentence": {
-                    "language": "swedish",
-                    "text": "Kaninen är liten och gullig."
-                },
-                "translations": [
-                    {
-                        "language": "ukrainian",
-                        "text": "Кролик маленький і милий."
-                    },
-                    {
-                        "language": "english",
-                        "text": "The rabbit is small and cute."
-                    },
-                    {
-                        "language": "spanish",
-                        "text": "El conejo es pequeño y lindo."
-                    },
-                    {
-                        "language": "german",
-                        "text": "Das Kaninchen ist klein und süß."
-                    },
-                    {
-                        "language": "polish",
-                        "text": "Królik jest mały i słodki."
-                    },
-                    {
-                        "language": "french",
-                        "text": "Le lapin est petit et mignon."
-                    },
-                    {
-                        "language": "portuguese",
-                        "text": "O coelho é pequeno e fofo."
-                    },
-                    {
-                        "language": "italian",
-                        "text": "Il coniglio è piccolo e carino."
-                    }
-                ]
-            },
-            {
-                "sentence": {
-                    "language": "swedish",
-                    "text": "Kaninen gömmer sig i busken."
-                },
-                "translations": [
-                    {
-                        "language": "ukrainian",
-                        "text": "Кролик ховається в кущах."
-                    },
-                    {
-                        "language": "english",
-                        "text": "The rabbit is hiding in the bushes."
-                    },
-                    {
-                        "language": "spanish",
-                        "text": "El conejo se esconde en los arbustos."
-                    },
-                    {
-                        "language": "german",
-                        "text": "Das Kaninchen versteckt sich im Gebüsch."
-                    },
-                    {
-                        "language": "polish",
-                        "text": "Królik chowa się w krzakach."
-                    },
-                    {
-                        "language": "french",
-                        "text": "Le lapin se cache dans les buissons."
-                    },
-                    {
-                        "language": "portuguese",
-                        "text": "O coelho está se escondendo nos arbustos."
-                    },
-                    {
-                        "language": "italian",
-                        "text": "Il coniglio si nasconde nei cespugli."
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "expression": "marsvin",
+        "expression": "ett marsvin",
         "translations": {
             "ukrainian": "морська свинка",
             "english": "guinea pig",
@@ -2100,7 +1925,7 @@
         ]
     },
     {
-        "expression": "hamster",
+        "expression": "en hamster",
         "translations": {
             "ukrainian": "хом'як",
             "english": "hamster",
@@ -2275,7 +2100,7 @@
         ]
     },
     {
-        "expression": "sköldpadda",
+        "expression": "en sköldpadda",
         "translations": {
             "ukrainian": "черепаха",
             "english": "turtle",
@@ -2450,7 +2275,7 @@
         ]
     },
     {
-        "expression": "fisk",
+        "expression": "en fisk",
         "translations": {
             "ukrainian": "риба",
             "english": "fish",
@@ -2625,7 +2450,7 @@
         ]
     },
     {
-        "expression": "fågel",
+        "expression": "en fågel",
         "translations": {
             "ukrainian": "птах",
             "english": "bird",
@@ -2800,7 +2625,7 @@
         ]
     },
     {
-        "expression": "and",
+        "expression": "en and",
         "translations": {
             "ukrainian": "качка",
             "english": "duck",
@@ -2975,7 +2800,7 @@
         ]
     },
     {
-        "expression": "gås",
+        "expression": "en gås",
         "translations": {
             "ukrainian": "гусак",
             "english": "goose",
@@ -3150,7 +2975,7 @@
         ]
     },
     {
-        "expression": "duva",
+        "expression": "en duva",
         "translations": {
             "ukrainian": "голуб",
             "english": "pigeon",
@@ -3325,7 +3150,7 @@
         ]
     },
     {
-        "expression": "uggla",
+        "expression": "en uggla",
         "translations": {
             "ukrainian": "сова",
             "english": "owl",
@@ -3500,7 +3325,7 @@
         ]
     },
     {
-        "expression": "orm",
+        "expression": "en orm",
         "translations": {
             "ukrainian": "змія",
             "english": "snake",
@@ -3675,7 +3500,7 @@
         ]
     },
     {
-        "expression": "mus",
+        "expression": "en mus",
         "translations": {
             "ukrainian": "миша",
             "english": "mouse",
@@ -3850,7 +3675,7 @@
         ]
     },
     {
-        "expression": "råtta",
+        "expression": "en råtta",
         "translations": {
             "ukrainian": "щур",
             "english": "rat",
@@ -4025,7 +3850,7 @@
         ]
     },
     {
-        "expression": "ekorre",
+        "expression": "en ekorre",
         "translations": {
             "ukrainian": "білка",
             "english": "squirrel",
@@ -4200,7 +4025,7 @@
         ]
     },
     {
-        "expression": "älg",
+        "expression": "en älg",
         "translations": {
             "ukrainian": "лось",
             "english": "moose",
@@ -4375,7 +4200,7 @@
         ]
     },
     {
-        "expression": "ren",
+        "expression": "en ren",
         "translations": {
             "ukrainian": "північний олень",
             "english": "reindeer",
@@ -4550,7 +4375,7 @@
         ]
     },
     {
-        "expression": "björn",
+        "expression": "en björn",
         "translations": {
             "ukrainian": "ведмідь",
             "english": "bear",
@@ -4725,7 +4550,7 @@
         ]
     },
     {
-        "expression": "varg",
+        "expression": "en varg",
         "translations": {
             "ukrainian": "вовк",
             "english": "wolf",
@@ -4900,7 +4725,7 @@
         ]
     },
     {
-        "expression": "lo",
+        "expression": "en lo",
         "translations": {
             "ukrainian": "рись",
             "english": "lynx",
@@ -5075,7 +4900,7 @@
         ]
     },
     {
-        "expression": "hjort",
+        "expression": "en hjort",
         "translations": {
             "ukrainian": "олень",
             "english": "deer",
@@ -5250,7 +5075,7 @@
         ]
     },
     {
-        "expression": "kanin",
+        "expression": "en kanin",
         "translations": {
             "ukrainian": "кролик",
             "english": "rabbit",
@@ -5425,7 +5250,7 @@
         ]
     },
     {
-        "expression": "fasan",
+        "expression": "en fasan",
         "translations": {
             "ukrainian": "фазан",
             "english": "pheasant",
@@ -5600,7 +5425,7 @@
         ]
     },
     {
-        "expression": "turkisk katt",
+        "expression": "en turkisk katt",
         "translations": {
             "ukrainian": "турецька кішка",
             "english": "Turkish cat",
@@ -5775,7 +5600,7 @@
         ]
     },
     {
-        "expression": "igelkott",
+        "expression": "en igelkott",
         "translations": {
             "ukrainian": "їжак",
             "english": "hedgehog",
@@ -5950,7 +5775,7 @@
         ]
     },
     {
-        "expression": "spindel",
+        "expression": "en spindel",
         "translations": {
             "ukrainian": "павук",
             "english": "spider",
@@ -6125,7 +5950,7 @@
         ]
     },
     {
-        "expression": "fluga",
+        "expression": "en fluga",
         "translations": {
             "ukrainian": "муха",
             "english": "fly",
@@ -6300,7 +6125,7 @@
         ]
     },
     {
-        "expression": "myra",
+        "expression": "en myra",
         "translations": {
             "ukrainian": "мураха",
             "english": "ant",
@@ -6475,7 +6300,7 @@
         ]
     },
     {
-        "expression": "bålgeting",
+        "expression": "en bålgeting",
         "translations": {
             "ukrainian": "оса",
             "english": "wasp",

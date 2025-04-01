@@ -1,6 +1,6 @@
 [
     {
-        "expression": "läkare",
+        "expression": "en läkare",
         "translations": {
             "ukrainian": "лікар",
             "english": "doctor",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "expression": "tandläkare",
+        "expression": "en tandläkare",
         "translations": {
             "ukrainian": "стоматолог",
             "english": "dentist",
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "expression": "apotekare",
+        "expression": "en apotekare",
         "translations": {
             "ukrainian": "фармацевт",
             "english": "pharmacist",
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "expression": "veterinär",
+        "expression": "en veterinär",
         "translations": {
             "ukrainian": "ветеринар",
             "english": "veterinarian",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "expression": "advokat",
+        "expression": "en advokat",
         "translations": {
             "ukrainian": "адвокат",
             "english": "lawyer",
@@ -1050,7 +1050,7 @@
         ]
     },
     {
-        "expression": "ingenjör",
+        "expression": "en ingenjör",
         "translations": {
             "ukrainian": "інженер",
             "english": "engineer",
@@ -1225,7 +1225,7 @@
         ]
     },
     {
-        "expression": "arkitekt",
+        "expression": "en arkitekt",
         "translations": {
             "ukrainian": "архітектор",
             "english": "architect",
@@ -1400,7 +1400,7 @@
         ]
     },
     {
-        "expression": "programmerare",
+        "expression": "en programmerare",
         "translations": {
             "ukrainian": "програміст",
             "english": "programmer",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "expression": "lärare",
+        "expression": "en lärare",
         "translations": {
             "ukrainian": "вчитель",
             "english": "teacher",
@@ -1750,7 +1750,7 @@
         ]
     },
     {
-        "expression": "rektor",
+        "expression": "en rektor",
         "translations": {
             "ukrainian": "директор",
             "english": "principal",
@@ -1925,7 +1925,7 @@
         ]
     },
     {
-        "expression": "forskare",
+        "expression": "en forskare",
         "translations": {
             "ukrainian": "дослідник",
             "english": "researcher",
@@ -2100,7 +2100,7 @@
         ]
     },
     {
-        "expression": "författare",
+        "expression": "en författare",
         "translations": {
             "ukrainian": "письменник",
             "english": "author",
@@ -2275,7 +2275,7 @@
         ]
     },
     {
-        "expression": "journalist",
+        "expression": "en journalist",
         "translations": {
             "ukrainian": "журналіст",
             "english": "journalist",
@@ -2450,7 +2450,7 @@
         ]
     },
     {
-        "expression": "fotograf",
+        "expression": "en fotograf",
         "translations": {
             "ukrainian": "фотограф",
             "english": "photographer",
@@ -2625,7 +2625,7 @@
         ]
     },
     {
-        "expression": "konstnär",
+        "expression": "en konstnär",
         "translations": {
             "ukrainian": "художник",
             "english": "artist",
@@ -2800,7 +2800,7 @@
         ]
     },
     {
-        "expression": "musiker",
+        "expression": "en musiker",
         "translations": {
             "ukrainian": "музикант",
             "english": "musician",
@@ -2975,7 +2975,7 @@
         ]
     },
     {
-        "expression": "skådespelare",
+        "expression": "en skådespelare",
         "translations": {
             "ukrainian": "актор",
             "english": "actor",
@@ -3150,7 +3150,7 @@
         ]
     },
     {
-        "expression": "regissör",
+        "expression": "en regissör",
         "translations": {
             "ukrainian": "режисер",
             "english": "director",
@@ -3325,7 +3325,7 @@
         ]
     },
     {
-        "expression": "kock",
+        "expression": "en kock",
         "translations": {
             "ukrainian": "кухар",
             "english": "chef",
@@ -3500,7 +3500,7 @@
         ]
     },
     {
-        "expression": "servitör",
+        "expression": "en servitör",
         "translations": {
             "ukrainian": "офіціант",
             "english": "waiter",
@@ -3675,7 +3675,7 @@
         ]
     },
     {
-        "expression": "servitris",
+        "expression": "en servitris",
         "translations": {
             "ukrainian": "офіціантка",
             "english": "waitress",
@@ -3850,7 +3850,7 @@
         ]
     },
     {
-        "expression": "bartender",
+        "expression": "en bartender",
         "translations": {
             "ukrainian": "бармен",
             "english": "bartender",
@@ -4025,7 +4025,7 @@
         ]
     },
     {
-        "expression": "frisör",
+        "expression": "en frisör",
         "translations": {
             "ukrainian": "перукар",
             "english": "hairdresser",
@@ -4200,7 +4200,7 @@
         ]
     },
     {
-        "expression": "elektriker",
+        "expression": "en elektriker",
         "translations": {
             "ukrainian": "електрик",
             "english": "electrician",
@@ -4375,7 +4375,7 @@
         ]
     },
     {
-        "expression": "snickare",
+        "expression": "en snickare",
         "translations": {
             "ukrainian": "тесля",
             "english": "carpenter",
@@ -4550,7 +4550,7 @@
         ]
     },
     {
-        "expression": "mekaniker",
+        "expression": "en mekaniker",
         "translations": {
             "ukrainian": "механік",
             "english": "mechanic",
@@ -4725,7 +4725,7 @@
         ]
     },
     {
-        "expression": "lastbilschaufför",
+        "expression": "en lastbilschaufför",
         "translations": {
             "ukrainian": "водій вантажівки",
             "english": "truck driver",
@@ -4900,7 +4900,7 @@
         ]
     },
     {
-        "expression": "taxichaufför",
+        "expression": "en taxichaufför",
         "translations": {
             "ukrainian": "водій таксі",
             "english": "taxi driver",
@@ -5075,7 +5075,7 @@
         ]
     },
     {
-        "expression": "polis",
+        "expression": "en polis",
         "translations": {
             "ukrainian": "поліцейський",
             "english": "police officer",
@@ -5250,7 +5250,7 @@
         ]
     },
     {
-        "expression": "brandman",
+        "expression": "en brandman",
         "translations": {
             "ukrainian": "пожежний",
             "english": "firefighter",
@@ -5425,7 +5425,7 @@
         ]
     },
     {
-        "expression": "soldat",
+        "expression": "en soldat",
         "translations": {
             "ukrainian": "солдат",
             "english": "soldier",
@@ -5600,7 +5600,7 @@
         ]
     },
     {
-        "expression": "räddningstjänst",
+        "expression": "en räddningstjänst",
         "translations": {
             "ukrainian": "рятувальна служба",
             "english": "rescue service",
@@ -5775,7 +5775,7 @@
         ]
     },
     {
-        "expression": "sekreterare",
+        "expression": "en sekreterare",
         "translations": {
             "ukrainian": "секретар",
             "english": "secretary",
@@ -5950,7 +5950,7 @@
         ]
     },
     {
-        "expression": "ekonom",
+        "expression": "en ekonom",
         "translations": {
             "ukrainian": "економіст",
             "english": "economist",
@@ -6125,7 +6125,7 @@
         ]
     },
     {
-        "expression": "revisor",
+        "expression": "en revisor",
         "translations": {
             "ukrainian": "аудитор",
             "english": "auditor",
@@ -6300,7 +6300,7 @@
         ]
     },
     {
-        "expression": "chef",
+        "expression": "en chef",
         "translations": {
             "ukrainian": "шеф",
             "english": "boss",
@@ -6475,7 +6475,7 @@
         ]
     },
     {
-        "expression": "säljare",
+        "expression": "en säljare",
         "translations": {
             "ukrainian": "продавець",
             "english": "salesperson",
@@ -6650,7 +6650,7 @@
         ]
     },
     {
-        "expression": "marknadsförare",
+        "expression": "en marknadsförare",
         "translations": {
             "ukrainian": "маркетолог",
             "english": "marketer",
@@ -6825,7 +6825,7 @@
         ]
     },
     {
-        "expression": "HR-specialist",
+        "expression": "en HR-specialist",
         "translations": {
             "ukrainian": "фахівець з персоналу",
             "english": "HR specialist",
@@ -7000,7 +7000,7 @@
         ]
     },
     {
-        "expression": "terapeut",
+        "expression": "en terapeut",
         "translations": {
             "ukrainian": "терапевт",
             "english": "therapist",
@@ -7175,7 +7175,7 @@
         ]
     },
     {
-        "expression": "psykolog",
+        "expression": "en psykolog",
         "translations": {
             "ukrainian": "психолог",
             "english": "psychologist",
@@ -7350,7 +7350,7 @@
         ]
     },
     {
-        "expression": "städare",
+        "expression": "en städare",
         "translations": {
             "ukrainian": "прибиральник",
             "english": "cleaner",
@@ -7525,7 +7525,7 @@
         ]
     },
     {
-        "expression": "byggarbetare",
+        "expression": "en byggarbetare",
         "translations": {
             "ukrainian": "будівельник",
             "english": "construction worker",
