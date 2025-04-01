@@ -614,49 +614,49 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Höfliche Ausdrücke"
+            "value" : "Geschäftliche Ausdrücke"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Expresiones de cortesía"
+            "value" : "Expresiones comerciales"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Expressions de politesse"
+            "value" : "Expressions commerciales"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espressioni di cortesia"
+            "value" : "Espressioni commerciali"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zwroty grzecznościowe"
+            "value" : "Wyrażenia biznesowe"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Expressões de cortesia"
+            "value" : "Expressões comerciais"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artiga uttryck"
+            "value" : "Affärsuttryck"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ввічливі вислови"
+            "value" : "Ділові вислови"
           }
         }
       }
