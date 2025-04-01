@@ -1,6 +1,6 @@
 [
     {
-        "expression": "butik",
+        "expression": "en butik",
         "translations": {
             "ukrainian": "магазин",
             "english": "shop",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "expression": "affär",
+        "expression": "en affär",
         "translations": {
             "ukrainian": "магазин",
             "english": "store",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "expression": "marknad",
+        "expression": "en marknad",
         "translations": {
             "ukrainian": "ринок",
             "english": "market",
@@ -525,7 +525,7 @@
         ]
     },
     {
-        "expression": "köpcenter",
+        "expression": "ett köpcenter",
         "translations": {
             "ukrainian": "торговий центр",
             "english": "shopping center",
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "expression": "varuhus",
+        "expression": "ett varuhus",
         "translations": {
             "ukrainian": "універмаг",
             "english": "department store",
@@ -875,7 +875,7 @@
         ]
     },
     {
-        "expression": "kiosk",
+        "expression": "en kiosk",
         "translations": {
             "ukrainian": "кіоск",
             "english": "kiosk",
@@ -1050,7 +1050,7 @@
         ]
     },
     {
-        "expression": "hylla",
+        "expression": "en hylla",
         "translations": {
             "ukrainian": "полиця",
             "english": "shelf",
@@ -1225,7 +1225,7 @@
         ]
     },
     {
-        "expression": "kundvagn",
+        "expression": "en kundvagn",
         "translations": {
             "ukrainian": "кошик для покупок",
             "english": "shopping cart",
@@ -1575,7 +1575,7 @@
         ]
     },
     {
-        "expression": "pris",
+        "expression": "ett pris",
         "translations": {
             "ukrainian": "ціна",
             "english": "price",
@@ -1750,7 +1750,7 @@
         ]
     },
     {
-        "expression": "rabatt",
+        "expression": "en rabatt",
         "translations": {
             "ukrainian": "знижка",
             "english": "discount",
@@ -1925,7 +1925,7 @@
         ]
     },
     {
-        "expression": "erbjudande",
+        "expression": "ett erbjudande",
         "translations": {
             "ukrainian": "пропозиція",
             "english": "offer",
@@ -2100,7 +2100,7 @@
         ]
     },
     {
-        "expression": "kampanj",
+        "expression": "en kampanj",
         "translations": {
             "ukrainian": "акція",
             "english": "campaign",
@@ -2275,7 +2275,7 @@
         ]
     },
     {
-        "expression": "påse",
+        "expression": "en påse",
         "translations": {
             "ukrainian": "пакет",
             "english": "bag",
@@ -2450,7 +2450,7 @@
         ]
     },
     {
-        "expression": "leverans",
+        "expression": "en leverans",
         "translations": {
             "ukrainian": "доставка",
             "english": "delivery",
@@ -2625,7 +2625,7 @@
         ]
     },
     {
-        "expression": "etikett",
+        "expression": "en etikett",
         "translations": {
             "ukrainian": "етикетка",
             "english": "label",
@@ -2800,7 +2800,7 @@
         ]
     },
     {
-        "expression": "hemleverans",
+        "expression": "en hemleverans",
         "translations": {
             "ukrainian": "доставка додому",
             "english": "home delivery",
@@ -2975,7 +2975,7 @@
         ]
     },
     {
-        "expression": "provrum",
+        "expression": "ett provrum",
         "translations": {
             "ukrainian": "приміркова кімната",
             "english": "fitting room",
@@ -3150,7 +3150,7 @@
         ]
     },
     {
-        "expression": "kassörska",
+        "expression": "en kassörska",
         "translations": {
             "ukrainian": "касирка",
             "english": "cashier",
@@ -3325,7 +3325,7 @@
         ]
     },
     {
-        "expression": "plastfolie",
+        "expression": " en plastfolie",
         "translations": {
             "ukrainian": "плівка",
             "english": "plastic wrap",
@@ -3500,7 +3500,7 @@
         ]
     },
     {
-        "expression": "retur",
+        "expression": "en retur",
         "translations": {
             "ukrainian": "повернення",
             "english": "return",
@@ -3675,7 +3675,7 @@
         ]
     },
     {
-        "expression": "kundtjänst",
+        "expression": "en kundtjänst",
         "translations": {
             "ukrainian": "обслуговування клієнтів",
             "english": "customer service",
@@ -3850,7 +3850,7 @@
         ]
     },
     {
-        "expression": "betalning",
+        "expression": "en betalning",
         "translations": {
             "ukrainian": "оплата",
             "english": "payment",
@@ -4025,7 +4025,7 @@
         ]
     },
     {
-        "expression": "kreditkort",
+        "expression": "ett kreditkort",
         "translations": {
             "ukrainian": "кредитна картка",
             "english": "credit card",
@@ -4375,7 +4375,7 @@
         ]
     },
     {
-        "expression": "kvitto",
+        "expression": "ett kvitto",
         "translations": {
             "ukrainian": "квитанція",
             "english": "receipt",
@@ -4550,7 +4550,7 @@
         ]
     },
     {
-        "expression": "reklamation",
+        "expression": "en reklamation",
         "translations": {
             "ukrainian": "рекламація",
             "english": "complaint",
