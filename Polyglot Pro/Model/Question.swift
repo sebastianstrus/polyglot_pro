@@ -64,6 +64,21 @@ enum Language: String, CaseIterable, Identifiable, Codable {
     case portuguese
     case italian
     
+    // TODO: Not supported yet.
+    case japanese
+    case simplifiedChinese
+    case indonesian
+    case danish
+    case norwegian
+    case arabic
+    case hindi
+    case punjabi
+    case bengali
+    case finnish
+    case korean
+    case urdu
+    case icelandic
+    
     // Conform to Identifiable
     var id: String { self.rawValue }
     
@@ -82,6 +97,19 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case "french": self = .french
         case "portuguese": self = .portuguese
         case "italian": self = .italian
+        case "japanese": self = .japanese
+        case "simplifiedchinese": self = .simplifiedChinese
+        case "indonesian": self = .indonesian
+        case "danish": self = .danish
+        case "norwegian": self = .norwegian
+        case "arabic": self = .arabic
+        case "hindi": self = .hindi
+        case "punjabi": self = .punjabi
+        case "bengali": self = .bengali
+        case "finnish": self = .finnish
+        case "korean": self = .korean
+        case "urdu": self = .urdu
+        case "icelandic": self = .icelandic
         default:
             throw DecodingError.dataCorruptedError(in: container, debugDescription: "Invalid language: \(rawValue)")
         }
@@ -99,8 +127,22 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case .french: return "French".localized
         case .portuguese: return "Portuguese".localized
         case .italian: return "Italian".localized
+        case .japanese: return "Japanese".localized
+        case .simplifiedChinese: return "Simplified Chinese".localized
+        case .indonesian: return "Indonesian".localized
+        case .danish: return "Danish".localized
+        case .norwegian: return "Norwegian".localized
+        case .arabic: return "Arabic".localized
+        case .hindi: return "Hindi".localized
+        case .punjabi: return "Punjabi".localized
+        case .bengali: return "Bengali".localized
+        case .finnish: return "Finnish".localized
+        case .korean: return "Korean".localized
+        case .urdu: return "Urdu".localized
+        case .icelandic: return "Icelandic".localized
         }
     }
+
     
     var localeIdentifier: String {
         switch self {
@@ -113,8 +155,22 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case .french: return "fr"
         case .portuguese: return "pt-BR"
         case .italian: return "it"
+        case .japanese: return "ja"
+        case .simplifiedChinese: return "zh-Hans"
+        case .indonesian: return "id"
+        case .danish: return "da"
+        case .norwegian: return "no"
+        case .arabic: return "ar"
+        case .hindi: return "hi"
+        case .punjabi: return "pa"
+        case .bengali: return "bn"
+        case .finnish: return "fi"
+        case .korean: return "ko"
+        case .urdu: return "ur"
+        case .icelandic: return "is"
         }
     }
+
     
     var languageTag: String {
         switch self {
@@ -127,8 +183,22 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case .french: return "fr-FR"
         case .portuguese: return "pt-BR"
         case .italian: return "it-IT"
+        case .japanese: return "ja-JP"
+        case .simplifiedChinese: return "zh-Hans"
+        case .indonesian: return "id-ID"
+        case .danish: return "da-DK"
+        case .norwegian: return "no-NO"
+        case .arabic: return "ar-SA"
+        case .hindi: return "hi-IN"
+        case .punjabi: return "pa-IN"
+        case .bengali: return "bn-BD"
+        case .finnish: return "fi-FI"
+        case .korean: return "ko-KR"
+        case .urdu: return "ur-PK"
+        case .icelandic: return "is-IS"
         }
     }
+
     
     var flag: String {
         switch self {
@@ -139,8 +209,21 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case .english: return "🇺🇸" // 🇬🇧
         case .polish: return "🇵🇱"
         case .french: return "🇫🇷"
-        case .portuguese: return "🇧🇷"// 🇵🇹
+        case .portuguese: return "🇧🇷" // 🇵🇹
         case .italian: return "🇮🇹"
+        case .japanese: return "🇯🇵"
+        case .simplifiedChinese: return "🇨🇳"
+        case .indonesian: return "🇮🇩"
+        case .danish: return "🇩🇰"
+        case .norwegian: return "🇳🇴"
+        case .arabic: return "🇸🇦"
+        case .hindi: return "🇮🇳"
+        case .punjabi: return "🇮🇳" // No specific flag, using India’s
+        case .bengali: return "🇧🇩" // Bangladesh
+        case .finnish: return "🇫🇮"
+        case .korean: return "🇰🇷"
+        case .urdu: return "🇵🇰"
+        case .icelandic: return "🇮🇸"
         }
     }
     
@@ -195,7 +278,66 @@ enum Language: String, CaseIterable, Identifiable, Codable {
                     "K k", "L l", "M m", "N n", "O o", "P p", "Q q", "R r", "S s", "T t",
                     "U u", "V v", "W w", "X x", "Y y", "Z z", "À à", "È è", "É é", "Ì ì",
                     "Ò ò", "Ù ù"]
+            
+        case .japanese:
+            return ["あ", "い", "う", "え", "お", "か", "き", "く", "け", "こ", "さ", "し", "す", "せ", "そ", "た", "ち", "つ", "て", "と",
+                    "な", "に", "ぬ", "ね", "の", "は", "ひ", "ふ", "へ", "ほ", "ま", "み", "む", "め", "も", "や", "ゆ", "よ", "ら", "り", "る", "れ", "ろ",
+                    "わ", "を", "ん"]
+            
+        case .simplifiedChinese:
+            return ["一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "日", "月", "年", "人", "大", "小", "高", "低", "天", "地", "和", "中", "国"]
+            
+        case .indonesian:
+            return ["A a", "B b", "C c", "D d", "E e", "F f", "G g", "H h", "I i", "J j",
+                    "K k", "L l", "M m", "N n", "O o", "P p", "Q q", "R r", "S s", "T t",
+                    "U u", "V v", "W w", "X x", "Y y", "Z z"]
+            
+        case .danish:
+            return ["A a", "B b", "C c", "D d", "E e", "F f", "G g", "H h", "I i", "J j",
+                    "K k", "L l", "M m", "N n", "O o", "P p", "Q q", "R r", "S s", "T t",
+                    "U u", "V v", "W w", "X x", "Y y", "Z z", "Æ æ", "Ø ø", "Å å"]
+            
+        case .norwegian:
+            return ["A a", "B b", "C c", "D d", "E e", "F f", "G g", "H h", "I i", "J j",
+                    "K k", "L l", "M m", "N n", "O o", "P p", "Q q", "R r", "S s", "T t",
+                    "U u", "V v", "W w", "X x", "Y y", "Z z", "Æ æ", "Ø ø", "Å å"]
+            
+        case .arabic:
+            return ["ا", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش",
+                    "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "م", "ن", "ه",
+                    "و", "ي"]
+            
+        case .hindi:
+            return ["अ", "आ", "इ", "ई", "उ", "ऊ", "ऋ", "ॠ", "ऌ", "ॡ", "ए", "ऐ",
+                    "ओ", "औ", "अं", "अः", "क", "ख", "ग", "घ", "ङ", "च", "छ", "ज",
+                    "झ", "ञ", "ट", "ठ", "ड", "ढ", "ण", "त", "थ", "द", "ध", "न",
+                    "प", "फ", "ब", "भ", "म", "य", "र", "ल", "व", "श", "ष", "स",
+                    "ह", "क्ष", "त्र", "ज्ञ"]
+            
+        case .punjabi:
+            return ["ਅ", "ਆ", "ਇ", "ਈ", "ਉ", "ਊ", "ਏ", "ਐ", "ਓ", "ਔ", "ਕ", "ਖ", "ਗ", "ਘ", "ਙ", "ਚ", "ਛ", "ਜ", "ਝ", "ਞ", "ਟ", "ਠ", "ਡ", "ਢ", "ਣ", "ਤ",
+                    "ਥ", "ਦ", "ਧ", "ਨ", "ਪ", "ਫ", "ਬ", "ਭ", "ਮ", "ਯ", "ਰ", "ਲ", "ਵ", "ਸ਼", "ਸ", "ਹ", "ੜ", "ਕਾ", "ਹਾ"]
+            
+        case .bengali:
+            return ["অ", "আ", "ই", "ঈ", "উ", "ঊ", "ঋ", "ঌ", "এ", "ঐ", "ও", "ঔ", "ক", "খ", "গ", "ঘ", "ঙ", "চ", "ছ", "জ", "ঝ", "ঞ", "ট", "ঠ", "ড", "ঢ", "ণ",
+                    "ত", "থ", "দ", "ধ", "ন", "প", "ফ", "ব", "ভ", "ম", "য", "র", "ল", "শ", "ষ", "স", "হ", "ড়", "ঢ়", "য়", "ৰ"]
+            
+        case .finnish:
+            return ["A a", "B b", "C c", "D d", "E e", "F f", "G g", "H h", "I i", "J j", "K k", "L l", "M m", "N n", "O o", "P p", "Q q", "R r", "S s", "T t",
+                    "U u", "V v", "W w", "X x", "Y y", "Z z", "Å å", "Ä ä", "Ö ö"]
+            
+        case .korean:
+            return ["가", "나", "다", "라", "마", "바", "사", "아", "자", "차", "카", "타", "파", "하", "거", "너", "더", "러", "머", "버", "서", "어", "저", "처",
+                    "커", "터", "퍼", "허"]
+            
+        case .urdu:
+            return ["ا", "ب", "پ", "ت", "ٹ", "ث", "ج", "چ", "ح", "خ", "د", "ڈ", "ذ", "ر", "ڑ", "ز", "ژ", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق",
+                    "ک", "گ", "ل", "م", "ن", "ں", "و", "ہ", "ھ", "ء", "ی", "ے"]
+            
+        case .icelandic:
+            return ["A a", "Á á", "B b", "D d", "Ð ð", "E e", "É é", "F f", "G g", "H h", "I i", "Í í", "J j", "K k", "L l", "M m", "N n", "O o", "Ó ó", "P p",
+                    "R r", "S s", "T t", "U u", "Ú ú", "V v", "X x", "Y y", "Z z", "Þ þ", "Æ æ", "Ö ö"]
+
         }
     }
-        
 }
