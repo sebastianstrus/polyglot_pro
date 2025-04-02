@@ -21,11 +21,18 @@ struct LearnView: View {
         }
     }
     
+    let minLength: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 40
+        default: return 10
+        }
+    }()
+    
     var body: some View {
         
         VStack {
             
-            Spacer(minLength: 40)
+            Spacer(minLength: minLength)
             
             Text("Försök att komma ihåg %lld uttrycken.".localized(with: viewModel.questionsBase.count))
                 .styledSubtitel()
