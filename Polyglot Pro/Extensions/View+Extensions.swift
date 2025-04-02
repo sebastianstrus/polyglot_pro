@@ -7,8 +7,10 @@
 
 import SwiftUI
 import SwiftUI
-import UIKit
+#if os(iOS)
 import MessageUI
+import UIKit
+#endif
 
 enum ButtonType {
     case primary
@@ -243,10 +245,11 @@ extension View {
 }
 
 
+#if os(iOS)
 extension View {
     func onShake(perform action: @escaping () -> Void) -> some View {
         self.modifier(ShakeDetector(action: action))
     }
 }
-
+#endif
 

@@ -6,8 +6,11 @@
 //
 
 import SwiftUI
+
+#if os(iOS)
 import UIKit
 import MessageUI
+#endif
 
 extension Bundle {
     var appVersion: String {

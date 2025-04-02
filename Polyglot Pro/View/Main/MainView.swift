@@ -6,7 +6,10 @@
 //
 
 import SwiftUI
+
+#if os(iOS)
 import MessageUI
+#endif
 
 enum Destination: Hashable {
     case alphabet
@@ -22,8 +25,11 @@ enum Destination: Hashable {
 struct MainView: View {
     @EnvironmentObject var settings: SettingsManager
     @State private var showMailComposer = false
+    
+#if os(iOS)
     @State private var screenshot: UIImage?
     @State private var isPreparingScreenshot = false
+#endif
     
     let size: CGFloat = {
         switch Platform.current {
@@ -47,7 +53,6 @@ struct MainView: View {
     }()
     
     var body: some View {
-        // This will be our root view that handles shake gestures
         let rootView = ZStack {
             NavigationStack {
                 VStack(spacing: spacing) {
@@ -111,6 +116,7 @@ struct MainView: View {
                 SelectLanguageView()
             }
             
+#if os(iOS)
             if isPreparingScreenshot {
                 ProgressView("Preparing screenshot...")
                     .padding()
@@ -119,10 +125,11 @@ struct MainView: View {
                     .shadow(radius: 5)
                     .opacity(0)
             }
+#endif
         }
         
-        // Apply the shake gesture to the entire view hierarchy
         return rootView
+#if os(iOS)
             .onShake {
                 captureScreenshot()
             }
@@ -138,15 +145,16 @@ struct MainView: View {
                     Text("Please configure Mail to send feedback.")
                 }
             }
+#endif
     }
     
+#if os(iOS)
     private func captureScreenshot() {
         guard !isPreparingScreenshot else { return }
         
         isPreparingScreenshot = true
         
         DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
-            // Get the key window's root view controller
             guard let window = UIApplication.shared.connectedScenes
                 .filter({ $0.activationState == .foregroundActive })
                 .compactMap({ $0 as? UIWindowScene })
@@ -166,4 +174,5 @@ struct MainView: View {
             showMailComposer = true
         }
     }
+#endif
 }

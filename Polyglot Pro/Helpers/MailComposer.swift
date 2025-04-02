@@ -5,8 +5,10 @@
 //  Created by Sebastian Strus on 2025-04-02.
 //
 
-import MessageUI
 import SwiftUI
+
+#if os(iOS)
+import MessageUI
 
 struct MailComposer: UIViewControllerRepresentable {
     @Binding var isPresented: Bool
@@ -52,10 +54,8 @@ struct MailComposer: UIViewControllerRepresentable {
     
     private func getEmailBody() -> String {
         """
-        \("Let us know how we can improve the app. We appreciate your input!".localized)
-        
-        \("Feedback:".localized)
-        
+        \("I would like to share my feedback on the Polyglot Pro app:".localized)
+                
         
         
         
@@ -68,3 +68,4 @@ struct MailComposer: UIViewControllerRepresentable {
         """
     }
 }
+#endif

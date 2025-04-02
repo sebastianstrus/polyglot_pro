@@ -81,4 +81,29 @@ class SettingsManager: ObservableObject {
         userDefaults.removeObject(forKey: completedCategoriesKey())
         objectWillChange.send()
     }
+    
+    func resetSettings() {
+        isCountingMistakes = true
+        isConfettiOn = true
+        isSoundOn = true
+        isDarkMode = false
+        primaryLanguage = .english
+        targetLanguage = .swedish
+        speechRate = 0.4
+    }
+    
+    func clearUserDefaultsAndCloseApp() {
+        let defaults = UserDefaults.standard
+        if let bundleID = Bundle.main.bundleIdentifier {
+            defaults.removePersistentDomain(forName: bundleID)
+            defaults.synchronize()
+        }
+        
+#if os(macOS)
+        NSApplication.shared.terminate(nil)
+#else
+        exit(0)
+#endif
+        
+    }
 }

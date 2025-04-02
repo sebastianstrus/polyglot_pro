@@ -5,6 +5,7 @@
 //  Created by Sebastian Strus on 2025-04-02.
 //
 
+#if os(iOS)
 import MessageUI
 
 extension UIWindow {
@@ -14,3 +15,4 @@ extension UIWindow {
         }
     }
 }
+#endif

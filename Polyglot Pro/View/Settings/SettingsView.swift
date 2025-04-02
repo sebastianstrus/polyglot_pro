@@ -7,11 +7,17 @@
 
 import SwiftUI
 
+#if os(iOS)
+import MessageUI
+#endif
+
 struct SettingsView: View {
     
     @EnvironmentObject var settings: SettingsManager
         
-    @State private var showAlert = false
+    @State private var showProgressAlert = false
+    @State private var showCacheAlert = false
+    @State private var showMailComposer = false
     
     var body: some View {
         VStack {
@@ -19,13 +25,35 @@ struct SettingsView: View {
             Spacer()
             
             List {
+                Section(header: Text("Language".localized)) {
+                    NavigationLink(destination: PrimaryLanguageSelectionView(selectedLanguage: Binding(
+                        get: { settings.primaryLanguage ?? Language.english },
+                        set: { newValue in settings.savePrimaryLanguage(newValue) }
+                    ))) {
+                        HStack {
+                            Text("App Language".localized)
+                            Spacer()
+                            Text(settings.primaryLanguage!.displayName)
+                            
+                        }
+                    }
+                    
+                    NavigationLink(destination: TargetLanguageSelectionView(selectedLanguage: $settings.targetLanguage)) {
+                        HStack {
+                            Text("Target Language".localized)
+                            Spacer()
+                            Text(settings.targetLanguage.displayName)
+                        }
+                    }
+                }
+                
                 Section(header: Text("Vocabulary Settings".localized)) {
                     Toggle("Count Hints".localized, isOn: settings.$isCountingMistakes)
                         .tint(.purple)
                     Toggle("Display Confetti".localized, isOn: settings.$isConfettiOn)
                         .tint(.purple)
                     Button("Reset Progress".localized) {
-                        showAlert = true
+                        showProgressAlert = true
                     }
                 }
                 
@@ -52,41 +80,25 @@ struct SettingsView: View {
                     }
                 }
                 
-                Section(header: Text("Language".localized)) {
-                    NavigationLink(destination: PrimaryLanguageSelectionView(selectedLanguage: Binding(
-                        get: { settings.primaryLanguage ?? Language.english },
-                        set: { newValue in settings.savePrimaryLanguage(newValue) }
-                    ))) {
-                        HStack {
-                            Text("App Language".localized)
-                            Spacer()
-                            Text(settings.primaryLanguage!.displayName)
-                            
-                        }
-                    }
-                    
-                    NavigationLink(destination: TargetLanguageSelectionView(selectedLanguage: $settings.targetLanguage)) {
-                        HStack {
-                            Text("Target Language".localized)
-                            Spacer()
-                            Text(settings.targetLanguage.displayName)
-                        }
+                Section(header: Text("Let Us Know What You Think".localized)) {
+                    Button("Share Feedback".localized) {
+#if os(macOS)
+                        shareFeedback()
+#else
+                        showMailComposer = true
+#endif
                     }
                 }
                 
-                Section {
+                Section(header: Text("Default Settings".localized)) {
                     Button("Reset Settings".localized) {
-                        settings.isSoundOn = true
-                        settings.primaryLanguage = .english
-                        settings.targetLanguage = .swedish
-                        settings.speechRate = 0.4
-                        
+                        settings.resetSettings()
                     }
-                    .foregroundColor(.red)
-                    
-                    Button("Reset & Exit") {
-                                    clearUserDefaults()
-                                    exit(0) // Forces app to close
+                }
+                
+                Section(header: Text("Application Cache".localized)) {
+                    Button("Reset & Exit".localized) {
+                        showCacheAlert = true
                                 }
                     .foregroundColor(.red)
                 }
@@ -94,24 +106,58 @@ struct SettingsView: View {
         }
         .background( GradientBackground().ignoresSafeArea().opacity(settings.isDarkMode ? 1.0 : 0.0))
         .scrollContentBackground(settings.isDarkMode ? .hidden : .visible)
-        .alert("Are you sure you want to reset your progress?".localized, isPresented: $showAlert) {
+        .alert("Are you sure you want to reset your progress?".localized, isPresented: $showProgressAlert) {
             Button("Delete".localized, role: .destructive) {
-                        settings.resetCompletedCategories()
-                    }
+                settings.resetCompletedCategories()
+            }
             Button("Cancel".localized, role: .cancel) { }
-                } message: {
-                    Text("This action cannot be undone.".localized)
-                }
+        } message: {
+            Text("This action cannot be undone.".localized)
+        }
+        .alert("Are you sure you want to delete the application cache and close the app?".localized, isPresented: $showCacheAlert) {
+            Button("Delete".localized, role: .destructive) {
+                settings.clearUserDefaultsAndCloseApp()
+            }
+            Button("Cancel".localized, role: .cancel) { }
+        } message: {
+            Text("This action cannot be undone.".localized)
+        }
+#if os(iOS)
+        .sheet(isPresented: $showMailComposer) {
+            if MFMailComposeViewController.canSendMail() {
+                MailComposer(
+                    isPresented: $showMailComposer,
+                    screenshot: nil,
+                    recipient: "feedback@polyglotpro.com",
+                    subject: "Polyglot Pro Feedback"
+                )
+            } else {
+                Text("Please configure Mail to send feedback.".localized)
+            }
+        }
+#endif
         .customTitle("Settings".localized)
     }
     
-    func clearUserDefaults() {
-            let defaults = UserDefaults.standard
-            if let bundleID = Bundle.main.bundleIdentifier {
-                defaults.removePersistentDomain(forName: bundleID)
-                defaults.synchronize() // Ensure changes are saved
+#if os(macOS)
+    func shareFeedback() {
+        let recipient = "feedback@polyglotpro.com"
+        let subject = "Polyglot Pro Feedback"
+        let body = "I would like to share my feedback on the Polyglot Pro app:".localized + "\n\n"
+        
+        let encodedSubject = subject.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? ""
+        let encodedBody = body.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed) ?? ""
+        
+        if let url = URL(string: "mailto:\(recipient)?subject=\(encodedSubject)&body=\(encodedBody)") {
+            if NSWorkspace.shared.open(url) {
+                // Opens the default email client with the subject, body, and recipient pre-filled
+            } else {
+                // Handle case when mail client is not available
+                print("No email client found")
             }
         }
+    }
+#endif
 }
 
 

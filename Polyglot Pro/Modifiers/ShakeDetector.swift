@@ -5,6 +5,7 @@
 //  Created by Sebastian Strus on 2025-04-02.
 //
 
+#if os(iOS)
 import SwiftUI
 
 struct ShakeDetector: ViewModifier {
@@ -18,3 +19,4 @@ struct ShakeDetector: ViewModifier {
             }
     }
 }
+#endif

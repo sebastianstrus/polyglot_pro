@@ -5,6 +5,7 @@
 //  Created by Sebastian Strus on 2025-04-02.
 //
 
+#if os(iOS)
 import UIKit
 
 extension UIDevice {
@@ -208,3 +209,4 @@ extension UIDevice {
         }
     }
 }
+#endif
