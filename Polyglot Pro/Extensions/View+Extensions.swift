@@ -6,6 +6,9 @@
 //
 
 import SwiftUI
+import SwiftUI
+import UIKit
+import MessageUI
 
 enum ButtonType {
     case primary
@@ -238,3 +241,12 @@ extension View {
     }
     
 }
+
+
+extension View {
+    func onShake(perform action: @escaping () -> Void) -> some View {
+        self.modifier(ShakeDetector(action: action))
+    }
+}
+
+

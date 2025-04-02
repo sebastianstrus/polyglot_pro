@@ -20,13 +20,10 @@ enum Destination: Hashable {
 }
 
 struct MainView: View {
-    
     @EnvironmentObject var settings: SettingsManager
-    
-    @State private var isShowingMailView = false
-    @State private var mailResult: Result<MFMailComposeResult, Error>?
+    @State private var showMailComposer = false
     @State private var screenshot: UIImage?
-    
+    @State private var isPreparingScreenshot = false
     
     let size: CGFloat = {
         switch Platform.current {
@@ -50,15 +47,14 @@ struct MainView: View {
     }()
     
     var body: some View {
-        ZStack {
+        // This will be our root view that handles shake gestures
+        let rootView = ZStack {
             NavigationStack {
                 VStack(spacing: spacing) {
-                    
                     Text("Polyglot Pro")
                         .font(.system(size: size, weight: .bold, design: .rounded))
                         .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
                         .padding(.top, paddingTop)
-                    
                     
                     Spacer()
                     
@@ -82,7 +78,6 @@ struct MainView: View {
                         Text("Settings".localized).styledButton(.secondary)
                     }.buttonStyle(ScaleButtonStyle())
                     
-                    
                     Spacer()
                     Spacer()
                 }
@@ -100,48 +95,75 @@ struct MainView: View {
                     case .main: MainView()
                     }
                 }
-#if os(macOS)
+                #if os(macOS)
                 .safeAreaInset(edge: .top) { Color.clear.frame(height: 28) }
-#endif
-                .safeAreaInset(edge: .top) { Color.clear.frame(height: 28) }
-                
+                #endif
                 .background(
                     GradientBackground()
                         .ignoresSafeArea()
                 )
-#if os(iOS)
+                #if os(iOS)
                 .navigationBarHidden(true)
-#endif
+                #endif
             }
             
             if settings.primaryLanguage == nil {
                 SelectLanguageView()
             }
-        }
-        .onShake {
-            captureScreenshotAndPrepareEmail()
-        }
-        .sheet(isPresented: $isShowingMailView) {
-            if MFMailComposeViewController.canSendMail() {
-                MailView(isShowing: $isShowingMailView,
-                         result: $mailResult,
-                         screenshot: screenshot,
-                         recipient: "feedback@polyglotpro.com")
-            } else {
-                Text("Can't send emails from this device")
+            
+            if isPreparingScreenshot {
+                ProgressView("Preparing screenshot...")
+                    .padding()
+                    .background(Color(.systemBackground))
+                    .cornerRadius(10)
+                    .shadow(radius: 5)
+                    .opacity(0)
             }
         }
+        
+        // Apply the shake gesture to the entire view hierarchy
+        return rootView
+            .onShake {
+                captureScreenshot()
+            }
+            .sheet(isPresented: $showMailComposer) {
+                if MFMailComposeViewController.canSendMail() {
+                    MailComposer(
+                        isPresented: $showMailComposer,
+                        screenshot: screenshot,
+                        recipient: "feedback@polyglotpro.com",
+                        subject: "Polyglot Pro Feedback"
+                    )
+                } else {
+                    Text("Please configure Mail to send feedback.")
+                }
+            }
     }
     
-    private func captureScreenshotAndPrepareEmail() {
-        // Get the key window
-        guard let window = UIApplication.shared.windows.first else { return }
+    private func captureScreenshot() {
+        guard !isPreparingScreenshot else { return }
         
-        // Take screenshot
-        screenshot = window.screenshot
+        isPreparingScreenshot = true
         
-        // Show mail composer
-        isShowingMailView = true
+        DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
+            // Get the key window's root view controller
+            guard let window = UIApplication.shared.connectedScenes
+                .filter({ $0.activationState == .foregroundActive })
+                .compactMap({ $0 as? UIWindowScene })
+                .first?.windows
+                .first(where: { $0.isKeyWindow }) else {
+                isPreparingScreenshot = false
+                return
+            }
+            
+            window.layoutIfNeeded()
+            let renderer = UIGraphicsImageRenderer(size: window.bounds.size)
+            screenshot = renderer.image { _ in
+                window.drawHierarchy(in: window.bounds, afterScreenUpdates: true)
+            }
+            
+            isPreparingScreenshot = false
+            showMailComposer = true
+        }
     }
 }
-

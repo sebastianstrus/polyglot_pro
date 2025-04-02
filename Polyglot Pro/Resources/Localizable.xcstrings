@@ -661,9 +661,6 @@
         }
       }
     },
-    "Can't send emails from this device" : {
-
-    },
     "Cancel" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -1774,6 +1771,59 @@
         }
       }
     },
+    "Feedback:" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rückmeldung:"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comentarios:"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Retour:"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback:"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opinia:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback:"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feedback:"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відгук:"
+          }
+        }
+      }
+    },
     "Food verbs" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -2350,6 +2400,59 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Налаштування Мови"
+          }
+        }
+      }
+    },
+    "Let us know how we can improve the app. We appreciate your input!" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lassen Sie uns wissen, wie wir die App verbessern können. Wir schätzen Ihr Feedback!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinos cómo podemos mejorar la aplicación. Apreciamos tus comentarios!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dites-nous comment nous pouvons améliorer l’application. Nous apprécions votre avis!"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Facci sapere come possiamo migliorare l'app. Apprezziamo il tuo contributo!"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daj nam znać, jak możemy ulepszyć aplikację. Doceniamy Twoją opinię!"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diga-nos como podemos melhorar o aplicativo. Agradecemos o seu feedback!"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Låt oss veta hur vi kan förbättra appen. Vi uppskattar din feedback!"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Повідомте нам, як ми можемо покращити додаток. Ми цінуємо вашу думку!"
           }
         }
       }
@@ -3095,6 +3198,9 @@
         }
       }
     },
+    "Please configure Mail to send feedback." : {
+
+    },
     "Polish" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -3358,6 +3464,9 @@
           }
         }
       }
+    },
+    "Preparing screenshot..." : {
+
     },
     "Professions" : {
       "extractionState" : "manual",
@@ -3890,9 +3999,6 @@
           }
         }
       }
-    },
-    "Shake me to send feedback!" : {
-
     },
     "Shopping" : {
       "extractionState" : "manual",
