@@ -3624,6 +3624,9 @@
         }
       }
     },
+    "Reset & Exit" : {
+
+    },
     "Reset Progress" : {
       "extractionState" : "manual",
       "localizations" : {
