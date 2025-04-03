@@ -91,7 +91,7 @@ struct QuizView: View {
                         Spacer()
                     }
                     
-                    Text(viewModel.questions[viewModel.currentIndex].translations[viewModel.settings.primaryLanguage!.rawValue]!)
+                    Text(viewModel.questions[viewModel.currentIndex].translations[viewModel.settings.primaryLanguage!.rawValue] ?? "")
                         .styledTitel()
                         .padding()
                     

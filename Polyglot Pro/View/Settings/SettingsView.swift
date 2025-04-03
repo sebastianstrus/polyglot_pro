@@ -104,6 +104,10 @@ struct SettingsView: View {
                 }
             }
         }
+        .environment(\.layoutDirection, settings.isRightToLeft ? .rightToLeft : .leftToRight)
+        .id(settings.isRightToLeft)
+        
+        
         .background( GradientBackground().ignoresSafeArea().opacity(settings.isDarkMode ? 1.0 : 0.0))
         .scrollContentBackground(settings.isDarkMode ? .hidden : .visible)
         .alert("Are you sure you want to reset your progress?".localized, isPresented: $showProgressAlert) {
@@ -184,10 +188,14 @@ struct PrimaryLanguageSelectionView: View {
             }
         }
         .customTitle("Language".localized)
+        .environment(\.layoutDirection, settings.isRightToLeft ? .rightToLeft : .leftToRight)
+//        .id(settings.isRightToLeft)
     }
 }
 
 struct TargetLanguageSelectionView: View {
+    @EnvironmentObject var settings: SettingsManager
+    
     @Binding var selectedLanguage: Language
     
     var body: some View {
@@ -206,5 +214,7 @@ struct TargetLanguageSelectionView: View {
             }
         }
         .customTitle("Choose language".localized)
+        .environment(\.layoutDirection, settings.isRightToLeft ? .rightToLeft : .leftToRight)
+//        .id(settings.isRightToLeft)
     }
 }

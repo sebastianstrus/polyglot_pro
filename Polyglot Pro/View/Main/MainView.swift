@@ -111,6 +111,7 @@ struct MainView: View {
                 .navigationBarHidden(true)
                 #endif
             }
+            .id("\(settings.isRightToLeft)x")
             
             if settings.primaryLanguage == nil {
                 SelectLanguageView()

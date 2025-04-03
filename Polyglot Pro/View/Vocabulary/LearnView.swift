@@ -68,7 +68,7 @@ struct LearnView: View {
                                         .styledText(color: .blue)
                                     Text("–")
                                         .styledText(color: .gray)
-                                    Text(question.translations[viewModel.settings.primaryLanguage!.rawValue]!)
+                                    Text(question.translations[viewModel.settings.primaryLanguage!.rawValue] ?? "")
                                         .styledText(color: .purple)
                                 }
                                 .padding(.horizontal)

@@ -28,6 +28,7 @@ struct Polyglot_ProApp: App {
     
     
     init() {
+//        overrideLanguage()
 #if os(macOS)
         Task {
             NSApp.appearance = NSAppearance(named: .aqua)
@@ -41,8 +42,20 @@ struct Polyglot_ProApp: App {
                 .environmentObject(settings)
                 .frame(minWidth: minWidth, maxWidth: .infinity, minHeight: minHeight, maxHeight: .infinity)
                 .preferredColorScheme(settings.isDarkMode ? .dark : .light)
+                .environment(\.layoutDirection, settings.isRightToLeft ? .rightToLeft : .leftToRight)
+                .id(settings.isRightToLeft)
+
         }
     }
+    
+//    func overrideLanguage() {
+//            if let selectedLanguage = UserDefaults.standard.string(forKey: "SelectedAppLanguage") {
+//                let languageCode = selectedLanguage
+//                let path = Bundle.main.path(forResource: languageCode, ofType: "lproj") ?? Bundle.main.bundlePath
+//                let bundle = Bundle(path: path) ?? .main
+//                objc_setAssociatedObject(Bundle.main, &bundleKey, bundle, .OBJC_ASSOCIATION_RETAIN_NONATOMIC)
+//            }
+//        }
 }
 
 /* upload: sv_adjectives_colors.json
@@ -54,5 +67,33 @@ nyligen, idag, i morse, i kväll, i natt, om en stund, hädanefter, hittills, d�
 
 
 
-
-
+//
+//
+//import Foundation
+//
+//private var bundleKey: UInt8 = 0
+//
+//extension Bundle {
+//    static let swizzleLocalization: Void = {
+//        let originalSelector = #selector(Bundle.localizedString(forKey:value:table:))
+//        let swizzledSelector = #selector(Bundle.customLocalizedString(forKey:value:table:))
+//
+//        let originalMethod = class_getInstanceMethod(Bundle.self, originalSelector)
+//        let swizzledMethod = class_getInstanceMethod(Bundle.self, swizzledSelector)
+//
+//        if let originalMethod = originalMethod, let swizzledMethod = swizzledMethod {
+//            method_exchangeImplementations(originalMethod, swizzledMethod)
+//        }
+//    }()
+//
+//    @objc func customLocalizedString(forKey key: String, value: String?, table: String?) -> String {
+//        let bundle: Bundle
+//        if let languageCode = UserDefaults.standard.string(forKey: "SelectedAppLanguage"),
+//           let path = Bundle.main.path(forResource: languageCode, ofType: "lproj") {
+//            bundle = Bundle(path: path) ?? .main
+//        } else {
+//            bundle = .main
+//        }
+//        return bundle.customLocalizedString(forKey: key, value: value, table: table)
+//    }
+//}

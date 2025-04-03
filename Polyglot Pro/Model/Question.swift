@@ -115,6 +115,35 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         }
     }
     
+    init(localeIdentifier: String) {
+        switch localeIdentifier.lowercased() {
+        case "sv", "sv-se": self = .swedish
+        case "uk", "uk-ua": self = .ukrainian
+        case "es", "es-es": self = .spanish
+        case "de", "de-de": self = .german
+        case "en", "en-us", "en-gb": self = .english
+        case "pl", "pl-pl": self = .polish
+        case "fr", "fr-fr": self = .french
+        case "pt", "pt-br", "pt-pt": self = .portuguese
+        case "it", "it-it": self = .italian
+        case "ja", "ja-jp": self = .japanese
+        case "zh", "zh-hans", "zh-cn": self = .simplifiedChinese
+        case "id", "id-id": self = .indonesian
+        case "da", "da-dk": self = .danish
+        case "no", "no-no": self = .norwegian
+        case "ar", "ar-sa": self = .arabic
+        case "hi", "hi-in": self = .hindi
+        case "pa", "pa-in": self = .punjabi
+        case "bn", "bn-bd": self = .bengali
+        case "fi", "fi-fi": self = .finnish
+        case "ko", "ko-kr": self = .korean
+        case "ur", "ur-pk": self = .urdu
+        case "is", "is-is": self = .icelandic
+        default:
+            self = .english // Default fallback if no match is found
+        }
+    }
+    
     // Helper method to get the display name
     var displayName: String {
         switch self {
