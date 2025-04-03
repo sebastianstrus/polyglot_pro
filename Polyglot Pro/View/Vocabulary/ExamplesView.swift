@@ -81,7 +81,8 @@ struct ExampleRowView: View {
     
     var body: some View {
         
-        let text = (example.translations.first(where: { $0.language == viewModel.settings.primaryLanguage }))!.text
+        let text = ((example.translations.first(where: {$0.language == viewModel.settings.primaryLanguage }))
+                    ?? example.translations.first(where: {$0.language == .english })!).text
         
         return HStack() {
             Button(action: {
