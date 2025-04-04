@@ -162,7 +162,10 @@ struct LanguageScrollView: View {
                                         Text(languages[index].flag).font(Font.system(size: 52))
                                     }
                                     
-                                    Text(languages[index].displayName).font(.system(size: 14, weight: .bold, design: .rounded))
+                                    Text(languages[index].displayName).font(.system(size: 12, weight: .bold, design: .rounded))
+                                        .lineLimit(2)
+                                        .multilineTextAlignment(.center)
+                                        .fixedSize(horizontal: false, vertical: true)
                                 }
                                 .frame(width: itemWidth, height: 90)
                                 .padding(.bottom, 6)
