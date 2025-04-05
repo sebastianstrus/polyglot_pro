@@ -10,11 +10,11 @@ import Foundation
 extension String {
     var localized: String {
         // Use the selected language if available, otherwise use system language
-        if let primaryLanguage = SettingsManager.shared.primaryLanguage,
-           let path = Bundle.main.path(forResource: primaryLanguage.localeIdentifier, ofType: "lproj"),
-           let bundle = Bundle(path: path) {
-            return bundle.localizedString(forKey: self, value: nil, table: nil)
-        }
+//        if let primaryLanguage = SettingsManager.shared.primaryLanguage,
+//           let path = Bundle.main.path(forResource: primaryLanguage.localeIdentifier, ofType: "lproj"),
+//           let bundle = Bundle(path: path) {
+//            return bundle.localizedString(forKey: self, value: nil, table: nil)
+//        }
         return NSLocalizedString(self, comment: "")
     }
     
@@ -25,8 +25,8 @@ extension String {
     
     var targetLocalized: String {
         // Use the selected language if available, otherwise use system language
-        let targetLanguage = SettingsManager.shared.targetLanguage
-        if let path = Bundle.main.path(forResource: targetLanguage.localeIdentifier, ofType: "lproj"),
+        if let targetLanguage = SettingsManager.shared.targetLanguage,
+           let path = Bundle.main.path(forResource: targetLanguage.localeIdentifier, ofType: "lproj"),
            let bundle = Bundle(path: path) {
             return bundle.localizedString(forKey: self, value: nil, table: nil)
         }

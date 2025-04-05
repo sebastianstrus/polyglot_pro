@@ -112,7 +112,7 @@ struct MainView: View {
                 #endif
             }
             
-            if settings.primaryLanguage == nil {
+            if settings.targetLanguage == nil {
                 SelectLanguageView()
             }
             

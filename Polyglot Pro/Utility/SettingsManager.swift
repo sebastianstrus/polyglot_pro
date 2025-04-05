@@ -13,7 +13,7 @@ enum UserDefaultsKeys: String {
     case isConfettiOn
     case isDarkMode
     case speechRate
-    case primaryLanguage
+    case primaryLanguage = "AppleLanguages"
     case targetLanguage
     case completedCategories
 }
@@ -29,35 +29,36 @@ class SettingsManager: ObservableObject {
     @AppStorage(UserDefaultsKeys.isCountingMistakes.rawValue) var isCountingMistakes: Bool = true
     @AppStorage(UserDefaultsKeys.isDarkMode.rawValue) var isDarkMode: Bool = false
     @AppStorage(UserDefaultsKeys.speechRate.rawValue) var speechRate: Double = 0.4
-    @AppStorage(UserDefaultsKeys.targetLanguage.rawValue) var targetLanguage: Language = .swedish
+    @AppStorage(UserDefaultsKeys.targetLanguage.rawValue) var targetLanguage: Language?
     
     private let userDefaults = UserDefaults.standard
     
-    @Published var primaryLanguage: Language? = nil
+    @Published var primaryLanguage: Language
         
     private init() {
-        if let rawValue = userDefaults.string(forKey: UserDefaultsKeys.primaryLanguage.rawValue),
-           let savedLanguage = Language(rawValue: rawValue) {
-            primaryLanguage = savedLanguage
+        if let appleLanguages = userDefaults.array(forKey: UserDefaultsKeys.primaryLanguage.rawValue),
+           let code = appleLanguages.first as? String,
+           let appLanguage = Language(localeIdentifier: appleLanguages.first! as! String) {
+            primaryLanguage = appLanguage
         } else {
-            primaryLanguage = nil
+            primaryLanguage = .english
         }
     }
     
-    func savePrimaryLanguage(_ language: Language?) {
-        primaryLanguage = language
-        
-        if let language = language {
-            userDefaults.set(language.rawValue, forKey: UserDefaultsKeys.primaryLanguage.rawValue)
-        } else {
-            userDefaults.removeObject(forKey: UserDefaultsKeys.primaryLanguage.rawValue)
-        }
-        
-        objectWillChange.send()
-    }
+//    func savePrimaryLanguage(_ language: Language?) {
+//        primaryLanguage = language
+//        
+//        if let language = language {
+//            userDefaults.set(language.rawValue, forKey: UserDefaultsKeys.primaryLanguage.rawValue)
+//        } else {
+//            userDefaults.removeObject(forKey: UserDefaultsKeys.primaryLanguage.rawValue)
+//        }
+//        
+//        objectWillChange.send()
+//    }
 
     private func completedCategoriesKey() -> String {
-        return "\(UserDefaultsKeys.completedCategories.rawValue)_\(targetLanguage.rawValue)"
+        return "\(UserDefaultsKeys.completedCategories.rawValue)_\(targetLanguage!.rawValue)"
     }
     
     func markCategoryAsCompleted(_ category: Category) {
@@ -87,7 +88,7 @@ class SettingsManager: ObservableObject {
         isConfettiOn = true
         isSoundOn = true
         isDarkMode = false
-        primaryLanguage = .english
+//        primaryLanguage = .english
         targetLanguage = .swedish
         speechRate = 0.4
     }

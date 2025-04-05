@@ -43,17 +43,17 @@ struct SelectLanguageView: View {
         VStack {
             Spacer()
             
-            Text("Select primary language:".localized)
-                .font(.system(size: 16, weight: .bold, design: .rounded))
-                .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+//            Text("Select primary language:")
+//                .font(.system(size: 16, weight: .bold, design: .rounded))
+//                .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+//            
+//            LanguageScrollView(selectedIndex: $selectedPrimaryIndex, languages: languages) { language in
+//                tempPrimaryLanguage = language
+//            }
+//            
+//            Spacer()
             
-            LanguageScrollView(selectedIndex: $selectedPrimaryIndex, languages: languages) { language in
-                tempPrimaryLanguage = language
-            }
-            
-            Spacer()
-            
-            Text("Select target language:".localized)
+            Text("Select target language:")
                 .font(.system(size: 16, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
@@ -63,7 +63,7 @@ struct SelectLanguageView: View {
             
             Spacer()
             
-            Text("The languages must be different.".localized)
+            Text("The languages must be different.")
                 .font(.system(size: 12))
                 .foregroundColor(.red)
                 .opacity(isSameLanguage ? 1 : 0)
@@ -78,7 +78,6 @@ struct SelectLanguageView: View {
                     isSameLanguage = true
                     return
                 }
-                settings.savePrimaryLanguage(tempPrimaryLanguage)
                 settings.targetLanguage = tempTargetLanguage
             }
             

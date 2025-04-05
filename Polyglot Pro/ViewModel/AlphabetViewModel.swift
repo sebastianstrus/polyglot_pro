@@ -16,7 +16,7 @@ class AlphabetViewModel: ObservableObject {
     
     init(settings: SettingsManager) {
         self.settings = settings
-        self.letters = settings.targetLanguage.letters
+        self.letters = settings.targetLanguage?.letters ?? []
     }
 
     private let synthesizer = AVSpeechSynthesizer()
@@ -26,8 +26,10 @@ class AlphabetViewModel: ObservableObject {
         synthesizer.stopSpeaking(at: .immediate)
         
         let utterance = AVSpeechUtterance(string: letter)
-        utterance.voice = AVSpeechSynthesisVoice(language: settings.targetLanguage.languageTag)
+        if let targetLanguage = settings.targetLanguage {
+            utterance.voice = AVSpeechSynthesisVoice(language: targetLanguage.languageTag)
+            synthesizer.speak(utterance)
+        }
         
-        synthesizer.speak(utterance)
     }
 }

@@ -32,7 +32,7 @@ struct SettingsView: View {
                         HStack {
                             Text("App Language".localized)
                             Spacer()
-                            Text(settings.primaryLanguage!.displayName)
+                            Text(settings.primaryLanguage.displayName)
                             Image(systemName: "chevron.right")
                                 .font(.system(size: 13, weight: .semibold))
                                                     .foregroundColor(Color(UIColor.tertiaryLabel))
@@ -43,7 +43,7 @@ struct SettingsView: View {
                         HStack {
                             Text("Target Language".localized)
                             Spacer()
-                            Text(settings.targetLanguage.displayName)
+                            Text(settings.targetLanguage!.displayName)
                             
                         }
                     }
@@ -190,7 +190,7 @@ struct PrimaryLanguageSelectionView: View {
 }
 
 struct TargetLanguageSelectionView: View {
-    @Binding var selectedLanguage: Language
+    @Binding var selectedLanguage: Language?
     
     var body: some View {
         List([Language.swedish], id: \.self) { language in
