@@ -63,6 +63,7 @@ struct MailComposer: UIViewControllerRepresentable {
         Device: \(UIDevice.current.modelName)
         iOS: \(UIDevice.current.systemVersion)
         App Version: \(Bundle.main.appVersion)
+        Language: \(UserDefaults.standard.array(forKey: UserDefaultsKeys.primaryLanguage.rawValue)?.first ?? "null")
         Screen: \(UIDevice.current.screenSizePoints) (\(UIDevice.current.screenSizePixels))
         
         """

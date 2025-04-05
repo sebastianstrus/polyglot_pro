@@ -14,6 +14,7 @@ import MessageUI
 struct SettingsView: View {
     
     @EnvironmentObject var settings: SettingsManager
+    @Environment(\.layoutDirection) var layoutDirection
         
     @State private var showProgressAlert = false
     @State private var showCacheAlert = false
@@ -34,8 +35,13 @@ struct SettingsView: View {
                             Spacer()
                             Text(settings.primaryLanguage.displayName)
                             Image(systemName: "chevron.right")
+                                .scaleEffect(x: layoutDirection == .rightToLeft ? -1 : 1, y: 1)
                                 .font(.system(size: 13, weight: .semibold))
-                                                    .foregroundColor(Color(UIColor.tertiaryLabel))
+#if os(iOS)
+    .foregroundColor(Color(UIColor.tertiaryLabel))
+#elseif os(macOS)
+    .foregroundColor(Color(NSColor.tertiaryLabelColor))
+#endif
                         }.foregroundColor(settings.isDarkMode ? .white : .black)
                     }
                     
@@ -193,9 +199,20 @@ struct TargetLanguageSelectionView: View {
     @Binding var selectedLanguage: Language?
     
     var body: some View {
-        List([Language.swedish], id: \.self) { language in
+        List(Language.allCases, id: \.self) { language in
+            
             HStack {
-                Text(language.displayName)
+                Text(language.flag)
+                    .font(.system(size: 34))
+                
+                VStack(alignment: .leading) {
+                    Text(language.nativeName)
+                        .font(.body)
+                    Text(language.displayName)
+                        .font(.system(size: 14))
+                        .foregroundColor(.gray)
+                }
+                
                 Spacer()
                 if language == selectedLanguage {
                     Image(systemName: "checkmark")

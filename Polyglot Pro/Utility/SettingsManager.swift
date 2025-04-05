@@ -93,7 +93,18 @@ class SettingsManager: ObservableObject {
         speechRate = 0.4
     }
     
+    func updateLanguage() {
+//        if let langArray = userDefaults.array(forKey: UserDefaultsKeys.primaryLanguage.rawValue), !langArray.isEmpty {
+            if let appleLangArray = userDefaults.array(forKey: UserDefaultsKeys.primaryLanguage.rawValue),
+               let identifier = appleLangArray.first,
+               let appleLanguage = Language(localeIdentifier: identifier as! String) {
+                primaryLanguage = appleLanguage
+            }
+//        }
+    }
+    
     func openAppLanguageSettings() {
+#if os(iOS)
         guard let bundleId = Bundle.main.bundleIdentifier,
               let settingsUrl = URL(string: UIApplication.openSettingsURLString + "&path=\(bundleId)/LANGUAGE") else {
             return
@@ -102,6 +113,9 @@ class SettingsManager: ObservableObject {
         if UIApplication.shared.canOpenURL(settingsUrl) {
             UIApplication.shared.open(settingsUrl)
         }
+#else
+        
+#endif
     }
     
     func clearUserDefaultsAndCloseApp() {

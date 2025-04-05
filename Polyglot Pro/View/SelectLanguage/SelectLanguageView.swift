@@ -11,7 +11,7 @@ struct SelectLanguageView: View {
     @EnvironmentObject var settings: SettingsManager
     
     @State private var tempPrimaryLanguage: Language? = .english
-    @State private var tempTargetLanguage: Language = .swedish // Default
+    @State private var tempTargetLanguage: Language? = .swedish // Default
     
     @State private var isSameLanguage: Bool = false
     
@@ -54,8 +54,13 @@ struct SelectLanguageView: View {
 //            Spacer()
             
             Text("Select target language:")
-                .font(.system(size: 16, weight: .bold, design: .rounded))
+                .font(.system(size: 22, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                .lineLimit(2)
+                .multilineTextAlignment(.center)
+                .fixedSize(horizontal: false, vertical: true)
+            
+            Spacer()
             
             LanguageScrollView(selectedIndex: $selectedTargetIndex, languages: languages) { language in
                 tempTargetLanguage = language
@@ -63,10 +68,10 @@ struct SelectLanguageView: View {
             
             Spacer()
             
-            Text("The languages must be different.")
-                .font(.system(size: 12))
-                .foregroundColor(.red)
-                .opacity(isSameLanguage ? 1 : 0)
+//            Text("The languages must be different.")
+//                .font(.system(size: 12))
+//                .foregroundColor(.red)
+//                .opacity(isSameLanguage ? 1 : 0)
             
             NavigationLink(value: Destination.main) {
                 Text("Continue".localized)
@@ -74,11 +79,14 @@ struct SelectLanguageView: View {
             }
             .buttonStyle(ScaleButtonStyle())
             .onTapGesture {
-                guard tempPrimaryLanguage != tempTargetLanguage else {
-                    isSameLanguage = true
-                    return
+//                guard tempPrimaryLanguage != tempTargetLanguage else {
+//                    isSameLanguage = true
+//                    return
+//                }
+                if tempTargetLanguage == .swedish {
+                    settings.targetLanguage = tempTargetLanguage
                 }
-                settings.targetLanguage = tempTargetLanguage
+                
             }
             
             Spacer()
@@ -98,6 +106,8 @@ struct SelectLanguageView: View {
 
 
 struct LanguageScrollView: View {
+    @Environment(\.layoutDirection) var layoutDirection
+    
     @Binding var selectedIndex: Int
     let languages: [Language]
     let onSelect: (Language) -> Void
@@ -126,7 +136,7 @@ struct LanguageScrollView: View {
     var body: some View {
         ZStack {
             GeometryReader { geometry in
-                let itemWidth: CGFloat = 100
+                let itemWidth: CGFloat = 120
                 let spacing: CGFloat = 10
                 let midX = geometry.size.width / 2
                 
@@ -161,13 +171,23 @@ struct LanguageScrollView: View {
                                         Text(languages[index].flag).font(Font.system(size: 52))
                                     }
                                     
-                                    Text(languages[index].displayName).font(.system(size: 12, weight: .bold, design: .rounded))
+                                    Text(languages[index].nativeName).font(.system(size: 12, weight: .bold, design: .rounded))
                                         .lineLimit(2)
                                         .multilineTextAlignment(.center)
                                         .fixedSize(horizontal: false, vertical: true)
+                                        .frame(width: 94)
+                                    
+                                    Text(languages[index].displayName).font(.system(size: 12, weight: .bold, design: .rounded))
+                                        .foregroundColor(.gray)
+                                        .lineLimit(2)
+                                        .multilineTextAlignment(.center)
+                                        .fixedSize(horizontal: false, vertical: true)
+                                        .padding(.top, 2)
+                                        .frame(width: 114)
                                 }
-                                .frame(width: itemWidth, height: 90)
+                                .frame(width: itemWidth, height: 110)
                                 .padding(.bottom, 6)
+                                .background(Color.white)
                                 .overlay(
                                     RoundedRectangle(cornerRadius: 10)
                                         .stroke(
@@ -222,7 +242,7 @@ struct LanguageScrollView: View {
                     }
                 }
             }
-            .frame(height: 100)
+            .frame(height: 120)
             .simultaneousGesture(
                 DragGesture()
                     .onChanged { _ in
@@ -238,12 +258,14 @@ struct LanguageScrollView: View {
             // Gradient overlays
             HStack {
                 LinearGradient(gradient: Gradient(colors: [.white, .clear]), startPoint: .leading, endPoint: .trailing)
-                    .frame(width: gradientWidth, height: 100)
+                    .frame(width: gradientWidth, height: 120)
+                    .scaleEffect(x: layoutDirection == .rightToLeft ? -1 : 1, y: 1)
                 
                 Spacer()
                 
                 LinearGradient(gradient: Gradient(colors: [.clear, .white]), startPoint: .leading, endPoint: .trailing)
-                    .frame(width: 80, height: 100)
+                    .frame(width: 80, height: 120)
+                    .scaleEffect(x: layoutDirection == .rightToLeft ? -1 : 1, y: 1)
             }
             .allowsHitTesting(false)
         }

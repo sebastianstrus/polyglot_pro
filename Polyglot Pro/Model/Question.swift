@@ -115,8 +115,37 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         }
     }
     
+//    init?(localeIdentifier: String) {
+//        switch localeIdentifier.lowercased() {
+//        case "sv": self = .swedish
+//        case "uk": self = .ukrainian
+//        case "es": self = .spanish
+//        case "de": self = .german
+//        case "en": self = .english
+//        case "pl": self = .polish
+//        case "fr": self = .french
+//        case "pt-br": self = .portuguese
+//        case "it": self = .italian
+//        case "ja": self = .japanese
+//        case "zh-hans": self = .simplifiedChinese
+//        case "id": self = .indonesian
+//        case "da": self = .danish
+//        case "no": self = .norwegian
+//        case "ar": self = .arabic
+//        case "hi": self = .hindi
+//        case "pa": self = .punjabi
+//        case "bn": self = .bengali
+//        case "fi": self = .finnish
+//        case "ko": self = .korean
+//        case "ur": self = .urdu
+//        case "is": self = .icelandic
+//        default:
+//            return nil
+//        }
+//    }
+    
     init?(localeIdentifier: String) {
-        switch localeIdentifier.lowercased() {
+        switch String(localeIdentifier.lowercased().prefix(2)) {
         case "sv": self = .swedish
         case "uk": self = .ukrainian
         case "es": self = .spanish
@@ -124,10 +153,10 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case "en": self = .english
         case "pl": self = .polish
         case "fr": self = .french
-        case "pt-br": self = .portuguese
+        case "pt": self = .portuguese
         case "it": self = .italian
         case "ja": self = .japanese
-        case "zh-hans": self = .simplifiedChinese
+        case "zh": self = .simplifiedChinese
         case "id": self = .indonesian
         case "da": self = .danish
         case "no": self = .norwegian
@@ -144,7 +173,34 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         }
     }
     
-    // Helper method to get the display name
+    
+    var localKey: String {
+        switch self {
+        case .swedish: return "Swedish"
+        case .ukrainian: return "Ukrainian"
+        case .spanish: return "Spanish"
+        case .german: return "German"
+        case .english: return "English"
+        case .polish: return "Polish"
+        case .french: return "French"
+        case .portuguese: return "Portuguese"
+        case .italian: return "Italian"
+        case .japanese: return "Japanese"
+        case .simplifiedChinese: return "Simplified Chinese"
+        case .indonesian: return "Indonesian"
+        case .danish: return "Danish"
+        case .norwegian: return "Norwegian"
+        case .arabic: return "Arabic"
+        case .hindi: return "Hindi"
+        case .punjabi: return "Punjabi"
+        case .bengali: return "Bengali"
+        case .finnish: return "Finnish"
+        case .korean: return "Korean"
+        case .urdu: return "Urdu"
+        case .icelandic: return "Icelandic"
+        }
+    }
+    
     var displayName: String {
         switch self {
         case .swedish: return "Swedish".localized
@@ -170,6 +226,15 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case .urdu: return "Urdu".localized
         case .icelandic: return "Icelandic".localized
         }
+    }
+    
+    var nativeName: String {
+        // Use the selected language if available, otherwise use system language
+        if let path = Bundle.main.path(forResource: self.localeIdentifier, ofType: "lproj"),
+           let bundle = Bundle(path: path) {
+            return bundle.localizedString(forKey: localKey, value: nil, table: nil)
+        }
+        return localKey//NSLocalizedString(localKey, comment: "")
     }
 
     

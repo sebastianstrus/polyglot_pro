@@ -145,6 +145,10 @@ struct MainView: View {
                     Text("Please configure Mail to send feedback.")
                 }
             }
+            .onReceive(NotificationCenter.default.publisher(for: UIApplication.didBecomeActiveNotification)) { _ in
+                print("TEST100 didBecomeActiveNotification")
+                settings.updateLanguage()
+            }
 #endif
     }
     
