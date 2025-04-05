@@ -26,16 +26,17 @@ struct SettingsView: View {
             
             List {
                 Section(header: Text("Language".localized)) {
-                    NavigationLink(destination: PrimaryLanguageSelectionView(selectedLanguage: Binding(
-                        get: { settings.primaryLanguage ?? Language.english },
-                        set: { newValue in settings.savePrimaryLanguage(newValue) }
-                    ))) {
+                    Button(action: {
+                        settings.openAppLanguageSettings()
+                    }) {
                         HStack {
                             Text("App Language".localized)
                             Spacer()
                             Text(settings.primaryLanguage!.displayName)
-                            
-                        }
+                            Image(systemName: "chevron.right")
+                                .font(.system(size: 13, weight: .semibold))
+                                                    .foregroundColor(Color(UIColor.tertiaryLabel))
+                        }.foregroundColor(settings.isDarkMode ? .white : .black)
                     }
                     
                     NavigationLink(destination: TargetLanguageSelectionView(selectedLanguage: $settings.targetLanguage)) {
@@ -43,6 +44,7 @@ struct SettingsView: View {
                             Text("Target Language".localized)
                             Spacer()
                             Text(settings.targetLanguage.displayName)
+                            
                         }
                     }
                 }

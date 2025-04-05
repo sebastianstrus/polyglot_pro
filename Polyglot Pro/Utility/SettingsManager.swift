@@ -92,6 +92,17 @@ class SettingsManager: ObservableObject {
         speechRate = 0.4
     }
     
+    func openAppLanguageSettings() {
+        guard let bundleId = Bundle.main.bundleIdentifier,
+              let settingsUrl = URL(string: UIApplication.openSettingsURLString + "&path=\(bundleId)/LANGUAGE") else {
+            return
+        }
+        
+        if UIApplication.shared.canOpenURL(settingsUrl) {
+            UIApplication.shared.open(settingsUrl)
+        }
+    }
+    
     func clearUserDefaultsAndCloseApp() {
         let defaults = UserDefaults.standard
         if let bundleID = Bundle.main.bundleIdentifier {
