@@ -14,6 +14,7 @@ enum UserDefaultsKeys: String {
     case isDarkMode
     case speechRate
     case primaryLanguage
+    case appleLanguages = "AppleLanguages"
     case targetLanguage
     case completedCategories
 }
@@ -33,24 +34,36 @@ class SettingsManager: ObservableObject {
     
     private let userDefaults = UserDefaults.standard
     
-    @Published var primaryLanguage: Language? = nil
+    @Published var layoutDirection: LayoutDirection = .leftToRight
+    
+    @Published var primaryLanguage: Language? = nil {
+        didSet {
+            self.layoutDirection = primaryLanguage == .arabic || primaryLanguage == .urdu ? .rightToLeft : .leftToRight
+        }
+    }
         
     private init() {
-        if let rawValue = userDefaults.string(forKey: UserDefaultsKeys.primaryLanguage.rawValue),
-           let savedLanguage = Language(rawValue: rawValue) {
+        print("TEST100 SettingsManager init with array: \(userDefaults.array(forKey: UserDefaultsKeys.primaryLanguage.rawValue))")
+        if let langArray = userDefaults.array(forKey: UserDefaultsKeys.primaryLanguage.rawValue),
+           let identifier = langArray.first {
+            print("TEST100 SettingsManager init identifier: \(identifier)")
+            
+            let savedLanguage = Language(localeIdentifier: identifier as! String)
+            print("TEST100 SettingsManager init identifier: \(savedLanguage)")
+            
             primaryLanguage = savedLanguage
-        } else {
-            primaryLanguage = nil
+            
+            self.layoutDirection = savedLanguage == .arabic ? .rightToLeft : .leftToRight
+            
+            
         }
     }
     
     func savePrimaryLanguage(_ language: Language?) {
-        primaryLanguage = language
-        
         if let language = language {
-            userDefaults.set(language.rawValue, forKey: UserDefaultsKeys.primaryLanguage.rawValue)
-        } else {
-            userDefaults.removeObject(forKey: UserDefaultsKeys.primaryLanguage.rawValue)
+            primaryLanguage = language
+            userDefaults.set([language.localeIdentifier], forKey: UserDefaultsKeys.primaryLanguage.rawValue)
+            userDefaults.set([language.localeIdentifier], forKey: UserDefaultsKeys.appleLanguages.rawValue)
         }
         
         objectWillChange.send()
@@ -92,12 +105,28 @@ class SettingsManager: ObservableObject {
         speechRate = 0.4
     }
     
-    func clearUserDefaultsAndCloseApp() {
-        let defaults = UserDefaults.standard
-        if let bundleID = Bundle.main.bundleIdentifier {
-            defaults.removePersistentDomain(forName: bundleID)
-            defaults.synchronize()
+    func updateLanguage() {
+        if let langArray = userDefaults.array(forKey: UserDefaultsKeys.primaryLanguage.rawValue), !langArray.isEmpty {
+            if let appleLangArray = userDefaults.array(forKey: UserDefaultsKeys.appleLanguages.rawValue),
+               let identifier = appleLangArray.first {
+                
+                let appleLanguage = Language(languageTag: identifier as! String)
+//                let appleLanguage = Language(localeIdentifier: identifier as! String)
+                savePrimaryLanguage(appleLanguage)
+            }
         }
+    }
+    
+    func clearUserDefaultsAndCloseApp() {
+
+        if let bundleID = Bundle.main.bundleIdentifier {
+            userDefaults.removePersistentDomain(forName: bundleID)
+            userDefaults.removeObject(forKey: UserDefaultsKeys.primaryLanguage.rawValue)
+            userDefaults.removeObject(forKey: UserDefaultsKeys.appleLanguages.rawValue)
+            userDefaults.synchronize()
+        }
+        
+        print("userDefaults.object(forKey: UserDefaultsKeys.appleLanguages.rawValue)\(userDefaults.object(forKey: UserDefaultsKeys.appleLanguages.rawValue))")
         
 #if os(macOS)
         NSApplication.shared.terminate(nil)

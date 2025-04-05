@@ -54,7 +54,7 @@ struct Example: Decodable {
 }
 
 enum Language: String, CaseIterable, Identifiable, Codable {
-    case english
+    case english = "en"
     case swedish
     case ukrainian
     case spanish
@@ -114,6 +114,36 @@ enum Language: String, CaseIterable, Identifiable, Codable {
             throw DecodingError.dataCorruptedError(in: container, debugDescription: "Invalid language: \(rawValue)")
         }
     }
+    
+    init?(localeIdentifier: String) {
+            switch localeIdentifier.lowercased() {
+            case "sv": self = .swedish
+            case "uk": self = .ukrainian
+            case "es": self = .spanish
+            case "de": self = .german
+            case "en": self = .english
+            case "pl": self = .polish
+            case "fr": self = .french
+            case "pt-br": self = .portuguese
+            case "it": self = .italian
+            case "ja": self = .japanese
+            case "zh-hans": self = .simplifiedChinese
+            case "id": self = .indonesian
+            case "da": self = .danish
+            case "no": self = .norwegian
+            case "ar": self = .arabic
+            case "hi": self = .hindi
+            case "pa": self = .punjabi
+            case "bn": self = .bengali
+            case "fi": self = .finnish
+            case "ko": self = .korean
+            case "ur": self = .urdu
+            case "is": self = .icelandic
+            default: return nil
+            }
+        }
+    
+    
     
     // Helper method to get the display name
     var displayName: String {
@@ -198,6 +228,56 @@ enum Language: String, CaseIterable, Identifiable, Codable {
         case .icelandic: return "is-IS"
         }
     }
+    
+    init?(languageTag: String) {
+        switch String(languageTag.lowercased().prefix(2)) {
+            case "sv": self = .swedish
+            case "uk": self = .ukrainian
+            case "es": self = .spanish
+            case "de": self = .german
+            case "en": self = .english
+            case "pl": self = .polish
+            case "fr": self = .french
+            case "pt": self = .portuguese
+            case "it": self = .italian
+            case "ja": self = .japanese
+            case "zh": self = .simplifiedChinese
+            case "id": self = .indonesian
+            case "da": self = .danish
+            case "no": self = .norwegian
+            case "ar": self = .arabic
+            case "hi": self = .hindi
+            case "pa": self = .punjabi
+            case "bn": self = .bengali
+            case "fi": self = .finnish
+            case "ko": self = .korean
+            case "ur": self = .urdu
+            case "is": self = .icelandic
+//        case "sv-se": self = .swedish
+//        case "uk-ua": self = .ukrainian
+//        case "es-es": self = .spanish
+//        case "de-de": self = .german
+//        case "en-us": self = .english
+//        case "pl-pl": self = .polish
+//        case "fr-fr": self = .french
+//        case "pt-br": self = .portuguese
+//        case "it-it": self = .italian
+//        case "ja-jp": self = .japanese
+//        case "zh-hans": self = .simplifiedChinese
+//        case "id-id": self = .indonesian
+//        case "da-dk": self = .danish
+//        case "no-no": self = .norwegian
+//        case "ar-sa": self = .arabic
+//        case "hi-in": self = .hindi
+//        case "pa-in": self = .punjabi
+//        case "bn-bd": self = .bengali
+//        case "fi-fi": self = .finnish
+//        case "ko-kr": self = .korean
+//        case "ur-pk": self = .urdu
+//        case "is-is": self = .icelandic
+            default: return nil
+            }
+        }
 
     
     var flag: String {

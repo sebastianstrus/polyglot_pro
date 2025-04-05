@@ -102,7 +102,7 @@ struct SettingsView: View {
                                 }
                     .foregroundColor(.red)
                 }
-            }
+            }.id(UUID())
         }
         .background( GradientBackground().ignoresSafeArea().opacity(settings.isDarkMode ? 1.0 : 0.0))
         .scrollContentBackground(settings.isDarkMode ? .hidden : .visible)
@@ -137,6 +137,7 @@ struct SettingsView: View {
         }
 #endif
         .customTitle("Settings".localized)
+        .id(UUID())
     }
     
 #if os(macOS)
@@ -161,50 +162,3 @@ struct SettingsView: View {
 }
 
 
-import SwiftUI
-
-struct PrimaryLanguageSelectionView: View {
-    
-    @EnvironmentObject var settings: SettingsManager
-    @Binding var selectedLanguage: Language?
-    
-    var body: some View {
-        List(Language.allCases.filter { $0 != settings.targetLanguage }, id: \.self) { language in
-            HStack {
-                Text(language.displayName)
-                Spacer()
-                if language == selectedLanguage {
-                    Image(systemName: "checkmark")
-                        .foregroundColor(.blue)
-                }
-            }
-            .contentShape(Rectangle()) // Makes the whole row tappable
-            .onTapGesture {
-                selectedLanguage = language
-            }
-        }
-        .customTitle("Language".localized)
-    }
-}
-
-struct TargetLanguageSelectionView: View {
-    @Binding var selectedLanguage: Language
-    
-    var body: some View {
-        List([Language.swedish], id: \.self) { language in
-            HStack {
-                Text(language.displayName)
-                Spacer()
-                if language == selectedLanguage {
-                    Image(systemName: "checkmark")
-                        .foregroundColor(.blue)
-                }
-            }
-            .contentShape(Rectangle()) // Makes the whole row tappable
-            .onTapGesture {
-                selectedLanguage = language
-            }
-        }
-        .customTitle("Choose language".localized)
-    }
-}

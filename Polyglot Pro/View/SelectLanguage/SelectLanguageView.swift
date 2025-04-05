@@ -43,7 +43,7 @@ struct SelectLanguageView: View {
         VStack {
             Spacer()
             
-            Text("Select primary language:".localized)
+            Text("Select primary language:")
                 .font(.system(size: 16, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             
@@ -53,7 +53,7 @@ struct SelectLanguageView: View {
             
             Spacer()
             
-            Text("Select target language:".localized)
+            Text("Select target language:")
                 .font(.system(size: 16, weight: .bold, design: .rounded))
                 .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
             

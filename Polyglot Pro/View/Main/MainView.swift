@@ -26,6 +26,8 @@ struct MainView: View {
     @EnvironmentObject var settings: SettingsManager
     @State private var showMailComposer = false
     
+    @State private var appearedTimes: Int = 0
+    
 #if os(iOS)
     @State private var screenshot: UIImage?
     @State private var isPreparingScreenshot = false
@@ -54,67 +56,76 @@ struct MainView: View {
     
     var body: some View {
         let rootView = ZStack {
-            NavigationStack {
-                VStack(spacing: spacing) {
-                    Text("Polyglot Pro")
-                        .font(.system(size: size, weight: .bold, design: .rounded))
-                        .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
-                        .padding(.top, paddingTop)
-                    
-                    Spacer()
-                    
-                    NavigationLink(value: Destination.alphabet) {
-                        Text("Alphabet".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.vocabulary) {
-                        Text("Vocabulary".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.grammar) {
-                        Text("Grammar".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.exercises) {
-                        Text("Exercises".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.settings) {
-                        Text("Settings".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    Spacer()
-                    Spacer()
-                }
-                .customTitle("Menu".localized)
-                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                .navigationDestination(for: Destination.self) { destination in
-                    switch destination {
-                    case .alphabet: AlphabetView(viewModel: AlphabetViewModel(settings: settings))
-                    case .grammar: GrammarView()
-                    case .vocabulary: VocabularyView()
-                    case .exercises: ExercisesView()
-                    case .settings: SettingsView()
-                    case .selectLanguage: SelectLanguageView()
-                    case .quiz(let category): QuizView(viewModel: LearnViewModel(settings: settings, category: category))
-                    case .main: MainView()
+
+#if os(iOS)
+//                Text("Appeared times: \(appearedTimes)")
+//                Text("Layout direction: \(settings.layoutDirection)")
+//                Text("Settings primaryLanguage: \(settings.primaryLanguage?.rawValue ?? "not set")")
+#endif
+
+                NavigationStack {
+                    VStack(spacing: spacing) {
+                        Text("Polyglot Pro")
+                            .font(.system(size: size, weight: .bold, design: .rounded))
+                            .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                            .padding(.top, paddingTop)
+                        
+                        Spacer()
+                        
+                        NavigationLink(value: Destination.alphabet) {
+                            Text("Alphabet".localized).styledButton(.secondary)
+                        }.buttonStyle(ScaleButtonStyle())
+                        
+                        NavigationLink(value: Destination.vocabulary) {
+                            Text("Vocabulary".localized).styledButton(.secondary)
+                        }.buttonStyle(ScaleButtonStyle())
+                        
+                        NavigationLink(value: Destination.grammar) {
+                            Text("Grammar".localized).styledButton(.secondary)
+                        }.buttonStyle(ScaleButtonStyle())
+                        
+                        NavigationLink(value: Destination.exercises) {
+                            Text("Exercises".localized).styledButton(.secondary)
+                        }.buttonStyle(ScaleButtonStyle())
+                        
+                        NavigationLink(value: Destination.settings) {
+                            Text("Settings".localized).styledButton(.secondary)
+                        }.buttonStyle(ScaleButtonStyle())
+                        
+                        Spacer()
+                        Spacer()
                     }
+                    .customTitle("Menu".localized)
+                    .frame(maxWidth: .infinity, maxHeight: .infinity)
+                    .navigationDestination(for: Destination.self) { destination in
+                        switch destination {
+                        case .alphabet: AlphabetView(viewModel: AlphabetViewModel(settings: settings))
+                        case .grammar: GrammarView()
+                        case .vocabulary: VocabularyView()
+                        case .exercises: ExercisesView()
+                        case .settings: SettingsView()
+                        case .selectLanguage: SelectLanguageView()
+                        case .quiz(let category): QuizView(viewModel: LearnViewModel(settings: settings, category: category))
+                        case .main: MainView()
+                        }
+                    }
+#if os(macOS)
+                    .safeAreaInset(edge: .top) { Color.clear.frame(height: 28) }
+#endif
+                    .background(
+                        GradientBackground()
+                            .ignoresSafeArea()
+                    )
+#if os(iOS)
+                    .navigationBarHidden(true)
+#endif
                 }
-                #if os(macOS)
-                .safeAreaInset(edge: .top) { Color.clear.frame(height: 28) }
-                #endif
-                .background(
-                    GradientBackground()
-                        .ignoresSafeArea()
-                )
-                #if os(iOS)
-                .navigationBarHidden(true)
-                #endif
+                
+                if settings.primaryLanguage == nil {
+                    SelectLanguageView()
+                }
             }
-            
-            if settings.primaryLanguage == nil {
-                SelectLanguageView()
-            }
+            .environment(\.layoutDirection, settings.layoutDirection) // Set layout direction
             
 #if os(iOS)
             if isPreparingScreenshot {
@@ -126,7 +137,7 @@ struct MainView: View {
                     .opacity(0)
             }
 #endif
-        }
+//        }
         
         return rootView
 #if os(iOS)
@@ -145,6 +156,13 @@ struct MainView: View {
                     Text("Please configure Mail to send feedback.")
                 }
             }
+            .onReceive(NotificationCenter.default.publisher(for: UIApplication.didBecomeActiveNotification)) { _ in
+                print("TEST100 didBecomeActiveNotification")
+                appearedTimes += 1
+                settings.updateLanguage()
+            }
+//            .environment(\.layoutDirection, settings.layoutDirection)
+//            .id(UUID())
 #endif
     }
     
