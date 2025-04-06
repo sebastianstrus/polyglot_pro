@@ -1,107 +1,86 @@
-### Swift ###
-# Xcode
-#
-# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+# macOS / iOS / Xcode
+##############################
 
-## User settings
-xcuserdata/
+# User-specific files
+*.xcuserstate
+*.xcuserdata/
+*.moved-aside
+*.swp
+*.swo
+*~
 
-## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
-*.xcscmblueprint
-*.xccheckout
-
-## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
+# Xcode build files
 build/
 DerivedData/
-*.moved-aside
-*.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
-*.perspectivev3
-!default.perspectivev3
 
-## Obj-C/Swift specific
-*.hmap
+# Xcode workspace configuration
+xcuserdata/
 
-## App packaging
-*.ipa
-*.dSYM.zip
-*.dSYM
+# Xcode project file history
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
 
-## Playgrounds
-timeline.xctimeline
-playground.xcworkspace
+# Xcode crash logs
+*.crash
 
-# Swift Package Manager
-# Add this line if you want to avoid checking in source code from Swift Package Manager dependencies.
-# Packages/
-# Package.pins
-# Package.resolved
-# *.xcodeproj
-# Xcode automatically generates this directory with a .xcworkspacedata file and xcuserdata
-# hence it is not needed unless you have added a package configuration file to your project
-# .swiftpm
-
-.build/
+# SwiftPM build artifacts
+.swiftpm/
+Packages/
+Package.resolved
 
 # CocoaPods
-# We recommend against adding the Pods directory to your .gitignore. However
-# you should judge for yourself, the pros and cons are mentioned at:
-# https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
-# Pods/
-# Add this line if you want to avoid checking in source code from the Xcode workspace
-# *.xcworkspace
+Pods/
 
 # Carthage
-# Add this line if you want to avoid checking in source code from Carthage dependencies.
-# Carthage/Checkouts
-
 Carthage/Build/
 
-# Accio dependency management
-Dependencies/
-.accio/
+# Swift Package Manager
+.build/
 
-# fastlane
-# It is recommended to not store the screenshots in the git repo.
-# Instead, use fastlane to re-generate the screenshots whenever they are needed.
-# For more information about the recommended setup visit:
-# https://docs.fastlane.tools/best-practices/source-control/#source-control
+# Xcode generated user data
+xcuserdata/
 
+# .DS_Store (macOS specific)
+.DS_Store
+
+# Playground content
+timeline.xctimeline
+playground.xcworkspace/
+
+# Xcode Archive and ipa files
+*.xcarchive
+*.ipa
+
+# Fastlane
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
-fastlane/test_output
+fastlane/test_output/
 
-# Code Injection
-# After new code Injection tools there's a generated folder /iOSInjectionProject
-# https://github.com/johnno1962/injectionforxcode
+# Build/Release artifacts
+*.app
+*.app.dSYM
+*.dSYM
+*.xctest
 
-iOSInjectionProject/
+# Xcode schemes
+*.xcscheme
+*.xcscheme/xcuserdata/
 
-### SwiftPackageManager ###
-Packages
-xcuserdata
-*.xcodeproj
+# Previews and temporary files
+*.generated/
 
-### Xcode ###
-# Xcode
-# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+# CoreData SQLite files (if used)
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
 
-## Gcc Patch
-/*.gcno
+# AppStore & Distribution related
+*.ipa
+*.app.dSYM
+*.xcodeproj/project.xcworkspace
 
-### Xcode Patch ###
-*.xcodeproj/*
-!*.xcodeproj/project.pbxproj
-!*.xcodeproj/xcshareddata/
-!*.xcworkspace/contents.xcworkspacedata
-**/xcshareddata/WorkspaceSettings.xcsettings
-
-### XcodeInjection ###
-# Code Injection
-# After new code Injection tools there's a generated folder /iOSInjectionProject
-# https://github.com/johnno1962/injectionforxcode
+# Debugging & Simulators
+*.app/
+*.app.dSYM/
+*.log
