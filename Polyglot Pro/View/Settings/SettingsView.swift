@@ -19,6 +19,7 @@ struct SettingsView: View {
     @State private var showProgressAlert = false
     @State private var showCacheAlert = false
     @State private var showMailComposer = false
+    @State private var showingLanguageHelp = false
     
     var body: some View {
         VStack {
@@ -27,32 +28,51 @@ struct SettingsView: View {
             
             List {
                 Section(header: Text("Language".localized)) {
-                    Button(action: {
-                        settings.openAppLanguageSettings()
-                    }) {
-                        HStack {
-                            Text("App Language".localized)
-                            Spacer()
-                            Text(settings.primaryLanguage.displayName)
-                            Image(systemName: "chevron.right")
-                                .scaleEffect(x: layoutDirection == .rightToLeft ? -1 : 1, y: 1)
-                                .font(.system(size: 13, weight: .semibold))
-#if os(iOS)
-    .foregroundColor(Color(UIColor.tertiaryLabel))
-#elseif os(macOS)
-    .foregroundColor(Color(NSColor.tertiaryLabelColor))
+                    NavigationLink(destination: EmptyView()) {
+                            HStack {
+                                Text("App Language".localized)
+                                Spacer()
+                                Text(settings.primaryLanguage.displayName)
+#if os(macOS)
+                                Image(systemName: "chevron.right")
+                                    .scaleEffect(x: layoutDirection == .rightToLeft ? -1 : 1, y: 1)
+                                    .font(.system(size: 13, weight: .semibold))
+                                    .foregroundColor(Color(NSColor.tertiaryLabelColor))
 #endif
-                        }.foregroundColor(settings.isDarkMode ? .white : .black)
-                    }
+                            }
+                            .contentShape(Rectangle()) // makes entire row tappable
+                            .onTapGesture {
+                                
+#if os(macOS)
+                                showingLanguageHelp = true
+#else
+                                settings.openAppLanguageSettings()
+#endif
+                            }
+                        }
                     
                     NavigationLink(destination: TargetLanguageSelectionView(selectedLanguage: $settings.targetLanguage)) {
                         HStack {
                             Text("Target Language".localized)
                             Spacer()
                             Text(settings.targetLanguage!.displayName)
+#if os(macOS)
+                                Image(systemName: "chevron.right")
+                                    .scaleEffect(x: layoutDirection == .rightToLeft ? -1 : 1, y: 1)
+                                    .font(.system(size: 13, weight: .semibold))
+                                    .foregroundColor(Color(NSColor.tertiaryLabelColor))
+#endif
                             
                         }
                     }
+                }
+                .alert("Change App Language", isPresented: $showingLanguageHelp) {
+                    Button("Open System Settings") {
+                        NSWorkspace.shared.open(URL(fileURLWithPath: "/System/Applications/System Settings.app"))
+                    }
+                    Button("Cancel", role: .cancel) { }
+                } message: {
+                    Text("To change the language of this app, go to System Settings → General → Language & Region → Applications, then add or select Polyglot Pro application.")
                 }
                 
                 Section(header: Text("Vocabulary Settings".localized)) {

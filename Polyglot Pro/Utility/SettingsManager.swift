@@ -6,6 +6,10 @@
 //
 
 import SwiftUI
+#if os(macOS)
+import AppKit
+#endif
+
 
 enum UserDefaultsKeys: String {
     case isSoundOn
@@ -114,6 +118,9 @@ class SettingsManager: ObservableObject {
             UIApplication.shared.open(settingsUrl)
         }
 #else
+        if let url = URL(string: "x-apple.systempreferences:com.apple.Localization-Settings.extension") {
+            NSWorkspace.shared.open(url)
+        }
         
 #endif
     }

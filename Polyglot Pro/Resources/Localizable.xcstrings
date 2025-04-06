@@ -2252,6 +2252,137 @@
         }
       }
     },
+    "Change App Language" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تغيير لغة التطبيق"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "অ্যাপের ভাষা পরিবর্তন করুন"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skift app-sprog"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App-Sprache ändern"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar idioma de la app"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihda sovelluksen kieltä"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Changer la langue de l'application"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ऐप की भाषा बदलें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubah Bahasa Aplikasi"
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Breyta forritsmáli"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambia lingua dell'app"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリの言語を変更"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앱 언어 변경"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endre app-språk"
+          }
+        },
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਐਪ ਭਾਸ਼ਾ ਬਦਲੋ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmień język aplikacji"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alterar idioma do aplicativo"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ändra appspråk"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Змінити мову програми"
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ایپ کی زبان تبدیل کریں"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更改应用语言"
+          }
+        }
+      }
+    },
     "Change verbs" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -9450,6 +9581,137 @@
         }
       }
     },
+    "Open System Settings" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فتح إعدادات النظام"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "সিস্টেম সেটিংস খুলুন"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åbn systemindstillinger"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systemeinstellungen öffnen"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir configuración del sistema"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Avaa järjestelmäasetukset"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir les paramètres système"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "सिस्टम सेटिंग्स खोलें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Buka Pengaturan Sistem"
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opna kerfisstillingar"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apri impostazioni di sistema"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システム設定を開く"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 설정 열기"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Åpne systeminnstillinger"
+          }
+        },
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਸਿਸਟਮ ਸੈਟਿੰਗਜ਼ ਖੋਲ੍ਹੋ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otwórz ustawienia systemowe"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir configurações do sistema"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Öppna systeminställningar"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрити системні налаштування"
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "سسٹم کی ترتیبات کھولیں"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "打开系统设置"
+          }
+        }
+      }
+    },
     "Perception verbs" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -14035,137 +14297,6 @@
         }
       }
     },
-    "The languages must be different." : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "يجب أن تكون اللغات مختلفة."
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ভাষাগুলি আলাদা হতে হবে।"
-          }
-        },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sprogene skal være forskellige."
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Die Sprachen müssen unterschiedlich sein."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Los idiomas deben ser diferentes."
-          }
-        },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kielten on oltava erilaisia."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Les langues doivent être différentes."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "भाषाएँ अलग होनी चाहिए।"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bahasa harus berbeda."
-          }
-        },
-        "is" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tungumálin verða að vera ólík."
-          }
-        },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Le lingue devono essere diverse."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "言語は異なる必要があります。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "언어는 달라야 합니다."
-          }
-        },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Språkene må være forskjellige."
-          }
-        },
-        "pa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਭਾਸ਼ਾਵਾਂ ਵੱਖਰੀਆਂ ਹੋਣੀਆਂ ਚਾਹੀਦੀਆਂ ਹਨ।"
-          }
-        },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Języki muszą się różnić."
-          }
-        },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Os idiomas devem ser diferentes."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Språken måste vara olika."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вибрані мови повинні бути різними"
-          }
-        },
-        "ur" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "زبانیں مختلف ہونی چاہئیں۔"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "语言必须不同。"
-          }
-        }
-      }
-    },
     "Theme" : {
       "localizations" : {
         "ar" : {
@@ -14947,6 +15078,137 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "时间动词"
+          }
+        }
+      }
+    },
+    "To change the language of this app, go to System Settings → General → Language & Region → Applications, then add or select Polyglot Pro application." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "لتغيير لغة هذا التطبيق، انتقل إلى إعدادات النظام → عام → اللغة والمنطقة → التطبيقات، ثم أضف أو حدد تطبيق Polyglot Pro."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "এই অ্যাপের ভাষা পরিবর্তন করতে, সিস্টেম সেটিংস → সাধারণ → ভাষা ও অঞ্চল → অ্যাপ্লিকেশন এ যান, তারপর Polyglot Pro অ্যাপ্লিকেশন যোগ করুন বা নির্বাচন করুন।"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For at ændre sproget for denne app, gå til Systemindstillinger → Generelt → Sprog og region → Apps, og tilføj eller vælg derefter Polyglot Pro-appen."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um die Sprache dieser App zu ändern, gehen Sie zu Systemeinstellungen → Allgemein → Sprache & Region → Apps, und fügen Sie dann die Polyglot Pro-App hinzu oder wählen Sie sie aus."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para cambiar el idioma de esta aplicación, ve a Configuración del sistema → General → Idioma y región → Aplicaciones, y luego agrega o selecciona la aplicación Polyglot Pro."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaihtaaksesi tämän sovelluksen kielen, siirry Järjestelmäasetukset → Yleiset → Kieli ja alue → Sovellukset ja lisää tai valitse sitten Polyglot Pro -sovellus."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour changer la langue de cette application, allez dans Paramètres système → Général → Langue et région → Applications, puis ajoutez ou sélectionnez l'application Polyglot Pro."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इस ऐप की भाषा बदलने के लिए, सिस्टम सेटिंग्स → सामान्य → भाषा और क्षेत्र → अनुप्रयोग पर जाएं, फिर Polyglot Pro अनुप्रयोग जोड़ें या चुनें।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untuk mengubah bahasa aplikasi ini, buka Pengaturan Sistem → Umum → Bahasa & Wilayah → Aplikasi, lalu tambahkan atau pilih aplikasi Polyglot Pro."
+          }
+        },
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Til að breyta tungumáli þessa forrits, farðu í Kerfisstillingar → Almennar → Tungumál og svæði → Forrit, og bættu síðan við eða veldu Polyglot Pro forritið."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Per cambiare la lingua di questa app, vai a Impostazioni di sistema → Generale → Lingua e regione → Applicazioni, quindi aggiungi o seleziona l'applicazione Polyglot Pro."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリの言語を変更するには、システム設定→一般→言語と地域→アプリケーションに移動し、Polyglot Proアプリケーションを追加または選択してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱의 언어를 변경하려면 시스템 설정 → 일반 → 언어 및 지역 → 앱으로 이동한 다음 Polyglot Pro 앱을 추가하거나 선택하세요."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For å endre språket i denne appen, gå til Systeminnstillinger → Generelt → Språk og region → Apper, og legg deretter til eller velg Polyglot Pro-appen."
+          }
+        },
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਇਸ ਐਪ ਦੀ ਭਾਸ਼ਾ ਬਦਲਣ ਲਈ, ਸਿਸਟਮ ਸੈਟਿੰਗਜ਼ → ਆਮ → ਭਾਸ਼ਾ ਅਤੇ ਖੇਤਰ → ਐਪਲੀਕੇਸ਼ਨਾਂ 'ਤੇ ਜਾਓ, ਫਿਰ Polyglot Pro ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਜੋੜੋ ਜਾਂ ਚੁਣੋ।"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aby zmienić język tej aplikacji, przejdź do Ustawienia systemowe → Ogólne → Język i region → Aplikacje, a następnie dodaj lub wybierz aplikację Polyglot Pro."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para alterar o idioma deste aplicativo, vá para Configurações do Sistema → Geral → Idioma e Região → Aplicativos e adicione ou selecione o aplicativo Polyglot Pro."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "För att ändra språket för denna app, gå till Systeminställningar → Allmänt → Språk och region → Appar, och lägg sedan till eller välj Polyglot Pro-appen."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щоб змінити мову цієї програми, перейдіть до Системні налаштування → Основні → Мова та регіон → Програми, а потім додайте або виберіть програму Polyglot Pro."
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اس ایپ کی زبان تبدیل کرنے کے لیے، سسٹم کی ترتیبات → جنرل → زبان اور علاقہ → ایپلی کیشنز پر جائیں، پھر Polyglot Pro ایپلی کیشن شامل کریں یا منتخب کریں۔"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "要更改此应用的语言，请前往系统设置 → 通用 → 语言与地区 → 应用程序，然后添加或选择 Polyglot Pro 应用。"
           }
         }
       }
