@@ -118,10 +118,9 @@ class SettingsManager: ObservableObject {
             UIApplication.shared.open(settingsUrl)
         }
 #else
-        if let url = URL(string: "x-apple.systempreferences:com.apple.Localization-Settings.extension") {
+        if let url = URL(string: "x-apple.systempreferences:com.apple.Localization") {
             NSWorkspace.shared.open(url)
         }
-        
 #endif
     }
     

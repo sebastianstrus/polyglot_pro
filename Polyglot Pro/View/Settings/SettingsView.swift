@@ -66,14 +66,16 @@ struct SettingsView: View {
                         }
                     }
                 }
+#if os(macOS)
                 .alert("Change App Language", isPresented: $showingLanguageHelp) {
                     Button("Open System Settings") {
-                        NSWorkspace.shared.open(URL(fileURLWithPath: "/System/Applications/System Settings.app"))
+                        settings.openAppLanguageSettings()
                     }
                     Button("Cancel", role: .cancel) { }
                 } message: {
                     Text("To change the language of this app, go to System Settings → General → Language & Region → Applications, then add or select Polyglot Pro application.")
                 }
+#endif
                 
                 Section(header: Text("Vocabulary Settings".localized)) {
                     Toggle("Count Hints".localized, isOn: settings.$isCountingMistakes)
