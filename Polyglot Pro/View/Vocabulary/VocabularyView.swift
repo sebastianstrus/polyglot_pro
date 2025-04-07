@@ -96,8 +96,12 @@ struct VocabularyView: View {
     }()
     
     var categoriesBySection: [Category.CatSection: [Category]] {
-        Dictionary(grouping: Category.allCases, by: { $0.catSection })
+        let categoriesBySection = Dictionary(grouping: Category.allCases, by: { $0.catSection })
+        print("TEST100 categoriesBySection: \(categoriesBySection)")
+        return categoriesBySection
     }
+    
+    @State private var showingAddCategory = false
     
     var body: some View {
         VStack {
@@ -105,7 +109,9 @@ struct VocabularyView: View {
                 
                 Text("").frame(height: paddingTop)
                 
-                ForEach(Category.CatSection.allCases, id: \.self) { section in
+                customCategoriesSection
+                
+                ForEach(Category.CatSection.allCases.filter { $0 != .custom }, id: \.self) { section in
                     if let categories = categoriesBySection[section] {
                         VStack(spacing: 10) {
                             sectionHeader(for: section)
@@ -146,6 +152,11 @@ struct VocabularyView: View {
                 Spacer()
             }
         }
+        .sheet(isPresented: $showingAddCategory) {
+                    NavigationView {
+                        CreateEditCategoryView()
+                    }
+                }
         .padding(.bottom, 20)
         .customTitle("Vocabulary".localized)
         
@@ -153,6 +164,68 @@ struct VocabularyView: View {
             GradientBackground().ignoresSafeArea()
         )
         
+    }
+    
+    private var customCategoriesSection: some View {
+        Group {
+            if let categories = categoriesBySection[.custom],
+               !categories.isEmpty {
+                VStack(spacing: 10) {
+                    HStack {
+                        sectionHeader(for: .custom)
+                        
+                        Spacer()
+                        
+                        Button(action: {
+                            showingAddCategory = true
+                        }) {
+                            Image(systemName: "plus")
+                                .font(.title)
+                                .foregroundColor(.blue)
+                        }
+                        .padding(.trailing, 20)
+                    }
+                    
+                    LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
+                        ForEach(categoriesBySection[.custom] ?? [], id: \.self) { category in
+                            NavigationLink(value: category) {
+                                categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
+                            }
+                            .buttonStyle(ScaleButtonStyle())
+                        }
+                    }
+                    .padding(.bottom, 10)
+                    
+                    Rectangle()
+                        .fill(
+                            LinearGradient(
+                                colors: [.blue, .purple],
+                                startPoint: .leading,
+                                endPoint: .trailing
+                            )
+                        )
+                        .frame(height: 2)
+                        .padding(.horizontal, 40)
+                        .padding(.top, 10)
+                        .padding(.bottom, 26)
+                }
+            } else {
+                // Show add button when no custom categories exist
+                Button(action: {
+                    showingAddCategory = true
+                }) {
+                    HStack {
+                        Image(systemName: "plus")
+                        Text("Create Custom Category".localized)
+                    }
+                    .frame(width: btnWidth * 1.5, height: btnHeight)
+                    .background(Color.blue)
+                    .cornerRadius(radius)
+                    .foregroundColor(.white)
+                }
+                .padding(.bottom, 20)
+            }
+        }
     }
     
     private func sectionHeader(for section: Category.CatSection) -> some View {
@@ -185,5 +258,108 @@ struct VocabularyView: View {
         )
         .cornerRadius(radius)
         .shadow(color: Color.green, radius: isSolved ? 8 : 0)
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+struct CreateEditCategoryView: View {
+    @Environment(\.dismiss) var dismiss
+    @State private var categoryName = ""
+    @State private var questions: [Question] = []
+    @State private var showingAddQuestion = false
+    @State private var newQuestion = ""
+    @State private var newTranslation = ""
+    
+    var body: some View {
+        Form {
+            Section(header: Text("Category Name".localized)) {
+                TextField("Enter category name".localized, text: $categoryName)
+            }
+            
+            Section(header: Text("Questions".localized)) {
+                ForEach(questions, id: \.id) { question in
+                    VStack(alignment: .leading) {
+                        Text(question.expression)
+                            .font(.headline)
+                        ForEach(Array(question.translations.keys), id: \.self) { key in
+                            HStack {
+                                Text("\(key):")
+                                    .font(.subheadline)
+                                Text(question.translations[key] ?? "")
+                            }
+                        }
+                    }
+                }
+                .onDelete(perform: deleteQuestion)
+                
+                Button(action: {
+                    showingAddQuestion = true
+                }) {
+                    HStack {
+                        Image(systemName: "plus")
+                        Text("Add Question".localized)
+                    }
+                }
+            }
+            
+            Section {
+                Button("Save Category".localized) {
+                    saveCategory()
+                }
+                .disabled(categoryName.isEmpty || questions.isEmpty)
+            }
+        }
+        .navigationTitle("New Category".localized)
+        .sheet(isPresented: $showingAddQuestion) {
+            NavigationView {
+                Form {
+                    Section(header: Text("Question".localized)) {
+                        TextField("Enter question".localized, text: $newQuestion)
+                    }
+                    
+                    Section(header: Text("Translation".localized)) {
+                        TextField("Enter translation".localized, text: $newTranslation)
+                    }
+                    
+                    Button("Add".localized) {
+                        let translation = [Language.english.rawValue: newTranslation] // Adjust based on your needs
+                        let question = Question(id: UUID(),
+                                              expression: newQuestion,
+                                              audioID: nil,
+                                              translations: translation,
+                                              examples: [])
+                        questions.append(question)
+                        newQuestion = ""
+                        newTranslation = ""
+                        showingAddQuestion = false
+                    }
+                    .disabled(newQuestion.isEmpty || newTranslation.isEmpty)
+                }
+                .navigationTitle("New Question".localized)
+                .navigationBarItems(trailing: Button("Cancel".localized) {
+                    showingAddQuestion = false
+                })
+            }
+        }
+    }
+    
+    private func deleteQuestion(at offsets: IndexSet) {
+        questions.remove(atOffsets: offsets)
+    }
+    
+    private func saveCategory() {
+        CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
+        dismiss()
     }
 }

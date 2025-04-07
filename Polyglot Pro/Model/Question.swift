@@ -8,29 +8,34 @@
 
 import Foundation
 
-struct Question: Decodable {
-    let id: UUID // Manually set during decoding
+struct Question: Codable, Identifiable, Equatable {
+    let id: UUID
     let expression: String
-    let audioID: String? // Set to nil during decoding
+    let audioID: String?
     let translations: [String: String]
-
     let examples: [Example]
     
-    // Custom initializer for decoding
+    static func == (lhs: Question, rhs: Question) -> Bool {
+        return lhs.id == rhs.id
+    }
+    
     init(from decoder: Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
-        
-        // Decode the properties from JSON
         self.expression = try container.decode(String.self, forKey: .expression)
         self.translations = try container.decode([String: String].self, forKey: .translations)
         self.examples = try container.decode([Example].self, forKey: .examples)
-        
-        // Set `id` and `audioID` manually (they are not part of the JSON)
-        self.id = UUID() // Generate a new UUID
-        self.audioID = nil // Set to nil
+        self.id = UUID()
+        self.audioID = nil
     }
     
-    // CodingKeys to map JSON keys to properties
+    init(id: UUID = UUID(), expression: String, audioID: String? = nil, translations: [String: String], examples: [Example] = []) {
+        self.id = id
+        self.expression = expression
+        self.audioID = audioID
+        self.translations = translations
+        self.examples = examples
+    }
+    
     enum CodingKeys: String, CodingKey {
         case expression
         case translations
@@ -38,18 +43,38 @@ struct Question: Decodable {
     }
 }
 
-struct Example: Decodable {
+struct Example: Codable, Hashable, Equatable {
     let sentence: Sentence
     let translations: [Translation]
     
-    struct Sentence: Decodable, Hashable {
-        let language: Language
-        let text: String
+    var identifier: String {
+        return UUID().uuidString
     }
     
-    struct Translation: Decodable {
+    public func hash(into hasher: inout Hasher) {
+        return hasher.combine(identifier)
+    }
+    
+    static func == (lhs: Example, rhs: Example) -> Bool {
+        return lhs.sentence == rhs.sentence && lhs.translations == rhs.translations
+    }
+    
+    struct Sentence: Codable, Hashable, Equatable {
         let language: Language
         let text: String
+        
+        static func == (lhs: Sentence, rhs: Sentence) -> Bool {
+            return lhs.language == rhs.language && lhs.text == rhs.text
+        }
+    }
+    
+    struct Translation: Codable, Equatable {
+        let language: Language
+        let text: String
+        
+        static func == (lhs: Translation, rhs: Translation) -> Bool {
+            return lhs.language == rhs.language && lhs.text == rhs.text
+        }
     }
 }
 
