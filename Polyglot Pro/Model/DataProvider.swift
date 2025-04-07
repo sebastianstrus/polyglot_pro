@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum Category: String, CaseIterable {
+enum Category: Codable, Hashable {
     
     enum CatSection: String, CaseIterable {
         case pronouns
@@ -16,6 +16,7 @@ enum Category: String, CaseIterable {
         case adjectives
         case expressions
         case conjunctions
+        case custom
         
         var displayName: String {
             switch self {
@@ -31,6 +32,8 @@ enum Category: String, CaseIterable {
                 return "Expressions".localized
             case .conjunctions:
                 return "Conjunctions".localized
+            case .custom:
+                return "Custom".localized
             }
         }
     }
@@ -95,6 +98,65 @@ enum Category: String, CaseIterable {
     // conjunctions
     case conjunctions
     
+    case custom(name: String)
+    
+    static var allCases: [Category] {
+        return [
+            .pronounsPersonal,
+            .pronounsPossessive,
+            .pronounsReflexive,
+            .pronounsInterrogative,
+            .nounsWeekdays,
+            .nounsMonths,
+            .nounsVegetables,
+            .nounsFruits,
+            .nounsBodyParts,
+            .nounsShopping,
+            .nounsHome,
+            .nounsFamily,
+            .nounsProfessions,
+            .nounsAnimals,
+            .nounsTransport,
+            .verbsModal,
+            .verbsMotion,
+            .verbsPerception,
+            .verbsThinking,
+            .verbsAction,
+            .verbsChange,
+            .verbsState,
+            .verbsCommunication,
+            .verbsFood,
+            .verbsTime,
+            .verbsControl,
+            .verbsCreation,
+            .verbsLife,
+            .verbsEmotion,
+            .adjectivesColors,
+            .adjectivesAppearance,
+            .adjectivesEmotions,
+            .adjectivesPersonality,
+            .adjectivesTraits,
+            .adjectivesState,
+            .adjectivesTime,
+            .adjectivesTaste,
+            .adjectivesTemperature,
+            .adjectivesSound,
+            .adjectivesBehavior,
+            .adjectivesMorality,
+            .adjectivesRelationships,
+            .adjectivesMood,
+            .adjectivesCondition,
+            .expressionsPolite,
+            .expressionsTime,
+            .expressionsBusiness,
+            .conjunctions
+        ]
+    }
+    
+    static var builtInCases: [Category] {
+        return allCases
+    }
+    
     var primaryName: String {
         switch self {
         case .pronounsPersonal: return "Personal pronouns".localized
@@ -155,6 +217,7 @@ enum Category: String, CaseIterable {
                 
         // Conjunctions
         case .conjunctions: return "Linking words".localized
+        case .custom(let name): return name
         }
     }
     
@@ -177,6 +240,8 @@ enum Category: String, CaseIterable {
                 
         case .conjunctions:
             return .conjunctions
+        case .custom:
+            return .custom
         }
     }
     
@@ -240,11 +305,72 @@ enum Category: String, CaseIterable {
                 
         // Conjunctions
         case .conjunctions: return "Linking words".targetLocalized
+        case .custom(let name): return name
+        }
+    }
+}
+
+extension Category {
+    // Replace rawValue access with this computed property
+    var stringValue: String {
+        switch self {
+        case .pronounsPersonal: return "pronounsPersonal"
+        case .pronounsPossessive: return "pronounsPossessive"
+        case .pronounsReflexive: return "pronounsReflexive"
+        case .pronounsInterrogative: return "pronounsInterrogative"
+        case .nounsWeekdays: return "nounsWeekdays"
+        case .nounsMonths: return "nounsMonths"
+        case .nounsVegetables: return "nounsVegetables"
+        case .nounsFruits: return "nounsFruits"
+        case .nounsBodyParts: return "nounsBodyParts"
+        case .nounsShopping: return "nounsShopping"
+        case .nounsHome: return "nounsHome"
+        case .nounsFamily: return "nounsFamily"
+        case .nounsProfessions: return "nounsProfessions"
+        case .nounsAnimals: return "nounsAnimals"
+        case .nounsTransport: return "nounsTransport"
+        case .verbsModal: return "verbsModal"
+        case .verbsMotion: return "verbsMotion"
+        case .verbsPerception: return "verbsPerception"
+        case .verbsThinking: return "verbsThinking"
+        case .verbsAction: return "verbsAction"
+        case .verbsChange: return "verbsChange"
+        case .verbsState: return "verbsState"
+        case .verbsCommunication: return "verbsCommunication"
+        case .verbsFood: return "verbsFood"
+        case .verbsTime: return "verbsTime"
+        case .verbsControl: return "verbsControl"
+        case .verbsCreation: return "verbsCreation"
+        case .verbsLife: return "verbsLife"
+        case .verbsEmotion: return "verbsEmotion"
+        case .adjectivesColors: return "adjectivesColors"
+        case .adjectivesAppearance: return "adjectivesAppearance"
+        case .adjectivesEmotions: return "adjectivesEmotions"
+        case .adjectivesPersonality: return "adjectivesPersonality"
+        case .adjectivesTraits: return "adjectivesTraits"
+        case .adjectivesState: return "adjectivesState"
+        case .adjectivesTime: return "adjectivesTime"
+        case .adjectivesTaste: return "adjectivesTaste"
+        case .adjectivesTemperature: return "adjectivesTemperature"
+        case .adjectivesSound: return "adjectivesSound"
+        case .adjectivesBehavior: return "adjectivesBehavior"
+        case .adjectivesMorality: return "adjectivesMorality"
+        case .adjectivesRelationships: return "adjectivesRelationships"
+        case .adjectivesMood: return "adjectivesMood"
+        case .adjectivesCondition: return "adjectivesCondition"
+        case .expressionsPolite: return "expressionsPolite"
+        case .expressionsTime: return "expressionsTime"
+        case .expressionsBusiness: return "expressionsBusiness"
+        case .conjunctions: return "conjunctions"
+        case .custom(let name): return "custom_\(name)"
         }
     }
 }
 
 class DataProvider {
+    
+    private static let customCategoryManager = CustomCategoryManager.shared
+    
     private static var cachedData: [Category: [Question]] = [:]
     
     static func loadQuestionsIfNeeded(for category: Category) -> [Question] {
@@ -314,6 +440,7 @@ class DataProvider {
         case .expressionsBusiness: filename = "sv_expressions_business"
             
         case .conjunctions: filename = "sv_conjunctions"
+        case .custom(let name): filename =  "custom_\(name)"
         }
         
         let questions = loadQuestions(from: filename)
@@ -342,5 +469,173 @@ class DataProvider {
     // Optional: Preload specific categories if needed
     static func preloadCategories(_ categories: [Category]) {
         categories.forEach { _ = loadQuestionsIfNeeded(for: $0) }
+    }
+    
+    static func addCustomCategory(name: String, questions: [Question]) {
+        customCategoryManager.addCustomCategory(name: name, questions: questions)
+    }
+    
+    static func saveQuestions(_ questions: [Question], for category: Category) {
+        customCategoryManager.saveQuestions(questions, for: category)
+    }
+}
+
+
+
+
+
+
+
+
+
+import Foundation
+
+class CustomCategoryManager {
+    static let shared = CustomCategoryManager()
+    private let userDefaultsKey = "customCategories"
+    private let questionsPrefix = "customQuestions_"
+    
+    private init() {}
+    
+    // MARK: - Category Management
+    
+    func saveCustomCategories(_ categories: [Category]) {
+        let customCategories = categories.filter { category in
+            if case .custom = category { return true }
+            return false
+        }
+        
+        do {
+            let encoder = JSONEncoder()
+            let encoded = try encoder.encode(customCategories)
+            UserDefaults.standard.set(encoded, forKey: userDefaultsKey)
+            print("TEST100 saved")
+        } catch {
+            print("TEST100 failed to save")
+            print("Failed to encode custom categories: \(error)")
+        }
+    }
+    
+    func loadCustomCategories() -> [Category] {
+        print("TEST100 loadCustomCategories")
+        guard let data = UserDefaults.standard.data(forKey: userDefaultsKey) else {
+            print("TEST100 load empty")
+            return []
+        }
+        
+        do {
+            let decoder = JSONDecoder()
+            let categories = try decoder.decode([Category].self, from: data)
+            print(categories)
+            return categories
+        } catch {
+            print("Failed to decode custom categories: \(error)")
+            return []
+        }
+    }
+    
+    func addCustomCategory(name: String, questions: [Question]) {
+        print("TEST100 addCustomCategory")
+        guard !name.isEmpty else {
+            print("TEST100 empty")
+            return
+        }
+        
+        var currentCategories = loadCustomCategories()
+        print("TEST100 currentCategories.count: \(currentCategories.count)")
+        let newCategory = Category.custom(name: name)
+        
+        // Check if category already exists
+        if !currentCategories.contains(where: {
+            print("TEST100 1")
+            if case let .custom(existingName) = $0 {
+                print("TEST100 2")
+                return existingName == name
+            }
+            print("TEST100 3")
+            return false
+        }) {
+            print("TEST100 4")
+            currentCategories.append(newCategory)
+            saveCustomCategories(currentCategories)
+            saveQuestions(questions, for: newCategory)
+        }
+    }
+    
+    func deleteCustomCategory(_ category: Category) {
+        guard case .custom = category else { return }
+        
+        var currentCategories = loadCustomCategories()
+        currentCategories.removeAll { $0 == category }
+        saveCustomCategories(currentCategories)
+        
+        // Remove associated questions
+        UserDefaults.standard.removeObject(forKey: questionsKey(for: category))
+    }
+    
+    // MARK: - Question Management
+    
+//    private func questionsKey(for category: Category) -> String {
+//        if case let .custom(name) = category {
+//            return questionsPrefix + name
+//        }
+//        return questionsPrefix + "default"
+//    }
+    
+    // Update the questionsKey function in CustomCategoryManager
+    private func questionsKey(for category: Category) -> String {
+        return questionsPrefix + category.stringValue
+    }
+    
+    func saveQuestions(_ questions: [Question], for category: Category) {
+        guard case .custom = category else { return }
+        
+        do {
+            let encoder = JSONEncoder()
+            let encoded = try encoder.encode(questions)
+            UserDefaults.standard.set(encoded, forKey: questionsKey(for: category))
+        } catch {
+            print("Failed to encode questions for category \(category): \(error)")
+        }
+    }
+    
+    func loadQuestions(for category: Category) -> [Question] {
+        guard case .custom = category else { return [] }
+        
+        guard let data = UserDefaults.standard.data(forKey: questionsKey(for: category)) else { return [] }
+        
+        do {
+            let decoder = JSONDecoder()
+            return try decoder.decode([Question].self, from: data)
+        } catch {
+            print("Failed to decode questions for category \(category): \(error)")
+            return []
+        }
+    }
+    
+    func addQuestion(_ question: Question, to category: Category) {
+        guard case .custom = category else { return }
+        
+        var questions = loadQuestions(for: category)
+        questions.append(question)
+        saveQuestions(questions, for: category)
+    }
+    
+    func updateQuestion(_ question: Question, in category: Category) {
+        guard case .custom = category else { return }
+        
+        var questions = loadQuestions(for: category)
+        if let index = questions.firstIndex(where: { $0.id == question.id }) {
+            questions[index] = question
+            saveQuestions(questions, for: category)
+        }
+    }
+    
+    func deleteQuestion(_ question: Question, from category: Category) {
+        guard case .custom = category else { return }
+        
+        var questions = loadQuestions(for: category)
+        questions.removeAll { $0.id == question.id }
+        saveQuestions(questions, for: category)
     }
 }

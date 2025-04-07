@@ -67,14 +67,14 @@ class SettingsManager: ObservableObject {
     
     func markCategoryAsCompleted(_ category: Category) {
         var completedCategories = getCompletedCategories()
-        completedCategories.insert(category.rawValue)
+        completedCategories.insert(category.stringValue)
         userDefaults.set(Array(completedCategories), forKey: completedCategoriesKey())
         objectWillChange.send()
     }
     
     func isCategoryCompleted(_ category: Category) -> Bool {
         let completedCategories = getCompletedCategories()
-        return completedCategories.contains(category.rawValue)
+        return completedCategories.contains(category.stringValue)
     }
     
     private func getCompletedCategories() -> Set<String> {
