@@ -7,10 +7,13 @@
 
 import SwiftUI
 
+
+
 struct VocabularyView: View {
     
     @EnvironmentObject var settings: SettingsManager
     @Environment(\.dismiss) private var dismiss
+    @StateObject var viewModel = VocabularyViewModel()
     
     //let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 2 : 4)
     
@@ -95,9 +98,7 @@ struct VocabularyView: View {
         }
     }()
     
-    var categoriesBySection: [Category.CatSection: [Category]] {
-        Dictionary(grouping: Category.allCases, by: { $0.catSection })
-    }
+
     
     var body: some View {
         VStack {
@@ -106,7 +107,7 @@ struct VocabularyView: View {
                 Text("").frame(height: paddingTop)
                 
                 ForEach(Category.CatSection.allCases, id: \.self) { section in
-                    if let categories = categoriesBySection[section] {
+                    if let categories = viewModel.categoriesBySection[section] {
                         VStack(spacing: 10) {
                             sectionHeader(for: section)
                             
