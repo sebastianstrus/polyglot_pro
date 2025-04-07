@@ -49,8 +49,8 @@ class LearnViewModel: ObservableObject {
         self.isSoundOn = self.settings.isSoundOn
         self.speechRate = settings.speechRate
         self.category = category
-        self.questionsBase = DataProvider.data[category] ?? []
-        self.questions = (DataProvider.data[category] ?? []).shuffled()
+        self.questionsBase = DataProvider().questions(for: category)
+        self.questions = DataProvider().questions(for: category).shuffled()
     }
     
     func toggleSound() {

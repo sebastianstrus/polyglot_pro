@@ -245,88 +245,102 @@ enum Category: String, CaseIterable {
 }
 
 class DataProvider {
-    static func loadQuestions(from filename: String) -> [Question] {
+    private static var cachedData: [Category: [Question]] = [:]
+    
+    static func loadQuestionsIfNeeded(for category: Category) -> [Question] {
+        // Return cached data if available
+        if let cached = cachedData[category] {
+            return cached
+        }
+        
+        // Otherwise load and cache the data
+        let filename: String
+        switch category {
+        // pronouns
+        case .pronounsPersonal: filename = "sv_pronouns_personal"
+        case .pronounsPossessive: filename = "sv_pronouns_possessive"
+        case .pronounsReflexive: filename = "sv_pronouns_reflexive"
+        case .pronounsInterrogative: filename = "sv_pronouns_interrogative"
+            
+        // nouns
+        case .nounsWeekdays: filename = "sv_nouns_weekdays"
+        case .nounsMonths: filename = "sv_nouns_months"
+        case .nounsVegetables: filename = "sv_nouns_vegetables"
+        case .nounsFruits: filename = "sv_nouns_fruits"
+        case .nounsBodyParts: filename = "sv_nouns_body_parts"
+        case .nounsShopping: filename = "sv_nouns_shopping"
+        case .nounsHome: filename = "sv_nouns_home"
+        case .nounsFamily: filename = "sv_nouns_family"
+        case .nounsProfessions: filename = "sv_nouns_professions"
+        case .nounsAnimals: filename = "sv_nouns_animals"
+        case .nounsTransport: filename = "sv_nouns_transport"
+            
+        // verbs
+        case .verbsModal: filename = "sv_verbs_modal"
+        case .verbsMotion: filename = "sv_verbs_motion"
+        case .verbsPerception: filename = "sv_verbs_perception"
+        case .verbsThinking: filename = "sv_verbs_thinking"
+        case .verbsAction: filename = "sv_verbs_action"
+        case .verbsChange: filename = "sv_verbs_change"
+        case .verbsState: filename = "sv_verbs_state"
+        case .verbsCommunication: filename = "sv_verbs_communication"
+        case .verbsFood: filename = "sv_verbs_food"
+        case .verbsTime: filename = "sv_verbs_time"
+        case .verbsControl: filename = "sv_verbs_control"
+        case .verbsCreation: filename = "sv_verbs_creation"
+        case .verbsLife: filename = "sv_verbs_life"
+        case .verbsEmotion: filename = "sv_verbs_emotion"
+                
+        // adjectives
+        case .adjectivesColors: filename = "sv_adjectives_colors"
+        case .adjectivesAppearance: filename = "sv_adjectives_appearance"
+        case .adjectivesEmotions: filename = "sv_adjectives_emotions"
+        case .adjectivesPersonality: filename = "sv_adjectives_personality"
+        case .adjectivesTraits: filename = "sv_adjectives_traits"
+        case .adjectivesState: filename = "sv_adjectives_state"
+        case .adjectivesTime: filename = "sv_adjectives_time"
+        case .adjectivesTaste: filename = "sv_adjectives_taste"
+        case .adjectivesTemperature: filename = "sv_adjectives_temperature"
+        case .adjectivesSound: filename = "sv_adjectives_sound"
+        case .adjectivesBehavior: filename = "sv_adjectives_behavior"
+        case .adjectivesMorality: filename = "sv_adjectives_morality"
+        case .adjectivesRelationships: filename = "sv_adjectives_relationships"
+        case .adjectivesMood: filename = "sv_adjectives_mood"
+        case .adjectivesCondition: filename = "sv_adjectives_condition"
+        
+        // expressions
+        case .expressionsPolite: filename = "sv_expressions_polite"
+        case .expressionsTime: filename = "sv_expressions_time"
+        case .expressionsBusiness: filename = "sv_expressions_business"
+            
+        case .conjunctions: filename = "sv_conjunctions"
+        }
+        
+        let questions = loadQuestions(from: filename)
+        cachedData[category] = questions
+        return questions
+    }
+    
+    private static func loadQuestions(from filename: String) -> [Question] {
         guard let url = Bundle.main.url(forResource: filename, withExtension: "json") else {
             fatalError("Failed to locate \(filename) in bundle.")
         }
         
         do {
             let data = try Data(contentsOf: url)
-            // Print the JSON data as a string
-            if let jsonString = String(data: data, encoding: .utf8) {
-                print("JSON Data: \(jsonString)")
-            }
             let decoder = JSONDecoder()
-            let questions = try decoder.decode([Question].self, from: data)
-            print("TEST100 1")
-            return questions
+            return try decoder.decode([Question].self, from: data)
         } catch {
             fatalError("Failed to decode \(filename) from bundle: \(error.localizedDescription)")
         }
     }
-
-    static let data: [Category: [Question]] = [
-        // pronouns
-        .pronounsPersonal: loadQuestions(from: "sv_pronouns_personal"),
-        .pronounsPossessive: loadQuestions(from: "sv_pronouns_possessive"),
-        .pronounsReflexive: loadQuestions(from: "sv_pronouns_reflexive"),
-        .pronounsInterrogative: loadQuestions(from: "sv_pronouns_interrogative"),
-        
-        // nouns
-        .nounsWeekdays: loadQuestions(from: "sv_nouns_weekdays"),
-        .nounsMonths: loadQuestions(from: "sv_nouns_months"),
-        .nounsVegetables: loadQuestions(from: "sv_nouns_vegetables"),
-        .nounsFruits: loadQuestions(from: "sv_nouns_fruits"),
-        .nounsBodyParts: loadQuestions(from: "sv_nouns_body_parts"),
-        .nounsShopping: loadQuestions(from: "sv_nouns_shopping"),
-        .nounsHome: loadQuestions(from: "sv_nouns_home"),
-        .nounsFamily: loadQuestions(from: "sv_nouns_family"),
-        .nounsProfessions: loadQuestions(from: "sv_nouns_professions"),
-        .nounsAnimals: loadQuestions(from: "sv_nouns_animals"),
-        .nounsTransport: loadQuestions(from: "sv_nouns_transport"),
-        
-        // verbs
-        .verbsModal: loadQuestions(from: "sv_verbs_modal"),
-        .verbsMotion: loadQuestions(from: "sv_verbs_motion"),
-        .verbsPerception: loadQuestions(from: "sv_verbs_perception"),
-        .verbsThinking: loadQuestions(from: "sv_verbs_thinking"),
-        .verbsAction: loadQuestions(from: "sv_verbs_action"),
-        .verbsChange: loadQuestions(from: "sv_verbs_change"),
-        .verbsState: loadQuestions(from: "sv_verbs_state"),
-        .verbsCommunication: loadQuestions(from: "sv_verbs_communication"),
-        .verbsFood: loadQuestions(from: "sv_verbs_food"),
-        .verbsTime: loadQuestions(from: "sv_verbs_time"),
-        .verbsControl: loadQuestions(from: "sv_verbs_control"),
-        .verbsCreation: loadQuestions(from: "sv_verbs_creation"),
-        .verbsLife: loadQuestions(from: "sv_verbs_life"),
-        .verbsEmotion: loadQuestions(from: "sv_verbs_emotion"),
-                
-        //adjectives
-        .adjectivesColors: loadQuestions(from: "sv_adjectives_colors"),
-        .adjectivesAppearance: loadQuestions(from: "sv_adjectives_appearance"),
-        .adjectivesEmotions: loadQuestions(from: "sv_adjectives_emotions"),
-        .adjectivesPersonality: loadQuestions(from: "sv_adjectives_personality"),
-        .adjectivesTraits: loadQuestions(from: "sv_adjectives_traits"),
-        .adjectivesState: loadQuestions(from: "sv_adjectives_state"),
-        .adjectivesTime: loadQuestions(from: "sv_adjectives_time"),
-        .adjectivesTaste: loadQuestions(from: "sv_adjectives_taste"),
-        .adjectivesTemperature: loadQuestions(from: "sv_adjectives_temperature"),
-        .adjectivesSound: loadQuestions(from: "sv_adjectives_sound"),
-        .adjectivesBehavior: loadQuestions(from: "sv_adjectives_behavior"),
-        .adjectivesMorality: loadQuestions(from: "sv_adjectives_morality"),
-        .adjectivesRelationships: loadQuestions(from: "sv_adjectives_relationships"),
-        .adjectivesMood: loadQuestions(from: "sv_adjectives_mood"),
-        .adjectivesCondition: loadQuestions(from: "sv_adjectives_condition"),
-        
-        // expressions
-        .expressionsPolite: loadQuestions(from: "sv_expressions_polite"),
-        .expressionsTime: loadQuestions(from: "sv_expressions_time"),
-        .expressionsBusiness: loadQuestions(from: "sv_expressions_business"),
-        
-        .conjunctions: loadQuestions(from: "sv_conjunctions"),
-    ]
     
     func questions(for category: Category) -> [Question] {
-        return Self.data[category] ?? []
+        return Self.loadQuestionsIfNeeded(for: category)
+    }
+    
+    // Optional: Preload specific categories if needed
+    static func preloadCategories(_ categories: [Category]) {
+        categories.forEach { _ = loadQuestionsIfNeeded(for: $0) }
     }
 }
