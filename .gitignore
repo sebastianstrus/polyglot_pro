@@ -3,7 +3,7 @@
 
 # User-specific files
 *.xcuserstate
-*.xcuserdata/
+*.xcuserdatad/
 *.moved-aside
 *.swp
 *.swo
@@ -13,12 +13,13 @@
 build/
 DerivedData/
 
-# Xcode workspace configuration
-xcuserdata/
-
-# Xcode project file history
+# Xcode workspace & project configuration
+*.xcworkspace/
+*.xcworkspace/xcuserdata/
 *.xcodeproj/project.xcworkspace/
 *.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+xcuserdata/
 
 # Xcode crash logs
 *.crash
@@ -27,18 +28,13 @@ xcuserdata/
 .swiftpm/
 Packages/
 Package.resolved
+.build/
 
 # CocoaPods
 Pods/
 
 # Carthage
 Carthage/Build/
-
-# Swift Package Manager
-.build/
-
-# Xcode generated user data
-xcuserdata/
 
 # .DS_Store (macOS specific)
 .DS_Store
@@ -47,40 +43,4 @@ xcuserdata/
 timeline.xctimeline
 playground.xcworkspace/
 
-# Xcode Archive and ipa files
-*.xcarchive
-*.ipa
-
-# Fastlane
-fastlane/report.xml
-fastlane/Preview.html
-fastlane/screenshots/**/*.png
-fastlane/test_output/
-
-# Build/Release artifacts
-*.app
-*.app.dSYM
-*.dSYM
-*.xctest
-
-# Xcode schemes
-*.xcscheme
-*.xcscheme/xcuserdata/
-
-# Previews and temporary files
-*.generated/
-
-# CoreData SQLite files (if used)
-*.sqlite
-*.sqlite-shm
-*.sqlite-wal
-
-# AppStore & Distribution related
-*.ipa
-*.app.dSYM
-*.xcodeproj/project.xcworkspace
-
-# Debugging & Simulators
-*.app/
-*.app.dSYM/
-*.log
+# Xcode Archive and ipa
