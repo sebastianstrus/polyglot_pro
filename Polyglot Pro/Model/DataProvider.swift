@@ -149,7 +149,7 @@ enum Category: Codable, Hashable {
             .expressionsPolite,
             .expressionsTime,
             .expressionsBusiness,
-            .conjunctions
+            .conjunctions,
         ]
     }
     
@@ -379,6 +379,12 @@ class DataProvider {
             return cached
         }
         
+        if case .custom = category {
+            let questions = CustomCategoryManager.shared.loadQuestions(for: category)
+            cachedData[category] = questions
+            return questions
+        }
+        
         // Otherwise load and cache the data
         let filename: String
         switch category {
@@ -500,6 +506,7 @@ class CustomCategoryManager {
     // MARK: - Category Management
     
     func saveCustomCategories(_ categories: [Category]) {
+        print("TEST100 saveCustomCategories: \(categories)")
         let customCategories = categories.filter { category in
             if case .custom = category { return true }
             return false
@@ -588,11 +595,13 @@ class CustomCategoryManager {
     }
     
     func saveQuestions(_ questions: [Question], for category: Category) {
+        print("TEST100 saveQuestions: \(questions) for category: \(category)")
         guard case .custom = category else { return }
         
         do {
             let encoder = JSONEncoder()
             let encoded = try encoder.encode(questions)
+            print("TEST100 saved questions")
             UserDefaults.standard.set(encoded, forKey: questionsKey(for: category))
         } catch {
             print("Failed to encode questions for category \(category): \(error)")
@@ -600,6 +609,7 @@ class CustomCategoryManager {
     }
     
     func loadQuestions(for category: Category) -> [Question] {
+        print("TEST100 loadQuestions: for category: \(category)")
         guard case .custom = category else { return [] }
         
         guard let data = UserDefaults.standard.data(forKey: questionsKey(for: category)) else { return [] }
@@ -614,6 +624,7 @@ class CustomCategoryManager {
     }
     
     func addQuestion(_ question: Question, to category: Category) {
+        print("TEST100 addQuestion")
         guard case .custom = category else { return }
         
         var questions = loadQuestions(for: category)
@@ -622,6 +633,7 @@ class CustomCategoryManager {
     }
     
     func updateQuestion(_ question: Question, in category: Category) {
+        print("TEST100 updateQuestion")
         guard case .custom = category else { return }
         
         var questions = loadQuestions(for: category)
@@ -632,6 +644,7 @@ class CustomCategoryManager {
     }
     
     func deleteQuestion(_ question: Question, from category: Category) {
+        print("TEST100 deleteQuestion")
         guard case .custom = category else { return }
         
         var questions = loadQuestions(for: category)

@@ -11,10 +11,20 @@ import Combine
 
 @MainActor
 class VocabularyViewModel: ObservableObject {
-    
     @Published var categoriesBySection: [Category.CatSection: [Category]]
+    @Published var customCategories: [Category] = []
     
     init() {
-        self.categoriesBySection = Dictionary(grouping: Category.allCases, by: { $0.catSection })
+        // Built-in categories
+        self.categoriesBySection = Dictionary(grouping: Category.builtInCases, by: { $0.catSection })
+        
+        // Load custom categories
+        self.customCategories = CustomCategoryManager.shared.loadCustomCategories()
+        
+        print("Loaded custom categories: \(customCategories)")
+    }
+    
+    func refreshCustomCategories() {
+        customCategories = CustomCategoryManager.shared.loadCustomCategories()
     }
 }

@@ -144,6 +144,23 @@ struct VocabularyView: View {
                     LearnView(viewModel: LearnViewModel(settings: settings, category: category))
                 }
                 
+                // Custom categories section
+                                if !viewModel.customCategories.isEmpty {
+                                    VStack(spacing: 10) {
+                                        sectionHeader(for: .custom)
+                                        
+                                        LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
+                                            ForEach(viewModel.customCategories, id: \.self) { category in
+                                                NavigationLink(value: category) {
+                                                    categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
+                                                }
+                                                .buttonStyle(ScaleButtonStyle())
+                                            }
+                                        }
+                                        .padding(.bottom, 10)
+                                    }
+                                }
+                
                 Spacer()
             }
         }

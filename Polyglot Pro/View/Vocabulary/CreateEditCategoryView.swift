@@ -92,8 +92,23 @@ struct CreateEditCategoryView: View {
         questions.remove(atOffsets: offsets)
     }
     
+//    private func saveCategory() {
+//        print("TEST100 saveCategory")
+//        CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
+//        dismiss()
+//    }
     private func saveCategory() {
+        guard !categoryName.isEmpty else { return }
+        
+        // Create a new custom category
+        let newCategory = Category.custom(name: categoryName)
+        
+        // Save the questions to UserDefaults
+        CustomCategoryManager.shared.saveQuestions(questions, for: newCategory)
+        
+        // Add the category to the list
         CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
+        
         dismiss()
     }
 }
