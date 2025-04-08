@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum Category: Codable, Hashable {
+enum Category: Codable, Hashable, Identifiable {
     
     enum CatSection: String, CaseIterable {
         case pronouns
@@ -98,7 +98,17 @@ enum Category: Codable, Hashable {
     // conjunctions
     case conjunctions
     
+    // custom
     case custom(name: String)
+    
+    var id: String {
+            switch self {
+            case .custom(let name):
+                return "custom-\(name)"
+            default:
+                return String(describing: self)
+            }
+        }
     
     static var allCases: [Category] {
         return [

@@ -7,9 +7,6 @@
     "–" : {
       "shouldTranslate" : false
     },
-    "(%@)" : {
-      "shouldTranslate" : false
-    },
     "%@:" : {
 
     },
@@ -4479,6 +4476,9 @@
           }
         }
       }
+    },
+    "Edit" : {
+
     },
     "Emotion verbs" : {
       "extractionState" : "manual",

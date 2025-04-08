@@ -10,215 +10,119 @@ import SwiftUI
 
 
 struct VocabularyView: View {
-    
     @EnvironmentObject var settings: SettingsManager
     @Environment(\.dismiss) private var dismiss
     @StateObject var viewModel = VocabularyViewModel()
     
-    //let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 2 : 4)
-    
-    let columns: [GridItem] = {
-        let count: Int
-        switch Platform.current {
-        case .iOS: count = 2
-        case .iPadOS: count = 3
-        case .macOS: count = 4
-        case .unknown: count = 3
-        }
-        
-        return Array(repeating: GridItem(.flexible(), spacing: 0), count: count)
-    }()
-    
-    let size: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 50.0
-        default: return 24
-        }
-    }()
-    
-    let spacing: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 36
-        default: return 14
-        }
-    }()
-    
-    let btnFontSize: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 20
-        case .iPadOS: return 16
-        default: return 11
-        }
-    }()
-    
-    let btnFontSize2: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 20
-        case .iPadOS: return 16
-        default: return 11
-        }
-    }()
-    
-    let btnWidth: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 300
-        case .iPadOS: return 250
-        default: return 150
-        }
-    }()
-    
-    let btnHeight: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 70
-        case .iPadOS: return 55
-        default: return 40
-        }
-    }()
-    
-    let radius: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 12
-        case .iPadOS: return 8
-        default: return 6
-        }
-    }()
-    
-    let lineWidth: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 10
-        default: return 5
-        }
-    }()
-    
-    let paddingTop: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 40
-        case .iPadOS: return 30
-        default: return 20
-        }
-    }()
-    
     @State private var showingAddCategory = false
+    @State private var editingCategory: Category?
     
     var body: some View {
-        VStack {
-            ScrollView(.vertical, showsIndicators: true) {
-                
-                Text("").frame(height: paddingTop)
-                
-                ForEach(Category.CatSection.allCases, id: \.self) { section in
-                    if let categories = viewModel.categoriesBySection[section] {
-                        VStack(spacing: 10) {
-                            sectionHeader(for: section)
-                            
-                            LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
-                                ForEach(categories, id: \.self) { category in
-                                    NavigationLink(value: category) {
-                                        categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
-                                        
-                                    }
-                                    .buttonStyle(ScaleButtonStyle())
-                                }
-                            }
-                            .padding(.bottom, 10)
-                            
-                            // Horizontal Line (Divider)
-                            if section != Category.CatSection.allCases.last {
-                                Rectangle()
-                                    .fill(
-                                        LinearGradient(
-                                            colors: [.blue, .purple],
-                                            startPoint: .leading,
-                                            endPoint: .trailing
-                                        )
-                                    )
-                                    .frame(height: 2)
-                                    .padding(.horizontal, 40)
-                                    .padding(.top, 10)
-                                    .padding(.bottom, 26)
+        List {
+            // Built-in categories sections
+            ForEach(Category.CatSection.allCases.filter { $0 != .custom }, id: \.self) { section in
+                if let categories = viewModel.categoriesBySection[section], !categories.isEmpty {
+                    Section(header: Text(section.displayName.localized).font(.headline)) {
+                        ForEach(categories, id: \.self) { category in
+                            NavigationLink(value: category) {
+                                categoryRow(for: category)
                             }
                         }
                     }
                 }
-                .navigationDestination(for: Category.self) { category in
-                    LearnView(viewModel: LearnViewModel(settings: settings, category: category))
-                }
-                
-                // Custom categories section
-                                if !viewModel.customCategories.isEmpty {
-                                    VStack(spacing: 10) {
-                                        sectionHeader(for: .custom)
-                                        
-                                        LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
-                                            ForEach(viewModel.customCategories, id: \.self) { category in
-                                                NavigationLink(value: category) {
-                                                    categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
-                                                }
-                                                .buttonStyle(ScaleButtonStyle())
-                                            }
-                                        }
-                                        .padding(.bottom, 10)
-                                    }
-                                }
-                
-                Spacer()
             }
+            
+            // Custom categories section
+            if !viewModel.customCategories.isEmpty {
+                Section(header: Text("Custom".localized).font(.headline)) {
+                    ForEach(viewModel.customCategories, id: \.self) { category in
+                        NavigationLink(value: category) {
+                            categoryRow(for: category)
+                        }
+                        .swipeActions(edge: .trailing, allowsFullSwipe: false) {
+                            Button(role: .destructive) {
+                                deleteCustomCategory(category)
+                            } label: {
+                                Label("Delete", systemImage: "trash")
+                            }
+                            
+                            Button {
+                                editCustomCategory(category)
+                            } label: {
+                                Label("Edit", systemImage: "pencil")
+                            }
+                            .tint(.blue)
+                        }
+                    }
+                }
+            }
+        }
+        .listStyle(.insetGrouped)
+        .navigationDestination(for: Category.self) { category in
+            LearnView(viewModel: LearnViewModel(settings: settings, category: category))
         }
         .sheet(isPresented: $showingAddCategory) {
             NavigationView {
                 CreateEditCategoryView()
+                    .onDisappear {
+                        viewModel.refreshCustomCategories()
+                    }
             }
         }
-        .padding(.bottom, 20)
-        .customTitle("Vocabulary".localized)
+        .sheet(item: $editingCategory) { category in
+            if case let .custom(name) = category {
+                NavigationView {
+                    CreateEditCategoryView(categoryName: name, questions: CustomCategoryManager.shared.loadQuestions(for: category))
+                        .onDisappear {
+                            viewModel.refreshCustomCategories()
+                        }
+                }
+            }
+        }
+        .navigationTitle("Vocabulary".localized)
         .toolbar {
             ToolbarItem(placement: .navigationBarTrailing) {
-                Button(action: {
+                Button {
                     showingAddCategory = true
-                }) {
+                } label: {
                     Image(systemName: "plus")
-                        .font(.system(size: size))
                         .foregroundColor(.blue)
                 }
             }
         }
-        
-        .background(
-            GradientBackground().ignoresSafeArea()
-        )
-        
     }
     
-    private func sectionHeader(for section: Category.CatSection) -> some View {
-        HStack {
-            Text(section.displayName.localized)
-                .styledTitel()
-                .padding(.leading, 40)
-            Spacer()
-        }
-    }
-    
-    private func categoryItem(for category: Category, isSolved: Bool = false) -> some View {
-        VStack {
+    private func categoryRow(for category: Category) -> some View {
+        VStack(alignment: .leading, spacing: 4) {
             Text(category.targetName)
-                .foregroundColor(.white)
-                .font(.system(size: btnFontSize, weight: .bold))
-            Text("(\(category.primaryName))")
-                .foregroundColor(.white.opacity(0.8))
-                .font(.system(size: btnFontSize2 - 2, weight: .regular))
+                .font(.headline)
+            
+            Text(category.primaryName)
+                .font(.subheadline)
+                .foregroundColor(.secondary)
         }
-        .frame(width: btnWidth, height: btnHeight)
-        .background(
-            LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
+        .padding(.vertical, 8)
+    }
+    
+    private func deleteCustomCategory(_ category: Category) {
+        let alert = UIAlertController(
+            title: "Delete Category",
+            message: "Are you sure you want to delete this category?",
+            preferredStyle: .alert
         )
-        .overlay(
-            isSolved ?
-            RoundedRectangle(cornerRadius: radius + 1)
-                .stroke(Color.green, lineWidth: lineWidth)
-            : nil
-        )
-        .cornerRadius(radius)
-        .shadow(color: Color.green, radius: isSolved ? 8 : 0)
+        
+        alert.addAction(UIAlertAction(title: "Cancel", style: .cancel))
+        alert.addAction(UIAlertAction(title: "Delete", style: .destructive) { _ in
+            CustomCategoryManager.shared.deleteCustomCategory(category)
+            viewModel.refreshCustomCategories()
+        })
+    }
+                        
+                        
+                        // Present the alert (you'll need to use UIViewControllerRepresentable in SwiftUI)
+                        
+    
+    private func editCustomCategory(_ category: Category) {
+        editingCategory = category
     }
 }
-

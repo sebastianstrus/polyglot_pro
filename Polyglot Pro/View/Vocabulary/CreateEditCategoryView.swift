@@ -9,11 +9,17 @@ import SwiftUI
 
 struct CreateEditCategoryView: View {
     @Environment(\.dismiss) var dismiss
-    @State private var categoryName = ""
-    @State private var questions: [Question] = []
+    @State var categoryName: String
+    @State var questions: [Question]
+    
     @State private var showingAddQuestion = false
     @State private var newQuestion = ""
     @State private var newTranslation = ""
+    
+    init(categoryName: String = "", questions: [Question] = []) {
+        _categoryName = State(initialValue: categoryName)
+        _questions = State(initialValue: questions)
+    }
     
     var body: some View {
         Form {
