@@ -11,6 +11,7 @@ import Combine
 
 @MainActor
 class VocabularyViewModel: ObservableObject {
+    @Published var selectedCategory: Category? = nil
     @Published var categoriesBySection: [Category.CatSection: [Category]]
     @Published var customCategories: [Category] = []
     
