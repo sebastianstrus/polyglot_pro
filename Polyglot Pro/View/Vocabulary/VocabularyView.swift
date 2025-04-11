@@ -13,8 +13,6 @@ struct VocabularyView: View {
     @Environment(\.dismiss) private var dismiss
     @StateObject var viewModel = VocabularyViewModel()
     
-    // Add these new state variables for editing
-    @State private var showingEditCategory = false
     
     //let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 2 : 4)
     
@@ -116,8 +114,8 @@ struct VocabularyView: View {
     @State private var showingAddCategory = false
     
     var body: some View {
-        VStack {
-            ScrollView(.vertical, showsIndicators: true) {
+        ScrollView(.vertical, showsIndicators: true) {
+            LazyVStack(spacing: 0)  {
                 
                 Text("").frame(height: paddingTop)
                 
@@ -127,8 +125,14 @@ struct VocabularyView: View {
                             sectionHeader(for: section)
                             
                             LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
+                                
                                 ForEach(categories, id: \.self) { category in
-                                    NavigationLink(value: category) {
+                                    ZStack {
+                                        NavigationLink(value: category) {
+                                            EmptyView()
+                                        }
+                                        .opacity(0)
+                                        
                                         categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
                                             .swipeActions(edge: .trailing, allowsFullSwipe: true) {
                                                 if case .custom = category {
@@ -139,10 +143,8 @@ struct VocabularyView: View {
                                                     }
                                                 }
                                             }
+                                        
                                     }
-                                    .buttonStyle(ScaleButtonStyle())
-
-                                    
                                 }
                             }
                             .padding(.bottom, 10)
@@ -215,37 +217,112 @@ struct VocabularyView: View {
     }
     
     private func categoryItem(for category: Category, isSolved: Bool = false) -> some View {
-        HStack {
-            VStack(alignment: horizontalAlignment) {
-                Text(category.targetName)
-                    .foregroundColor(.white)
-                    .font(.system(size: btnFontSize, weight: .bold))
-                Text("(\(category.primaryName))")
-                    .foregroundColor(.white.opacity(0.8))
-                    .font(.system(size: btnFontSize2 - 2, weight: .regular))
+        CategoryItem(
+            category: category,
+            isSolved: isSolved,
+            horizontalAlignment: horizontalAlignment,
+            btnFontSize: btnFontSize,
+            btnFontSize2: btnFontSize2,
+            btnWidth: btnWidth,
+            btnHeight: btnHeight,
+            radius: radius,
+            lineWidth: lineWidth,
+            deleteAction: { deleteCategory(category) }
+        )
+    }
+}
+
+
+struct CategoryItem: View {
+    let category: Category
+    let isSolved: Bool
+    let horizontalAlignment: HorizontalAlignment
+    let btnFontSize: CGFloat
+    let btnFontSize2: CGFloat
+    let btnWidth: CGFloat
+    let btnHeight: CGFloat
+    let radius: CGFloat
+    let lineWidth: CGFloat
+    let deleteAction: () -> Void
+    
+    @State private var offset: CGFloat = 0.0
+    
+    var body: some View {
+        ZStack(alignment: .leading) {
+            // Swipe action buttons (hidden behind the main content)
+            if case .custom = category {
+                HStack {
+                    Spacer()
+                    Button(action: {
+                        deleteAction()
+                    }) {
+                        Image(systemName: "trash")
+                            .foregroundColor(.white)
+                            .padding()
+                            .background(Color.red)
+                            .cornerRadius(8)
+                    }
+                    .padding(.trailing, 20)
+                }
             }
             
-            Spacer()
-            
-            if Platform.current == .iOS {
-                Image(systemName: "chevron.right")
-                    .foregroundColor(.white.opacity(0.7))
-                    .font(.system(size: btnFontSize - 4, weight: .bold))
+            // Main content
+            HStack {
+                VStack(alignment: horizontalAlignment) {
+                    Text(category.targetName)
+                        .foregroundColor(.white)
+                        .font(.system(size: btnFontSize, weight: .bold))
+                    Text("(\(category.primaryName))")
+                        .foregroundColor(.white.opacity(0.8))
+                        .font(.system(size: btnFontSize2 - 2, weight: .regular))
+                }
+                
+                Spacer()
+                
+                if Platform.current == .iOS {
+                    Image(systemName: "chevron.right")
+                        .foregroundColor(.white.opacity(0.7))
+                        .font(.system(size: btnFontSize - 4, weight: .bold))
+                }
             }
+            .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
+            .frame(maxWidth: Platform.current == .iOS ? .infinity : btnWidth, minHeight: btnHeight)
+            .background(
+                LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
+            )
+            .overlay(
+                isSolved ?
+                RoundedRectangle(cornerRadius: radius + 1)
+                    .stroke(Color.green, lineWidth: lineWidth)
+                : nil
+            )
+            .cornerRadius(radius)
+            .shadow(color: Color.green, radius: isSolved ? 8 : 0)
+            .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
+            .offset(x: offset)
+            .gesture(
+                DragGesture()
+                    .onChanged { value in
+                        if case .custom = category { // Only allow swiping for custom categories
+                            if value.translation.width < 0 {
+                                offset = max(value.translation.width, -80)
+                            } else if offset < 0 {
+                                // Allow dragging back to original position
+                                offset = min(value.translation.width, 0)
+                            }
+                        }
+                    }
+                    .onEnded { value in
+                        if case .custom = category {
+                            if value.translation.width < -40 {
+                                offset = -80
+                            } else {
+                                offset = 0
+                            }
+                        }
+                    }
+            )
+            .animation(.easeInOut, value: offset)
         }
-        .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
-        .frame(maxWidth: Platform.current == .iOS ? .infinity : btnWidth, minHeight: btnHeight, alignment: alignment)
-        .background(
-            LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
-        )
-        .overlay(
-            isSolved ?
-            RoundedRectangle(cornerRadius: radius + 1)
-                .stroke(Color.green, lineWidth: lineWidth)
-            : nil
-        )
-        .cornerRadius(radius)
-        .shadow(color: Color.green, radius: isSolved ? 8 : 0)
-        .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
     }
 }
