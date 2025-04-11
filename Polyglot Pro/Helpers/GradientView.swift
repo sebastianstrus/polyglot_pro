@@ -13,7 +13,7 @@ struct GradientBackground: View {
     
     var body: some View {
         
-        let lightColors: [Color] = [Color.cyan.opacity(0.2), Color.blue.opacity(0.5)]
+        let lightColors: [Color] = [Color.cyan.opacity(0.05), Color.blue.opacity(0.1)]
         let darkColors: [Color] = [Color(red: 5/255, green: 10/255, blue: 13/255), Color(red: 15/255, green: 6/255, blue: 20/255)]
         
         LinearGradient(

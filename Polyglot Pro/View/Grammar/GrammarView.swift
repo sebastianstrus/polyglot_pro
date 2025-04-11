@@ -10,6 +10,7 @@ import SwiftUI
 struct GrammarView: View {
     var body: some View {
         Text("TODO: Grammar")
+            .font(.title)
             .customTitle("Grammar")
     }
 }

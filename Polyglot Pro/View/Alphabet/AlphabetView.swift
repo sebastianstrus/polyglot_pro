@@ -68,15 +68,11 @@ struct AlphabetView: View {
                         Text(letterPair)
                             .frame(width: size, height: size)
                             .font(.system(size: fontSize, weight: .bold, design: .rounded))
-                            .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
-                            .background(Color.white.opacity(settings.isDarkMode ? 0 : 1))
-                            .cornerRadius(10)
-                            .overlay(
-                                RoundedRectangle(cornerRadius: cornerRadius)
-                                    .stroke(
-                                        LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing), lineWidth: 2)
-                                    .shadow(color: .purple.opacity(0.5), radius: 10)
+                            .foregroundColor(.white)
+                            .background(
+                                LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
                             )
+                            .cornerRadius(10)
                     }
                     .buttonStyle(ScaleButtonStyle())
                 }

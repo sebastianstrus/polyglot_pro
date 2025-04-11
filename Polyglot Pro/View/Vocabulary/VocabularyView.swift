@@ -27,6 +27,20 @@ struct VocabularyView: View {
         return Array(repeating: GridItem(.flexible(), spacing: 0), count: count)
     }()
     
+    let alignment: Alignment = {
+        switch Platform.current {
+        case .iOS: return .leading
+        default: return .center
+        }
+    }()
+    
+    let horizontalAlignment: HorizontalAlignment = {
+        switch Platform.current {
+        case .iOS: return .leading
+        default: return .center
+        }
+    }()
+    
     let size: CGFloat = {
         switch Platform.current {
         case .macOS: return 50.0
@@ -45,7 +59,7 @@ struct VocabularyView: View {
         switch Platform.current {
         case .macOS: return 20
         case .iPadOS: return 16
-        default: return 11
+        default: return 16
         }
     }()
     
@@ -53,7 +67,7 @@ struct VocabularyView: View {
         switch Platform.current {
         case .macOS: return 20
         case .iPadOS: return 16
-        default: return 11
+        default: return 16
         }
     }()
     
@@ -69,7 +83,7 @@ struct VocabularyView: View {
         switch Platform.current {
         case .macOS: return 70
         case .iPadOS: return 55
-        default: return 40
+        default: return 54
         }
     }()
     
@@ -159,7 +173,7 @@ struct VocabularyView: View {
                 }) {
                     Image(systemName: "plus")
                         .font(.system(size: size))
-                        .foregroundColor(.blue)
+                        .foregroundColor(.purple)
                 }
             }
         }
@@ -180,15 +194,26 @@ struct VocabularyView: View {
     }
     
     private func categoryItem(for category: Category, isSolved: Bool = false) -> some View {
-        VStack {
-            Text(category.targetName)
-                .foregroundColor(.white)
-                .font(.system(size: btnFontSize, weight: .bold))
-            Text("(\(category.primaryName))")
-                .foregroundColor(.white.opacity(0.8))
-                .font(.system(size: btnFontSize2 - 2, weight: .regular))
+        HStack {
+            VStack(alignment: horizontalAlignment) {
+                Text(category.targetName)
+                    .foregroundColor(.white)
+                    .font(.system(size: btnFontSize, weight: .bold))
+                Text("(\(category.primaryName))")
+                    .foregroundColor(.white.opacity(0.8))
+                    .font(.system(size: btnFontSize2 - 2, weight: .regular))
+            }
+            
+            Spacer()
+            
+            if Platform.current == .iOS {
+                Image(systemName: "chevron.right")
+                    .foregroundColor(.white.opacity(0.7))
+                    .font(.system(size: btnFontSize - 4, weight: .bold))
+            }
         }
-        .frame(width: btnWidth, height: btnHeight)
+        .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
+        .frame(maxWidth: Platform.current == .iOS ? .infinity : btnWidth, minHeight: btnHeight, alignment: alignment)
         .background(
             LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
         )
@@ -200,6 +225,7 @@ struct VocabularyView: View {
         )
         .cornerRadius(radius)
         .shadow(color: Color.green, radius: isSolved ? 8 : 0)
+        .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
     }
 }
 
