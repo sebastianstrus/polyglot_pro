@@ -54,5 +54,67 @@ nyligen, idag, i morse, i kväll, i natt, om en stund, hädanefter, hittills, d�
 
 
 
+struct SwipeActionExample: View {
+    let items = ["Apple", "Banana", "Cherry"]
+
+    var body: some View {
+        ScrollView {
+            LazyVStack {
+                ForEach(items, id: \.self) { item in
+                    CustomSwipeRow(item: item)
+                }
+            }
+        }
+    }
+}
+
+struct CustomSwipeRow: View {
+    let item: String
+    @State private var offset: CGFloat = 0.0
+    @GestureState private var isDragging = false
+
+    var body: some View {
+        ZStack(alignment: .leading) {
+            HStack {
+                Spacer()
+                Button(action: {
+                    print("Deleted \(item)")
+                }) {
+                    Image(systemName: "trash")
+                        .foregroundColor(.white)
+                        .padding()
+                        .background(Color.red)
+                        .cornerRadius(8)
+                }
+                .padding(.trailing, 16)
+            }
+
+            Text(item)
+                .frame(maxWidth: .infinity, minHeight: 60, alignment: .leading)
+                .background(Color(.systemGray6))
+                .cornerRadius(10)
+                .offset(x: offset)
+                .gesture(
+                    DragGesture()
+                        .onChanged { value in
+                            if value.translation.width < 0 {
+                                offset = max(value.translation.width, -80)
+                            }
+                        }
+                        .onEnded { value in
+                            if value.translation.width < -40 {
+                                offset = -80
+                            } else {
+                                offset = 0
+                            }
+                        }
+                )
+                .animation(.easeInOut, value: offset)
+        }
+        .padding(.horizontal)
+        .padding(.vertical, 4)
+    }
+}
+
 
 

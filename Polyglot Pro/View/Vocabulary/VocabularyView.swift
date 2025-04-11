@@ -13,6 +13,9 @@ struct VocabularyView: View {
     @Environment(\.dismiss) private var dismiss
     @StateObject var viewModel = VocabularyViewModel()
     
+    // Add these new state variables for editing
+    @State private var showingEditCategory = false
+    
     //let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 0), count: Platform.current == .iOS ? 2 : 4)
     
     let columns: [GridItem] = {
@@ -127,9 +130,19 @@ struct VocabularyView: View {
                                 ForEach(categories, id: \.self) { category in
                                     NavigationLink(value: category) {
                                         categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
-                                        
+                                            .swipeActions(edge: .trailing, allowsFullSwipe: true) {
+                                                if case .custom = category {
+                                                    Button(role: .destructive) {
+                                                        deleteCategory(category)
+                                                    } label: {
+                                                        Label("Delete", systemImage: "trash")
+                                                    }
+                                                }
+                                            }
                                     }
                                     .buttonStyle(ScaleButtonStyle())
+
+                                    
                                 }
                             }
                             .padding(.bottom, 10)
@@ -184,6 +197,14 @@ struct VocabularyView: View {
         
     }
     
+    
+        
+        // Function to handle category deletion
+    private func deleteCategory(_ category: Category) {
+        CustomCategoryManager.shared.deleteCustomCategory(category)
+        viewModel.refreshCategories()
+    }
+    
     private func sectionHeader(for section: Category.CatSection) -> some View {
         HStack {
             Text(section.displayName.localized)
@@ -228,4 +249,3 @@ struct VocabularyView: View {
         .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
     }
 }
-
