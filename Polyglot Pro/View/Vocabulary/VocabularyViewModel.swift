@@ -11,20 +11,24 @@ import Combine
 
 @MainActor
 class VocabularyViewModel: ObservableObject {
-    @Published var categoriesBySection: [Category.CatSection: [Category]]
-    @Published var customCategories: [Category] = []
+    @Published private(set) var categoriesBySection: [Category.CatSection: [Category]] = [:]
     
     init() {
-        // Built-in categories
-        self.categoriesBySection = Dictionary(grouping: Category.builtInCases, by: { $0.catSection })
-        
-        // Load custom categories
-        self.customCategories = CustomCategoryManager.shared.loadCustomCategories()
-        
-        print("Loaded custom categories: \(customCategories)")
+        // Load initial data
+        refreshCategories()
     }
     
-    func refreshCustomCategories() {
-        customCategories = CustomCategoryManager.shared.loadCustomCategories()
+    func refreshCategories() {
+        // Built-in categories grouped by section
+        var combinedCategories = Dictionary(grouping: Category.builtInCases, by: { $0.catSection })
+        
+        // Load and add custom categories to the .custom section
+        let customCategories = CustomCategoryManager.shared.loadCustomCategories()
+        combinedCategories[.custom] = customCategories
+        
+        // Update the published property
+        categoriesBySection = combinedCategories
+        
+        print("Loaded categories: \(categoriesBySection)")
     }
 }

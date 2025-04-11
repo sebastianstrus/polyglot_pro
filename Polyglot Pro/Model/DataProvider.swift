@@ -10,13 +10,13 @@ import Foundation
 enum Category: Codable, Hashable {
     
     enum CatSection: String, CaseIterable {
+        case custom
         case pronouns
         case nouns
         case verbs
         case adjectives
         case expressions
         case conjunctions
-        case custom
         
         var displayName: String {
             switch self {
