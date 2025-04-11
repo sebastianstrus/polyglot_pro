@@ -114,8 +114,7 @@ struct VocabularyView: View {
     @State private var showingAddCategory = false
     
     var body: some View {
-        ScrollView(.vertical, showsIndicators: true) {
-            LazyVStack(spacing: 0)  {
+            ScrollView(.vertical, showsIndicators: true) {
                 
                 Text("").frame(height: paddingTop)
                 
@@ -127,7 +126,7 @@ struct VocabularyView: View {
                             LazyVGrid(columns: columns, alignment: .center, spacing: spacing) {
                                 
                                 ForEach(categories, id: \.self) { category in
-                                    ZStack {
+                                    NavigationLink(value: category) {
                                         NavigationLink(value: category) {
                                             EmptyView()
                                         }
@@ -173,7 +172,6 @@ struct VocabularyView: View {
                 
                 Spacer()
             }
-        }
         .sheet(isPresented: $showingAddCategory) {
             NavigationView {
                 CreateEditCategoryView()
