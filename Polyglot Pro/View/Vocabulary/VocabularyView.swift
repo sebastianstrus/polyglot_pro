@@ -114,7 +114,8 @@ struct VocabularyView: View {
     @State private var showingAddCategory = false
     
     var body: some View {
-            ScrollView(.vertical, showsIndicators: true) {
+        ScrollView(.vertical, showsIndicators: true) {
+            LazyVStack(spacing: 0)  {
                 
                 Text("").frame(height: paddingTop)
                 
@@ -166,12 +167,14 @@ struct VocabularyView: View {
                         }
                     }
                 }
-                .navigationDestination(for: Category.self) { category in
-                    LearnView(viewModel: LearnViewModel(settings: settings, category: category))
-                }
+                
                 
                 Spacer()
             }
+            .navigationDestination(for: Category.self) { category in
+                LearnView(viewModel: LearnViewModel(settings: settings, category: category))
+            }
+        }
         .sheet(isPresented: $showingAddCategory) {
             NavigationView {
                 CreateEditCategoryView()
@@ -198,8 +201,8 @@ struct VocabularyView: View {
     }
     
     
-        
-        // Function to handle category deletion
+    
+    // Function to handle category deletion
     private func deleteCategory(_ category: Category) {
         CustomCategoryManager.shared.deleteCustomCategory(category)
         viewModel.refreshCategories()
