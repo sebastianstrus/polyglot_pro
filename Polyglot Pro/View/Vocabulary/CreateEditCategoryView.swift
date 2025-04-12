@@ -15,6 +15,8 @@ struct CreateEditCategoryView: View {
     @State private var newQuestion = ""
     @State private var newTranslation = ""
     
+    var onSave: (() -> Void)? // ✅ Add this
+    
     var body: some View {
         Form {
             Section(header: Text("Category Name".localized)) {
@@ -109,6 +111,7 @@ struct CreateEditCategoryView: View {
         // Add the category to the list
         CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
         
+        onSave?()
         dismiss()
     }
 }
