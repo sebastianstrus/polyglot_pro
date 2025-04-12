@@ -11,104 +11,161 @@ struct CreateEditCategoryView: View {
     @Environment(\.dismiss) var dismiss
     @State private var categoryName = ""
     @State private var questions: [Question] = []
-    @State private var showingAddQuestion = false
     @State private var newQuestion = ""
     @State private var newTranslation = ""
+    @State private var isAddingQuestion = false
     
-    var onSave: (() -> Void)? // ✅ Add this
+    var onSave: (() -> Void)?
+    
+    let lineWidth: CGFloat = {
+        switch Platform.current {
+        case .macOS: return 5
+        default: return 3
+        }
+    }()
     
     var body: some View {
-        Form {
-            Section(header: Text("Category Name".localized)) {
-                TextField("Enter category name".localized, text: $categoryName)
-            }
+        VStack(alignment: .leading, spacing: 10) {
+            Spacer()
             
-            Section(header: Text("Questions".localized)) {
+            TextField("Enter category name".localized, text: $categoryName)
+            
+            Spacer()
+            
+            VStack {
+                Text("Questions".localized)
+                // Questions list
                 ForEach(questions, id: \.id) { question in
                     VStack(alignment: .leading) {
                         Text(question.expression)
                             .font(.headline)
-                        ForEach(Array(question.translations.keys), id: \.self) { key in
-                            HStack {
-                                Text("\(key):")
-                                    .font(.subheadline)
-                                Text(question.translations[key] ?? "")
-                            }
-                        }
+                        Text(question.translations.first!.value)
+                            .font(.subheadline)
                     }
                 }
                 .onDelete(perform: deleteQuestion)
+            }.overlay(
+                RoundedRectangle(cornerRadius: 10)
+                    .stroke(
+                        LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing), lineWidth: lineWidth)
+                    .shadow(color: .purple.opacity(0.5), radius: 10)
+            )
+            
+            Spacer()
+            // Add Question section
+            if isAddingQuestion {
+                TextField("Enter question".localized, text: $newQuestion)
+                TextField("Enter translation".localized, text: $newTranslation)
+                
+                HStack {
+                    
+                    Spacer()
+                    
+                    Button(action: {
+                        resetQuestionForm()
+                    }) {
+                        Text("Cancel".localized)
+                            .styledButton(.secondary)
+                    }.buttonStyle(ScaleButtonStyle())
+
+                    
+                    Spacer()
+                    
+                    Button(action: {
+                        let newQ = newQuestion // Capture values before reset
+                        let newT = newTranslation
+                        DispatchQueue.main.async {
+                            addQuestion(question: newQ, translation: newT)
+                        }
+                    }) {
+                        Text("Add".localized)
+                            .styledButton(.secondary)
+                    }.buttonStyle(ScaleButtonStyle())
+                        .opacity(newQuestion.isEmpty || newTranslation.isEmpty ? 0.5 : 1.0)
+                        .disabled(newQuestion.isEmpty || newTranslation.isEmpty)
+                    
+                    Spacer()
+
+                }
+                
+            } else {
+                
                 
                 Button(action: {
-                    showingAddQuestion = true
+                    isAddingQuestion = true
                 }) {
-                    HStack {
-                        Image(systemName: "plus")
-                        Text("Add Question".localized)
-                    }
-                }
+                    Text("Add Question".localized)
+                        .styledButton(.secondary)
+                }.buttonStyle(ScaleButtonStyle())
+
+                
+
             }
             
-            Section {
-                Button("Save Category".localized) {
+            Spacer()
+            
+            HStack {
+                Spacer()
+                
+                Button(action: {
                     saveCategory()
-                }
-                .disabled(categoryName.isEmpty || questions.isEmpty)
+                }) {
+                    Text("Save Category".localized)
+                        .styledButton(.secondary)
+                }.buttonStyle(ScaleButtonStyle())
+                    .opacity(categoryName.isEmpty || questions.isEmpty ? 0.5 : 1.0)
+                    .disabled(categoryName.isEmpty || questions.isEmpty)
+                
+                Spacer()
+                
             }
+            
+            
+            
+            Spacer()
+            
+//            Button("Save Category".localized) {
+//                saveCategory()
+//            }
+//            .disabled(categoryName.isEmpty || questions.isEmpty)
         }
-        .navigationTitle("New Category".localized)
-        .sheet(isPresented: $showingAddQuestion) {
-            NavigationView {
-                Form {
-                    Section(header: Text("Question".localized)) {
-                        TextField("Enter question".localized, text: $newQuestion)
-                    }
-                    
-                    Section(header: Text("Translation".localized)) {
-                        TextField("Enter translation".localized, text: $newTranslation)
-                    }
-                    
-                    Button("Add".localized) {
-                        let translation = [Language.english.rawValue: newTranslation] // Adjust based on your needs
-                        let question = Question(id: UUID(),
-                                              expression: newQuestion,
-                                              audioID: nil,
-                                              translations: translation,
-                                              examples: [])
-                        questions.append(question)
-                        newQuestion = ""
-                        newTranslation = ""
-                        showingAddQuestion = false
-                    }
-                    .disabled(newQuestion.isEmpty || newTranslation.isEmpty)
-                }
-                .navigationTitle("New Question".localized)
-                .navigationBarItems(trailing: Button("Cancel".localized) {
-                    showingAddQuestion = false
-                })
-            }
-        }
+        .padding(20)
+        .customTitle("Create Category".localized)
+    }
+    
+    
+    
+    
+    private func addQuestion(question: String, translation: String) {
+        let translationDict = [Language.english.rawValue: translation]
+        let newQuestion = Question(
+            id: UUID(),
+            expression: question,
+            audioID: nil,
+            translations: translationDict,
+            examples: []
+        )
+        
+        print("Adding question: \(newQuestion)")
+        questions.append(newQuestion)
+        resetQuestionForm()
+    }
+    
+    private func resetQuestionForm() {
+        newQuestion = ""
+        newTranslation = ""
+        isAddingQuestion = false
     }
     
     private func deleteQuestion(at offsets: IndexSet) {
         questions.remove(atOffsets: offsets)
     }
     
-//    private func saveCategory() {
-//        print("TEST100 saveCategory")
-//        CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
-//        dismiss()
-//    }
     private func saveCategory() {
         guard !categoryName.isEmpty else { return }
         
-        // Create a new custom category
         let newCategory = Category.custom(name: categoryName)
-        
-        // Save the questions to UserDefaults
         CustomCategoryManager.shared.saveQuestions(questions, for: newCategory)
-        
-        // Add the category to the list
         CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
         
         onSave?()

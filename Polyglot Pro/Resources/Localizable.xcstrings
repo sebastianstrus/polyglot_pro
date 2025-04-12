@@ -10,9 +10,6 @@
     "(%@)" : {
       "shouldTranslate" : false
     },
-    "%@:" : {
-
-    },
     "%lld" : {
       "shouldTranslate" : false
     },
