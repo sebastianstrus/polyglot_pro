@@ -301,7 +301,7 @@ struct CategoryItem: View {
             .shadow(color: Color.green, radius: isSolved ? 8 : 0)
             .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
             .offset(x: offset)
-            .gesture(
+            .simultaneousGesture(
                 DragGesture()
                     .onChanged { value in
                         if case .custom = category { // Only allow swiping for custom categories
