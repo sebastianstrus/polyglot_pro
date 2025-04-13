@@ -246,6 +246,6 @@ struct TargetLanguageSelectionView: View {
                 selectedLanguage = language
             }
         }
-        .customTitle("Choose language".localized)
+        .customTitle("Select Language".localized)
     }
 }
