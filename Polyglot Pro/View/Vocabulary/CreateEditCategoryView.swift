@@ -49,14 +49,11 @@ struct CreateEditCategoryView: View {
                         EmptyStateView()
                     } else {
                         ForEach(questions, id: \.id) { question in
-                            QuestionRow(question: question, onDelete: {
+                            QuestionRow(question: question) {
                                 if let index = questions.firstIndex(where: { $0.id == question.id }) {
-                                    withAnimation {
-                                        _ = questions.remove(at: index)
-                                    }
+                                    questions.remove(at: index)
                                 }
-                            })
-//                            .opacity(question.id == currentlyDragging?.id ? 0.5 : 1)
+                            }
                             .onDrag {
                                 currentlyDragging = question
                                 return NSItemProvider(object: question.id.uuidString as NSString)
@@ -69,15 +66,6 @@ struct CreateEditCategoryView: View {
                                     currentlyDragging: $currentlyDragging
                                 )
                             )
-//                            .contextMenu {
-//                                Button(role: .destructive) {
-//                                    if let index = questions.firstIndex(where: { $0.id == question.id }) {
-//                                        questions.remove(at: index)
-//                                    }
-//                                } label: {
-//                                    Label("Delete", systemImage: "trash")
-//                                }
-//                            }
                         }
                     }
                 }
@@ -226,44 +214,86 @@ private struct CustomTextField2: View {
 
 private struct QuestionRow: View {
     let question: Question
+    @State private var offset: CGFloat = 0
+    @State private var initialOffset: CGFloat = 0
+    @State private var isSwiped: Bool = false
+    
     var onDelete: (() -> Void)?
     
     var body: some View {
-        HStack {
-            VStack(alignment: .leading, spacing: 4) {
-                Text(question.expression)
-                    .font(.headline)
-                
-                if let translation = question.translations.first?.value {
-                    Text(translation)
-                        .font(.subheadline)
-                        .foregroundColor(.secondary)
-                }
-            }
-            
-            Spacer()
-            
+        ZStack(alignment: .trailing) {
+            // Delete button (background)
             Button(action: {
-                onDelete?()
+                withAnimation {
+                    onDelete?()
+                }
             }) {
-                Image(systemName: "xmark.circle.fill")
-                    .foregroundColor(.red)
-                    .font(.system(size: 20))
+                Image(systemName: "trash")
+                    .foregroundColor(.white)
+                    .frame(width: 80, height: 70)
+                    .background(Color.red)
+                    .cornerRadius(8)
+                    .clipped()
             }
-            .buttonStyle(PlainButtonStyle())
+            .zIndex(0)
             
-            Image(systemName: "line.3.horizontal")
-                .foregroundColor(.gray)
-                .font(.system(size: 30))
+            // Content (foreground)
+            HStack {
+                VStack(alignment: .leading, spacing: 4) {
+                    Text(question.expression)
+                        .font(.headline)
+                    
+                    if let translation = question.translations.first?.value {
+                        Text(translation)
+                            .font(.subheadline)
+                            .foregroundColor(.secondary)
+                    }
+                }
+                
+                Spacer()
+                
+                Image(systemName: "line.3.horizontal")
+                    .foregroundColor(.gray)
+                    .font(.system(size: 36))
+                    .cornerRadius(8)
+                    .clipped()
+            }
+            .padding()
+            .frame(maxWidth: .infinity, alignment: .leading)
+            .background(Color(.systemBackground))
+            .shadow(color: .black.opacity(0.05), radius: 2, x: 0, y: 1)
+            .frame(height: 70)
+            .cornerRadius(8)
+            .clipped()
+            
+            .offset(x: offset)
+            .zIndex(1)
+            .simultaneousGesture(
+                DragGesture()
+                    .onChanged { gesture in
+                        if gesture.translation.width < 0 {
+                            offset = gesture.translation.width
+                        }
+                    }
+                    .onEnded { gesture in
+                        if gesture.translation.width < -80 {
+                            withAnimation {
+                                offset = -88
+                                isSwiped = true
+                            }
+                        } else {
+                            withAnimation {
+                                offset = 0
+                                isSwiped = false
+                            }
+                        }
+                    }
+            )
+
         }
-        .padding()
-        .frame(maxWidth: .infinity, alignment: .leading)
-        .background(Color(.systemBackground))
-        .cornerRadius(8)
-        .shadow(color: .black.opacity(0.05), radius: 2, x: 0, y: 1)
+        
     }
 }
-
 private struct EmptyStateView: View {
     var body: some View {
         VStack {
