@@ -81,7 +81,7 @@ struct CreateEditCategoryView: View {
                     VStack(spacing: 16) {
                         CustomTextField2(
                             text: $newQuestion,
-                            placeholder: "Enter question".localized,
+                            placeholder: "Enter expression".localized,
                             icon: "questionmark.circle.fill",
                             backgroundColor: Color(.systemBackground)
                         )
