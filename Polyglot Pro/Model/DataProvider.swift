@@ -33,7 +33,7 @@ enum Category: Codable, Hashable {
             case .conjunctions:
                 return "Conjunctions".localized
             case .custom:
-                return "Custom".localized
+                return "Own categories".localized
             }
         }
     }
