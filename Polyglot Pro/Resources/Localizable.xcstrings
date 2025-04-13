@@ -9450,9 +9450,136 @@
         }
       }
     },
-    "No Questions Added" : {
-
+    "No Expressions Added" : {
+  "localizations" : {
+    "ar" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "لم تتم إضافة أي تعابير"
+      }
     },
+    "bn" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "কোনো অভিব্যক্তি যোগ করা হয়নি"
+      }
+    },
+    "da" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Ingen udtryk tilføjet"
+      }
+    },
+    "de" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Keine Ausdrücke hinzugefügt"
+      }
+    },
+    "es" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "No se han añadido expresiones"
+      }
+    },
+    "fi" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Ei ilmaisuja lisätty"
+      }
+    },
+    "fr" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Aucune expression ajoutée"
+      }
+    },
+    "hi" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "कोई अभिव्यक्ति नहीं जोड़ी गई"
+      }
+    },
+    "id" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Tidak ada ekspresi yang ditambahkan"
+      }
+    },
+    "is" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Engin orðatiltæki bætt við"
+      }
+    },
+    "it" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Nessuna espressione aggiunta"
+      }
+    },
+    "ja" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "表現が追加されていません"
+      }
+    },
+    "ko" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "추가된 표현이 없습니다"
+      }
+    },
+    "nb" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Ingen uttrykk lagt til"
+      }
+    },
+    "pa" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "ਕੋਈ ਪ੍ਰਗਟਾਵੇ ਨਹੀਂ ਜੋੜੇ ਗਏ"
+      }
+    },
+    "pl" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Brak dodanych wyrażeń"
+      }
+    },
+    "pt-BR" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Nenhuma expressão adicionada"
+      }
+    },
+    "sv" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Inga uttryck tillagda"
+      }
+    },
+    "uk" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "Жодних виразів не додано"
+      }
+    },
+    "ur" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "کوئی اظہار شامل نہیں کیا گیا"
+      }
+    },
+    "zh-Hans" : {
+      "stringUnit" : {
+        "state" : "translated",
+        "value" : "未添加任何表达"
+      }
+    }
+  }
+},
     "Norwegian" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -15348,7 +15475,7 @@
       }
     },
     "TODO: Exercises" : {
-
+      "shouldTranslate" : false
     },
     "TODO: Grammar" : {
       "shouldTranslate" : false

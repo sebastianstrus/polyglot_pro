@@ -303,7 +303,7 @@ private struct EmptyStateView: View {
                 .foregroundColor(.secondary)
                 .padding(.bottom, 8)
             
-            Text("No Questions Added")
+            Text("No Expressions Added")
                 .font(.headline)
                 .foregroundColor(.secondary)
         }
