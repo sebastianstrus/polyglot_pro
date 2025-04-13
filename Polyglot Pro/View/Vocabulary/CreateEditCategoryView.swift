@@ -41,7 +41,7 @@ struct CreateEditCategoryView: View {
                 
                 // Questions List
                 VStack(alignment: .leading, spacing: 8) {
-                    Text("Questions".localized)
+                    Text("Expressions".localized)
                         .font(.headline)
                         .foregroundColor(.secondary)
                     
@@ -110,7 +110,7 @@ struct CreateEditCategoryView: View {
                     }
                 } else {
                     Button(action: { isAddingQuestion = true }) {
-                        Label("Add Question".localized, systemImage: "plus")
+                        Label("Add Expression".localized, systemImage: "plus")
                             .frame(maxWidth: .infinity)
                     }
                     .buttonStyle(PrimaryButtonStyle())
@@ -118,7 +118,7 @@ struct CreateEditCategoryView: View {
                 
                 // Save Button
                 Button(action: saveCategory) {
-                    Text("Save Category".localized)
+                    Text("Save Expression".localized)
                         .frame(maxWidth: .infinity)
                 }
                 .buttonStyle(PrimaryButtonStyle())
@@ -230,6 +230,7 @@ private struct QuestionRow: View {
             }) {
                 Image(systemName: "trash")
                     .foregroundColor(.white)
+                    .font(.system(size: 22))
                     .frame(width: 80, height: 70)
                     .background(Color.red)
                     .cornerRadius(8)
@@ -254,7 +255,7 @@ private struct QuestionRow: View {
                 
                 Image(systemName: "line.3.horizontal")
                     .foregroundColor(.gray)
-                    .font(.system(size: 36))
+                    .font(.system(size: 22))
                     .cornerRadius(8)
                     .clipped()
             }
