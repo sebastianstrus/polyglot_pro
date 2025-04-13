@@ -48,16 +48,22 @@ struct CreateEditCategoryView: View {
                         EmptyStateView()
                     } else {
                         ForEach(questions, id: \.id) { question in
-                            QuestionRow(question: question)
-                                .contextMenu {
-                                    Button(role: .destructive) {
-                                        if let index = questions.firstIndex(where: { $0.id == question.id }) {
-                                            questions.remove(at: index)
-                                        }
-                                    } label: {
-                                        Label("Delete", systemImage: "trash")
+                            QuestionRow(question: question, onDelete: {
+                                if let index = questions.firstIndex(where: { $0.id == question.id }) {
+                                    withAnimation {
+                                        _ = questions.remove(at: index)
                                     }
                                 }
+                            })
+                            .contextMenu {
+                                Button(role: .destructive) {
+                                    if let index = questions.firstIndex(where: { $0.id == question.id }) {
+                                        questions.remove(at: index)
+                                    }
+                                } label: {
+                                    Label("Delete", systemImage: "trash")
+                                }
+                            }
                         }
                     }
                 }
@@ -184,17 +190,32 @@ private struct CustomTextField2: View {
 
 private struct QuestionRow: View {
     let question: Question
+    var onDelete: (() -> Void)? // Add delete callback
     
     var body: some View {
-        VStack(alignment: .leading, spacing: 4) {
-            Text(question.expression)
-                .font(.headline)
-            
-            if let translation = question.translations.first?.value {
-                Text(translation)
-                    .font(.subheadline)
-                    .foregroundColor(.secondary)
+        HStack {
+            VStack(alignment: .leading, spacing: 4) {
+                Text(question.expression)
+                    .font(.headline)
+                
+                if let translation = question.translations.first?.value {
+                    Text(translation)
+                        .font(.subheadline)
+                        .foregroundColor(.secondary)
+                }
             }
+            
+            Spacer()
+            
+            // Add delete button
+            Button(action: {
+                onDelete?()
+            }) {
+                Image(systemName: "xmark.circle.fill")
+                    .foregroundColor(.red)
+                    .font(.system(size: 20))
+            }
+            .buttonStyle(PlainButtonStyle())
         }
         .padding()
         .frame(maxWidth: .infinity, alignment: .leading)
