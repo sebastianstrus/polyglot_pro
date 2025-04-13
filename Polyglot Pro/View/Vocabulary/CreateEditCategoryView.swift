@@ -14,6 +14,7 @@ struct CreateEditCategoryView: View {
     @State private var newQuestion = ""
     @State private var newTranslation = ""
     @State private var isAddingQuestion = false
+    @State private var currentlyDragging: Question?
     
     var onSave: (() -> Void)?
     
@@ -55,15 +56,28 @@ struct CreateEditCategoryView: View {
                                     }
                                 }
                             })
-                            .contextMenu {
-                                Button(role: .destructive) {
-                                    if let index = questions.firstIndex(where: { $0.id == question.id }) {
-                                        questions.remove(at: index)
-                                    }
-                                } label: {
-                                    Label("Delete", systemImage: "trash")
-                                }
+//                            .opacity(question.id == currentlyDragging?.id ? 0.5 : 1)
+                            .onDrag {
+                                currentlyDragging = question
+                                return NSItemProvider(object: question.id.uuidString as NSString)
                             }
+                            .onDrop(
+                                of: [.text],
+                                delegate: QuestionDropDelegate(
+                                    question: question,
+                                    questions: $questions,
+                                    currentlyDragging: $currentlyDragging
+                                )
+                            )
+//                            .contextMenu {
+//                                Button(role: .destructive) {
+//                                    if let index = questions.firstIndex(where: { $0.id == question.id }) {
+//                                        questions.remove(at: index)
+//                                    }
+//                                } label: {
+//                                    Label("Delete", systemImage: "trash")
+//                                }
+//                            }
                         }
                     }
                 }
@@ -129,7 +143,6 @@ struct CreateEditCategoryView: View {
         .background(Color(.systemGroupedBackground).ignoresSafeArea())
     }
     
-    // MARK: - Private Methods
     private func addQuestionAction() {
         let question = Question(
             id: UUID(),
@@ -158,7 +171,30 @@ struct CreateEditCategoryView: View {
     }
 }
 
-// MARK: - Custom Components
+struct QuestionDropDelegate: DropDelegate {
+    let question: Question
+    @Binding var questions: [Question]
+    @Binding var currentlyDragging: Question?
+    
+    func performDrop(info: DropInfo) -> Bool {
+        currentlyDragging = nil
+        return true
+    }
+    
+    func dropEntered(info: DropInfo) {
+        guard let currentlyDragging = currentlyDragging else { return }
+        
+        if question.id != currentlyDragging.id {
+            let from = questions.firstIndex(where: { $0.id == currentlyDragging.id })!
+            let to = questions.firstIndex(where: { $0.id == question.id })!
+            
+            withAnimation {
+                questions.move(fromOffsets: IndexSet(integer: from), toOffset: to > from ? to + 1 : to)
+            }
+        }
+    }
+}
+
 private struct CustomTextField2: View {
     @Binding var text: String
     let placeholder: String
@@ -190,7 +226,7 @@ private struct CustomTextField2: View {
 
 private struct QuestionRow: View {
     let question: Question
-    var onDelete: (() -> Void)? // Add delete callback
+    var onDelete: (() -> Void)?
     
     var body: some View {
         HStack {
@@ -207,7 +243,6 @@ private struct QuestionRow: View {
             
             Spacer()
             
-            // Add delete button
             Button(action: {
                 onDelete?()
             }) {
@@ -216,6 +251,10 @@ private struct QuestionRow: View {
                     .font(.system(size: 20))
             }
             .buttonStyle(PlainButtonStyle())
+            
+            Image(systemName: "line.3.horizontal")
+                .foregroundColor(.gray)
+                .font(.system(size: 30))
         }
         .padding()
         .frame(maxWidth: .infinity, alignment: .leading)
@@ -242,7 +281,6 @@ private struct EmptyStateView: View {
     }
 }
 
-// MARK: - Button Styles
 private struct PrimaryButtonStyle: ButtonStyle {
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
