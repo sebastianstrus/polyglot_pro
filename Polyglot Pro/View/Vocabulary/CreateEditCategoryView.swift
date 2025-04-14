@@ -38,6 +38,14 @@ struct CreateEditCategoryView: View {
 #endif
     }()
     
+    let secondarySystemBackground: Color = {
+#if os(iOS)
+Color(UIColor.secondarySystemBackground)
+#elseif os(macOS)
+Color(NSColor.windowBackgroundColor)
+#endif
+    }()
+    
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 20) {
@@ -88,7 +96,7 @@ struct CreateEditCategoryView: View {
                 .padding()
                 .background(
                     RoundedRectangle(cornerRadius: cornerRadius)
-                        .fill(systemGroupedBackground)
+                        .fill(secondarySystemBackground)
                         .shadow(color: .black.opacity(0.1), radius: shadowRadius)
                 )
                 
