@@ -133,6 +133,8 @@ struct VocabularyView: View {
                                         }
                                         .opacity(0)
                                         
+                                        
+                                        
                                         categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
                                             .swipeActions(edge: .trailing, allowsFullSwipe: true) {
                                                 if case .custom = category {
@@ -144,7 +146,7 @@ struct VocabularyView: View {
                                                 }
                                             }
                                         
-                                    }
+                                    }.buttonStyle(.plain)
                                 }
                             }
                             .padding(.bottom, 10)
@@ -280,9 +282,11 @@ struct CategoryItem: View {
                         .font(.system(size: btnFontSize2 - 2, weight: .regular))
                 }
                 
-                Spacer()
                 
-                if Platform.current == .iOS {
+                
+                if Platform.current != .macOS {
+                    Spacer()
+                    
                     Image(systemName: "chevron.right")
                         .foregroundColor(.white.opacity(0.7))
                         .font(.system(size: btnFontSize - 4, weight: .bold))
