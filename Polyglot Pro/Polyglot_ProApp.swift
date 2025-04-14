@@ -72,6 +72,14 @@ struct CustomSwipeRow: View {
     let item: String
     @State private var offset: CGFloat = 0.0
     @GestureState private var isDragging = false
+    
+    let systemGray6: Color = {
+#if os(iOS)
+Color(UIColor.systemGray6)
+#elseif os(macOS)
+Color(NSColor.controlBackgroundColor)
+#endif
+    }()
 
     var body: some View {
         ZStack(alignment: .leading) {
@@ -91,7 +99,7 @@ struct CustomSwipeRow: View {
 
             Text(item)
                 .frame(maxWidth: .infinity, minHeight: 60, alignment: .leading)
-                .background(Color(.systemGray6))
+                .background(systemGray6)
                 .cornerRadius(10)
                 .offset(x: offset)
                 .gesture(

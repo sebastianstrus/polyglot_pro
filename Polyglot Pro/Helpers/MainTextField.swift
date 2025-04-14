@@ -8,7 +8,7 @@
 
 import SwiftUI
 
-struct CustomTextField: View {
+struct MainTextField: View {
     
     @EnvironmentObject var settings: SettingsManager
     

@@ -185,7 +185,7 @@ struct VocabularyView: View {
         .padding(.bottom, 20)
         .customTitle("Vocabulary".localized)
         .toolbar {
-            ToolbarItem(placement: .navigationBarTrailing) {
+            ToolbarItem {
                 Button(action: {
                     showingAddCategory = true
                 }) {

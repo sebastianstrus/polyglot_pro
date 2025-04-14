@@ -22,6 +22,22 @@ struct CreateEditCategoryView: View {
     private let shadowRadius: CGFloat = 4
     private let textFieldHeight: CGFloat = 50
     
+    let backgroundColor: Color = {
+#if os(iOS)
+        Color(UIColor.systemBackground)
+#elseif os(macOS)
+        Color(NSColor.windowBackgroundColor)
+#endif
+    }()
+    
+    let systemGroupedBackground: Color = {
+#if os(iOS)
+        Color(UIColor.systemGroupedBackground)
+#elseif os(macOS)
+        Color(NSColor.windowBackgroundColor)
+#endif
+    }()
+    
     var body: some View {
         ScrollView {
             VStack(alignment: .leading, spacing: 20) {
@@ -31,11 +47,11 @@ struct CreateEditCategoryView: View {
                         .font(.headline)
                         .foregroundColor(.secondary)
                     
-                    CustomTextField2(
+                    CustomTextField(
                         text: $categoryName,
                         placeholder: "Enter category name".localized,
                         icon: "tag.fill",
-                        backgroundColor: Color(.systemBackground)
+                        backgroundColor: backgroundColor
                     )
                 }
                 
@@ -72,25 +88,25 @@ struct CreateEditCategoryView: View {
                 .padding()
                 .background(
                     RoundedRectangle(cornerRadius: cornerRadius)
-                        .fill(Color(.secondarySystemBackground))
+                        .fill(systemGroupedBackground)
                         .shadow(color: .black.opacity(0.1), radius: shadowRadius)
                 )
                 
                 // Add Question Section
                 if isAddingQuestion {
                     VStack(spacing: 16) {
-                        CustomTextField2(
+                        CustomTextField(
                             text: $newQuestion,
                             placeholder: "Enter expression".localized,
                             icon: "questionmark.circle.fill",
-                            backgroundColor: Color(.systemBackground)
+                            backgroundColor: backgroundColor
                         )
                         
-                        CustomTextField2(
+                        CustomTextField(
                             text: $newTranslation,
                             placeholder: "Enter translation".localized,
                             icon: "globe",
-                            backgroundColor: Color(.systemBackground)
+                            backgroundColor: backgroundColor
                         )
                         
                         HStack(spacing: 16) {
@@ -128,7 +144,7 @@ struct CreateEditCategoryView: View {
             .padding(20)
         }
         .customTitle("Create Category".localized)
-        .background(Color(.systemGroupedBackground).ignoresSafeArea())
+        .background(systemGroupedBackground.ignoresSafeArea())
     }
     
     private func addQuestionAction() {
@@ -183,11 +199,19 @@ struct QuestionDropDelegate: DropDelegate {
     }
 }
 
-private struct CustomTextField2: View {
+private struct CustomTextField: View {
     @Binding var text: String
     let placeholder: String
     let icon: String
     let backgroundColor: Color
+    
+    let systemGray4: Color = {
+#if os(iOS)
+        Color(UIColor.systemGray4)
+#elseif os(macOS)
+        Color(NSColor.systemGray)
+#endif
+    }()
     
     var body: some View {
         HStack {
@@ -198,6 +222,10 @@ private struct CustomTextField2: View {
             TextField(placeholder, text: $text)
                 .textFieldStyle(.plain)
                 .font(.system(size: 16, weight: .medium))
+                .disableAutocorrection(true)
+#if os(iOS)
+                .textInputAutocapitalization(.never)
+#endif
         }
         .padding()
         .background(
@@ -207,7 +235,7 @@ private struct CustomTextField2: View {
         )
         .overlay(
             RoundedRectangle(cornerRadius: 12)
-                .stroke(Color(.systemGray4), lineWidth: 1)
+                .stroke(systemGray4, lineWidth: 1)
         )
     }
 }
@@ -219,6 +247,14 @@ private struct QuestionRow: View {
     @State private var isSwiped: Bool = false
     
     var onDelete: (() -> Void)?
+    
+    let backgroundColor: Color = {
+#if os(iOS)
+        Color(UIColor.systemBackground)
+#elseif os(macOS)
+        Color(NSColor.windowBackgroundColor)
+#endif
+    }()
     
     var body: some View {
         ZStack(alignment: .trailing) {
@@ -261,7 +297,7 @@ private struct QuestionRow: View {
             }
             .padding()
             .frame(maxWidth: .infinity, alignment: .leading)
-            .background(Color(.systemBackground))
+            .background(backgroundColor)
             .shadow(color: .black.opacity(0.05), radius: 2, x: 0, y: 1)
             .frame(height: 70)
             .cornerRadius(8)
@@ -329,18 +365,35 @@ private struct PrimaryButtonStyle: ButtonStyle {
 }
 
 private struct SecondaryButtonStyle: ButtonStyle {
+    
+    let systemGray4: Color = {
+#if os(iOS)
+        Color(UIColor.systemGray4)
+#elseif os(macOS)
+        Color(NSColor.systemGray)
+#endif
+    }()
+    
+    let secondarySystemBackground: Color = {
+#if os(iOS)
+Color(UIColor.secondarySystemBackground)
+#elseif os(macOS)
+Color(NSColor.windowBackgroundColor) // or a better macOS-specific fallback
+#endif
+    }()
+    
     func makeBody(configuration: Configuration) -> some View {
         configuration.label
             .font(.headline)
             .foregroundColor(.primary)
             .padding()
             .background(
-                Color(.secondarySystemBackground)
+                secondarySystemBackground
                     .cornerRadius(12)
             )
             .overlay(
                 RoundedRectangle(cornerRadius: 12)
-                    .stroke(Color(.systemGray4), lineWidth: 1)
+                    .stroke(systemGray4, lineWidth: 1)
             )
             .scaleEffect(configuration.isPressed ? 0.95 : 1.0)
             .animation(.easeOut(duration: 0.2), value: configuration.isPressed)

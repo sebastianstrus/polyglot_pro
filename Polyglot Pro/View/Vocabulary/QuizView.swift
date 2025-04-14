@@ -108,7 +108,7 @@ struct QuizView: View {
                         .padding()
                         .opacity(viewModel.showHint ? 1 : 0)
                     
-                    CustomTextField("Enter translation".localized, text: $viewModel.userInput, isCorrect: $viewModel.isCorrect, onCommit: {
+                    MainTextField("Enter translation".localized, text: $viewModel.userInput, isCorrect: $viewModel.isCorrect, onCommit: {
                         if viewModel.isCorrect == true {
                             viewModel.nextQuestion()
                             isTextFieldFocused = true
