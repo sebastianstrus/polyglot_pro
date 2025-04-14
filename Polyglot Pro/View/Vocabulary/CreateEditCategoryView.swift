@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct CreateEditCategoryView: View {
+    @EnvironmentObject var settings: SettingsManager
+    
     @Environment(\.dismiss) var dismiss
     @State private var categoryName = ""
     @State private var questions: [Question] = []
@@ -38,16 +40,17 @@ struct CreateEditCategoryView: View {
 #endif
     }()
     
-    let secondarySystemBackground: Color = {
-#if os(iOS)
-Color(UIColor.secondarySystemBackground)
-#elseif os(macOS)
-Color(NSColor.windowBackgroundColor)
-#endif
-    }()
+
     
     var body: some View {
-        ScrollView {
+        
+#if os(iOS)
+        let secondarySystemBackground = Color(UIColor.secondarySystemBackground)
+#elseif os(macOS)
+        let secondarySystemBackground = settings.isDarkMode ?  Color(red: 0.11, green: 0.11, blue: 0.12)  : Color(red: 0.95, green: 0.95, blue: 0.97)
+#endif
+
+        return ScrollView {
             VStack(alignment: .leading, spacing: 20) {
                 // Category Name Section
                 VStack(alignment: .leading, spacing: 8) {
@@ -96,6 +99,8 @@ Color(NSColor.windowBackgroundColor)
                 .padding()
                 .background(
                     RoundedRectangle(cornerRadius: cornerRadius)
+                    
+                    
                         .fill(secondarySystemBackground)
                         .shadow(color: .black.opacity(0.1), radius: shadowRadius)
                 )
@@ -275,11 +280,12 @@ private struct QuestionRow: View {
                 Image(systemName: "trash")
                     .foregroundColor(.white)
                     .font(.system(size: 22))
-                    .frame(width: 80, height: 70)
+                    .frame(width: 80, height: 60)
                     .background(Color.red)
                     .cornerRadius(8)
                     .clipped()
-            }
+            }.buttonStyle(.plain)
+
             .zIndex(0)
             
             // Content (foreground)
@@ -300,6 +306,7 @@ private struct QuestionRow: View {
                 Image(systemName: "line.3.horizontal")
                     .foregroundColor(.gray)
                     .font(.system(size: 22))
+                    .frame(width: 60, height: 60)
                     .cornerRadius(8)
                     .clipped()
             }

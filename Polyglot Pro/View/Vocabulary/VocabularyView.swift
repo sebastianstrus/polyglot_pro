@@ -178,11 +178,11 @@ struct VocabularyView: View {
             }
         }
         .sheet(isPresented: $showingAddCategory) {
-            NavigationView {
+//            NavigationView {
                 CreateEditCategoryView {
                     viewModel.refreshCategories()
                 }
-            }
+//            }
         }
         .padding(.bottom, 20)
         .customTitle("Vocabulary".localized)
