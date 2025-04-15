@@ -101,12 +101,12 @@ extension View {
             size = isIcon ? 20 : 16
             width = type == .primary ? 88 : 150
             height = 44
-            radius = 6
+            radius = 12
         case .unknown:
             size = isIcon ? 20 : 16
             width = type == .primary ? 88 : 150
             height = 44
-            radius = 6
+            radius = 12
         }
         
         return self

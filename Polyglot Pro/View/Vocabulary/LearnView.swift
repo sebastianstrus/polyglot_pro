@@ -15,71 +15,101 @@ struct LearnView: View {
         case .macOS:
             let allCount = viewModel.questionsBase.count
             let count = (10...16).contains(allCount) ? 2 : max(1, Int(ceil(Double(allCount) / 16)))
-            return Array(repeating: GridItem(.flexible(), spacing: 10), count: count)
+            return Array(repeating: GridItem(.flexible(), spacing: 20), count: count)
         default:
             return [GridItem(.flexible())]
         }
     }
     
+    private var cardBackground: some View {
+        RoundedRectangle(cornerRadius: 12)
+            .fill(.ultraThinMaterial)
+            .overlay(
+                RoundedRectangle(cornerRadius: 12)
+                    .stroke(Color.gray.opacity(0.3), lineWidth: 1)
+                    .padding(.horizontal, 1)
+            )
+            .shadow(color: .black.opacity(0.1), radius: 3, x: 2, y: 2)
+        
+            
+    }
+    
     let minLength: CGFloat = {
         switch Platform.current {
-        case .macOS: return 40
-        default: return 10
+        case .macOS: return 60
+        default: return 20
         }
     }()
     
     var body: some View {
-        
-        VStack {
+        ZStack {
+            GradientBackground().ignoresSafeArea()
             
-            Spacer(minLength: minLength)
-            
-            Text("Försök att komma ihåg %lld uttrycken.".localized(with: viewModel.questionsBase.count))
-                .styledSubtitel()
-            
-            Spacer()
-            
-            wordGrid
-            
-            Spacer()
-            
-            NavigationLink(value: Destination.quiz(viewModel.category)) {
-                Text("Continue".localized)
-                    .styledButton(.secondary)
-            }.buttonStyle(ScaleButtonStyle())
-                .padding(.bottom, Platform.current == .macOS ? 60 : 30)
-                .padding(.top, Platform.current == .macOS ? 0 : 8)
+            VStack(spacing: 0) {
+                Spacer(minLength: minLength)
+                
+                // Header
+                VStack(spacing: 8) {
+                    Text("Learn \(viewModel.questionsBase.count) Expressions")
+                        .font(.title2)
+                        .fontWeight(.semibold)
+//                        .foregroundStyle(.primary)
+                        .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                    
+                    Text("Try to memorize these words and phrases")
+                        .font(.subheadline)
+//                        .foregroundStyle(.secondary)
+                        .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
+                }
+                .padding(.bottom, 24)
+                
+                // Word Grid
+                wordGrid
+                    .padding(.horizontal, Platform.current == .macOS ? 40 : 16)
+                
+                Spacer()
+                
+                // Continue Button
+                NavigationLink(value: Destination.quiz(viewModel.category)) {
+                    Text("Continue".localized)
+                        .styledButton(.secondary)
+                }.buttonStyle(ScaleButtonStyle())
+
+            }
         }
         .customTitle(viewModel.category.primaryName.localized)
-        .background( GradientBackground().ignoresSafeArea())
     }
 
     private var wordGrid: some View {
-        VStack(alignment: .center) {
-            ScrollView {
-                ZStack {
-                    Spacer().containerRelativeFrame([.vertical])
-                    
-                    VStack {
-                        LazyVGrid(columns: columns, alignment: .center, spacing: 10) {
-                            ForEach(viewModel.questionsBase, id: \.id) { question in
-                                HStack(alignment: .center) {
-                                    Text(question.expression)
-                                        .styledText(color: .blue)
-                                    Text("–")
-                                        .styledText(color: .gray)
-                                    Text((question.translations[viewModel.settings.primaryLanguage.rawValue]
-                                          ?? question.translations[Language.english.rawValue])!)
-                                        .styledText(color: .purple)
-                                }
-                                .padding(.horizontal)
-                            }
-                        }
-                        .frame(maxWidth: .infinity)
+        ScrollView(showsIndicators: false) {
+            LazyVGrid(columns: columns, spacing: 12) {
+                ForEach(viewModel.questionsBase, id: \.id) { question in
+                    HStack(alignment: .center, spacing: 8) {
+                        
+                        Spacer()
+                        
+                        Text(question.expression)
+                            .font(.body.weight(.medium))
+                            .foregroundColor(.blue)
+                        
+                        Text("–")
+                            .foregroundColor(.gray)
+                        
+                        Text((question.translations[viewModel.settings.primaryLanguage.rawValue]
+                              ?? question.translations[Language.english.rawValue])!)
+                            .font(.body)
+                            .foregroundColor(.primary)
+                        
+                        Spacer()
                     }
+                    .padding(.vertical, 12)
+                    .padding(.horizontal, 16)
+                    .background(cardBackground)
+                    .frame(maxWidth: .infinity, alignment: .center)
                 }
-            }.scrollBounceBehavior(.basedOnSize)
+            }
+            .padding(.vertical, 8)
         }
-        .frame(maxWidth: .infinity)
+        .scrollBounceBehavior(.basedOnSize)
     }
 }

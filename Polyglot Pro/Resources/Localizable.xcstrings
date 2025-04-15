@@ -27,132 +27,132 @@
     "🇺🇦" : {
       "shouldTranslate" : false
     },
-    "A category with this name already exists. Please choose a different name.": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "فئة بهذا الاسم موجودة بالفعل. يرجى اختيار اسم مختلف."
+    "A category with this name already exists. Please choose a different name." : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "فئة بهذا الاسم موجودة بالفعل. يرجى اختيار اسم مختلف."
           }
         },
-        "bn": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "এই নামে একটি বিভাগ ইতিমধ্যেই বিদ্যমান। অনুগ্রহ করে একটি ভিন্ন নাম চয়ন করুন।"
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "এই নামে একটি বিভাগ ইতিমধ্যেই বিদ্যমান। অনুগ্রহ করে একটি ভিন্ন নাম চয়ন করুন।"
           }
         },
-        "da": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "En kategori med dette navn findes allerede. Vælg venligst et andet navn."
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En kategori med dette navn findes allerede. Vælg venligst et andet navn."
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Eine Kategorie mit diesem Namen existiert bereits. Bitte wählen Sie einen anderen Namen."
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eine Kategorie mit diesem Namen existiert bereits. Bitte wählen Sie einen anderen Namen."
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ya existe una categoría con este nombre. Por favor elija un nombre diferente."
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ya existe una categoría con este nombre. Por favor elija un nombre diferente."
           }
         },
-        "fi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saman niminen luokka on jo olemassa. Valitse toinen nimi."
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saman niminen luokka on jo olemassa. Valitse toinen nimi."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une catégorie avec ce nom existe déjà. Veuillez choisir un nom différent."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une catégorie avec ce nom existe déjà. Veuillez choisir un nom différent."
           }
         },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "इस नाम की एक श्रेणी पहले से मौजूद है। कृपया कोई अन्य नाम चुनें।"
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "इस नाम की एक श्रेणी पहले से मौजूद है। कृपया कोई अन्य नाम चुनें।"
           }
         },
-        "id": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategori dengan nama ini sudah ada. Silakan pilih nama yang berbeda."
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori dengan nama ini sudah ada. Silakan pilih nama yang berbeda."
           }
         },
-        "is": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Flokkur með þetta heiti er þegar til. Vinsamlegast veldu annað nafn."
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flokkur með þetta heiti er þegar til. Vinsamlegast veldu annað nafn."
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Una categoria con questo nome esiste già. Scegli un nome diverso."
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Una categoria con questo nome esiste già. Scegli un nome diverso."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "この名前のカテゴリはすでに存在します。別の名前を選択してください。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この名前のカテゴリはすでに存在します。別の名前を選択してください。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이 이름의 카테고리가 이미 존재합니다. 다른 이름을 선택해 주세요."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 이름의 카테고리가 이미 존재합니다. 다른 이름을 선택해 주세요."
           }
         },
-        "nb": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "En kategori med dette navnet finnes allerede. Vennligst velg et annet navn."
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En kategori med dette navnet finnes allerede. Vennligst velg et annet navn."
           }
         },
-        "pa": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ਇਸ ਨਾਮ ਦੀ ਇੱਕ ਸ਼੍ਰੇਣੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੱਖਰਾ ਨਾਮ ਚੁਣੋ।"
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਇਸ ਨਾਮ ਦੀ ਇੱਕ ਸ਼੍ਰੇਣੀ ਪਹਿਲਾਂ ਹੀ ਮੌਜੂਦ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਇੱਕ ਵੱਖਰਾ ਨਾਮ ਚੁਣੋ।"
           }
         },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategoria o tej nazwie już istnieje. Wybierz inną nazwę."
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategoria o tej nazwie już istnieje. Wybierz inną nazwę."
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Uma categoria com este nome já existe. Por favor, escolha um nome diferente."
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uma categoria com este nome já existe. Por favor, escolha um nome diferente."
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "En kategori med detta namn finns redan. Vänligen välj ett annat namn."
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "En kategori med detta namn finns redan. Vänligen välj ett annat namn."
           }
         },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Категорія з такою назвою вже існує. Будь ласка, виберіть іншу назву."
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Категорія з такою назвою вже існує. Будь ласка, виберіть іншу назву."
           }
         },
-        "ur": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "اس نام کی ایک زمرہ پہلے سے موجود ہے۔ براہ کرم ایک مختلف نام منتخب کریں۔"
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اس نام کی ایک زمرہ پہلے سے موجود ہے۔ براہ کرم ایک مختلف نام منتخب کریں۔"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "已存在使用此名称的类别。请选择其他名称。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已存在使用此名称的类别。请选择其他名称。"
           }
         }
       }
@@ -2773,132 +2773,132 @@
         }
       }
     },
-"Category Exists": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "الفئة موجودة"
+    "Category Exists" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "الفئة موجودة"
           }
         },
-        "bn": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ক্যাটাগরি বিদ্যমান"
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ক্যাটাগরি বিদ্যমান"
           }
         },
-        "da": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategori findes"
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori findes"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategorie existiert"
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategorie existiert"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La categoría existe"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La categoría existe"
           }
         },
-        "fi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Luokka on olemassa"
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Luokka on olemassa"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La catégorie existe"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La catégorie existe"
           }
         },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "श्रेणी मौजूद है"
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "श्रेणी मौजूद है"
           }
         },
-        "id": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategori sudah ada"
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategori sudah ada"
           }
         },
-        "is": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Flokkur er til"
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flokkur er til"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La categoria esiste"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La categoria esiste"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カテゴリが存在します"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カテゴリが存在します"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카테고리가 존재합니다"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카테고리가 존재합니다"
           }
         },
-        "nb": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategorien finnes"
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategorien finnes"
           }
         },
-        "pa": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ਸ਼੍ਰੇਣੀ ਮੌਜੂਦ ਹੈ"
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਸ਼੍ਰੇਣੀ ਮੌਜੂਦ ਹੈ"
           }
         },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategoria istnieje"
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategoria istnieje"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Categoria existe"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Categoria existe"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategorin finns"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategorin finns"
           }
         },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Категорія існує"
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Категорія існує"
           }
         },
-        "ur": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "زمرہ موجود ہے"
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زمرہ موجود ہے"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "类别已存在"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "类别已存在"
           }
         }
       }
@@ -6827,6 +6827,7 @@
       }
     },
     "Försök att komma ihåg %lld uttrycken." : {
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8919,6 +8920,9 @@
         }
       }
     },
+    "Learn %lld Expressions" : {
+
+    },
     "Let us know how we can improve the app. We appreciate your input!" : {
       "extractionState" : "manual",
       "localizations" : {
@@ -10882,132 +10886,132 @@
         }
       }
     },
-    "OK": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "موافق"
+    "OK" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "موافق"
           }
         },
-        "bn": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ওকে"
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ওকে"
           }
         },
-        "da": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aceptar"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aceptar"
           }
         },
-        "fi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ठीक"
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ठीक"
           }
         },
-        "id": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "is": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Í lagi"
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Í lagi"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "확인"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "확인"
           }
         },
-        "nb": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "pa": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ਠੀਕ"
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਠੀਕ"
           }
         },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "OK"
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
           }
         },
-        "ur": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ٹھیک"
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ٹھیک"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "好"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "好"
           }
         }
       }
@@ -13762,262 +13766,262 @@
         }
       }
     },
-    "Save Category": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "حفظ الفئة"
+    "Save Category" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "حفظ الفئة"
           }
         },
-        "bn": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ক্যাটাগরি সংরক্ষণ করুন"
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ক্যাটাগরি সংরক্ষণ করুন"
           }
         },
-        "da": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Gem kategori"
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gem kategori"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kategorie speichern"
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kategorie speichern"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Guardar categoría"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar categoría"
           }
         },
-        "fi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tallenna kategoria"
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tallenna kategoria"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Enregistrer la catégorie"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer la catégorie"
           }
         },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "श्रेणी सहेजें"
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "श्रेणी सहेजें"
           }
         },
-        "id": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Simpan Kategori"
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simpan Kategori"
           }
         },
-        "is": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vista flokk"
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vista flokk"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Salva categoria"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salva categoria"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "カテゴリを保存"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カテゴリを保存"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "카테고리 저장"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카테고리 저장"
           }
         },
-        "nb": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Lagre kategori"
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lagre kategori"
           }
         },
-        "pa": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ਸ਼੍ਰੇਣੀ ਸੰਭਾਲੋ"
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਸ਼੍ਰੇਣੀ ਸੰਭਾਲੋ"
           }
         },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Zapisz kategorię"
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz kategorię"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Salvar categoria"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvar categoria"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Spara kategori"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spara kategori"
           }
         },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Зберегти категорію"
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зберегти категорію"
           }
         },
-        "ur": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "زمرہ محفوظ کریں"
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زمرہ محفوظ کریں"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "保存类别"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存类别"
           }
         }
       }
     },
-    "Select Language": {
-      "localizations": {
-        "ar": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "اختر اللغة"
+    "Select Language" : {
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "اختر اللغة"
           }
         },
-        "bn": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ভাষা নির্বাচন করুন"
+        "bn" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ভাষা নির্বাচন করুন"
           }
         },
-        "da": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vælg sprog"
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vælg sprog"
           }
         },
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sprache auswählen"
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprache auswählen"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seleccionar idioma"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar idioma"
           }
         },
-        "fi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Valitse kieli"
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Valitse kieli"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Sélectionner la langue"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner la langue"
           }
         },
-        "hi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "भाषा चुनें"
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "भाषा चुनें"
           }
         },
-        "id": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pilih Bahasa"
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pilih Bahasa"
           }
         },
-        "is": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Veldu tungumál"
+        "is" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veldu tungumál"
           }
         },
-        "it": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seleziona lingua"
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleziona lingua"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "言語を選択"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "言語を選択"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "언어 선택"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "언어 선택"
           }
         },
-        "nb": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Velg språk"
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velg språk"
           }
         },
-        "pa": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ਭਾਸ਼ਾ ਚੁਣੋ"
+        "pa" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ਭਾਸ਼ਾ ਚੁਣੋ"
           }
         },
-        "pl": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wybierz język"
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wybierz język"
           }
         },
-        "pt-BR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Selecionar idioma"
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selecionar idioma"
           }
         },
-        "sv": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Välj språk"
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Välj språk"
           }
         },
-        "uk": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Виберіть мову"
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Виберіть мову"
           }
         },
-        "ur": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "زبان منتخب کریں"
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "زبان منتخب کریں"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "选择语言"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择语言"
           }
         }
       }
@@ -17170,6 +17174,9 @@
           }
         }
       }
+    },
+    "Try to memorize these words and phrases" : {
+
     },
     "Ukrainian" : {
       "extractionState" : "manual",
