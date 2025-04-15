@@ -17,6 +17,7 @@ struct CreateEditCategoryView: View {
     @State private var newTranslation = ""
     @State private var isAddingQuestion = false
     @State private var currentlyDragging: Question?
+    @State private var showDuplicateAlert = false
     
     var onSave: (() -> Void)?
     
@@ -158,6 +159,12 @@ struct CreateEditCategoryView: View {
         }
         .customTitle("Create Category".localized)
         .background(systemGroupedBackground.ignoresSafeArea())
+        .alert(isPresented: $showDuplicateAlert) {
+            Alert(title: Text("Category Exists".localized),
+                  message: Text("A category with this name already exists. Please choose a different name.".localized),
+                dismissButton: .default(Text("OK".localized))
+            )
+        }
     }
     
     private func addQuestionAction() {
@@ -179,13 +186,26 @@ struct CreateEditCategoryView: View {
     }
     
     private func saveCategory() {
-        guard !categoryName.isEmpty else { return }
-        let newCategory = Category.custom(name: categoryName)
-        CustomCategoryManager.shared.saveQuestions(questions, for: newCategory)
-        CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
-        onSave?()
-        dismiss()
-    }
+            guard !categoryName.isEmpty else { return }
+            
+            let currentCategories = CustomCategoryManager.shared.loadCustomCategories()
+            let categoryExists = currentCategories.contains { category in
+                if case let .custom(existingName) = category {
+                    return existingName.lowercased() == categoryName.lowercased()
+                }
+                return false
+            }
+            
+            if categoryExists {
+                showDuplicateAlert = true
+            } else {
+                let newCategory = Category.custom(name: categoryName)
+                CustomCategoryManager.shared.saveQuestions(questions, for: newCategory)
+                CustomCategoryManager.shared.addCustomCategory(name: categoryName, questions: questions)
+                onSave?()
+                dismiss()
+            }
+        }
 }
 
 struct QuestionDropDelegate: DropDelegate {
