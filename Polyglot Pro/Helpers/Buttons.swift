@@ -4,19 +4,34 @@
 //
 //  Created by Sebastian Strus on 2025-04-15.
 //
-
 /*
-struct PrimaryButtonStyle: ButtonStyle {
+import SwiftUI
+
+struct PlatformButtonStyle: ButtonStyle {
+    
+    @EnvironmentObject var settings: SettingsManager
+    
     func makeBody(configuration: Configuration) -> some View {
+        #if os(iOS)
         configuration.label
             .padding()
-            .frame(maxWidth: .infinity)
-            .background(Color.accentColor)
+            .background(Color.blue)
             .foregroundColor(.white)
-            .clipShape(RoundedRectangle(cornerRadius: 12))
-            .opacity(configuration.isPressed ? 0.7 : 1)
+            .cornerRadius(10)
+        #elseif os(macOS)
+        configuration.label
+            .padding(.horizontal, 16)
+            .padding(.vertical, 8)
+            .background(Color.gray.opacity(0.2))
+            .cornerRadius(6)
+        #endif
     }
 }
+
+
+NavigationLink(value: Destination.alphabet) {
+    Text("Alphabet".localized).styledButton(.secondary)
+}.buttonStyle(ScaleButtonStyle())
 
 struct PolyButton: View {
         
