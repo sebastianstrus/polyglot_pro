@@ -13372,132 +13372,132 @@
         }
       }
     },
-    "Save Expression" : {
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "حفظ التعبير"
+    "Save Category": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حفظ الفئة"
           }
         },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "অভিব্যক্তি সংরক্ষণ করুন"
+        "bn": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ক্যাটাগরি সংরক্ষণ করুন"
           }
         },
-        "da" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gem udtryk"
+        "da": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gem kategori"
           }
         },
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ausdruck speichern"
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kategorie speichern"
           }
         },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Guardar expresión"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guardar categoría"
           }
         },
-        "fi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tallenna ilmaus"
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tallenna kategoria"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Enregistrer l'expression"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enregistrer la catégorie"
           }
         },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "अभिव्यक्ति सहेजें"
+        "hi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "श्रेणी सहेजें"
           }
         },
-        "id" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simpan ekspresi"
+        "id": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Simpan Kategori"
           }
         },
-        "is" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vista orðatiltæki"
+        "is": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vista flokk"
           }
         },
-        "it" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salva espressione"
+        "it": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salva categoria"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "表現を保存"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カテゴリを保存"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "표현 저장"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "카테고리 저장"
           }
         },
-        "nb" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lagre uttrykk"
+        "nb": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lagre kategori"
           }
         },
-        "pa" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ਪ੍ਰਗਟਾਵਾ ਸੁਰੱਖਿਅਤ ਕਰੋ"
+        "pa": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ਸ਼੍ਰੇਣੀ ਸੰਭਾਲੋ"
           }
         },
-        "pl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zapisz wyrażenie"
+        "pl": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zapisz kategorię"
           }
         },
-        "pt-BR" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salvar expressão"
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Salvar categoria"
           }
         },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spara uttryck"
+        "sv": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Spara kategori"
           }
         },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Зберегти вираз"
+        "uk": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Зберегти категорію"
           }
         },
-        "ur" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "اظہار محفوظ کریں"
+        "ur": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "زمرہ محفوظ کریں"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "保存表达"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "保存类别"
           }
         }
       }

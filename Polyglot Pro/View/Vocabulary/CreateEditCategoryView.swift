@@ -147,7 +147,7 @@ struct CreateEditCategoryView: View {
                 
                 // Save Button
                 Button(action: saveCategory) {
-                    Text("Save Expression".localized)
+                    Text("Save Category".localized)
                         .frame(maxWidth: .infinity)
                 }
                 .buttonStyle(PrimaryButtonStyle())
