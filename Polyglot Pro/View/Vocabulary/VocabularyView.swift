@@ -136,6 +136,7 @@ struct VocabularyView: View {
                                         
                                         
                                         categoryItem(for: category, isSolved: settings.isCategoryCompleted(category))
+#if os(iOS)
                                             .swipeActions(edge: .trailing, allowsFullSwipe: true) {
                                                 if case .custom = category {
                                                     Button(role: .destructive) {
@@ -145,6 +146,8 @@ struct VocabularyView: View {
                                                     }
                                                 }
                                             }
+#endif
+
                                         
                                     }.buttonStyle(.plain)
                                 }
@@ -204,9 +207,6 @@ struct VocabularyView: View {
         
     }
     
-    
-    
-    // Function to handle category deletion
     private func deleteCategory(_ category: Category) {
         CustomCategoryManager.shared.deleteCustomCategory(category)
         viewModel.refreshCategories()
@@ -237,7 +237,6 @@ struct VocabularyView: View {
     }
 }
 
-
 struct CategoryItem: View {
     let category: Category
     let isSolved: Bool
@@ -254,7 +253,7 @@ struct CategoryItem: View {
     
     var body: some View {
         ZStack(alignment: .leading) {
-            // Swipe action buttons (hidden behind the main content)
+#if os(iOS)
             if case .custom = category {
                 HStack {
                     Spacer()
@@ -270,8 +269,8 @@ struct CategoryItem: View {
                     .padding(.trailing, 20)
                 }
             }
+#endif
             
-            // Main content
             HStack {
                 VStack(alignment: horizontalAlignment) {
                     Text(category.targetName)
@@ -281,8 +280,6 @@ struct CategoryItem: View {
                         .foregroundColor(.white.opacity(0.8))
                         .font(.system(size: btnFontSize2 - 2, weight: .regular))
                 }
-                
-                
                 
                 if Platform.current != .macOS {
                     Spacer()
@@ -307,6 +304,7 @@ struct CategoryItem: View {
             .shadow(color: Color.green, radius: isSolved ? 8 : 0)
             .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
             .offset(x: offset)
+#if os(iOS)
             .simultaneousGesture(
                 DragGesture()
                     .onChanged { value in
@@ -330,6 +328,7 @@ struct CategoryItem: View {
                     }
             )
             .animation(.easeInOut, value: offset)
+#endif
         }
     }
 }
