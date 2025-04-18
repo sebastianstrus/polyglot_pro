@@ -84,7 +84,7 @@ struct SettingsView: View {
                         .tint(.purple)
                     Button("Reset Progress".localized) {
                         showProgressAlert = true
-                    }
+                    }.tint(LinearGradient(colors: [.blue, .blue, .purple], startPoint: .leading, endPoint: .trailing))
                 }
                 
                 Section(header: Text("Appearance".localized)) {
@@ -105,8 +105,8 @@ struct SettingsView: View {
                     HStack {
                         Text("Speech Speed".localized)
                             .padding(.trailing, 10)
-                        Slider(value: settings.$speechRate, in: 0.1...0.6, step: 0.1)
-                            .tint(.purple)
+                        
+                        GradientSlider(value: settings.$speechRate, range: 0.1...0.6, step: 0.1)
                     }
                 }
                 
@@ -117,7 +117,7 @@ struct SettingsView: View {
 #else
                         showMailComposer = true
 #endif
-                    }
+                    }.tint(LinearGradient(colors: [.blue, .blue, .purple], startPoint: .leading, endPoint: .trailing))
                 }
                 
                 Section(header: Text("Default Settings".localized)) {
@@ -125,11 +125,12 @@ struct SettingsView: View {
                         settings.resetSettings()
                     }
                 }
+                .tint(LinearGradient(colors: [.blue, .blue, .purple], startPoint: .leading, endPoint: .trailing))
                 
                 Section(header: Text("Application Cache".localized)) {
                     Button("Reset & Exit".localized) {
                         showCacheAlert = true
-                                }
+                    }
                     .foregroundColor(.red)
                 }
             }
@@ -167,6 +168,35 @@ struct SettingsView: View {
         }
 #endif
         .customTitle("Settings".localized)
+        .toolbar {
+                    ToolbarItem(placement: .primaryAction) { // Top-right corner
+                        Button(action: shareApp) {
+                            Image(systemName: "square.and.arrow.up")
+                                .accessibilityLabel("Share".localized)
+                        }.tint(.purple)
+                    }
+                }
+    }
+    
+    private func shareApp() {
+        let text = "Check out Polyglot Pro - a great language learning app!".localized
+        let url = URL(string: "TODO_Use_App_Store_link")!
+        //let url = URL(string: "https://apps.apple.com/app/YOUR_APP_ID")!
+        
+#if os(iOS)
+        let activityViewController = UIActivityViewController(activityItems: [text, url], applicationActivities: nil)
+        
+        // Present the share sheet
+        if let windowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene,
+           let rootViewController = windowScene.windows.first?.rootViewController {
+            rootViewController.present(activityViewController, animated: true, completion: nil)
+        }
+#elseif os(macOS)
+        let picker = NSSharingServicePicker(items: [text, url])
+        if let window = NSApp.keyWindow {
+            picker.show(relativeTo: .zero, of: window.contentView!, preferredEdge: .minY)
+        }
+#endif
     }
     
 #if os(macOS)
@@ -249,3 +279,4 @@ struct TargetLanguageSelectionView: View {
         .customTitle("Select Language".localized)
     }
 }
+
