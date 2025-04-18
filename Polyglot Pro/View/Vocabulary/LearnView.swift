@@ -9,6 +9,7 @@ import SwiftUI
 
 struct LearnView: View {
     @ObservedObject var viewModel: LearnViewModel
+    @EnvironmentObject var settings: SettingsManager
     
     private var columns: [GridItem] {
         switch Platform.current {
@@ -69,12 +70,11 @@ struct LearnView: View {
                 
                 Spacer()
                 
-                // Continue Button
-                NavigationLink(value: Destination.quiz(viewModel.category)) {
+                NavigationLink(destination: QuizView(viewModel: viewModel)) {
                     Text("Continue".localized)
                         .styledButton(.secondary)
                 }.buttonStyle(ScaleButtonStyle())
-
+                    .padding(.bottom, 8)
             }
         }
         .customTitle(viewModel.category.primaryName.localized)

@@ -117,7 +117,7 @@ extension View {
             )
             .foregroundColor(.white)
             .cornerRadius(radius)
-            .shadow(color: Color.blue.opacity(0.4), radius: radius, x: 0, y: 5)
+//            .shadow(color: Color.blue.opacity(0.4), radius: radius, x: 0, y: 5)
     }
     
     func styledTextField(isCorrect: Bool?, shake: Bool, isTranstarent: Bool = false) -> some View {
@@ -253,3 +253,10 @@ extension View {
 }
 #endif
 
+
+extension View {
+
+  func toastView(toast: Binding<Toast?>) -> some View {
+    self.modifier(ToastModifier(toast: toast))
+  }
+}

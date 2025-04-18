@@ -6,12 +6,18 @@
 //
 
 import SwiftUI
+import Combine
 
 struct AlphabetView: View {
     
     @EnvironmentObject var settings: SettingsManager
     
     @StateObject var viewModel: AlphabetViewModel
+    
+    @State private var cancellables = Set<AnyCancellable>()
+    
+    
+    @State private var toast: Toast? = nil
     
     let size: CGFloat = {
         switch Platform.current {
@@ -63,7 +69,12 @@ struct AlphabetView: View {
             LazyVGrid(columns: columns, spacing: 20) {
                 ForEach(viewModel.letters, id: \.self) { letterPair in
                     Button(action: {
+                        
+
+//                        toast = Toast(style: .info, message: "Your device muted!")
                         viewModel.speakLetter(letterPair)
+                        
+                        
                     }) {
                         Text(letterPair)
                             .frame(width: size, height: size)
@@ -80,6 +91,15 @@ struct AlphabetView: View {
             .padding()
         }
         .customTitle("Alphabet")
+        .onAppear {
+            viewModel.mutedPublisher
+                .receive(on: RunLoop.main)
+                .sink {
+                    toast = Toast(style: .info, message: "Your device is muted!")
+                }
+                .store(in: &cancellables)
+        }
+        .toastView(toast: $toast)
 
         
         

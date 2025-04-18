@@ -11,95 +11,84 @@ import SwiftUI
 import MessageUI
 #endif
 
-enum Destination: Hashable {
-    case alphabet
-    case vocabulary
-    case grammar
-    case exercises
-    case quiz(Category)
-    case settings
-    case main
-    case selectLanguage
-}
-
 struct MainView: View {
     @EnvironmentObject var settings: SettingsManager
     @State private var showMailComposer = false
+    @State private var selectedTab: Tab = .alphabet
+    
+    enum Tab: Hashable {
+        case alphabet
+        case vocabulary
+        case grammar
+        case exercises
+        case settings
+    }
     
 #if os(iOS)
     @State private var screenshot: UIImage?
     @State private var isPreparingScreenshot = false
 #endif
     
-    let size: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 60.0
-        default: return 46
-        }
-    }()
-    
-    let paddingTop: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 20
-        default: return 20
-        }
-    }()
-    
-    let spacing: CGFloat = {
-        switch Platform.current {
-        case .macOS: return 36
-        default: return 14
-        }
-    }()
-    
     var body: some View {
-        let rootView = ZStack {
-            NavigationStack {
-                VStack(spacing: spacing) {
-                    Text("Polyglot Pro")
-                        .font(.system(size: size, weight: .bold, design: .rounded))
-                        .foregroundStyle(LinearGradient(colors: [.blue, .purple], startPoint: .leading, endPoint: .trailing))
-                        .padding(.top, paddingTop)
-                    
-                    Spacer()
-                    
-                    NavigationLink(value: Destination.alphabet) {
-                        Text("Alphabet".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.vocabulary) {
-                        Text("Vocabulary".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.grammar) {
-                        Text("Grammar".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.exercises) {
-                        Text("Exercises".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    NavigationLink(value: Destination.settings) {
-                        Text("Settings".localized).styledButton(.secondary)
-                    }.buttonStyle(ScaleButtonStyle())
-                    
-                    Spacer()
-                    Spacer()
-                }
-                .customTitle("Menu".localized)
-                .frame(maxWidth: .infinity, maxHeight: .infinity)
-                .navigationDestination(for: Destination.self) { destination in
-                    switch destination {
-                    case .alphabet: AlphabetView(viewModel: AlphabetViewModel(settings: settings))
-                    case .grammar: GrammarView()
-                    case .vocabulary: VocabularyView()
-                    case .exercises: ExercisesView()
-                    case .settings: SettingsView()
-                    case .selectLanguage: SelectLanguageView()
-                    case .quiz(let category): QuizView(viewModel: LearnViewModel(settings: settings, category: category))
-                    case .main: MainView()
+        ZStack {
+            if settings.targetLanguage == nil {
+                SelectLanguageView()
+            } else {
+                TabView(selection: $selectedTab) {
+                    // 1. Alphabet Tab
+                    NavigationStack {
+                        AlphabetView(viewModel: AlphabetViewModel(settings: settings))
                     }
+                    .accentColor(.blue)
+                    .tabItem {
+                        Label("Alphabet".localized, systemImage: "textformat.abc")
+                    }
+                    .tag(Tab.alphabet)
+                    
+                    // 2. Vocabulary Tab
+                    NavigationStack {
+                        VocabularyView()
+                    }
+                    .accentColor(.blue)
+                    .tabItem {
+                        Label("Vocabulary".localized, systemImage: "text.book.closed")
+                    }
+                    .tag(Tab.vocabulary)
+                    
+                    // 3. Grammar Tab
+                    NavigationStack {
+                        GrammarView()
+                    }
+                    .accentColor(.blue)
+                    .tabItem {
+                        Label("Grammar".localized, systemImage: "list.bullet.rectangle")
+                    }
+                    .tag(Tab.grammar)
+                    
+                    // 4. Exercises Tab
+                    NavigationStack {
+                        ExercisesView()
+                    }
+                    .accentColor(.blue)
+                    .tabItem {
+                        Label("Exercises".localized, systemImage: "pencil.and.list.clipboard")
+                    }
+                    .tag(Tab.exercises)
+                    
+                    // 5. Settings Tab
+                    NavigationStack {
+                        SettingsView()
+                            .navigationDestination(for: Destination.self) { destination in
+                                handleDestination(destination)
+                            }
+                    }
+                    .accentColor(.blue)
+                    .tabItem {
+                        Label("Settings".localized, systemImage: "gearshape")
+                    }
+                    .tag(Tab.settings)
                 }
+                .accentColor(.purple)
                 #if os(macOS)
                 .safeAreaInset(edge: .top) { Color.clear.frame(height: 28) }
                 #endif
@@ -107,13 +96,6 @@ struct MainView: View {
                     GradientBackground()
                         .ignoresSafeArea()
                 )
-                #if os(iOS)
-                .navigationBarHidden(true)
-                #endif
-            }
-            
-            if settings.targetLanguage == nil {
-                SelectLanguageView()
             }
             
 #if os(iOS)
@@ -127,29 +109,38 @@ struct MainView: View {
             }
 #endif
         }
-        
-        return rootView
 #if os(iOS)
-            .onShake {
-                captureScreenshot()
+        .onShake {
+            captureScreenshot()
+        }
+        .sheet(isPresented: $showMailComposer) {
+            if MFMailComposeViewController.canSendMail() {
+                MailComposer(
+                    isPresented: $showMailComposer,
+                    screenshot: screenshot,
+                    recipient: "feedback@polyglotpro.com",
+                    subject: "Polyglot Pro Feedback"
+                )
+            } else {
+                Text("Please configure Mail to send feedback.")
             }
-            .sheet(isPresented: $showMailComposer) {
-                if MFMailComposeViewController.canSendMail() {
-                    MailComposer(
-                        isPresented: $showMailComposer,
-                        screenshot: screenshot,
-                        recipient: "feedback@polyglotpro.com",
-                        subject: "Polyglot Pro Feedback"
-                    )
-                } else {
-                    Text("Please configure Mail to send feedback.")
-                }
-            }
-            .onReceive(NotificationCenter.default.publisher(for: UIApplication.didBecomeActiveNotification)) { _ in
-                print("TEST100 didBecomeActiveNotification")
-                settings.updateLanguage()
-            }
+        }
+        .onReceive(NotificationCenter.default.publisher(for: UIApplication.didBecomeActiveNotification)) { _ in
+            print("TEST100 didBecomeActiveNotification")
+            settings.updateLanguage()
+        }
 #endif
+    }
+    
+    private func handleDestination(_ destination: Destination) -> some View {
+        Group {
+               switch destination {
+               case .selectLanguage:
+                   SelectLanguageView()
+               case .quiz(let category):
+                   QuizView(viewModel: LearnViewModel(settings: settings, category: category))
+               }
+           }
     }
     
 #if os(iOS)

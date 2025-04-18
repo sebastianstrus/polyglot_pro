@@ -73,10 +73,10 @@ struct SelectLanguageView: View {
 //                .foregroundColor(.red)
 //                .opacity(isSameLanguage ? 1 : 0)
             
-            NavigationLink(value: Destination.main) {
+//            NavigationLink(value: Destination.main) {
                 Text("Continue".localized)
                     .styledButton(.secondary)
-            }
+//            }
             .buttonStyle(ScaleButtonStyle())
             .onTapGesture {
 //                guard tempPrimaryLanguage != tempTargetLanguage else {
