@@ -3425,6 +3425,136 @@
         }
       }
     },
+    "Check out Polyglot Pro - a great language learning app!": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "جرب Polyglot Pro - تطبيق رائع لتعلم اللغات!"
+          }
+        },
+        "bn": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Polyglot Pro দেখুন - একটি দুর্দান্ত ভাষা শেখার অ্যাপ!"
+          }
+        },
+        "da": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Prøv Polyglot Pro - en fantastisk sprogindlæringsapp!"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Probier Polyglot Pro aus - eine tolle Sprachlern-App!"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "¡Prueba Polyglot Pro - una gran aplicación para aprender idiomas!"
+          }
+        },
+        "fi": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Kokeile Polyglot Pro - erinomainen kieltenoppimissovellus!"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Découvrez Polyglot Pro - une super application pour apprendre les langues !"
+          }
+        },
+        "hi": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Polyglot Pro देखें - एक बेहतरीन भाषा सीखने वाला ऐप!"
+          }
+        },
+        "id": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Coba Polyglot Pro - aplikasi belajar bahasa yang hebat!"
+          }
+        },
+        "is": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Skoðaðu Polyglot Pro - frábært tungumálanámsforrit!"
+          }
+        },
+        "it": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Prova Polyglot Pro - un'ottima app per imparare le lingue!"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Polyglot Proをチェック - 素晴らしい語学学習アプリです！"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Polyglot Pro를 확인해보세요 - 훌륭한 언어 학습 앱입니다!"
+          }
+        },
+        "nb": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Sjekk ut Polyglot Pro - en fantastisk språklæringsapp!"
+          }
+        },
+        "pa": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Polyglot Pro ਵੇਖੋ - ਇੱਕ ਮਹਾਨ ਭਾਸ਼ਾ ਸਿੱਖਣ ਵਾਲਾ ਐਪ!"
+          }
+        },
+        "pl": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Sprawdź Polyglot Pro - świetną aplikację do nauki języków!"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Conheça o Polyglot Pro - um ótimo aplicativo para aprender idiomas!"
+          }
+        },
+        "sv": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Kolla in Polyglot Pro - en fantastisk språkinlärningsapp!"
+          }
+        },
+        "uk": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Спробуйте Polyglot Pro - чудовий додаток для вивчення мов!"
+          }
+        },
+        "ur": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "Polyglot Pro دیکھیں - ایک بہترین زبان سیکھنے والا ایپ!"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "needs-review",
+            "value": "试试 Polyglot Pro - 一个很棒的语言学习应用！"
+          }
+        }
+      }
+    },
     "Colors" : {
       "extractionState" : "manual",
       "localizations" : {
