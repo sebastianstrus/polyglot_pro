@@ -78,6 +78,7 @@ struct LearnView: View {
             }
         }
         .customTitle(viewModel.category.primaryName.localized)
+        .toolbar(.hidden, for: .tabBar)
     }
 
     private var wordGrid: some View {
