@@ -44,7 +44,7 @@ struct VocabularyView: View {
     
     let size: CGFloat = {
         switch Platform.current {
-        case .macOS: return 50.0
+        case .macOS: return 24
         default: return 24
         }
     }()
@@ -105,8 +105,8 @@ struct VocabularyView: View {
     
     let paddingTop: CGFloat = {
         switch Platform.current {
-        case .macOS: return 40
-        case .iPadOS: return 30
+        case .macOS: return 12
+        case .iPadOS: return 20
         default: return 20
         }
     }()
@@ -195,7 +195,8 @@ struct VocabularyView: View {
                     showingAddCategory = true
                 }) {
                     Image(systemName: "plus")
-                        .font(.system(size: size))
+                        .resizable()
+                        .frame(width: 20, height: 20)
                         .foregroundColor(.purple)
                 }
             }
@@ -253,7 +254,7 @@ struct CategoryItem: View {
     
     var body: some View {
         
-        let colors = isSolved ? [Color(0, 200, 0), Color(0, 150, 0)] : [Color.blue, Color.purple]
+        let colors = isSolved ? [Color(0, 200, 0), Color(0, 140, 0)] : [Color.blue, Color.purple]
         
         ZStack(alignment: .leading) {
 #if os(iOS)
@@ -297,7 +298,7 @@ struct CategoryItem: View {
                     Spacer()
                     
                     Image(systemName: "chevron.right")
-                        .foregroundColor(.white.opacity(0.7))
+                        .foregroundColor(.white)
                         .font(.system(size: btnFontSize - 4, weight: .bold))
                 }
             }
