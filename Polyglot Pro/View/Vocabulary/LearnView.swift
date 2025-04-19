@@ -37,10 +37,12 @@ struct LearnView: View {
     
     let minLength: CGFloat = {
         switch Platform.current {
-        case .macOS: return 60
-        default: return 20
+        case .macOS: return 0
+        default: return 0
         }
     }()
+    
+    
     
     var body: some View {
         ZStack {
@@ -74,7 +76,8 @@ struct LearnView: View {
                     Text("Continue".localized)
                         .styledButton(.secondary)
                 }.buttonStyle(ScaleButtonStyle())
-                    .padding(.bottom, 8)
+                    .padding(.bottom, Platform.current == .macOS ? 24 : 8)
+                    .padding(.top, 8)
             }
         }
         .customTitle(viewModel.category.primaryName.localized)
