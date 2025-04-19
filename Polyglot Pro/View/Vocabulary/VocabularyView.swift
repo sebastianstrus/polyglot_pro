@@ -181,10 +181,8 @@ struct VocabularyView: View {
             }
         }
         .sheet(isPresented: $showingAddCategory) {
-            NavigationView {
-                CreateEditCategoryView {
-                    viewModel.refreshCategories()
-                }
+            CreateEditCategoryView {
+                viewModel.refreshCategories()
             }
         }
         .padding(.bottom, 20)

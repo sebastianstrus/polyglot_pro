@@ -53,6 +53,17 @@ struct CreateEditCategoryView: View {
 
         return ScrollView {
             VStack(alignment: .leading, spacing: 20) {
+                HStack {
+                        Text("Create Category".localized)
+                            .font(.headline)
+                            .foregroundStyle(LinearGradient(
+                                colors: [.blue, .purple],
+                                startPoint: .leading,
+                                endPoint: .trailing
+                            ))
+                    }
+                    .frame(maxWidth: .infinity)
+                
                 // Category Name Section
                 VStack(alignment: .leading, spacing: 8) {
                     Text("Category Name".localized)
@@ -157,7 +168,6 @@ struct CreateEditCategoryView: View {
             }
             .padding(20)
         }
-        .customTitle("Create Category".localized)
         .background(systemGroupedBackground.ignoresSafeArea())
         .alert(isPresented: $showDuplicateAlert) {
             Alert(title: Text("Category Exists".localized),
