@@ -218,7 +218,7 @@ struct VocabularyView: View {
                 .styledTitel()
                 .padding(.leading, 40)
             Spacer()
-        }
+        }.padding(.bottom, 16)
     }
     
     private func categoryItem(for category: Category, isSolved: Bool = false) -> some View {
@@ -252,6 +252,9 @@ struct CategoryItem: View {
     @State private var offset: CGFloat = 0.0
     
     var body: some View {
+        
+        let colors = isSolved ? [Color(0, 200, 0), Color(0, 150, 0)] : [Color.blue, Color.purple]
+        
         ZStack(alignment: .leading) {
 #if os(iOS)
             if case .custom = category {
@@ -272,6 +275,15 @@ struct CategoryItem: View {
 #endif
             
             HStack {
+//                if isSolved {
+//                    Image(systemName: "checkmark.seal.fill")
+//                        .resizable()
+//                        .frame(width: 24, height: 24)
+//                        .foregroundColor(.green)
+//                        .padding(.trailing, 8)
+//                }
+                
+                
                 VStack(alignment: horizontalAlignment) {
                     Text(category.targetName)
                         .foregroundColor(.white)
@@ -292,16 +304,18 @@ struct CategoryItem: View {
             .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
             .frame(maxWidth: Platform.current == .iOS ? .infinity : btnWidth, minHeight: btnHeight)
             .background(
-                LinearGradient(gradient: Gradient(colors: [Color.blue, Color.purple]), startPoint: .topLeading, endPoint: .bottomTrailing)
+                LinearGradient(gradient: Gradient(colors: colors),
+                               startPoint: .topLeading,
+                               endPoint: .bottomTrailing)
             )
-            .overlay(
-                isSolved ?
-                RoundedRectangle(cornerRadius: radius + 1)
-                    .stroke(Color.green, lineWidth: lineWidth)
-                : nil
-            )
+//            .overlay(
+//                isSolved ?
+//                RoundedRectangle(cornerRadius: radius + 1)
+//                    .stroke(Color.green, lineWidth: lineWidth)
+//                : nil
+//            )
             .cornerRadius(radius)
-            .shadow(color: Color.green, radius: isSolved ? 8 : 0)
+//            .shadow(color: Color.green, radius: isSolved ? 8 : 0)
             .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
             .offset(x: offset)
 #if os(iOS)
