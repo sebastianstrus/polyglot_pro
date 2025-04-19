@@ -287,9 +287,12 @@ struct CategoryItem: View {
                     Text(category.targetName)
                         .foregroundColor(.white)
                         .font(.system(size: btnFontSize, weight: .bold))
-                    Text("(\(category.primaryName))")
-                        .foregroundColor(.white.opacity(0.8))
-                        .font(.system(size: btnFontSize2 - 2, weight: .regular))
+                    if category.catSection != .custom {
+                        Text("(\(category.primaryName))")
+                            .foregroundColor(.white.opacity(0.8))
+                            .font(.system(size: btnFontSize2 - 2, weight: .regular))
+                    }
+                    
                 }
                 
                 if Platform.current != .macOS {
