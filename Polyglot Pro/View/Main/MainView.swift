@@ -14,7 +14,7 @@ import MessageUI
 struct MainView: View {
     @EnvironmentObject var settings: SettingsManager
     @State private var showMailComposer = false
-    @State private var selectedTab: Tab = .alphabet
+    @State private var selectedTab: Tab = .vocabulary
     
     enum Tab: Hashable {
         case alphabet
@@ -35,6 +35,16 @@ struct MainView: View {
                 SelectLanguageView()
             } else {
                 TabView(selection: $selectedTab) {
+                    // 2. Vocabulary Tab
+                    NavigationStack {
+                        VocabularyView()
+                    }
+                    .accentColor(.blue)
+                    .tabItem {
+                        Label("Vocabulary".localized, systemImage: "text.book.closed")
+                    }
+                    .tag(Tab.vocabulary)
+                    
                     // 1. Alphabet Tab
                     NavigationStack {
                         AlphabetView(viewModel: AlphabetViewModel(settings: settings))
@@ -45,15 +55,7 @@ struct MainView: View {
                     }
                     .tag(Tab.alphabet)
                     
-                    // 2. Vocabulary Tab
-                    NavigationStack {
-                        VocabularyView()
-                    }
-                    .accentColor(.blue)
-                    .tabItem {
-                        Label("Vocabulary".localized, systemImage: "text.book.closed")
-                    }
-                    .tag(Tab.vocabulary)
+                    
                     
                     // 3. Grammar Tab
                     NavigationStack {

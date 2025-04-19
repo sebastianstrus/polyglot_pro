@@ -260,3 +260,57 @@ extension View {
     self.modifier(ToastModifier(toast: toast))
   }
 }
+
+
+extension View {
+    /// Adds a shimmering shine effect to any View.
+    /// - Parameters:
+    ///   - toggle: Controls the animation trigger.
+    ///   - duration: The duration of the shine animation.
+    ///   - clipShape: The shape to clip the shine effect within.
+    ///   - rightToLeft: Flips direction of the shine (right-to-left if true).
+    @ViewBuilder
+    func shine(
+        _ toggle: Bool,
+        duration: CGFloat = 0.5,
+        clipShape: some Shape = Rectangle(),
+        rightToLeft: Bool = false
+    ) -> some View {
+        self.overlay {
+            GeometryReader { geometry in
+                let size = geometry.size
+                let moddedDuration = max(0.3, duration) // Prevent negative/too short durations
+
+                Rectangle()
+                    .fill(
+                        LinearGradient(
+                            colors: [
+                                .clear,
+                                .clear,
+                                .white.opacity(0.1),
+                                .white.opacity(0.5),
+                                .white.opacity(1),
+                                .white.opacity(0.5),
+                                .white.opacity(0.1),
+                                .clear,
+                                .clear
+                            ],
+                            startPoint: .leading,
+                            endPoint: .trailing
+                        )
+                    )
+                    .scaleEffect(y: 8) // Stretch vertically
+                    .keyframeAnimator(initialValue: 0.0, trigger: toggle) { content, progress in
+                        content
+                            .offset(x: -size.width + progress * (size.width * 2))
+                    } keyframes: { _ in
+                        CubicKeyframe(0.0, duration: 0.1)
+                        CubicKeyframe(1.0, duration: moddedDuration)
+                    }
+                    .rotationEffect(.degrees(45)) // Angle of the shine sweep
+                    .scaleEffect(x: rightToLeft ? -1 : 1) // Flip for right-to-left animation
+            }
+            .clipShape(clipShape)
+        }
+    }
+}

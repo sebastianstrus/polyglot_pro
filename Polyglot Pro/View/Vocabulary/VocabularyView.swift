@@ -249,6 +249,7 @@ struct CategoryItem: View {
     let deleteAction: () -> Void
     
     @State private var offset: CGFloat = 0.0
+    @State private var shine: Bool = false
     
     var body: some View {
         
@@ -317,9 +318,11 @@ struct CategoryItem: View {
 //                : nil
 //            )
             .cornerRadius(radius)
+            .shine(shine, duration: 0.8)
 //            .shadow(color: Color.green, radius: isSolved ? 8 : 0)
             .padding(.horizontal, Platform.current == .iOS ? 20 : 0)
             .offset(x: offset)
+            
 #if os(iOS)
             .simultaneousGesture(
                 DragGesture()
@@ -345,6 +348,8 @@ struct CategoryItem: View {
             )
             .animation(.easeInOut, value: offset)
 #endif
+        }.onAppear {
+            shine.toggle()
         }
     }
 }
